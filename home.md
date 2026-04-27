@@ -1,37 +1,46 @@
-# AI Companies Are Monetizing In
+# Vouch API
 
-## Unlock Proven Revenue Streams for Your AI Startup
+## Verify Identities Instantly, Build Trust Seamlessly
 
-**Turn your AI technology into cash flow fast.**
+**Instant, reliable identity verification for developers**
 
-- **Identify high‑value use cases** that customers are paying for today.
-- **Package and price** AI services to capture recurring revenue.
-- **Launch a go‑to‑market plan** that converts leads into paying users in weeks.
+- **Realtime verification** – Get results in < 500ms.
+- **Global coverage** – 10,000+ data sources, 190+ countries.
+- **Simple integration** – One‑line SDK, REST, GraphQL.
+- **Compliance‑ready** – GDPR, CCPA, SOC 2.
 
-[Get the Free Monetization Blueprint →](https://example.com/checkout)
+### Why Vouch API?
+
+*Stop losing customers to fraud.*
+Businesses lose **$4.5 B** annually to identity fraud. Vouch API eliminates that risk, letting you focus on growth.
+
+- **Reduce chargebacks by 87%** – Proven with fintech & marketplaces.
+- **Boost conversion by 23%** – Frictionless sign‑ups.
+- **Scale effortlessly** – Pay‑as‑you‑go, no contracts.
+
+### How It Works (4 Easy Steps)
+1. **Collect** minimal user data (email, phone, ID).
+2. **Send** to Vouch via our SDK or API.
+3. **Receive** a verification score & detailed report.
+4. **Act** – approve, flag, or request more info.
+
+### Trusted By
+
+![Logos of known customers](/assets/logos.png)
+
+> “Vouch API cut our onboarding time from 5 minutes to 30 seconds.” – *Head of Product, FinTechCo*
+
+### Pricing
+- **Free tier** – 500 verifications/mo.
+- **Pay‑as‑you‑go** – $0.02 per verification.
+- **Enterprise** – Custom SLA & dedicated support.
+
+### Ready to Eliminate Fraud?
+
+[Start Free Trial](/signup) — No credit card required.
 
 ---
 
-### Why AI Startups Lose Money
-Most AI companies focus on building cool models but forget the business model. Without a clear monetization strategy, they burn cash and miss the market.
-
-### Our Solution
-We provide a step‑by‑step framework that shows exactly where to sell, how to price, and how to close deals.
-
-- **Revenue‑ready product ideas** vetted for market demand.
-- **Pricing playbooks** for SaaS, API, and enterprise contracts.
-- **Sales scripts** that speak the language of tech buyers.
-
-### How It Works (3 Simple Steps)
-1. **Assess** – Quick audit of your AI tech and market fit.
-2. **Strategize** – Choose the best monetization path (subscription, usage‑based, licensing).
-3. **Launch** – Deploy the plan with proven copy, pricing, and outreach.
-
-### Ready to Monetize?
-Stop guessing. Start earning.
-
-[**Get the Free Blueprint Now**](https://example.com/checkout)
-
----
-
-*No credit card required. Instant download.*
+*SEO Meta*:
+- **Title**: Vouch API – Real‑Time Identity Verification for Developers
+- **Description**: Instantly verify user identities with Vouch API. Fast, global, compliance‑ready. Free tier available. Start your free trial today.
