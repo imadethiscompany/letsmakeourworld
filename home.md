@@ -1,53 +1,39 @@
-# Transform Your Health Journey with AI‑Powered Clinical Trial Matching
+# Patient Trial Matching Service
 
-## Find the Right Trial in Minutes, Not Months
+## Find the Right Clinical Trial Faster – Powered by AI
 
-**Instant, personalized matches** to over 10,000 active clinical trials based on your unique medical profile. Our AI does the heavy lifting, while a dedicated enrollment specialist guides you every step of the way.
-
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://buy.stripe.com/test_dRmdR1fCbgbqazhbf4c7x09" style="background:#28a745;color:#fff;padding:15px 30px;border-radius:8px;font-size:1.2em;text-decoration:none;">Start Matching Now – Only $199</a>
+<div style="text-align:center; margin:30px 0;">
+  <a href="https://buy.stripe.com/test_dRmdR1fCbgbqazhbf4c7x09" style="background:#28a745; color:white; padding:15px 30px; font-size:1.2em; text-decoration:none; border-radius:5px;">Start Matching Now – Only $199</a>
 </div>
 
----
-
-### Why Choose Us?
-
-- **Instant Trial Matches** – Get a curated list of relevant studies in seconds.
-- **Dedicated Enrollment Specialist** – Personal support to handle paperwork and eligibility.
-- **Secure & Private** – Your health data is encrypted and never shared without consent.
-- **Extensive Database** – Access to 10,000+ active trials worldwide.
-
----
+### Why Choose Our Service?
+- **Instant trial matches** based on your detailed medical profile.
+- **Dedicated enrollment specialist** to guide you through paperwork.
+- **Secure & private** handling of all health data.
+- Access to **10,000+ active trials** worldwide.
 
 ### Pricing
-
 | Plan | Price | What You Get |
 |------|-------|--------------|
-| **Standard** | **$199** one‑time | • Instant AI matching<br>• Personal enrollment specialist<br>• Secure data handling<br>• Ongoing trial updates |
+| **Standard** | **$199** one‑time | Instant matches, specialist support, privacy guarantee |
+| **Premium** | **$399** one‑time | All Standard features + priority support + trial eligibility alerts |
+| **Enterprise** | **Contact Us** | Custom integration, API access, bulk matching for research groups |
 
-*No hidden fees. Cancel anytime.*
-
----
-
-### Frequently Asked Questions
-
-**Q:** How quickly will I get matches?
-**A:** Within minutes after submitting your profile.
-
-**Q:** Is my medical information safe?
-**A:** Absolutely. We use end‑to‑end encryption and comply with HIPAA.
-
-**Q:** Can I try before buying?
-**A:** We offer a free eligibility check – no credit card required.
-
----
-
-### Ready to Accelerate Your Treatment?
-
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://buy.stripe.com/test_dRmdR1fCbgbqazhbf4c7x09" style="background:#0069d9;color:#fff;padding:15px 30px;border-radius:8px;font-size:1.2em;text-decoration:none;">Get Matched Today</a>
+<div style="text-align:center; margin:30px 0;">
+  <a href="https://buy.stripe.com/test_dRmdR1fCbgbqazhbf4c7x09" style="background:#007bff; color:white; padding:15px 30px; font-size:1.2em; text-decoration:none; border-radius:5px;">Get Started Today</a>
 </div>
 
+### Frequently Asked Questions
+**Q:** How does the matching work?
+**A:** Our AI analyzes your medical data against a curated database of trials to surface the best fits.
+
+**Q:** Is my data safe?
+**A:** Absolutely. We use end‑to‑end encryption and never share data without consent.
+
+**Q:** What if I need help enrolling?
+**A:** Your dedicated enrollment specialist will walk you through every step.
+
 ---
 
-*Powered by cutting‑edge AI and trusted by thousands of patients worldwide.*
+*Ready to accelerate your clinical trial journey?*  
+[Start Now](https://buy.stripe.com/test_dRmdR1fCbgbqazhbf4c7x09)
