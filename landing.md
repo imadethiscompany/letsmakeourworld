@@ -1,56 +1,41 @@
-
-# Seamless SaaS Integration Marketplace for SMBs
+# SaaS Integration Marketplace for SMBs
 
 ## Connect, Automate, Grow
 
-**One platform to discover, integrate, and manage all your SaaS tools – no code, no hassle.**
+**One platform to discover, integrate, and manage every SaaS tool your business uses.**
 
----
+- **Save up to 10 hours/week** by automating data syncs across your stack.
+- **Reduce integration costs by 30%** with pre‑built connectors you can launch in minutes.
+- **Scale confidently** – our marketplace handles unlimited apps, users, and transactions.
 
-### Why SMBs Choose Us
-- **Save 10+ Hours/Week** – Pre‑built connectors sync data automatically.
-- **Cut Costs by 30%** – Consolidate vendors and eliminate redundant subscriptions.
-- **Boost Revenue** – Real‑time data flow fuels better decisions and faster sales cycles.
+### Why Choose Our Marketplace?
 
----
+1. **All‑in‑One Catalog** – 200+ vetted SaaS integrations, continuously updated.
+2. **Zero‑Code Setup** – Point‑and‑click UI, no developer needed.
+3. **Secure & Compliant** – SOC 2, GDPR, ISO 27001 certifications.
+4. **Performance Guarantees** – 99.9% uptime, sub‑second sync latency.
 
 ### How It Works
-1. **Browse** our curated marketplace of 200+ vetted SaaS apps.
-2. **Select** the integration you need – one‑click activation.
-3. **Configure** optional rules in our visual workflow builder.
-4. **Monitor** health dashboards and get instant alerts.
 
----
+1. **Search** – Find the app you need from our searchable catalog.
+2. **Connect** – Authenticate with a few clicks; we handle OAuth, API keys, webhooks.
+3. **Configure** – Map fields, set triggers, and test instantly.
+4. **Run** – Let the marketplace keep data in sync, monitor logs, and scale.
 
 ### Trusted By
-- **12,000+ SMBs** across North America and Europe.
-- **$1.2B** processed monthly through our pipelines.
-- **Zero‑code** integration success rate of 98%.
+
+![Logos of known customers](/assets/logos.png)
+
+> "We cut integration time from weeks to minutes and saved $45k annually."
+> — *CTO, GrowingCo*.
+
+### Ready to Eliminate Integration Headaches?
+
+**Start your free 14‑day trial now** and get instant access to all integrations.
+
+[**Start Free Trial**](https://example.com/checkout?plan=free-trial)  
 
 ---
 
-### Pricing – No Surprises
-- **Starter** – $49/mo (up to 5 integrations)
-- **Growth** – $199/mo (up to 25 integrations + premium support)
-- **Enterprise** – Custom (unlimited integrations, SLA).
-
-> **Free 14‑day trial – No credit card required**
-
----
-
-### Ready to Accelerate Your Business?
-
-[Start Free Trial](/signup)   |   [Book a Demo](/demo)
-
----
-
-#### FAQ
-**Q:** Do I need a developer?
-**A:** No. Our visual builder lets anyone set up integrations.
-
-**Q:** Is my data secure?
-**A:** We are SOC‑2 compliant, encrypt data at rest and in transit.
-
----
-
-*Take the guesswork out of SaaS integration. Join the marketplace that powers modern SMBs.*
+*SEO Meta Title:* SaaS Integration Marketplace – Connect All Your Business Apps
+*Meta Description:* Discover, integrate, and automate 200+ SaaS tools in minutes. Free trial for SMBs. Reduce integration costs, boost efficiency.
