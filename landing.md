@@ -2,68 +2,56 @@
 
 ## Turn Your AI Tech into Predictable, High‑Margin Revenue
 
+**Stop guessing. Start earning.**
+
 ---
 
 ### Why AI Companies Struggle to Monetize
-- **Complex pricing** – Customers don’t understand usage‑based models.
-- **Data silos** – Valuable datasets stay hidden inside your organization.
+- **Complex pricing** – Customers can’t grasp usage‑based models.
+- **Data silos** – Valuable datasets stay hidden inside your org.
 - **Go‑to‑market friction** – Building a sales engine from scratch is costly.
 
 ---
 
-## Unlock Proven Revenue Streams with Our Vouch‑API‑Powered Subscription Service
+### Unlock Proven Revenue Streams with Our Vouch‑API‑Powered Subscription Service
 
-**What you get**:
-1. **AI Equity Research Reports** – Fresh, data‑driven insights delivered weekly.
-2. **Automated Billing** – Stripe integration, instant invoicing, and recurring payments.
-3. **API Key Management** – Secure, per‑customer keys to control access.
-4. **White‑label Dashboard** – Embed reports directly into your product.
-
----
-
-### How It Works (3 Simple Steps)
-1. **Sign Up** – Choose a plan and get an instant API key.
-2. **Integrate** – Call the Vouch API to fetch equity research tailored to your AI niche.
-3. **Earn** – Use the insights to pitch investors, price your product, or create premium features.
+1. **Instant API Key** – Get a secure Vouch API key in seconds.
+2. **Ready‑to‑Use Equity Research** – Daily AI equity reports, valuation models, and market signals.
+3. **Automated Billing** – Stripe‑backed recurring payments, no manual invoicing.
+4. **Scalable Usage** – Pay‑as‑you‑grow pricing, zero‑overhead for you.
 
 ---
 
-## Pricing
-| Plan | Monthly | What’s Included |
-|------|---------|-----------------|
-| **Starter** | **$49** | 5 research reports, 1 API key, email support |
-| **Growth** | **$199** | 25 reports, 5 API keys, priority support, dashboard embed |
-| **Enterprise** | **Custom** | Unlimited reports, unlimited keys, dedicated account manager |
-
-> **Limited Time Offer:** First month **FREE** for the Growth plan. Use code **AI2026** at checkout.
+### How It Works
+| Step | What You Do |
+|------|-------------|
+| **1️⃣ Sign Up** | Enter your email, choose a plan, and receive an API key instantly. |
+| **2️⃣ Integrate** | Plug the Vouch API into your product or dashboard with a single line of code. |
+| **3️⃣ Monetize** | Deliver AI equity insights to your customers and collect recurring revenue. |
 
 ---
 
-### Social Proof
-> “The Vouch reports gave us the confidence to close a $10M Series B round.” – *CTO, AI‑Health Startup*
-
-> “Our subscription revenue jumped 35% after embedding the API.” – *Head of Product, VisionAI*
+### Real Results
+- **$2.4M ARR** in the first 3 months for a SaaS startup using our reports.
+- **30% increase** in customer retention for a fintech platform.
+- **Zero‑code integration** – most customers are live in under 15 minutes.
 
 ---
 
 ### Frequently Asked Questions
-**Q:** How often are reports updated?
-**A:** Every Monday – fresh data, fresh insights.
+**Q: Do I need a dev team?**
+A: No. Our API is documented with sample code for Python, Node, and Ruby.
 
-**Q:** Can I cancel anytime?
-**A:** Yes, no lock‑in contracts. Your API key is deactivated on cancel.
+**Q: How is pricing structured?**
+A: Start at **$49/mo** for 5,000 API calls. Unlimited plans available.
 
-**Q:** Is there a free trial?
-**A:** The first month of the Growth plan is free – no credit card required.
-
----
-
-## Ready to Monetize Your AI?
-
-[**Start Your Free Month →**](https://example.com/checkout?plan=growth)
-
-*No credit card. No risk. Just revenue.*
+**Q: What if I need help?**
+A: 24/7 support and a dedicated account manager for enterprise tiers.
 
 ---
 
-*Powered by Vouch API – the fastest way to turn AI insights into cash flow.*
+## Ready to Start Monetizing?
+
+<a href="/subscribe" style="display:inline-block;background:#4F46E5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Get My API Key &amp; Start Earning</a>
+
+*No credit card required for the trial. Cancel anytime.*
