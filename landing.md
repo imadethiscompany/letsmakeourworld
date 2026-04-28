@@ -1,24 +1,27 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel on Autopilot
+## Scale Your Channel to 10x Views & Revenue – Hands‑Free
 
-**Turn content into cash** with our end‑to‑end YouTube automation service. We handle video creation, SEO, publishing, and channel growth so you can focus on your business.
+**What we do:**
+- Full‑service video creation, editing, thumbnail design, and SEO optimization.
+- Automated upload schedule & community management.
+- Proven funnel that turns viewers into paying customers.
 
-### Why Choose Us?
-- **Fully automated video production** – script, voice‑over, B‑roll, editing.
-- **AI‑driven SEO** – keyword research, thumbnail optimization, tags.
-- **Audience growth** – proven tactics to get 10k+ organic views in 30 days.
-- **Revenue‑first model** – we only get paid when you earn.
+**Why choose us?**
+- **Zero hassle** – we handle everything from script to publishing.
+- **Fast results** – most clients see a 150% increase in watch time within 30 days.
+- **Performance‑based pricing** – only pay for growth you see.
 
 ### Packages
-| Package | Monthly Deliverables | Price |
+| Package | Monthly Views Boost | Price |
 |---|---|---|
-| **Starter** | 5 videos, SEO & thumbnails | **$499** |
-| **Growth** | 12 videos, SEO, thumbnails, community management | **$1,299** |
-| **Enterprise** | 30 videos, full channel management, ad‑revenue split | **Custom** |
+| Starter | Up to 100k | $499 |
+| Growth | 100k‑500k | $1,299 |
+| Enterprise | 500k+ | Custom |
 
-### Ready to Automate?
-[**Book a Free Strategy Call**](https://calendly.com/yt-automation/strategy) – limited slots.
+**Ready to dominate YouTube?**
+
+[Book a free strategy call now](https://calendly.com/yt-automation/strategy) or **[Get Started →](/checkout?plan=starter)**
 
 ---
-*No credit card required. We'll audit your channel and show you the ROI before you commit.*
+*We’re trusted by SaaS founders, coaches, and e‑commerce brands worldwide.*
