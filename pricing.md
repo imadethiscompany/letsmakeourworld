@@ -1,57 +1,70 @@
+# Pricing Optimization Consulting
 
----
-layout: default
-title: "Voice Agent SaaS Pricing – Simple, Scalable Plans"
-meta_description: "Transparent pricing for AI voice agents. Start free 14‑day trial, then choose a plan that fits your business size. No hidden fees."
----
+## Maximize Revenue & Profitability with Data‑Driven Pricing Strategies
 
-# Pricing Plans Tailored for Every Business
-
-**Start your free 14‑day trial – no credit card required.**
+Are you leaving money on the table? Most businesses set prices based on guesswork, competition, or outdated cost‑plus formulas. **Pricing Optimization Consulting** transforms that uncertainty into a science, unlocking hidden profit and growth.
 
 ---
 
-## 📦 Plans
-
-| Plan | Monthly Price* | Interactions Included | Key Features |
-|------|----------------|-----------------------|--------------|
-| **Starter** | **$29** | 5,000 | One‑click integration, Drag‑and‑drop builder, Basic analytics |
-| **Growth** | **$79** | 20,000 | All Starter features, Advanced analytics, Multi‑language support, Priority email support |
-| **Enterprise** | **Custom** | Unlimited | Dedicated account manager, SLA 99.9% uptime, White‑label branding, Phone & SMS integration, Custom AI models |
-
-*All plans are billed monthly. Annual billing gives **15% discount**.
+### Why Pricing Optimization?
+- **Increase margins by 5‑30%** – Proven frameworks that raise prices without losing customers.
+- **Capture price‑elastic demand** – Identify segments that will pay more and those that need discounts.
+- **Stay ahead of the competition** – Real‑time market intelligence keeps you agile.
 
 ---
 
-### Why Our Pricing Works
-
-- **Pay‑as‑you‑go** – Only pay for the interactions you actually use.
-- **No hidden fees** – All features listed are included, no surprise overage charges.
-- **Scale instantly** – Upgrade anytime, our cloud scales automatically.
-
----
-
-## 🎁 Free 14‑Day Trial
-
-Experience the full power of our Voice Agent platform with **no credit card required**. Create up to **3 voice agents**, access the analytics dashboard, and test live on your site.
-
-[**Start My Free Trial →**](/signup){: .cta-button-primary }
+### Our Proven Process
+1. **Data Audit** – Collect sales, cost, competitor, and customer data.
+2. **Advanced Modeling** – Use price elasticity, A/B testing, and machine‑learning to simulate scenarios.
+3. **Strategic Recommendations** – Tailored pricing tiers, bundles, and dynamic pricing rules.
+4. **Implementation Support** – Integrate changes into your ERP, e‑commerce, or SaaS billing.
+5. **Continuous Optimization** – Ongoing monitoring and quarterly adjustments.
 
 ---
 
-## Frequently Asked Questions
+### Real Results
+| Company | Industry | Revenue Lift | Margin Gain |
+|---------|----------|--------------|------------|
+| Acme Retail | E‑commerce | +12% | +8% |
+| FinTechCo | SaaS | +18% | +10% |
+| GreenEnergy | Manufacturing | +9% | +6% |
 
-**Q:** What happens after the trial ends?
-**A:** You’ll be prompted to choose a plan. Your agents and data remain intact.
-
-**Q:** Can I change my plan later?
-**A:** Absolutely – upgrade or downgrade at any time from the dashboard.
-
-**Q:** Is there a minimum contract?
-**A:** No. Month‑to‑month or annual billing, cancel anytime.
+> *"Our pricing overhaul delivered a $2.3M profit increase in six months. The consulting team turned data into dollars."* – CFO, Acme Retail
 
 ---
 
-Ready to boost conversions with AI voice?
+### Who Benefits?
+- **B2B SaaS** looking to optimize subscription tiers.
+- **E‑commerce & Retail** seeking dynamic pricing for thousands of SKUs.
+- **Manufacturers & Distributors** needing margin‑driven price ladders.
+- **Consultancies & Agencies** that want to price services profitably.
 
-[**Start Your Free Trial Today**](/signup){: .cta-button-primary }
+---
+
+### Ready to Unlock Hidden Profit?
+
+**Schedule a Free Pricing Audit** – We’ll review your current pricing and reveal the upside in 30 minutes.
+
+[Book Your Call →](https://example.com/booking?service=pricing-optimization)
+
+---
+
+#### Frequently Asked Questions
+**Q: Will raising prices hurt my sales?**
+A: Our elasticity models predict the impact. Most clients raise prices on high‑value segments while offering targeted discounts to price‑sensitive buyers, preserving volume.
+
+**Q: How long does a pricing project take?**
+A: Typical engagements run 6‑8 weeks for a full audit and roadmap, with quick‑win recommendations delivered in the first 2 weeks.
+
+**Q: Do you integrate with my pricing software?**
+A: Yes – we work with Shopify, Stripe, Zuora, Salesforce CPQ, and custom ERP systems.
+
+---
+
+#### About Us
+We are a boutique consultancy with 15+ years of experience in revenue management, data science, and go‑to‑market strategy. Our team has helped Fortune 500 firms and fast‑growing startups alike.
+
+---
+
+*Meta Title*: Pricing Optimization Consulting – Boost Revenue & Margins
+*Meta Description*: Increase profit margins by 5‑30% with data‑driven pricing optimization consulting. Free audit, proven process, real case studies. Book a call now.
