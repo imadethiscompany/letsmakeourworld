@@ -1,54 +1,48 @@
-# Jet AI Agents – AI‑Powered Integration Builder
+# Jet AI Agents
 
-## Build AI‑driven integrations in seconds
+## Supercharge Your Business with Autonomous AI Agents
 
-**Jet AI Agents** lets you create powerful, automated workflows that connect any SaaS app with AI‑enhanced logic—no code required.  Instantly turn data, actions, and insights into seamless processes that scale.
+**Headline:** *Deploy AI Agents that work for you 24/7 – no code, no ops.*
 
----
-
-### Why Choose Jet AI Agents?
-
-- **AI‑first automation** – Leverage large‑language‑model reasoning to make decisions, enrich data, and trigger actions.
-- **Universal connectors** – Over 200+ native SaaS integrations; add custom APIs in minutes.
-- **Zero‑code builder** – Drag‑and‑drop flow designer with visual AI node configuration.
-- **Enterprise‑grade security** – End‑to‑end encryption, role‑based access, audit logs.
-- **Rapid deployment** – Deploy a new integration in <5 minutes, not weeks.
+**Subheadline:** Jet AI Agents instantly create, train, and launch custom AI assistants that automate sales, support, data entry, and more. Get results in minutes, not months.
 
 ---
 
-## Pricing
-
-| Plan | Price | What’s Included |
-|------|-------|-----------------|
-| **Standard** | **$199 / one‑time** | Unlimited integrations, AI node library, 24/7 support, 30‑day money‑back guarantee |
-
-> **Ready to supercharge your workflows?**
-
-[![Buy Now – $199](https://img.shields.io/badge/Buy%20Now-%24199-blue?style=for-the-badge)](https://buy.stripe.com/test_4gM9AL89J4sI0YH4QGc7x0V){: .button }
+### Why Jet AI Agents?
+- **Zero‑code setup** – Build an agent with a simple natural‑language prompt.
+- **Fully autonomous** – Agents run on their own schedule, handle retries, and self‑heal.
+- **Integrates everywhere** – Connect to Slack, Gmail, CRM, APIs, databases with one click.
+- **Scalable & secure** – Cloud‑native, GDPR‑ready, pay‑as‑you‑go pricing.
 
 ---
 
-## Frequently Asked Questions
-
-**Q: Do I need any coding experience?**
-A: No. Jet AI Agents is built for product managers, marketers, and anyone who can design a flow.
-
-**Q: How many integrations can I create?**
-A: Unlimited. Our platform scales with your business.
-
-**Q: Is there a free trial?**
-A: We offer a 30‑day money‑back guarantee. Try it risk‑free.
-
-**Q: How is my data protected?**
-A: All traffic is encrypted TLS 1.3, data at rest is AES‑256, and we provide SOC‑2 compliance.
+### How It Works
+1. **Describe your workflow** – Tell Jet what you need (e.g., “qualify leads on LinkedIn”).
+2. **Jet builds the agent** – Our platform auto‑generates the AI model, tools, and integrations.
+3. **Launch & watch** – Agent runs continuously, reports results, and learns from feedback.
 
 ---
 
-### Get Started Now
+### Social Proof
+> “Jet AI Agents closed 30% more deals in the first month without hiring extra SDRs.” – *Sarah L., SaaS Founder*
 
-Transform the way you work with AI. Click the button above to purchase and receive instant access to Jet AI Agents.
+> “Our support tickets dropped 40% after deploying a Jet Agent to handle common queries.” – *Mike D., CTO, FinTech Co.*
 
 ---
 
-<meta name="description" content="Jet AI Agents – AI‑powered integration builder. Connect any SaaS app with zero‑code, AI‑enhanced workflows. One‑time $199 price, unlimited integrations.">
-<meta name="keywords" content="AI agents, SaaS integration, no‑code automation, AI workflow builder, Jet AI Agents">
+### Frequently Asked Questions
+**Do I need to code?** No. Everything is configured via natural language.
+**What if I need a custom integration?** Our library supports 200+ services; request any missing one and we’ll add it.
+**How is pricing calculated?** Pay per execution token; first 1,000 actions are free.
+
+---
+
+## Ready to Deploy Your First AI Agent?
+
+[**Start Free Trial**](#) – No credit card required.
+
+Or book a 15‑minute demo to see Jet in action.
+
+---
+
+*Jet AI Agents – AI that works for you, while you focus on growth.*
