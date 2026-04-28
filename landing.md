@@ -1,68 +1,37 @@
-# 🚀 Cross‑Examination AI Tool – Find the Best LLM for Any Task
+# YouTube Automation Agency
 
-## 🔎 Instantly Compare, Test, & Choose the Optimal Large Language Model
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Meta Title:** Cross‑Examination AI – Compare LLMs & Pick the Best Model for Your Task
-**Meta Description:** Discover the fastest way to evaluate multiple LLMs side‑by‑side. Our AI‑powered cross‑examination tool recommends the optimal model for any prompt, saving you time, cost, and guesswork.
+**Turn your vision into a revenue‑generating machine.**
 
----
+- **Done‑for‑you video production** – script, voice‑over, editing, thumbnail, SEO.
+- **AI‑powered content pipeline** – research trends, generate scripts, schedule uploads.
+- **Growth hacks** – targeted outreach, community building, ads management.
 
-### 🎯 Who Is This For?
-- **Product teams** needing the most accurate model for feature roll‑outs.
-- **Developers & AI engineers** who prototype with dozens of LLMs.
-- **Enterprises** looking to reduce AI spend while maximizing performance.
-- **Researchers** comparing state‑of‑the‑art models for experiments.
+### Who Is This For?
+- **Entrepreneurs & SMBs** who want a professional YouTube presence.
+- **Coaches, consultants, SaaS founders** seeking brand authority.
+- **Marketers** looking to outsource video creation at scale.
 
----
+### What You Get
+1. **Channel Audit & Strategy** – custom roadmap.
+2. **Full‑stack Video Production** – from idea to publish.
+3. **AI‑Driven Optimization** – titles, tags, thumbnails, posting schedule.
+4. **Performance Dashboard** – weekly reports & ROI tracking.
+5. **Dedicated Success Manager** – your single point of contact.
 
-## 💡 Why Choose Our Cross‑Examination Tool?
-| ✅ Feature | ✅ Benefit |
-|---|---|
-| **Multi‑Model Testing** – Run any number of LLMs (OpenAI, Anthropic, Cohere, LLaMA, Gemini, etc.) in parallel. | Instantly see which model delivers the best results for your exact prompt. |
-| **Automatic Scoring** – Uses relevance, factuality, latency, and token cost metrics. | Get a single, data‑driven recommendation without manual analysis. |
-| **Customizable Benchmarks** – Define your own success criteria (e.g., creativity, safety, domain‑specific accuracy). | Tailor the tool to your unique business goals. |
-| **One‑Click Integration** – API & SDK for Python, Node, Go, and REST. | Seamlessly embed model selection into your existing pipelines. |
-| **Secure & Private** – All data processed in‑memory, never stored. | Protect proprietary prompts and confidential data. |
+### Pricing
+- **Starter** – $1,499/mo (5 videos)
+- **Growth** – $2,999/mo (12 videos + ads)
+- **Enterprise** – Custom (unlimited)
 
----
+> **Limited slots:** Only 5 new clients per month to ensure quality.
 
-## 🛠️ How It Works (3 Simple Steps)
-1. **Upload Your Prompt Set** – Paste or upload CSV of prompts you care about.
-2. **Select Models & Metrics** – Choose the LLMs you want to test and the scoring dimensions.
-3. **Get the Recommendation** – Receive a ranked list with cost‑per‑token, latency, and a confidence score.
+### Ready to Automate Your Growth?
+[Book a Free Strategy Call](https://calendly.com/youautomation/strategy) or **Click Below to Start Now**.
 
-> **Result:** Deploy the top‑ranked model instantly and watch productivity soar.
-
----
-
-## 📊 Pricing – Simple, Transparent, Scale‑Ready
-| Plan | Monthly Price | Prompts / Month | Model Slots | API Calls | Support |
-|---|---|---|---|---|---|
-| **Free** | $0 | 500 | 2 | 5,000 | Community Forum |
-| **Pro** | $49 | 10,000 | 10 | 100,000 | Email (24‑hr) |
-| **Enterprise** | Custom | Unlimited | Unlimited | Unlimited | Dedicated Success Manager |
-
-> **Special Launch Offer:** Sign‑up now and get **30 % off** the Pro plan for the first 3 months.
+<button style="background:#ff4500;color:white;padding:10px 20px;border:none;border-radius:5px;font-size:16px;cursor:pointer;" onclick="window.location.href='https://buy.stripe.com/test_5kAaH9bZk5dXe2c6o0'">Start Today</button>
 
 ---
 
-## 📞 Ready to Supercharge Your AI Workflow?
-**Start your free trial** – no credit card required.
-
-[**Get Started →**](/signup)
-
----
-
-## Frequently Asked Questions
-**Q:** *Do I need to host anything?*  
-**A:** No. Our SaaS platform runs in the cloud; you just call the API.
-
-**Q:** *Can I bring my own models?*  
-**A:** Yes. Upload custom endpoints and include them in the cross‑examination.
-
-**Q:** *Is my data safe?*  
-**A:** All processing happens in‑memory and is encrypted in transit. We never log prompts.
-
----
-
-*Boost your AI efficiency. Choose the right LLM, every time.*
+*Your success is our automation.*
