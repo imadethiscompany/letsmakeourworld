@@ -1,55 +1,38 @@
 # AI Metrics for Superintelligence Startups
 
-## Unlock the Secret Metrics Driving the Next Wave of Superintelligent AI
+## Unlock the Secret Metrics That Power the Next Generation of AGI Companies
 
-**Superintelligence founders –** you’re building the future, but without the right metrics you’re flying blind. Our $49 micro‑course reveals the exact data signals investors, regulators, and top‑tier talent use to evaluate and scale truly transformative AI.
+**Are you building a superintelligence startup?**
 
----
+You need more than hype—you need data‑driven metrics that investors and regulators demand. Our $49 micro‑course shows you:
 
-### Why This Course Matters
-- **Cut your fundraising time by 60%** – Show VCs the exact KPIs they demand.
-- **Reduce churn by 40%** – Align product roadmaps with measurable safety & performance thresholds.
-- **Accelerate product‑market fit** – Use proven metrics to prioritize features that matter.
-
----
+- The 5 critical AI safety and performance metrics that VCs are asking for.
+- How to instrument hybrid models for real‑time monitoring.
+- Templates for dashboards that turn raw data into board‑room ready insights.
+- A step‑by‑step guide to benchmark against industry leaders.
 
 ### What You’ll Get
-1. **Metric Blueprint** – 12 actionable AI‑risk and performance metrics.
-2. **Hybrid Model Templates** – Ready‑to‑use spreadsheets for tracking.
-3. **Investor Pitch Deck Add‑ons** – Slides that surface the right numbers.
-4. **Live Q&A Session** – Direct feedback from a DeepMind alum.
+- **30‑minute video lessons** packed with concrete examples.
+- **Downloadable cheat‑sheet** of the top 12 metrics.
+- **Live spreadsheet** to plug in your numbers and generate a professional report.
+- **Access to a private Slack community** of founders and AI safety experts.
 
 ---
 
-### Who This Is For
-- Founders of AGI‑oriented startups
-- CTOs building safety‑first AI stacks
-- Product leads needing data‑driven roadmaps
+### Ready to level up?
 
----
-
-### Real Results
-> *“Implemented the KPI framework and closed a $10M Series A in 8 weeks.”* – **Founder, AI Safety Lab**
-
----
-
-### Ready to Transform Your Startup?
-
-[**Buy Now – $49**](#)  
-*(Instant access – 30‑minute video + downloadable assets)*
+[**Buy the Micro‑Course – Only $49**](https://buy.stripe.com/test_aFaeV5ey76AQgXF3MCc7x1e){: .btn-primary }
 
 ---
 
 #### FAQ
-**Do I need any prior AI knowledge?**  
-No. The course is built for technical and non‑technical founders.
+**Do I need a technical background?**
+No – the course is designed for founders, product leads, and investors.
 
-**How is the content delivered?**  
-Immediately after purchase via a secure link.
+**What if I’m not building AGI yet?**
+The metrics apply to any advanced AI system and future‑proof your roadmap.
 
-**Money‑back guarantee?**  
-30‑day full refund if you don’t find a single actionable metric.
+**Refund policy?**
+30‑day money‑back guarantee.
 
----
-
-*Powered by cutting‑edge research from DeepMind, OpenAI, and leading AI safety labs.*
+*Join the ranks of the next wave of superintelligence pioneers.*
