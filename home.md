@@ -1,62 +1,33 @@
-# 🚀 AI Cross‑Examination Platform
+# YouTube Automation Agency
 
-**Find the perfect LLM for any task in seconds.**
+## Scale Your YouTube Channel Effortlessly
 
----
+**Unlock the power of AI-driven video creation, SEO optimization, and audience growth – all on autopilot.**
 
-## 🎯 Why Choose Our Cross‑Examination Tool?
+### Why Choose Our Agency?
+- **Zero Production Hassle:** From script to final video, we handle everything.
+- **AI-Powered SEO:** Keyword‑rich titles, tags, and descriptions that rank.
+- **Rapid Turnaround:** New videos delivered in under 48 hours.
+- **Data‑Driven Growth:** Real‑time analytics and audience targeting.
+- **Full White‑Label Service:** Keep your brand front‑and‑center.
 
-| ✅ Feature | 💡 Benefit |
+### Our All‑In‑One Solution
+| Feature | Benefit |
 |---|---|
-| **Multi‑LLM Benchmarking** | Compare GPT‑4, Claude, Gemini, LLaMA, and emerging models side‑by‑side on your exact prompt. |
-| **Task‑Specific Scoring** | Quantitative scores for relevance, factuality, speed, cost, and safety – tailored to your use‑case. |
-| **Dynamic Recommendations** | AI‑driven suggestion engine picks the optimal model for you, saving hours of trial‑and‑error. |
-| **Live API Integration** | Plug‑and‑play SDK for Python, Node, and REST – no re‑writes needed. |
-| **Enterprise‑Grade Security** | End‑to‑end encryption, SOC‑2 compliance, on‑prem deployment option. |
+| **Script Generation** | AI writes engaging scripts based on trending topics. |
+| **Voice‑Over Automation** | Natural‑sounding voiceovers with zero human recording. |
+| **Video Editing & B‑Roll** | Automated editing, stock footage, and branding. |
+| **SEO Optimization** | Titles, tags, thumbnails optimized for YouTube algorithm. |
+| **Publishing & Promotion** | Scheduled uploads, community engagement, and cross‑platform sharing. |
+
+### Pricing Plans
+- **Starter** – $199/mo: 4 videos/month, basic SEO.
+- **Growth** – $499/mo: 12 videos/month, advanced SEO & analytics.
+- **Enterprise** – Custom: Unlimited videos, dedicated manager.
+
+> **Ready to automate your YouTube growth?**
+
+[Get Started Today →](/checkout?plan=starter)
 
 ---
-
-## 📈 How It Works
-
-1. **Enter Your Prompt** – Paste the exact text you’ll send to an LLM.
-2. **Select Models** – Choose any combination of public or private models.
-3. **Run Cross‑Examination** – Our engine sends the prompt, gathers responses, and scores them.
-4. **Get the Winner** – Instantly see which model delivers the best ROI for your task.
-
-> *“We cut our model‑selection time from weeks to minutes.”* – **Beta Customer, FinTech SaaS**
-
----
-
-## 💰 Pricing Plans
-
-| Plan | Monthly Price | Requests / Month | Features |
-|---|---|---|---|
-| **Starter** | $49 | 5,000 | Up to 3 models, basic scoring, email support |
-| **Growth** | $199 | 25,000 | Unlimited models, advanced metrics, Slack support, API access |
-| **Enterprise** | Custom | Unlimited | Dedicated account manager, on‑prem deployment, SLA, priority support |
-
-**Free 7‑day trial** – No credit card required. Try the full Growth feature set.
-
----
-
-## 📞 Ready to Supercharge Your AI Workflow?
-
-[**Start Your Free Trial**](https://example.com/signup)  
-Or **book a demo** with our specialists: [Calendly Link](https://calendly.com/ai-cross-exam/demo)
-
----
-
-### FAQ
-
-**Q:** Do I need to be an AI expert?
-**A:** No. The UI guides you step‑by‑step; our engine does the heavy lifting.
-
-**Q:** Which models are supported?
-**A:** All major public APIs plus self‑hosted Open‑Source LLMs via Docker.
-
-**Q:** Is my data safe?
-**A:** Yes. All requests are encrypted in transit and at rest. Enterprise can run on‑prem.
-
----
-
-*Boost productivity, cut costs, and always pick the smartest model.*
+© 2026 YouTube Automation Agency. All rights reserved.
