@@ -1,27 +1,34 @@
 # YouTube Automation Agency
 
-## Scale Your Channel to 10x Views & Revenue – Hands‑Free
+## Scale Your Channel to 6 Figures Without Lifting a Finger
 
-**What we do:**
-- Full‑service video creation, editing, thumbnail design, and SEO optimization.
-- Automated upload schedule & community management.
-- Proven funnel that turns viewers into paying customers.
+**What We Do**
+- End‑to‑end video production (script, voice‑over, editing)
+- AI‑driven thumbnail & SEO optimization
+- Automated publishing & community management
+- Proven monetization strategies that boost ad revenue & sponsorships
 
-**Why choose us?**
-- **Zero hassle** – we handle everything from script to publishing.
-- **Fast results** – most clients see a 150% increase in watch time within 30 days.
-- **Performance‑based pricing** – only pay for growth you see.
+### Why Choose Us?
+| ✅ | Benefit |
+|---|---|
+| 🎬 | Fast turnaround – 1 video per day
+| 📈 | Proven 30%+ subscriber growth in 90 days
+| 💰 | Revenue increase up to $15k/mo for SMB owners
+| 🤖 | Fully automated pipeline – you focus on ideas
 
 ### Packages
-| Package | Monthly Views Boost | Price |
-|---|---|---|
-| Starter | Up to 100k | $499 |
-| Growth | 100k‑500k | $1,299 |
-| Enterprise | 500k+ | Custom |
+- **Starter** – $997/mo – 4 videos/month, basic SEO
+- **Growth** – $2,497/mo – 12 videos/month, advanced SEO + thumbnail AI
+- **Scale** – $4,997/mo – 30 videos/month, full channel management
 
 **Ready to dominate YouTube?**
 
-[Book a free strategy call now](https://calendly.com/yt-automation/strategy) or **[Get Started →](/checkout?plan=starter)**
+[Start Now – Book a Free Strategy Call](https://calendly.com/youragency/strategy-call)
 
 ---
-*We’re trusted by SaaS founders, coaches, and e‑commerce brands worldwide.*
+**FAQ**
+- **Do I need any equipment?** No, we handle everything remotely.
+- **How fast can I see results?** Most clients see traffic lift within 2 weeks.
+- **Can I cancel anytime?** Yes, month‑to‑month contracts.
+
+*Join the ranks of brands that are already earning six‑figure YouTube incomes.*
