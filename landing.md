@@ -1,38 +1,28 @@
-# Transform Your Business with the Ultimate SaaS Integration Marketplace
+# SaaS Integration Marketplace
 
-**One platform. Hundreds of apps. Seamless workflows.**
+## Seamlessly Connect Your Business Apps in Minutes
 
----
+**Unlock the power of automation** – integrate your CRM, accounting, marketing, and support tools without code. Our marketplace offers pre‑built, secure integrations that get your workflows running instantly.
 
-## Why SMBs Choose Us
-- **Save up to 30% on operational costs** by automating repetitive tasks.
-- **Launch new integrations in minutes**, not weeks.
-- **Never miss a lead** – data flows automatically from CRM to marketing tools.
-- **All‑in‑one pricing** – no hidden fees, no extra contracts.
-
----
+### Why SMB Owners Choose Us
+- **Zero‑code setup** – get live in under 5 minutes.
+- **Pay‑as‑you‑go pricing** – start free, scale as you grow.
+- **All‑in‑one catalog** – 200+ vetted SaaS apps, all vetted for security.
+- **Dedicated support** – onboarding assistance and 24/7 help.
 
 ### How It Works
-1. **Pick your apps** – CRM, accounting, support, marketing and more.
-2. **Connect in seconds** – our visual builder creates the workflow.
-3. **Activate & grow** – watch data sync, sales rise, and teams collaborate.
+1. **Select** the apps you use.
+2. **Choose** a ready‑made connector or build a custom flow.
+3. **Activate** – data sync starts automatically.
+
+### Trusted By
+![Logos of popular SaaS tools](/images/partners.png)
+
+### Ready to Turbocharge Your Business?
+
+**Start your free trial now** and see how much time you can save.
+
+[Get Started →](/signup)
 
 ---
-
-## Trusted by Growing Companies
-> "We cut onboarding time from 3 days to 30 minutes. Our revenue grew 15% in the first month." – *Founder, RetailTech*  
-> "The marketplace gave us the flexibility to add new tools without IT overhead." – *Operations Lead, SaaS Startup*
-
----
-
-### Ready to Supercharge Your Business?
-
-[**Start Free Trial – No Credit Card Required**](#)
-
-Or schedule a live demo with our integration specialist:
-
-[**Book a 15‑minute Demo**](#)
-
----
-
-*No code. No contracts. Just results.*
+*No credit card required. Cancel anytime.*
