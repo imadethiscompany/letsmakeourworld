@@ -1,36 +1,4 @@
-# YouTube Automation Agency
-
-## Scale Your YouTube Channel on Autopilot
-
-**Turn views into revenue** without spending hours on editing, scripting, or publishing.
-
-- **Fully automated video production** – from script to thumbnail.
-- **AI‑driven SEO & keyword targeting** to rank faster.
-- **Zero‑hands‑off channel management** – we handle uploads, captions, and community.
-- **Performance dashboard** with real‑time analytics.
-
-### Packages
-
-| Plan | Monthly Price | Videos per Month | Features |
-|------|---------------|------------------|----------|
-| **Starter** | $499 | 8 | Script + Voiceover, Basic SEO, Thumbnail Design |
-| **Growth** | $999 | 20 | Full Production, Advanced SEO, Community Management |
-| **Enterprise** | $1999 | 50+ | Dedicated Account Manager, Custom Branding, Priority Support |
-
-### Why Choose Us?
-- **Proven Results** – Clients see 2‑3× subscriber growth in 30 days.
-- **AI‑Powered** – Leverage GPT‑4, Whisper, and DALL·E for cost‑effective creation.
-- **Turnkey Solution** – No hiring, no training, just results.
-
-### FAQ
-**Q:** Do I need any video equipment?
-**A:** No. We create everything digitally.
-
-**Q:** How fast can videos be published?
-**A:** Typically within 48‑72 hours after brief.
-
-### Ready to Scale?
-[**Start Your Free Audit**](https://example.com/checkout) – No credit card required.
-
----
-*SEO Keywords: YouTube automation, automated video production, AI video creation, YouTube growth agency*
+<section class="hero"><h1>YouTube Automation Agency</h1><p>Scale your YouTube channel to 6‑figures without lifting a finger. Our AI‑powered automation handles video creation, SEO, publishing, and audience growth on autopilot.</p><a href="/pricing" class="cta-button">Start Growing Today</a></section>
+<section class="features"><h2>Why Choose Our Agency?</h2><ul><li><strong>Zero‑Effort Content Production</strong> – AI scriptwriting, voice‑over, video editing, and thumbnail design.</li><li><strong>SEO‑Optimized Uploads</strong> – Keyword‑rich titles, descriptions, tags, and timestamps.</li><li><strong>Audience Amplification</strong> – Automated community engagement, comment replies, and cross‑platform promotion.</li><li><strong>Performance Dashboard</strong> – Real‑time analytics, ROI tracking, and growth recommendations.</li></ul></section>
+<section class="testimonials"><h2>Success Stories</h2><blockquote>"We went from 0 to 100k subs in 3 months. The agency handled everything while we focused on product development." – <cite>Tech Founder, SaaS Startup</cite></blockquote></section>
+<section class="pricing"><h2>Simple Pricing</h2><p>Choose the plan that fits your growth stage.</p><ul><li><strong>Starter</strong> – $499/month – 2 videos/week, basic SEO.</li><li><strong>Growth</strong> – $999/month – 5 videos/week, advanced SEO, community management.</li><li><strong>Scale</strong> – $1999/month – Unlimited videos, premium SEO, full funnel automation.</li></ul><a href="/contact" class="cta-button">Book a Free Strategy Call</a></section>
