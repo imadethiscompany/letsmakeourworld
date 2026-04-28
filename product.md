@@ -1,51 +1,72 @@
-# SaaS & AI Products Suite
+# MaxHermes – The Self‑Evolving AI Agent
 
-## Transform Your Business with Intelligent SaaS Solutions
+**Headline:** *The world’s first cloud‑sandbox Hermes Agent that gets smarter with every task.*
 
-**Why choose a SaaS platform powered by AI?**
-
-- **Instant automation** – AI‑driven workflows cut manual effort by up to 80%.
-- **Actionable insights** – Real‑time analytics turn data into decisions in seconds.
-- **Personalized experiences** – Machine‑learning models serve each user a custom experience, boosting conversion rates by 2‑3×.
-- **Scalable & secure** – Cloud‑native architecture grows with you, with enterprise‑grade security built‑in.
-
-### Core Features
-
-| Feature | AI Benefit | Business Impact |
-|---|---|---|
-| **Smart Automation Engine** | Predictive task scheduling, auto‑fill forms, workflow orchestration | Saves hours of manual work each week |
-| **Dynamic Analytics Dashboard** | Anomaly detection, trend forecasting, KPI recommendations | Faster, data‑driven decisions |
-| **Personalization Layer** | Real‑time content & pricing personalization | ↑ Conversions, ↓ churn |
-| **Integrations Hub** | Connects to 200+ SaaS tools via AI‑powered adapters | Reduces integration time from weeks to minutes |
-| **Security & Compliance** | AI‑monitored threat detection, GDPR/CCPA ready | Peace of mind for regulated industries |
-
-### How It Works
-1. **Connect your data** – Simple API or CSV upload.
-2. **Configure AI models** – Choose from pre‑built templates or train your own.
-3. **Launch automated workflows** – Deploy with a single click.
-4. **Watch the results** – Real‑time dashboard shows ROI instantly.
-
-### Who Benefits?
-- **SaaS founders** looking to add AI features without hiring data scientists.
-- **Enterprise teams** needing scalable automation for repetitive processes.
-- **Marketing leaders** who want hyper‑personalized campaigns at scale.
-- **Product managers** seeking rapid AI prototyping.
-
-### Social Proof
-> *"We cut our onboarding time from 3 days to 2 hours after integrating the AI Automation Engine. Revenue grew 27% in the first month.*" – **CTO, FinTech Startup**
-
-> *"The AI‑driven analytics gave us insights we never saw before. Our churn dropped from 12% to 5%.*" – **Head of Growth, E‑commerce Platform**
-
-### Pricing
-- **Starter** – $1,200/mo – basic AI automations, 5 integrations.
-- **Growth** – $3,500/mo – advanced analytics, unlimited integrations.
-- **Enterprise** – Custom – dedicated support, on‑premise option.
-
-> **Ready to boost efficiency and revenue?**
-
-[**Start Your Free Trial**](https://buy.stripe.com/test_00w7sD2Pp8IY7n52Iyc7x1a)  
-Or schedule a demo: **demo@yourcompany.com**
+**Sub‑headline:** MaxHermes continuously builds a permanent skill library from your real‑world workflows, turning everyday actions into reusable, ever‑improving AI capabilities.
 
 ---
 
-*Optimized for SEO: SaaS AI products, AI‑powered SaaS, intelligent SaaS platform, AI automation, AI analytics, AI personalization.*
+## Product Copy
+
+MaxHermes is a managed, self‑evolving AI agent platform built by MiniMax. It lives in a secure cloud sandbox, so you never have to worry about Docker, servers, or complex deployments. Simply connect your data sources, define a few goals, and watch MaxHermes:
+
+* **Learn from you:** Every command, API call, and automation you run is captured as a reusable skill.
+* **Grow autonomously:** The agent refines its own prompts and tool‑chains, expanding its competence without manual re‑training.
+* **Stay private:** All work stays in an isolated sandbox; only you have access to the skill library.
+* **Scale instantly:** Powered by MiniMax’s M2.7 model with a 204K context window, it can handle massive, multi‑step reasoning out‑of‑the‑box.
+
+Start for free at **agent.minimax.io** – no credit card required. Enterprise plans include dedicated sandboxes, SSO, and priority support.
+
+---
+
+## Feature List
+
+| Feature | Description |
+|---|---|
+| **Cloud Sandbox** | Fully managed isolated environment; zero‑setup deployment. |
+| **Self‑Evolving Skill Library** | Automatically extracts reusable skills from every interaction. |
+| **204K Context Window** | Handles ultra‑long prompts, codebases, and document sets. |
+| **Multi‑Modal Support** | Text, code, images, and audio processed natively. |
+| **Tool Integration Hub** | Connect to APIs, databases, webhooks, and custom scripts with a drag‑and‑drop UI. |
+| **Privacy‑First Architecture** | End‑to‑end encryption; data never leaves your sandbox unless you export it. |
+| **Enterprise Controls** | Role‑based access, audit logs, SSO/SAML, and usage quotas. |
+| **Analytics Dashboard** | Real‑time insights into skill growth, usage patterns, and ROI. |
+| **Free Tier** | 5 k tokens/day, 10 skill slots, community support. |
+| **Enterprise Tier** | Unlimited tokens, unlimited skills, dedicated support, SLA. |
+
+---
+
+## Use‑Case Demos
+
+### 1️⃣ Automated Market Research Assistant
+**Goal:** Gather competitor pricing, sentiment, and feature lists across 50 websites.
+**Workflow:**
+1. Prompt MaxHermes: *“Collect the latest pricing tables for X product category.”*
+2. Agent uses built‑in web‑scraper skill, stores each table as a structured skill.
+3. Generates a consolidated markdown report with charts – ready to share.
+**Result:** Completed in 3 minutes, no code required, and the scraping skill is saved for future use.
+
+### 2️⃣ Customer Support Bot that Improves Daily
+**Goal:** Reduce support ticket handling time.
+**Workflow:**
+1. Feed MaxHermes with the past 30 days of ticket transcripts.
+2. Agent extracts common issue patterns and creates a FAQ skill.
+3. Deploys the FAQ as a live chat widget; every new ticket refines the skill.
+**Result:** First‑week resolution time drops 27 %, and the FAQ updates automatically.
+
+### 3️⃣ Code Refactoring & Review Engine
+**Goal:** Modernize legacy Python codebase.
+**Workflow:**
+1. Upload repository snapshot.
+2. MaxHermes runs a *“refactor to Python 3.12”* skill, suggesting type hints, async conversions, and lint fixes.
+3. Generates PRs automatically; each approval teaches the agent better refactoring patterns.
+**Result:** 4 weeks of manual work compressed into a single day, with a reusable refactor skill for future projects.
+
+---
+
+## Get Started Now
+
+🔹 **Free Tier:** Sign up at **agent.minimax.io** – instant sandbox, no credit card.
+🔹 **Enterprise Demo:** Book a live walkthrough [here](https://agent.minimax.io/contact).
+
+*MaxHermes – your AI partner that learns, grows, and scales with you.*
