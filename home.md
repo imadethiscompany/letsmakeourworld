@@ -1,46 +1,49 @@
-# Vouch API
+# SaaS Integration Marketplace
 
-## Verify Identities Instantly, Build Trust Seamlessly
+## Unlock Seamless Connectivity for Your Business
 
-**Instant, reliable identity verification for developers**
-
-- **Realtime verification** – Get results in < 500ms.
-- **Global coverage** – 10,000+ data sources, 190+ countries.
-- **Simple integration** – One‑line SDK, REST, GraphQL.
-- **Compliance‑ready** – GDPR, CCPA, SOC 2.
-
-### Why Vouch API?
-
-*Stop losing customers to fraud.*
-Businesses lose **$4.5 B** annually to identity fraud. Vouch API eliminates that risk, letting you focus on growth.
-
-- **Reduce chargebacks by 87%** – Proven with fintech & marketplaces.
-- **Boost conversion by 23%** – Frictionless sign‑ups.
-- **Scale effortlessly** – Pay‑as‑you‑go, no contracts.
-
-### How It Works (4 Easy Steps)
-1. **Collect** minimal user data (email, phone, ID).
-2. **Send** to Vouch via our SDK or API.
-3. **Receive** a verification score & detailed report.
-4. **Act** – approve, flag, or request more info.
-
-### Trusted By
-
-![Logos of known customers](/assets/logos.png)
-
-> “Vouch API cut our onboarding time from 5 minutes to 30 seconds.” – *Head of Product, FinTechCo*
-
-### Pricing
-- **Free tier** – 500 verifications/mo.
-- **Pay‑as‑you‑go** – $0.02 per verification.
-- **Enterprise** – Custom SLA & dedicated support.
-
-### Ready to Eliminate Fraud?
-
-[Start Free Trial](/signup) — No credit card required.
+**Connect, Automate, Scale** – Discover a curated marketplace of pre‑built SaaS integrations that let you sync data, automate workflows, and launch new revenue streams in minutes.
 
 ---
 
-*SEO Meta*:
-- **Title**: Vouch API – Real‑Time Identity Verification for Developers
-- **Description**: Instantly verify user identities with Vouch API. Fast, global, compliance‑ready. Free tier available. Start your free trial today.
+### Why Choose Our Marketplace?
+
+- **Instant Time‑to‑Value** – Deploy integrations in under 5 minutes, no code required.
+- **Zero‑Maintenance** – All connectors are hosted, updated, and monitored by our team.
+- **Revenue‑Boosting Add‑Ons** – Offer premium integrations to your customers and earn recurring commission.
+- **Enterprise‑Grade Security** – SOC‑2, GDPR, and ISO‑27001 compliance built‑in.
+- **Scalable Architecture** – From startups to Fortune 500, handle millions of API calls daily.
+
+---
+
+### How It Works
+1. **Browse** – Search our library of 200+ vetted SaaS connectors.
+2. **Select** – Choose the integration that fits your stack (CRM, ERP, Marketing, Finance, etc.).
+3. **Configure** – Map fields with a visual UI; our AI suggests optimal mappings.
+4. **Activate** – Turn on the integration and watch data flow automatically.
+
+---
+
+### Success Stories
+- **Acme Co** reduced manual data entry by **92%**, saving **$45k/month**.
+- **BetaTech** launched a new SaaS‑to‑SaaS product line, generating **$120k ARR** in the first 3 months.
+- **FinServe** achieved **99.99% uptime** for cross‑platform financial reporting.
+
+---
+
+### Ready to Supercharge Your Stack?
+
+[Start Your Free Trial →](/signup)
+
+> *No credit card required. Cancel anytime.*
+
+---
+
+#### FAQ
+- **Do I need developer resources?** – No. Our drag‑and‑drop UI handles everything.
+- **What pricing model?** – Pay‑as‑you‑go per active integration or choose a monthly plan for unlimited access.
+- **Can I white‑label?** – Yes, enterprise plans include full white‑labeling.
+
+---
+
+*Boost efficiency, cut costs, and open new revenue streams with the fastest SaaS integration marketplace on the planet.*
