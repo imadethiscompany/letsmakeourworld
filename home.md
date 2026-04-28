@@ -8,23 +8,29 @@
 - **AI‑driven SEO & keyword targeting** to rank faster.
 - **Zero‑hands‑off channel management** – we handle uploads, captions, and community.
 - **Performance dashboard** with real‑time analytics.
-- **Dedicated account manager** to optimize ad revenue and sponsorships.
 
 ### Packages
 
-| Plan | Monthly Price | Videos / Month | Features |
-|------|---------------|----------------|----------|
-| **Starter** | $499 | 5 | Script writing, AI voice, thumbnail, SEO, uploads |
-| **Growth** | $999 | 12 | All Starter + custom thumbnails, community management |
-| **Enterprise** | $1999 | 30+ | All Growth + dedicated strategist, ad‑revenue optimization |
+| Plan | Monthly Price | Videos per Month | Features |
+|------|---------------|------------------|----------|
+| **Starter** | $499 | 8 | Script + Voiceover, Basic SEO, Thumbnail Design |
+| **Growth** | $999 | 20 | Full Production, Advanced SEO, Community Management |
+| **Enterprise** | $1999 | 50+ | Dedicated Account Manager, Custom Branding, Priority Support |
 
 ### Why Choose Us?
-- **Proven Results** – Clients see 2‑3× increase in watch time within 30 days.
-- **All‑AI Workflow** – Saves you $2,000+ in production costs.
-- **Risk‑Free** – First month money‑back guarantee.
+- **Proven Results** – Clients see 2‑3× subscriber growth in 30 days.
+- **AI‑Powered** – Leverage GPT‑4, Whisper, and DALL·E for cost‑effective creation.
+- **Turnkey Solution** – No hiring, no training, just results.
 
-### Get Started
-Ready to dominate YouTube? **[Book a free strategy call](/contact)** or **[Buy Now](/checkout?plan=starter)**.
+### FAQ
+**Q:** Do I need any video equipment?
+**A:** No. We create everything digitally.
+
+**Q:** How fast can videos be published?
+**A:** Typically within 48‑72 hours after brief.
+
+### Ready to Scale?
+[**Start Your Free Audit**](https://example.com/checkout) – No credit card required.
 
 ---
-*SEO Keywords: YouTube automation, automated video production, AI YouTube agency, grow YouTube channel, YouTube SEO service*
+*SEO Keywords: YouTube automation, automated video production, AI video creation, YouTube growth agency*
