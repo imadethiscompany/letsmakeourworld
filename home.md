@@ -1,47 +1,63 @@
 # Jet AI Agents
 
-## Build AI‑powered integrations in seconds
+## Supercharge Your Business with Autonomous AI Agents
 
-![Hero Image](https://example.com/hero-jet-ai-agents.png)
+**Headline:** *Deploy AI agents that work 24/7, automate tasks, and boost revenue without writing code.*
+
+**Subheadline:** Jet AI Agents let you create, train, and launch custom AI assistants in minutes – no developers required. Scale your operations, close more deals, and free up your team to focus on growth.
+
+---
 
 ### Why Jet AI Agents?
-- **No‑code AI integration builder** – create powerful workflows without writing code.
-- **200+ pre‑built SaaS connectors** – instantly connect the tools you already use.
-- **GPT‑driven data mapping** – describe what you want in plain language and let the AI generate the integration.
-- **Real‑time monitoring & analytics** – see every event, error, and performance metric.
-
-### How it works
-1. **Select source & destination apps** – pick from our library or add a custom API.
-2. **Define triggers & actions** – simply type what should happen, e.g., “When a new lead is added in HubSpot, create a contact in Salesforce.”
-3. **Deploy instantly** – the AI creates the integration, provisions infrastructure, and starts running.
+- **Instant ROI:** Reduce manual workload by up to 70%.
+- **Zero Coding:** Drag‑and‑drop workflow builder.
+- **Enterprise‑grade security:** End‑to‑end encryption, SOC‑2 compliant.
+- **Scalable:** Deploy thousands of agents on demand.
 
 ---
 
-## Pricing
-
-| Plan | Price | Key Features |
-|------|-------|--------------|
-| **Starter** | **$199 one‑time** | Up to 5 agents, 10 k runs/month, email support |
-| **Pro** | **$49 / month** | Unlimited agents, 100 k runs/month, priority support, custom connectors |
-| **Enterprise** | **Contact us** | Unlimited agents, SLA, dedicated manager, on‑prem deployment |
-
-[**Buy Starter – $199**](https://buy.stripe.com/test_4gM9AL89J4sI0YH4QGc7x0V){: .cta-button }
+### How It Works (3 Simple Steps)
+1. **Define Your Goal** – Choose a template (sales, support, data entry) or describe a custom task.
+2. **Train in Minutes** – Upload data, set rules, and let our platform auto‑tune the model.
+3. **Launch & Monitor** – Deploy to web, Slack, or API. Real‑time analytics show performance.
 
 ---
 
-## Frequently Asked Questions
-
-**Q: Do I need any technical background?**
-A: No. Jet AI Agents is built for product managers, marketers, and anyone who can describe a workflow.
-
-**Q: What SaaS apps are supported?**
-A: Over 200 popular apps out‑of‑the‑box, plus the ability to connect any REST API.
-
-**Q: Is there a free trial?**
-A: Yes – sign up for a 7‑day trial of the Pro plan, no credit card required.
+### Benefits
+- **Close deals 2× faster** – AI agents qualify leads, schedule calls, and follow up automatically.
+- **Cut operational costs** – Replace repetitive manual work with intelligent bots.
+- **Improve customer experience** – 24/7 instant responses, personalized recommendations.
 
 ---
 
-### Ready to automate your workflow?
+### Social Proof
+> "Jet AI Agents shaved 30 hours off our weekly reporting process. Our team now focuses on strategy, not data entry." – **CTO, FinTech Startup**
 
-Start building with Jet AI Agents today and unlock the power of AI‑driven integrations.
+> "Our support tickets dropped 45% after deploying a custom AI helpdesk agent." – **Head of Customer Success, SaaS Co.**
+
+---
+
+### Pricing
+- **Starter** – $49/mo – 5 agents, 10,000 tasks/mo.
+- **Growth** – $199/mo – 25 agents, 100,000 tasks/mo, priority support.
+- **Enterprise** – Custom – Unlimited agents, dedicated account manager.
+
+---
+
+### Ready to Automate?
+**[Start Free Trial →]**(https://example.com/checkout?plan=starter)
+
+*No credit card required. Cancel anytime.*
+
+---
+
+#### FAQ
+**Q:** Do I need AI expertise?
+**A:** No. Our visual builder guides you step‑by‑step.
+
+**Q:** Is my data safe?
+**A:** All data is encrypted at rest and in transit, with strict access controls.
+
+---
+
+*Jet AI Agents – The fastest way to turn ideas into autonomous profit machines.*
