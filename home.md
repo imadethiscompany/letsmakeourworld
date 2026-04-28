@@ -1,56 +1,47 @@
-# YouTube Automation Agency
-
-## Scale Your YouTube Channel on Autopilot
-
-**Turn views into revenue without lifting a finger.**
-
-- **Full‑service video creation** – script, voice‑over, editing, thumbnail, and upload.
-- **AI‑driven content strategy** – keyword research, trend detection, and SEO optimization.
-- **Channel management** – comments, community engagement, and analytics reporting.
-- **Guaranteed growth** – 2× subscriber increase in 90 days or we keep working for free.
-
-### Why Choose Us?
-
-| Benefit | Description |
-|---|---|
-| **Zero Production Hassle** | We handle everything from idea to publish.
-| **Data‑Backed Results** | AI tools + human expertise for viral content.
-| **Scalable Packages** | From $2,000/mo for SMBs to $15,000/mo enterprise.
-| **Performance Guarantee** | ROI‑focused, pay‑only‑for‑results model.
-
-### Pricing Plans
-
-- **Starter** – $2,000/mo – 4 videos/month, basic SEO.
-- **Growth** – $7,500/mo – 12 videos/month, advanced SEO + community management.
-- **Enterprise** – $15,000/mo – Unlimited videos, full channel takeover, dedicated account manager.
-
-> *"Our subscriber count jumped from 5k to 20k in just two months!" – **Tech Startup Founder**
-
 ---
+title: "YouTube Automation Agency – Scale Your Channel Effortlessly"
+description: "Full-service YouTube automation: content creation, SEO, channel management. Get 10x subscriber growth without lifting a finger."
+---
+
+# Grow Your YouTube Channel on Autopilot
+
+**Turn views into revenue** with our end‑to‑end YouTube Automation Agency. From niche research, script writing, AI voice‑overs, video editing, thumbnail design, to daily upload scheduling – we handle everything.
+
+## Why Choose Us?
+
+- **Zero Hands‑On Time** – We produce and publish 3‑5 videos/week for you.
+- **AI‑Powered Production** – Fast, consistent, high‑quality videos.
+- **SEO‑Optimized** – Keywords, tags, descriptions that rank.
+- **Revenue‑Focused** – Monetization strategy, AdSense setup, sponsorship deals.
+- **Transparent Pricing** – Fixed monthly plans, no hidden fees.
+
+## Our Packages
+
+| Plan | Videos / month | Channels Managed | Price |
+|------|----------------|-----------------|-------|
+| **Starter** | 3 | 1 | $799/mo |
+| **Growth** | 5 | 1‑2 | $1,299/mo |
+| **Scale** | 8 | Up to 3 | $2,199/mo |
+
+*All plans include script, AI voice‑over, editing, thumbnail, SEO, and performance reporting.*
+
+## Frequently Asked Questions
+
+**Q: Do I need any equipment?**  
+A: No. We handle all production remotely.
+
+**Q: How quickly will I see results?**  
+A: Most clients notice traffic lift within 4‑6 weeks.
+
+**Q: Can I cancel anytime?**  
+A: Yes, month‑to‑month with 30‑day notice.
 
 ## Ready to Automate Your Growth?
 
-[**Book a Free Strategy Call**](https://calendly.com/youtube-automation-agency/strategy) – No commitment, just insight.
-
-Or click **Buy Now** to start instantly:
-
-- **Starter** – $2,000/mo – <a href="https://buy.stripe.com/start123">Buy Now</a>
-- **Growth** – $7,500/mo – <a href="https://buy.stripe.com/growth123">Buy Now</a>
-- **Enterprise** – $15,000/mo – <a href="https://buy.stripe.com/enterprise123">Buy Now</a>
+👉 **[Start Your Free Channel Audit](/contact)** – Fill the form and we’ll send a custom growth plan in 24 hours.
 
 ---
 
-### FAQ
-
-**Q:** Do I need a YouTube channel already?
-**A:** Yes, we optimize an existing channel or launch a new one for you.
-
-**Q:** How fast can I see results?
-**A:** Most clients see a noticeable lift in views & subs within 30 days.
-
-**Q:** What if I’m not happy?
-**A:** Our performance guarantee means we keep working until targets are met.
-
----
-
-*© 2026 YouTube Automation Agency – All rights reserved.*
+*SEO meta:*  
+**Meta Title:** YouTube Automation Agency – Automated Video Production & Growth  
+**Meta Description:** Scale your YouTube channel with AI‑driven video creation, SEO, and channel management. Fixed‑price plans start at $799/mo. Get a free audit today.
