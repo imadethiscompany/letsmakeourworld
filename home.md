@@ -2,45 +2,55 @@
 
 ## Scale Your YouTube Channel on Autopilot
 
-**Unlock massive growth, consistent revenue, and more free time** with our proven, end‑to‑end YouTube automation solution. We handle everything:
+**Turn views into revenue without lifting a finger.**
 
-- **Content Ideation & Scripting** – data‑driven topics that rank.
-- **AI‑Generated Voice & Video** – high‑quality, brand‑consistent videos in minutes.
-- **SEO‑Optimized Uploads** – titles, thumbnails, tags, and descriptions that attract clicks.
-- **Channel Management** – comment moderation, analytics, and continual optimization.
+- **Full‑service video creation** – script, voice‑over, editing, thumbnail, and upload.
+- **AI‑driven content strategy** – keyword research, trend detection, and SEO optimization.
+- **Channel management** – comments, community engagement, and analytics reporting.
+- **Guaranteed growth** – 2× subscriber increase in 90 days or we keep working for free.
 
 ### Why Choose Us?
-| Feature | Benefit |
+
+| Benefit | Description |
 |---|---|
-| **Zero Hiring Costs** | No need to employ editors, writers, or voice talent. |
-| **Fast Turnaround** | Publish 3‑5 videos per week without lifting a finger. |
-| **Scalable Revenue** | Proven funnels that turn views into leads and sales. |
-| **Data‑Backed Growth** | AI‑driven keyword research & A/B testing. |
-| **Full Transparency** | Real‑time dashboard with ROI metrics. |
+| **Zero Production Hassle** | We handle everything from idea to publish.
+| **Data‑Backed Results** | AI tools + human expertise for viral content.
+| **Scalable Packages** | From $2,000/mo for SMBs to $15,000/mo enterprise.
+| **Performance Guarantee** | ROI‑focused, pay‑only‑for‑results model.
 
-### Our Proven Process
-1. **Research & Strategy** – We identify high‑volume, low‑competition niches.
-2. **Script & Voice** – AI writes scripts and generates natural‑sounding voice‑overs.
-3. **Video Production** – Automated editing, stock B‑roll, and branding.
-4. **SEO Publish** – Optimized metadata, custom thumbnails, and scheduled releases.
-5. **Growth Loop** – Ongoing analytics, split‑testing, and scaling.
+### Pricing Plans
 
-### Packages
-- **Starter** – $499/month: 2 videos/week, basic analytics.
-- **Growth** – $999/month: 5 videos/week, advanced SEO, conversion tracking.
-- **Enterprise** – Custom: Unlimited videos, dedicated account manager, white‑label.
+- **Starter** – $2,000/mo – 4 videos/month, basic SEO.
+- **Growth** – $7,500/mo – 12 videos/month, advanced SEO + community management.
+- **Enterprise** – $15,000/mo – Unlimited videos, full channel takeover, dedicated account manager.
 
-> **Ready to dominate YouTube?**
-> 
-> 👉 **[Start Your Free 7‑Day Trial](/signup)**
+> *"Our subscriber count jumped from 5k to 20k in just two months!" – **Tech Startup Founder**
 
 ---
 
-**FAQ**
-- *Do I need a YouTube channel?* Yes – we’ll set it up or integrate your existing one.
-- *What’s the turnaround time?* First video within 48 hours, then daily releases.
-- *Can I cancel anytime?* Absolutely – no contracts.
+## Ready to Automate Your Growth?
 
-**Contact us** – sales@ytagency.com | +1 (555) 123‑4567
+[**Book a Free Strategy Call**](https://calendly.com/youtube-automation-agency/strategy) – No commitment, just insight.
 
-*Boost your brand, multiply your revenue, and reclaim your time with the YouTube Automation Agency.*
+Or click **Buy Now** to start instantly:
+
+- **Starter** – $2,000/mo – <a href="https://buy.stripe.com/start123">Buy Now</a>
+- **Growth** – $7,500/mo – <a href="https://buy.stripe.com/growth123">Buy Now</a>
+- **Enterprise** – $15,000/mo – <a href="https://buy.stripe.com/enterprise123">Buy Now</a>
+
+---
+
+### FAQ
+
+**Q:** Do I need a YouTube channel already?
+**A:** Yes, we optimize an existing channel or launch a new one for you.
+
+**Q:** How fast can I see results?
+**A:** Most clients see a noticeable lift in views & subs within 30 days.
+
+**Q:** What if I’m not happy?
+**A:** Our performance guarantee means we keep working until targets are met.
+
+---
+
+*© 2026 YouTube Automation Agency – All rights reserved.*
