@@ -2,49 +2,66 @@
 
 ## Unlock Predictable Growth with Data‑Powered Hybrid Strategies
 
-**Combine AI‑driven metrics with human expertise to boost conversions, reduce churn, and accelerate revenue.**
+**Headline:** *Turn raw AI metrics into actionable hybrid models that drive 30% higher conversion rates.*
 
-### Why Hybrid Models?
-
-- **Speed of AI:** Real‑time data collection, anomaly detection, and predictive scoring.
-- **Human Insight:** Contextual judgment, ethical guardrails, and strategic nuance.
-- **Proven ROI:** 2× higher conversion rates vs pure AI or pure manual processes.
-
-### How It Works
-
-1. **Ingest** your business metrics (traffic, sales, engagement) into our AI engine.
-2. **Analyze** with advanced statistical models that surface hidden patterns.
-3. **Blend** AI recommendations with expert review dashboards.
-4. **Act** on prescriptive actions that are automatically executed or manually approved.
-
-### Benefits
-
-- **Increase conversion rates by up to 45%** within 30 days.
-- **Cut reporting time** from hours to minutes.
-- **Reduce churn** by identifying at‑risk customers early.
-- **Scale decisions** across teams without sacrificing quality.
-
-### Trusted By
-
-> “Our hybrid approach cut acquisition cost by 30% and gave us confidence in every campaign.” – *Head of Growth, TechScale*
-
-### Ready to Transform Your Metrics?
-
-[Get Started Today →](/checkout?product=ai-metrics-hybrid-models)
-
-#### Frequently Asked Questions
-
-**Do I need a data team?**
-No. Our platform auto‑connects to common tools (Google Analytics, CRM, DBs) and provides a simple UI for experts to review.
-
-**Is my data secure?**
-All data is encrypted in transit and at rest, with ISO‑27001 compliance.
-
-**What’s the pricing?**
-Custom plans start at **$2,999/month** with a 14‑day free trial.
+**Sub‑headline:** Combine the speed of machine‑learning insights with human expertise to eliminate guesswork, reduce churn, and accelerate revenue.
 
 ---
 
-*SEO meta title:* AI Metrics into Hybrid Models – Boost Conversions with Data‑Powered Hybrid Strategies
+### Why Pure AI Falls Short
+- **Black‑box decisions** – Models spit out scores but no context.
+- **Hallucinations & bias** – Inaccurate predictions cost money.
+- **No accountability** – Teams can’t explain why a lead was flagged.
 
-*SEO meta description:* Combine AI‑driven metrics and human expertise to double conversion rates, cut reporting time, and reduce churn. Start your free trial today.
+### The Hybrid Solution
+1. **Ingest AI‑generated metrics** – Real‑time scores, propensity, sentiment.
+2. **Human‑in‑the‑loop enrichment** – Sales ops adds qualifiers, business rules, and domain knowledge.
+3. **Dynamic weighting engine** – Continuously re‑trains on outcomes, delivering a live, explainable score.
+
+#### Core Benefits
+- **+30% conversion** on qualified leads (tested on SaaS & e‑commerce).
+- **Cut analysis time** from 4 hours to 15 minutes per campaign.
+- **Reduce churn** by 12% with early‑warning alerts.
+- **Full audit trail** for compliance and board reporting.
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Connect your AI stack** – API integration with any model (OpenAI, Cohere, custom).
+2. **Define business rules** – Drag‑and‑drop UI to add expert criteria.
+3. **Activate the hybrid score** – Real‑time dashboard & automated actions (email, CRM, ad spend).
+
+---
+
+### Social Proof
+> "Our sales team now trusts the scores. We saw a 28% lift in pipeline velocity within weeks." – **VP of Revenue, FinTechCo**
+
+> "The audit logs saved us during a compliance audit – every decision is traceable." – **Head of Analytics, RetailX**
+
+---
+
+### Ready to Transform Your Funnel?
+**Get the Free Hybrid Playbook** – download the 7‑page guide and see a live demo.
+
+[Download Playbook](/download/hybrid-playbook)  
+[Schedule a 15‑min Call](/schedule)  
+
+---
+
+#### Frequently Asked Questions
+- **Do I need a data science team?** – No. Our UI lets any marketer configure rules.
+- **Will it replace my current AI?** – It augments it, adding explainability and control.
+- **What’s the implementation time?** – Most clients are live in <2 weeks.
+
+---
+
+### Call to Action
+**Start Your Free Trial Today** – No credit card required.
+
+[Start Free Trial](/signup)
+
+---
+
+#### SEO Meta
+- **Title:** AI Metrics into Hybrid Models – Boost Conversions & Reduce Churn
+- **Description:** Learn how to combine AI‑generated metrics with human expertise to create hybrid models that increase conversion rates by up to 30%. Download the free playbook now.
