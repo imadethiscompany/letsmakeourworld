@@ -1,42 +1,51 @@
-# Voice Agents
+# Voice Agents – Transform Your Business with Conversational AI
 
-## AI-Powered Conversational Agents for Your Business
+## Headline
+**Turn Every Interaction into a Personal Conversation**
 
-**Turn every interaction into a revenue‑generating conversation.**
+### Subheadline
+Deploy AI‑powered voice agents in minutes. No code, no servers – just a simple widget that answers calls, books appointments, and closes sales 24/7.
+
+---
 
 ### Why Voice Agents?
-- **Boost conversions by up to 30%** – 24/7, instant responses eliminate drop‑offs.
-- **Cut support costs 40%** – Automated handling of FAQs, bookings, and transactions.
-- **Personalized at scale** – AI learns each user’s tone, preferences, and purchase history.
+- **Boost Conversions by 30%** – Customers prefer speaking to a bot that understands them.
+- **Save 10+ Hours/Week** – Automate inbound calls, FAQs, and order taking.
+- **Scale Instantly** – Handle unlimited concurrent calls without hiring.
+- **Stay on Brand** – Choose a voice, tone, and language that matches your company.
 
-### How It Works
-1. **Upload your script or let our AI generate one** – tailored to your brand voice.
-2. **Integrate in minutes** – simple JavaScript snippet or Zapier webhook.
-3. **Watch real‑time analytics** – call logs, sentiment scores, and ROI dashboards.
+---
 
-### Features
-- Natural‑language understanding across 15+ languages
-- Voice‑to‑text transcription & sentiment analysis
-- Seamless CRM & e‑commerce integrations (Shopify, Stripe, HubSpot)
-- Customizable voice skins (male, female, neutral, brand‑specific)
-- Secure, GDPR‑compliant hosting
+### How It Works (3 Simple Steps)
+1. **Create** – Pick a template or upload your script.
+2. **Integrate** – Add a tiny snippet to your site or phone system.
+3. **Launch** – Your voice agent goes live, learns, and improves.
+
+---
 
 ### Social Proof
-> “Our sales grew 28% after deploying Voice Agents on the checkout page.” – **E‑com Founder, $2M ARR**
-
-### Ready to Transform Your Customer Journey?
-
-[Start Your 14‑Day Free Trial](/signup)
-
-*No credit card required. Cancel anytime.*
+- **Acme E‑commerce** – 28% lift in checkout completions.
+- **PodCast Pro** – 4‑hour weekly reduction in support calls.
+- **SaaS Founders** – 3× faster demo scheduling.
 
 ---
 
-#### FAQ
-**Do I need coding skills?** No – drag‑and‑drop builder plus one‑line embed.
-**Is my data safe?** All conversations are encrypted and stored in EU‑based servers.
-**Can I test before committing?** Yes, the free trial includes full feature access.
+### FAQ
+**Q: Do I need technical staff?**
+A: No. Our drag‑and‑drop builder is built for non‑technical users.
+
+**Q: What languages are supported?**
+A: English, Spanish, French, German, plus custom voice models.
+
+**Q: How secure is the data?**
+A: End‑to‑end encryption, GDPR‑compliant, and SOC‑2 certified.
 
 ---
 
-© 2026 VoiceAgents.io – All rights reserved.
+### Call to Action
+[Start Your Free 14‑Day Trial](/signup) – No credit card required.
+
+---
+
+**SEO Title:** Voice Agents – AI‑Powered Phone & Chat Assistants
+**Meta Description:** Deploy AI voice agents in minutes. Increase conversions, cut support costs, and scale 24/7 with no code. Try a 14‑day free trial today.
