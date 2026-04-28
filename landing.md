@@ -1,28 +1,34 @@
 # SaaS Integration Marketplace
 
-## Seamlessly Connect Your Business Apps in Minutes
+## One platform to connect, sync, and automate all your SaaS tools.
 
-**Unlock the power of automation** – integrate your CRM, accounting, marketing, and support tools without code. Our marketplace offers pre‑built, secure integrations that get your workflows running instantly.
+**Headline:** Connect every SaaS app in minutes – no code, no hassle.
 
-### Why SMB Owners Choose Us
-- **Zero‑code setup** – get live in under 5 minutes.
-- **Pay‑as‑you‑go pricing** – start free, scale as you grow.
-- **All‑in‑one catalog** – 200+ vetted SaaS apps, all vetted for security.
-- **Dedicated support** – onboarding assistance and 24/7 help.
+**Subheadline:** Unlock seamless data flow between your favorite software (CRM, marketing, finance, support) and boost team productivity by up to 30%.
+
+### Why Choose Us?
+- **All‑in‑One Catalog:** 500+ pre‑built integrations, growing daily.
+- **Zero‑Code Setup:** Point‑and‑click connections, instant sync.
+- **Enterprise‑Grade Security:** SOC‑2, GDPR, encrypted at rest.
+- **Pay‑as‑You‑Go Pricing:** Only pay for the integrations you use.
 
 ### How It Works
-1. **Select** the apps you use.
-2. **Choose** a ready‑made connector or build a custom flow.
-3. **Activate** – data sync starts automatically.
+1. **Select Apps** – Choose any SaaS tools from our searchable marketplace.
+2. **Map Data** – Drag‑and‑drop fields to define how data moves.
+3. **Activate** – Turn on the integration and watch the automation run.
 
 ### Trusted By
-![Logos of popular SaaS tools](/images/partners.png)
+![Logos of leading brands]
 
-### Ready to Turbocharge Your Business?
+### FAQ
+**Q:** Do I need developer resources?
+**A:** No. Our visual builder lets anyone create integrations.
 
-**Start your free trial now** and see how much time you can save.
-
-[Get Started →](/signup)
+**Q:** Is there a free trial?
+**A:** Start with a 14‑day free trial, no credit card required.
 
 ---
-*No credit card required. Cancel anytime.*
+
+**Ready to supercharge your stack?**
+
+[Get Started Free](/checkout?product=saas-integration-marketplace)
