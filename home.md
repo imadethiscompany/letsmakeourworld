@@ -1,4 +1,45 @@
-<section class="hero"><h1>YouTube Automation Agency</h1><p>Scale your YouTube channel to 6‑figures without lifting a finger. Our AI‑powered automation handles video creation, SEO, publishing, and audience growth on autopilot.</p><a href="/pricing" class="cta-button">Start Growing Today</a></section>
-<section class="features"><h2>Why Choose Our Agency?</h2><ul><li><strong>Zero‑Effort Content Production</strong> – AI scriptwriting, voice‑over, video editing, and thumbnail design.</li><li><strong>SEO‑Optimized Uploads</strong> – Keyword‑rich titles, descriptions, tags, and timestamps.</li><li><strong>Audience Amplification</strong> – Automated community engagement, comment replies, and cross‑platform promotion.</li><li><strong>Performance Dashboard</strong> – Real‑time analytics, ROI tracking, and growth recommendations.</li></ul></section>
-<section class="testimonials"><h2>Success Stories</h2><blockquote>"We went from 0 to 100k subs in 3 months. The agency handled everything while we focused on product development." – <cite>Tech Founder, SaaS Startup</cite></blockquote></section>
-<section class="pricing"><h2>Simple Pricing</h2><p>Choose the plan that fits your growth stage.</p><ul><li><strong>Starter</strong> – $499/month – 2 videos/week, basic SEO.</li><li><strong>Growth</strong> – $999/month – 5 videos/week, advanced SEO, community management.</li><li><strong>Scale</strong> – $1999/month – Unlimited videos, premium SEO, full funnel automation.</li></ul><a href="/contact" class="cta-button">Book a Free Strategy Call</a></section>
+# YouTube Automation Agency – Scale Your Channel Without Lifting a Finger
+
+## Unlock Passive Growth for Your YouTube Channel
+
+Are you a small‑business owner struggling to keep up with video production, SEO, and audience engagement? Our **YouTube Automation Agency** does the heavy lifting for you, turning your brand into a video powerhouse on autopilot.
+
+### Why Choose Us?
+- **Full‑Cycle Automation** – From script writing, voice‑over, video editing, to thumbnail creation and upload – all handled by AI‑driven workflows.
+- **SEO‑Optimized Content** – Keyword‑rich titles, descriptions, and tags that rank fast.
+- **Fast Turnaround** – New videos delivered in **48‑72 hours**.
+- **Scalable Packages** – From 2 videos/month to 20+ videos/month, tailored to your budget.
+- **Performance Dashboard** – Real‑time analytics on views, watch‑time, and subscriber growth.
+
+### Our Packages
+| Package | Videos/Month | Price (USD) | Ideal For |
+|---|---|---|---
+| **Starter** | 2 | $299 | Local businesses, coaches |
+| **Growth** | 5 | $649 | SaaS, e‑commerce |
+| **Scale** | 12 | $1,299 | Agencies, media brands |
+| **Enterprise** | 20+ | Custom | Large enterprises |
+
+> **Ready to automate your YouTube growth?**
+
+### Get Started in 3 Simple Steps
+1. **Choose a package** – Click the button below.
+2. **Provide your brand assets** – Logo, style guide, and any existing footage.
+3. **Sit back & watch the views roll in.**
+
+[**Start Your Free Consultation →**](https://example.com/consultation)
+
+---
+
+#### Frequently Asked Questions
+**Q:** Do I need any video equipment?
+**A:** No. We use stock footage, AI‑generated voice‑overs, and your branding to create professional videos.
+
+**Q:** How quickly will my channel see results?
+**A:** Most clients notice a **30‑50% increase in views** within the first month.
+
+**Q:** Can I cancel anytime?
+**A:** Yes, with a 30‑day notice.
+
+---
+
+© 2024 YouTube Automation Agency – All Rights Reserved.
