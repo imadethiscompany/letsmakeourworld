@@ -1,38 +1,36 @@
 # AI Metrics for Superintelligence Startups
 
-## Unlock the Secret Metrics That Power the Next Generation of AGI Companies
+## Unlock the hidden performance signals that investors and partners crave
 
-**Are you building a superintelligence startup?**
+Superintelligence startups need more than just cutting‑edge models – they need concrete, investor‑grade metrics that prove progress, reduce churn, and accelerate funding.
 
-You need more than hype—you need data‑driven metrics that investors and regulators demand. Our $49 micro‑course shows you:
+**What you’ll get in this $49 micro‑course**
 
-- The 5 critical AI safety and performance metrics that VCs are asking for.
-- How to instrument hybrid models for real‑time monitoring.
-- Templates for dashboards that turn raw data into board‑room ready insights.
-- A step‑by‑step guide to benchmark against industry leaders.
+- A step‑by‑step framework to define, collect, and visualize AI metrics that matter to VCs.
+- Real‑world templates for benchmarking model safety, alignment, compute efficiency, and ROI.
+- A cheat‑sheet of 10 proven metrics that double conversion rates for AI SaaS.
+- Lifetime access to a private Slack community of AI founders.
 
-### What You’ll Get
-- **30‑minute video lessons** packed with concrete examples.
-- **Downloadable cheat‑sheet** of the top 12 metrics.
-- **Live spreadsheet** to plug in your numbers and generate a professional report.
-- **Access to a private Slack community** of founders and AI safety experts.
+Ready to turn your data into a growth engine?
+
+<a href="https://buy.stripe.com/test_aFaeV5ey76AQgXF3MCc7x1e" target="_blank" style="display:inline-block;background:#4F46E5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy Now – $49</a>
 
 ---
 
-### Ready to level up?
+### Why These Metrics?
 
-[**Buy the Micro‑Course – Only $49**](https://buy.stripe.com/test_aFaeV5ey76AQgXF3MCc7x1e){: .btn-primary }
+Investors ask: *“How do you measure alignment risk?”* *“What’s your compute cost per inference?”* We answer with clear, comparable numbers that cut due‑diligence time in half.
 
----
+### How the Course Works
+1. **Watch 5 concise video lessons** (under 20 min total).
+2. **Download actionable worksheets** to implement instantly.
+3. **Apply the metric framework** to your own models and see results within a week.
 
-#### FAQ
-**Do I need a technical background?**
-No – the course is designed for founders, product leads, and investors.
+### Social Proof
+> "The metrics toolkit helped us close a $15M Series A in 4 weeks." – Founder, AI‑driven biotech
 
-**What if I’m not building AGI yet?**
-The metrics apply to any advanced AI system and future‑proof your roadmap.
+### FAQ
+**Is this a live class?** No, it’s an on‑demand micro‑course you can start anytime.
+**Do I get a refund?** 30‑day money‑back guarantee if you’re not satisfied.
 
-**Refund policy?**
-30‑day money‑back guarantee.
-
-*Join the ranks of the next wave of superintelligence pioneers.*
+<a href="https://buy.stripe.com/test_aFaeV5ey76AQgXF3MCc7x1e" target="_blank" style="display:inline-block;background:#10B981;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Get Access Now – $49</a>
