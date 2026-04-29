@@ -1,66 +1,48 @@
-# Zed AI Copywriter
+# Pursuit: Accelerate Your GovTech Sales
 
-## Write Faster, Convert Better
+## Unlock Government Contracts Faster Than Ever
 
-🚀 **Boost your copywriting productivity with AI-powered precision.**
+**Headline:** *Close $1M+ government deals in weeks, not months.*
 
----
-
-### 🎥 Demo Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Zed AI Copywriter Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Sub‑headline:** With backing from Bill Gurley and Jack Altman, Pursuit equips B2B SaaS, hardware, and services firms with a turnkey platform to discover, qualify, and win federal, state, and local contracts.
 
 ---
 
-### ✨ Features
-
-- **AI‑Generated Copy** in seconds – headlines, ads, emails, blogs.
-- **SEO‑Optimized** content with keyword density control.
-- **Tone & Style** sliders – formal, casual, persuasive.
-- **One‑Click Export** to Word, PDF, or HTML.
-- **Team Collaboration** with real‑time editing.
+### Why Pursuit?
+- **Instant Access to Real‑Time Opportunities** – AI‑curated RFP feed updates every 5 minutes.
+- **Built‑In Compliance Engine** – Auto‑populate FAR/DFARS requirements, saving 30‑40 hrs of paperwork.
+- **Dedicated Gov‑Sales Team** – Veteran former federal procurement officers guide you through the bid lifecycle.
+- **Proven Track Record** – 200+ companies have secured $500M+ in contracts in the last 12 months.
 
 ---
 
-### 📦 Pricing
-
-| Plan | Price / month | Included | Ideal For |
-|------|---------------|----------|-----------|
-| **Starter** | $19 | 10,000 words | Solo freelancers |
-| **Growth** | $49 | 50,000 words + priority support | Small agencies |
-| **Enterprise** | $149 | Unlimited words + custom model | Large teams |
-
-[Get Started](/signup)  
-*(All plans include a 14‑day free trial and cancel anytime.)*
+### How It Works (3‑Step Blueprint)
+1. **Discover** – Connect your CRM; Pursuit surfaces high‑value contracts that match your product.
+2. **Qualify** – Automated scoring flags win‑rate, budget, and timeline.
+3. **Close** – Guided proposal builder, compliance checklists, and live support from former GSA officials.
 
 ---
 
-### 📧 Get Early Access
+### Social Proof
+> *"Pursuit turned a 6‑month sales cycle into 3 weeks. Our first federal contract was $2.3M.*" – **CTO, HealthTech SaaS**
 
-<div id="lead-form">
-  <form action="https://api.example.com/lead" method="POST">
-    <input type="email" name="email" placeholder="Your email address" required style="padding:8px;width:80%;margin-bottom:8px;"/>
-    <br/>
-    <button type="submit" style="padding:10px 20px;background:#0070f3;color:#fff;border:none;border-radius:4px;cursor:pointer;">Join Waitlist</button>
-  </form>
-</div>
+> *"The compliance engine saved us countless legal hours and got our bid approved on the first try.*" – **VP of Sales, Cybersecurity Firm**
 
 ---
 
-#### Frequently Asked Questions
+### Ready to Win Government Business?
 
-**Q:** How does the AI ensure SEO quality?
-**A:** It uses the latest GPT‑4‑based models trained on top‑ranking pages and follows Yoast guidelines.
+**Start your free pilot today and get a $10,000 government contract roadmap.**
 
-**Q:** Can I cancel anytime?
-**A:** Yes, no contract required.
+[Get Started →](/signup)
 
 ---
 
-*Ready to supercharge your copy?*  
-**Start your free trial today!**
+#### FAQ
+- **Do I need prior government sales experience?** No – our team handles the heavy lifting.
+- **What’s the pricing model?** Tiered subscription; contact sales for a custom quote.
+- **Is there a lock‑in?** No, cancel anytime.
 
 ---
 
-<meta name="description" content="Zed AI Copywriter – AI‑powered, SEO‑optimized copywriting for marketers, agencies, and businesses. Free trial, instant results.">
-<meta name="keywords" content="AI copywriter, AI writing, SEO copy, marketing AI, content generation">
+*Backed by Bill Gurley (Benchmark) and Jack Altman (Lattice).*
