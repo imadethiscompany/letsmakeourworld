@@ -6,40 +6,64 @@
 
 ---
 
+### Why This Foundation?
+- **Revenue Impact:** Companies that adopt AI see up to **30% increase in top‑line growth** within the first year.
+- **Cost Savings:** Automate repetitive tasks and reduce operational spend by **20‑40%**.
+- **Competitive Edge:** Deploy models faster than rivals – **2‑week time‑to‑value**.
+
+---
+
 ### What You’ll Get
-- **12 weekly live labs** with real‑world datasets (finance, e‑commerce, health).
-- **Hands‑on projects**: from data cleaning to production‑grade model deployment.
-- **Mentor‑led office hours** with AI veterans from top tech firms.
-- **Lifetime access** to recordings, code repo, and community Slack.
-- **Certification** recognized by leading AI consultancies.
+1. **12 weekly live labs** with real‑world datasets (finance, retail, health).
+2. **Hands‑on projects** – build a recommendation engine, churn‑prediction model, and automated reporting dashboard.
+3. **Mentor‑led code reviews** from senior AI engineers.
+4. **Lifetime access** to recordings, notebooks, and a private community.
+5. **Certification** – showcase your AI expertise to investors and partners.
 
 ---
 
-### Why This Foundation Beats the Rest
-- **Business‑first curriculum** – every lesson ties directly to ROI‑driving outcomes.
-- **Zero‑fluff tooling** – we use open‑source stacks (Python, PyTorch, LangChain) you can run on any cloud.
-- **Proven results** – alumni report a **30% reduction in operational costs** and **2‑3× revenue lift** within 3 months.
+### How It Works
+1. **Enroll & Get Access** – Instant portal login.
+2. **Weekly Live Lab** – 90‑minute interactive session.
+3. **Build & Deploy** – Complete a real‑world AI project each week.
+4. **Launch Your AI MVP** – Deploy a production‑ready model by week 12.
+5. **Certification & Ongoing Support** – Lifetime community and updates.
 
 ---
 
-### How It Works (3 Simple Steps)
-1. **Enroll & set up** – receive a pre‑configured ML environment.
-2. **Learn & build** – weekly labs guide you from data to deployment.
-3. **Launch & scale** – integrate your model into your product with our launch checklist.
+### Who Should Join?
+- **SMB founders & CEOs** looking to embed AI in products.
+- **Product managers** who need to speak the language of data science.
+- **Tech leads & developers** eager to upskill.
+- **Marketing & operations heads** wanting to automate insights.
+
+---
+
+### Social Proof
+> "The Foundation helped us launch an AI‑driven recommendation engine in just 8 weeks, increasing average order value by 12%." – **Laura K., COO, RetailX**
+
+> "Our churn prediction accuracy jumped from 68% to 91% after the program." – **Mike D., VP Engineering, SaaSify**
 
 ---
 
 ### Frequently Asked Questions
-**Do I need a PhD?** No. We start at the basics and accelerate to production.
-**What if I can’t attend live labs?** All sessions are recorded and available on demand.
-**Is there a money‑back guarantee?** Yes – 30‑day full refund if you’re not satisfied.
+**Q:** Do I need prior coding experience?  
+**A:** Basic Python is enough; we start with fundamentals.
+
+**Q:** What if I miss a live lab?  
+**A:** All sessions are recorded and available on-demand.
+
+**Q:** Is there a guarantee?  
+**A:** Complete the program and we’ll refund the tuition if you don’t launch a working AI MVP.
 
 ---
 
 ## Ready to Transform Your Business?
 
-<a href="https://buy.stripe.com/test_4gw5n2eZ7a6c9aYc5" target="_blank" style="display:inline-block;background:#4F46E5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Enroll Now – Seats Limited</a>
+**Limited seats – only 25 spots per cohort.**
+
+[Start Your AI Journey →](/checkout?product=ai-ml-foundation-2026)
 
 ---
 
-*Join a community of 1,200+ founders who have already accelerated their AI journey.*
+*SEO Keywords: AI foundation 2026, machine learning training, AI for SMBs, AI certification, AI bootcamp 2026*
