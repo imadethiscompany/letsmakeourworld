@@ -1,5 +1,10 @@
-# Mistral Medium 3.5 Automation
+# Zed 1.0 Minimal Automation Artifact
 
-Click the button below to purchase instantly.
+This page provides a minimal automation artifact for **Zed 1.0**. It includes a simple Python script that prints a greeting.
 
-[Buy Now](https://buy.stripe.com/test_6oUbIT1Ll0csazh5UKc7x3e)
+```python
+# zed_automation.py
+print("Zed 1.0 automation running!")
+```
+
+Deploy this artifact to your Vercel site and verify health.
