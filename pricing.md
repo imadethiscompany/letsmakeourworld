@@ -40,33 +40,10 @@
 ### What You Get
 - **Full pricing audit report** (PDF + interactive dashboard)
 - **Custom pricing model** (Excel & API integration)
-- **Implementation roadmap** with weekly check‑ins
-- **30‑day post‑implementation support**
+- **Implementation roadmap** with timeline and KPIs
+- **Ongoing monitoring** for 3 months post‑launch
 
-### Pricing Packages
-| Package | Scope | Price (USD) |
-|---|---|---|
-| **Starter** | Data audit + 1 pricing model | $3,500 |
-| **Growth** | Audit, 3 models, dashboard | $7,500 |
-| **Enterprise** | Full audit, unlimited models, ongoing optimization | $12,500 |
+### Call to Action
+Ready to stop leaving money on the table? **Schedule a free 30‑minute strategy session** and see how much extra profit you could unlock.
 
-> **Ready to capture hidden profit?**
-
-[**Schedule a Free Strategy Call**](https://example.com/schedule) – No commitment, just insights.
-
----
-
-#### Frequently Asked Questions
-**Q:** *Do I need a data scientist?*  
-**A:** No. We handle the heavy lifting and deliver actionable recommendations.
-
-**Q:** *Will price changes upset my customers?*  
-**A:** Our elasticity models ensure price moves are aligned with perceived value, minimizing churn.
-
-**Q:** *How quickly can you start?*  
-**A:** Projects begin within 1‑2 weeks of contract signing.
-
----
-
-**Meta Title:** Pricing Optimization Consulting – Boost Profits with Data‑Driven Pricing
-**Meta Description:** Increase your margins by up to 30% with expert pricing optimization consulting. Data‑driven models, implementation roadmap, and ongoing support. Schedule a free strategy call today.
+[Book Your Session Now](#) 
