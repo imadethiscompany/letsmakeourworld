@@ -1,10 +1,10 @@
-# MaxHermes – Self‑Evolving AI Agent
-
-The world’s first cloud‑sandbox AI agent that gets smarter with every task. No servers, no Docker. Connect your data, set goals, and watch it automate.
-
-- **Self‑learning:** Continuously improves from your workflows.
-- **Zero‑setup:** Deploy in minutes, fully managed.
-- **Secure sandbox:** Isolated execution, enterprise‑grade security.
-- **Integrations:** APIs, databases, SaaS tools.
-
-[Buy Now – $49/mo](https://buy.stripe.com/test_dRmdR1gGf9N28r95UKc7x1i)
+<h1>Mistral Medium 3.5</h1>
+<p>Unlock the power of Mistral Medium 3.5, our cutting‑edge AI model for developers and creators.</p>
+<p>Features:
+<ul>
+<li>High‑quality text generation</li>
+<li>Fast inference</li>
+<li>Optimized for code assistance</li>
+</ul>
+</p>
+<p><a href="https://buy.stripe.com/test_6oUbIT1Ll0csazh5UKc7x3e" target="_blank">Buy Now for $49</a></p>
