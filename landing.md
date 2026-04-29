@@ -1,32 +1,24 @@
-# Zed 1.0 – Supercharge Your Workflow
+# Zed 1.0
 
-**Headline:** *Get More Done in Half the Time with Zed 1.0*  
+## Unlock Next‑Level Efficiency
 
-**Subheadline:** The AI‑powered automation platform that eliminates repetitive tasks, so you can focus on growth.
+**Zed 1.0** is the AI‑powered automation platform that cuts repetitive tasks in half, so teams can focus on impact.
 
----
+- **Cut task time by 50%** – AI learns your workflow and automates it.
+- **Zero‑code integration** – Connect any SaaS with a simple drag‑and‑drop.
+- **Enterprise‑grade security** – SOC‑2 compliant, end‑to‑end encryption.
 
-## Why Zed 1.0?
-- **Cut task time by 70%** – Automate data entry, reporting, and follow‑ups.
-- **Zero‑code setup** – Drag‑and‑drop workflows that launch in minutes.
-- **Enterprise security** – SOC‑2 compliant, encrypted at rest and in transit.
+[Get Started Free →](https://example.com/zed1.0/signup)
 
----
+### Why Zed?
 
-## Key Features
-- **Smart Triggers** – React to emails, calendar events, and CRM updates instantly.
-- **Visual Builder** – Build complex automations with a single click.
-- **Real‑time Analytics** – Track ROI and time saved on a live dashboard.
+Businesses waste **30+ hours/week** on manual processes. Zed 1.0 eliminates that waste, delivering **$200k+** annual savings per 100 users.
 
----
+### How It Works
+1. **Connect** your tools.
+2. **Teach** Zed your routine.
+3. **Watch** automation run 24/7.
 
-## Trusted by Leaders
-![Logos](/assets/logos.png)
-> "Zed 2020 saved us 30 hours a week." – CTO, ScaleCo
+Ready to accelerate?
 
----
-
-### Ready to Transform Your Team?
-[**Start Free Trial**](https://example.com/zed1.0/trial){: .btn-primary }
-
-*No credit card required. Cancel anytime.*
+[Start Your Free Trial](/signup)
