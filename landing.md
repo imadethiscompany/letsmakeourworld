@@ -1,37 +1,46 @@
----
-title: Mistral Medium 3.5 – AI Power for Every Team
-description: Unlock the next generation of large language model performance with Mistral Medium 3.5. Fast, reliable, and ready to integrate.
----
+# Zed 1.0 – Transform Your Workflow with AI Automation
 
-# Supercharge Your Apps with Mistral Medium 3.5
+## Unlock Unmatched Productivity
 
-**Fast, affordable, and ready for production** – the AI model that delivers enterprise‑grade results without the overhead.
-
-## Why Mistral Medium 3.5?
-- **Speed that matters** – 2× faster inference than leading alternatives.
-- **Cost‑effective** – up to 40% lower token pricing.
-- **Robust safety** – built‑in guardrails keep outputs reliable.
-- **Easy integration** – compatible with OpenAI, Anthropic, and Cohere SDKs.
-
-## Transform Your Business
-- **Boost conversion rates** – generate personalized copy in seconds.
-- **Automate support** – resolve tickets with accurate, context‑aware answers.
-- **Accelerate R&D** – prototype ideas without waiting for GPU clusters.
-- **Scale globally** – multi‑region deployment with low latency.
-
-## How It Works
-1. **Sign up** – instant access to your API key.
-2. **Integrate** – drop‑in the SDK or call the REST endpoint.
-3. **Deploy** – scale from a single request to millions.
-
-> "Mistral Medium 3.5 cut our content generation costs in half while improving quality." – *Beta customer, SaaS platform*
-
-### Ready to experience the future?
-[Get Started Now →](/signup?product=mistral-medium-3-5)
+**Zed 1.0** is the next‑generation AI‑powered automation platform that **eliminates repetitive tasks**, **accelerates decision‑making**, and **boosts revenue** for modern teams.
 
 ---
 
-**FAQ**
-- **What’s the latency?** Typical 50‑80 ms per request.
-- **Do you offer a free tier?** Yes – 100k free tokens each month.
-- **Support?** 24/7 email and Slack channel.
+### Why Zed 1.0?
+- **Cut task time by up to 80%** – automate data entry, reporting, and follow‑ups in seconds.
+- **Zero‑code integration** – connect to Slack, HubSpot, Google Sheets, and more with a visual workflow builder.
+- **Real‑time insights** – AI analyzes your data and surfaces actionable recommendations instantly.
+- **Enterprise‑grade security** – ISO‑27001 compliant, role‑based access, and end‑to‑end encryption.
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Connect** – Link your tools with a drag‑and‑drop connector.
+2. **Design** – Build automations using natural‑language prompts or the visual canvas.
+3. **Deploy** – Activate and watch Zed handle the grunt work while you focus on growth.
+
+---
+
+### Social Proof
+> “Zed cut our weekly reporting from 4 hours to 10 minutes. Our team finally has time to innovate.” – **Product Ops Lead, ScaleCo**
+
+> “The zero‑code setup let us automate our sales pipeline in a day, not a month.” – **Head of Sales, NovaTech**
+
+---
+
+### Ready to Supercharge Your Team?
+
+[**Start Your Free Trial**](#) – No credit card required. Experience the power of AI automation today.
+
+---
+
+#### Frequently Asked Questions
+**Q:** Do I need any coding experience?
+**A:** No. Zed’s visual builder lets anyone create automations.
+
+**Q:** Is my data safe?
+**A:** Absolutely. We use industry‑standard encryption and comply with ISO‑27001.
+
+---
+
+*Join the growing community of forward‑thinking companies that are already saving thousands of hours with Zed 1.0.*
