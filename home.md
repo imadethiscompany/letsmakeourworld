@@ -1,48 +1,60 @@
-# Pursuit: Accelerate Your GovTech Sales
+# AI Market
 
-## Unlock Government Contracts Faster Than Ever
+## Transform Your Business with AI-Powered Marketplace Solutions
 
-**Headline:** *Close $1M+ government deals in weeks, not months.*
+**Headline:** Unlock AI-Driven Growth Without Complex Integrations
 
-**Sub‑headline:** With backing from Bill Gurley and Jack Altman, Pursuit equips B2B SaaS, hardware, and services firms with a turnkey platform to discover, qualify, and win federal, state, and local contracts.
-
----
-
-### Why Pursuit?
-- **Instant Access to Real‑Time Opportunities** – AI‑curated RFP feed updates every 5 minutes.
-- **Built‑In Compliance Engine** – Auto‑populate FAR/DFARS requirements, saving 30‑40 hrs of paperwork.
-- **Dedicated Gov‑Sales Team** – Veteran former federal procurement officers guide you through the bid lifecycle.
-- **Proven Track Record** – 200+ companies have secured $500M+ in contracts in the last 12 months.
+**Subheadline:** AI Market connects you to the right AI tools, models, and services, so you can automate, personalize, and scale faster than the competition.
 
 ---
 
-### How It Works (3‑Step Blueprint)
-1. **Discover** – Connect your CRM; Pursuit surfaces high‑value contracts that match your product.
-2. **Qualify** – Automated scoring flags win‑rate, budget, and timeline.
-3. **Close** – Guided proposal builder, compliance checklists, and live support from former GSA officials.
+### Why Choose AI Market?
+
+- **Instant ROI:** Reduce operational costs by up to 30% within weeks.
+- **One‑Stop Shop:** Access vetted AI models, datasets, and APIs in a single marketplace.
+- **Zero‑Code Integration:** Deploy AI solutions with drag‑and‑drop, no engineering required.
+- **Enterprise‑Grade Security:** SOC‑2 compliant, GDPR ready, and encrypted data pipelines.
+
+---
+
+### How It Works (3 Simple Steps)
+
+1. **Discover** – Browse curated AI solutions tailored to your industry.
+2. **Test** – Run a free sandbox trial to see real‑world impact.
+3. **Deploy** – Activate with a single click and start automating.
 
 ---
 
 ### Social Proof
-> *"Pursuit turned a 6‑month sales cycle into 3 weeks. Our first federal contract was $2.3M.*" – **CTO, HealthTech SaaS**
 
-> *"The compliance engine saved us countless legal hours and got our bid approved on the first try.*" – **VP of Sales, Cybersecurity Firm**
+> *"AI Market cut our reporting time from 4 hours to 12 minutes. The ROI was immediate."* – **CTO, Global Retailer**
 
----
-
-### Ready to Win Government Business?
-
-**Start your free pilot today and get a $10,000 government contract roadmap.**
-
-[Get Started →](/signup)
+> *"We launched three new AI‑powered features in two weeks, thanks to the marketplace's plug‑and‑play APIs.*" – **Head of Product, FinTech Startup**
 
 ---
 
-#### FAQ
-- **Do I need prior government sales experience?** No – our team handles the heavy lifting.
-- **What’s the pricing model?** Tiered subscription; contact sales for a custom quote.
-- **Is there a lock‑in?** No, cancel anytime.
+### Frequently Asked Questions
+
+**Q:** Do I need a data science team?
+**A:** No. Our UI guides you through setup, and we provide expert support.
+
+**Q:** What pricing model?
+**A:** Pay‑as‑you‑go or enterprise plans – choose what fits your scale.
+
+**Q:** Is my data safe?
+**A:** Yes. All connections are encrypted, and we adhere to industry‑standard compliance.
 
 ---
 
-*Backed by Bill Gurley (Benchmark) and Jack Altman (Lattice).*
+### Ready to Accelerate?
+
+[**Start Your Free Trial**](https://ai-market.example.com/signup) – No credit card required.
+
+**Or** schedule a live demo with our AI specialists.
+
+---
+
+#### SEO Meta
+
+**Title:** AI Market – AI Marketplace for Instant Business Growth
+**Description:** Discover, test, and deploy AI solutions instantly. Boost efficiency, lower costs, and stay ahead with AI Market’s curated AI marketplace.
