@@ -1,78 +1,48 @@
-# YouTube Automation Agency
+# Gro Lead Automator
 
-## Scale Your YouTube Channel on Autopilot
+## Turn Gro v2 sign‑ups into a sales‑ready pipeline – automatically
 
-**Turn your ideas into revenue without lifting a finger.**
-
----
-
-### Why Choose Our YouTube Automation Agency?
-
-- **Full‑service video creation** – script, AI‑generated voice‑over, editing, thumbnail, upload.
-- **AI‑driven content research** – trending topics, SEO‑optimized titles, tags, and descriptions.
-- **Channel growth automation** – optimal posting schedule, community management, ad‑budget optimization.
-- **Performance dashboard** – real‑time analytics, ROI tracking, and growth recommendations.
-- **Zero hiring hassle** – we handle talent, equipment, and workflow so you can focus on strategy.
+**Capture, enrich, and outreach** to every new lead from Gro v2 without lifting a finger. Stop manual data entry and start converting leads the moment they sign up.
 
 ---
 
-### How It Works
-
-1. **Discovery Call** – We learn your niche, goals, and brand voice.
-2. **Content Blueprint** – AI scans trends, creates a 30‑day content calendar.
-3. **Production Pipeline** – Scripts, voice‑overs, editing, thumbnails – all automated.
-4. **Launch & Scale** – Videos uploaded, SEO‑tuned, promoted, and community engaged.
-5. **Growth Reporting** – Weekly dashboard with subscriber, view, and revenue metrics.
+### Why it matters
+- **Zero‑click lead capture** – every new sign‑up lands in your CRM instantly.
+- **Enriched data** – company size, industry, and contact info ready for outreach.
+- **Automated outreach** – trigger personalized email sequences the second a lead appears.
+- **Scalable** – from 1 k leads a month to unlimited.
 
 ---
 
-### Results You Can Expect
+## Plans & pricing
 
-| Metric | Typical Outcome |
-|--------|-----------------|
-| **Subscribers** | +2,000–5,000 per month |
-| **Views** | 150k–500k cumulative per month |
-| **Revenue** | $3,000–$12,000/mo (AdSense + Sponsorships) |
-| **Time Saved** | 40+ hours of content work per month |
+| Plan | Price / month | Leads / month | Key features |
+|------|---------------|---------------|--------------|
+| **Starter** | **$49** | Up to 1 000 | Automated lead scraping, Basic enrichment, Email outreach integration |
+| **Pro** | **$199** | Unlimited | Unlimited lead scraping, Advanced enrichment, Custom outreach sequences, Priority support |
 
----
-
-### Pricing Plans
-
-| Plan | Monthly | What’s Included |
-|------|---------|-----------------|
-| **Starter** | **$997** | 8 videos, SEO, thumbnail, basic community mgmt |
-| **Growth** | **$1,997** | 15 videos, advanced SEO, ad‑budget management, weekly reports |
-| **Scale** | **$3,497** | 30 videos, premium voice‑overs, full community management, dedicated strategist |
+<div style="display:flex; gap:20px; margin-top:20px;">
+  <a href="https://buy.stripe.com/test_cNi6oz3Tt8IYePx96Wc7x2F" style="background:#4A90E2;color:white;padding:12px 24px;border-radius:4px;text-decoration:none;font-weight:bold;">Start Starter – 14‑day trial</a>
+  <a href="https://buy.stripe.com/test_4gM5kvgGf1gw6j1ergc7x2G" style="background:#50C878;color:white;padding:12px 24px;border-radius:4px;text-decoration:none;font-weight:bold;">Upgrade to Pro – 14‑day trial</a>
+</div>
 
 ---
 
-### Ready to Automate Your YouTube Success?
-
-**Book a free strategy session now** and get a custom growth plan.
-
-[**Schedule My Call**](https://calendly.com/yt-automation/strategy) 
+### Instant sign‑up
+Ready to convert leads the moment they sign up? **Click a plan above** and get a 14‑day paid trial instantly. No credit card required for the first 14 days – you’ll only be charged when you decide to keep the automation running.
 
 ---
 
 #### FAQ
+**Q: Do I need any technical setup?**
+A: Just connect your Gro v2 API key. The automator handles the rest.
 
-**Q:** Do I need any equipment?
-**A:** No. We handle all production remotely.
+**Q: How fast are leads delivered?**
+A: Within seconds of a sign‑up, enriched data appears in your chosen destination.
 
-**Q:** How long before I see results?
-**A:** Most clients see measurable growth within 30‑45 days.
-
-**Q:** Can I cancel anytime?
-**A:** Yes, month‑to‑month with 14‑day notice.
-
----
-
-#### Contact
-
-Email: **hello@ytautomation.com**
-Phone: **+1 (555) 123‑4567**
+**Q: Can I cancel anytime?**
+A: Yes, cancel through your Stripe portal – no lock‑in contracts.
 
 ---
 
-*SEO Keywords: YouTube automation agency, YouTube channel growth, automated video production, YouTube SEO service, outsource YouTube videos*
+*Start turning sign‑ups into revenue today.*
