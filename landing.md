@@ -1,31 +1,34 @@
 # AI Metrics into Hybrid Models
 
-## Unlock Predictive Power with Seamless Integration
+## Unlock Predictive Power with Real‑Time AI‑Driven Insights
 
-**Combine the best of statistical rigor and AI flexibility** to turn raw data into actionable insights. Our hybrid modeling platform lets you:
+**Turn raw AI performance data into actionable business outcomes.**
 
-- **Boost forecast accuracy by up to 30%** using AI‑enhanced feature engineering.
-- **Reduce model drift** with continuous metric monitoring and automated retraining.
-- **Deploy in minutes** with one‑click integration to your existing data stack.
+- **Instantly visualize** model drift, latency, and accuracy across hybrid cloud/on‑prem environments.
+- **Automated alerts** when key metrics cross thresholds – no more surprise outages.
+- **Unified dashboard** that combines cloud‑native telemetry with on‑prem logs for a single source of truth.
+- **Custom KPI builder** – map AI metrics to your revenue, churn, or operational goals.
+- **Scalable pricing** – start for $199/mo, enterprise plans available.
 
 ### Why Hybrid?
-Traditional statistical models excel at interpretability, while AI models shine at capturing complex patterns. Our solution gives you the interpretability you need *and* the performance you want.
-
-### Key Benefits
-1. **Real‑time metric dashboards** – visualize performance, drift, and confidence.
-2. **Automated model selection** – let AI pick the optimal blend for each use‑case.
-3. **Scalable cloud deployment** – from startups to enterprises, pay‑as‑you‑grow pricing.
-4. **Compliance‑ready reporting** – audit trails and explainability built‑in.
+Your AI workloads run everywhere – edge devices, private data centers, and public clouds. Traditional monitoring tools only see one slice. Our hybrid‑first approach gives you the full picture, so you can:
+- Reduce downtime by 30%+.
+- Cut model‑retraining costs by 25%.
+- Accelerate time‑to‑value for AI projects.
 
 ### How It Works
-1. **Connect data** – secure API or CSV upload.
-2. **Define metrics** – choose from 50+ pre‑built KPI templates.
-3. **Run hybrid engine** – AI augments your statistical baseline.
-4. **Monitor & iterate** – dashboards auto‑alert on drift.
+1. **Connect** your cloud and on‑prem services with a single API key.
+2. **Ingest** metrics in real‑time (Prometheus, Grafana, Azure Monitor, etc.).
+3. **Correlate** AI KPIs with business outcomes on our dashboard.
+4. **Act** with automated remediation scripts or manual overrides.
+
+### Ready to Future‑Proof Your AI?
+[Start Your Free Trial](/signup) – No credit card required.
 
 ---
+**FAQs**
+- *Does this work with existing MLOps pipelines?* Yes – we integrate with MLflow, Kubeflow, and custom scripts.
+- *Is my data secure?* All data is encrypted at rest and in transit. We never store raw model weights.
+- *Can I try before buying?* Absolutely – 14‑day free trial with full features.
 
-**Ready to transform your analytics?**
-
-[Get a Free Demo](/demo)  
-Or **[Schedule a Call](/schedule)** to discuss a custom solution for your business.
+**Contact us**: sales@hybridai.com | +1 (800) 555‑0199
