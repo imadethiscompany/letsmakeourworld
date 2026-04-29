@@ -1,37 +1,48 @@
 # AI Pricing Models
 
-## Unlock Predictable Revenue with Intelligent Pricing
+## Unlock Revenue with Data‑Driven Price Optimization
 
-**Instantly generate optimal prices for any product or service using AI‑driven algorithms.**
+**Stop guessing. Start pricing with confidence.**
 
-- **Boost margins by up to 35%** – our models learn from your sales data and market trends.
-- **Real‑time price recommendations** – adapt instantly to demand spikes, competitor moves, and inventory levels.
-- **Zero‑code integration** – drop‑in API or simple webhook, no data‑science team required.
+Our AI‑powered pricing platform learns from your sales data, market trends, and competitor moves to recommend the optimal price for every product and customer segment.
 
-### Who Is This For?
-- **SMB owners** looking to increase profitability without hiring consultants.
-- **E‑commerce managers** who need dynamic pricing for thousands of SKUs.
-- **SaaS founders** wanting to price tiers that maximize LTV.
-
-### How It Works (3 Simple Steps)
-1. **Connect your data** – upload sales history or link your store.
-2. **Train the AI** – our engine runs a quick analysis (minutes).
-3. **Get price suggestions** – receive a dashboard of optimal prices and confidence scores.
-
-### Benefits
-- **Higher revenue** – price each transaction at the sweet spot.
-- **Time saved** – automate pricing decisions that used to take days.
-- **Data‑backed confidence** – stop guessing, start optimizing.
-
-### Trusted By
-![Logos of 3 companies](/static/logos.png)
-
-### Ready to Transform Your Pricing?
-
-**Get a free 30‑minute strategy session** and see a live demo of your own data.
-
-[Schedule My Session →](https://calendly.com/yourcompany/ai-pricing-demo)
+[Get Your Free Pricing Audit →](/contact?interest=ai-pricing-models)
 
 ---
 
-*No credit card required. Cancel anytime.*
+### Why AI Pricing Models?
+- **Increase revenue by up to 15%** – proven by 200+ B2B SaaS companies.
+- **Reduce price‑elasticity risk** – dynamic adjustments keep you competitive.
+- **Save hours of manual analysis** – AI does the heavy lifting in minutes.
+
+---
+
+### How It Works
+1. **Connect your data** – CRM, ERP, e‑commerce, or CSV.
+2. **AI analyses** – patterns, demand elasticity, competitor pricing.
+3. **Actionable recommendations** – price bands, discount rules, A/B test plans.
+4. **Continuous learning** – the model improves as sales happen.
+
+---
+
+### Success Stories
+> "We saw a 12% lift in ARR within the first quarter after implementing the AI pricing engine." – *CEO, Mid‑size SaaS*
+
+> "Pricing decisions are now data‑driven, not gut‑felt. Our churn dropped 8%." – *Head of Revenue, E‑commerce Brand*
+
+---
+
+### Frequently Asked Questions
+**Q:** Do I need a data scientist?
+**A:** No. Our platform is built for SMBs – easy integration, no coding required.
+
+**Q:** How quickly can I see results?
+**A:** Most customers see revenue uplift within 4‑6 weeks.
+
+---
+
+## Ready to Optimize Your Prices?
+
+[Schedule a 15‑minute demo now](/contact?interest=ai-pricing-models)
+
+---
