@@ -1,50 +1,31 @@
 # AI Metrics into Hybrid Models
 
-## Unlock Predictive Power for Your Business
+## Unlock Predictive Power with Seamless Integration
 
-**Headline:** Turn AI metrics into actionable insights for hybrid AI‑human workflows.
+**Combine the best of statistical rigor and AI flexibility** to turn raw data into actionable insights. Our hybrid modeling platform lets you:
 
-**Sub‑headline:** Seamlessly combine data‑driven AI signals with human expertise to boost performance, cut costs, and accelerate growth.
+- **Boost forecast accuracy by up to 30%** using AI‑enhanced feature engineering.
+- **Reduce model drift** with continuous metric monitoring and automated retraining.
+- **Deploy in minutes** with one‑click integration to your existing data stack.
 
----
+### Why Hybrid?
+Traditional statistical models excel at interpretability, while AI models shine at capturing complex patterns. Our solution gives you the interpretability you need *and* the performance you want.
 
-### Why It Matters
-- **30% faster decision cycles** – AI metrics surface trends instantly, while human judgment refines actions.
-- **Reduce errors by 25%** – Hybrid validation catches edge‑case failures before they impact customers.
-- **Scale without sacrificing quality** – Automate routine analysis, keep strategic oversight.
-
----
+### Key Benefits
+1. **Real‑time metric dashboards** – visualize performance, drift, and confidence.
+2. **Automated model selection** – let AI pick the optimal blend for each use‑case.
+3. **Scalable cloud deployment** – from startups to enterprises, pay‑as‑you‑grow pricing.
+4. **Compliance‑ready reporting** – audit trails and explainability built‑in.
 
 ### How It Works
-1. **Collect AI Metrics** – Real‑time model performance, drift, confidence scores.
-2. **Human‑In‑the‑Loop Review** – Experts evaluate alerts, add context, approve actions.
-3. **Automated Execution** – Approved actions trigger workflows, dashboards, or API calls.
-4. **Continuous Learning** – Feedback loops improve both AI models and human processes.
+1. **Connect data** – secure API or CSV upload.
+2. **Define metrics** – choose from 50+ pre‑built KPI templates.
+3. **Run hybrid engine** – AI augments your statistical baseline.
+4. **Monitor & iterate** – dashboards auto‑alert on drift.
 
 ---
 
-### Benefits for SMB Owners
-- **Immediate ROI:** See cost savings within weeks.
-- **Predictable Outcomes:** Clear KPIs tied to business goals.
-- **Expert Support:** Our team helps integrate hybrid pipelines.
+**Ready to transform your analytics?**
 
----
-
-### Ready to Transform?
-
-[**Start Your Hybrid AI Pilot – 30‑Day Free Trial**](#)
-
-*No credit card required. Get a custom roadmap and see results fast.*
-
----
-
-#### FAQ
-**Q:** Do I need a data science team?
-**A:** No. Our platform abstracts the complexity; you just set business rules.
-
-**Q:** How secure is my data?
-**A:** End‑to‑end encryption, SOC‑2 compliance.
-
----
-
-*Powered by NexGen AI Solutions – trusted by 200+ SMBs.*
+[Get a Free Demo](/demo)  
+Or **[Schedule a Call](/schedule)** to discuss a custom solution for your business.
