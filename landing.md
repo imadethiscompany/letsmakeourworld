@@ -1,86 +1,68 @@
-# Secure AI‑to‑AI Messaging API
+# Secure Messaging API for AI Agents
 
-## Unlock Seamless, Scalable Communication Between Intelligent Agents
+## Unlock Seamless, Standardized, and Secure Communication Between Your AI Agents
 
-**Instant, reliable, and fully‑managed messaging for every AI workflow**
-
----
-
-### Why Choose Our A2A Messaging Service?
-
-- **Standardized Protocols** – One simple, RESTful API that works with any LLM, agent, or micro‑service.
-- **Enterprise‑Grade Security** – End‑to‑end TLS, OAuth2, IP whitelisting, and audit logs.
-- **Scalable Infrastructure** – Autoscaling serverless back‑end handles thousands of messages per second.
-- **Built‑in Rate‑Limiting & Queuing** – Guarantees fair usage and prevents overload.
-- **Developer‑First Experience** – Auto‑generated OpenAPI spec, SDKs for Python, Node, Go, and Rust.
+### Why It Matters
+AI agents are powerful, but they often **talk in silos**. Our A2A Messaging API gives you a **single, secure, and scalable** channel for agents to exchange data, trigger actions, and collaborate in real‑time.
 
 ---
 
-## Core Features
-
-| Feature | What It Does | Benefit |
-|---|---|---|
-| **Message Queues** | Guarantees ordered delivery even under load | No lost or out‑of‑order messages
-| **Secure Tokens** | OAuth2 + JWT signing | Fine‑grained access control
-| **Replay & Audit** | Full message history with timestamps | Compliance & debugging
-| **Webhooks & Callbacks** | Push notifications to your services | Real‑time integration
-| **Rate‑Limit Policies** | Per‑app, per‑endpoint limits | Predictable costs, protected resources |
+## Core Benefits
+- **Standardized Protocol** – One consistent REST/WS‑based API for any language or framework.
+- **End‑to‑End Encryption** – TLS 1.3 + optional payload signing ensures data privacy.
+- **Scalable Infrastructure** – Auto‑scaled containers on cloud‑native platform, handling thousands of concurrent messages.
+- **Built‑in Rate‑Limiting & Auditing** – Prevent abuse and keep a complete audit trail.
+- **Simple Billing** – Pay‑as‑you‑go pricing, no hidden fees.
 
 ---
 
 ## Real‑World Use Cases
-
-- **Autonomous Customer Support** – Connect chat‑GPT bots to a ticketing engine.
-- **Co‑ordinated Trading Agents** – Sync market‑analysis bots with execution engines.
-- **Multi‑modal Content Creation** – Orchestrate image, text, and video generators.
-- **IoT Edge AI** – Securely stream sensor insights between edge models.
-- **Enterprise Workflow Automation** – Glue internal LLM assistants together.
+| Use‑Case | How It Works | Business Impact |
+|---|---|---|
+| **Multi‑agent orchestration** | Coordinate a planner, executor, and validator agent in a workflow. | Faster decision loops, 30% reduction in latency. |
+| **Secure data sharing** | Pass sensitive user data between a recommendation engine and compliance checker. | Maintain GDPR compliance, avoid data leaks. |
+| **Event‑driven automation** | Trigger a monitoring agent when a forecasting agent detects an anomaly. | Proactive issue resolution, 20% cost savings on downtime. |
+| **Cross‑service integration** | Connect internal chat‑bot agents with external SaaS APIs via our bridge. | Extend capabilities without custom adapters. |
 
 ---
 
-## Pricing Plans
-
-| Plan | Monthly Price | Messages Included | Add‑On Price (per 1 M) | Ideal For |
+## Pricing
+| Plan | Price / month | Messages Included | Overages | Ideal For |
 |---|---|---|---|---|
-| **Starter** | **$49** | 5 M | $9.99 | Small prototypes, hobbyist developers |
-| **Growth** | **$199** | 25 M | $7.99 | SaaS startups, internal tools |
-| **Enterprise** | **Custom** | Unlimited | Custom | Large organizations, compliance‑heavy workloads |
+| **Starter** | **$49** | 100 k messages | $0.0005 per extra | Small teams, prototypes |
+| **Growth** | **$199** | 1 M messages | $0.0004 per extra | Scaling startups |
+| **Enterprise** | **Custom** | Unlimited | Custom rates | Large orgs, SLA & dedicated support |
 
-All plans include **free SSL**, **dedicated support**, and **99.9% SLA uptime**.
-
----
-
-## Get Started in Minutes
-
-1. **Sign up** – No credit card required for Starter.
-2. **Create an API key** – Instant in the dashboard.
-3. **Integrate** – Use our SDKs or raw HTTP calls.
-4. **Scale** – Auto‑scale as your agents grow.
-
-> **Ready to power the next generation of AI agents?**
-
-### 🎯 **Start Your Free Trial Today**
-
-[**Create Account →**](https://a2a.example.com/signup)  
-*No credit card. Cancel anytime.*
+All plans include:
+- 24/7 API access
+- SLA‑backed uptime (99.9%)
+- Detailed usage dashboards
+- Dedicated security reviews (Enterprise)
 
 ---
 
-### FAQ
+## Ready to Supercharge Your AI Agents?
 
-**Q: Is there a free tier?**
-A: Yes – the Starter plan is $49 / mo with a 14‑day free trial; you can test unlimited messages during the trial.
+**Start your free trial today – no credit card required.**
 
-**Q: How is data stored?**
-A: All messages are encrypted at rest and in transit. We never log payload contents unless you enable audit logging.
-
-**Q: Can I self‑host?**
-A: We offer a private‑cloud deployment for Enterprise customers.
+[Get Started →](/signup)
 
 ---
 
-#### Join the AI‑to‑AI Revolution
+### Frequently Asked Questions
+**Q:** *Is there a free tier?*  
+**A:** Yes – the Starter plan is free for the first 30 days.
 
-**[Sign Up Now →](https://a2a.example.com/signup)**
+**Q:** *How is data stored?*  
+**A:** Messages are transient; we never persist payloads unless you enable logging.
 
-*Secure. Scalable. Simple.*
+**Q:** *Can I self‑host?*  
+**A:** Currently we operate as a managed service for reliability, but an on‑prem option is in roadmap.
+
+---
+
+## Join the AI Agent Revolution
+
+Build smarter, faster, and more secure AI systems with **A2A Messaging API**.
+
+[Start Your Free Trial](/signup)
