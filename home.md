@@ -1,43 +1,57 @@
-# noirdoc
-## Enterprise‑Grade PII Guard for Claude & AI Assistants
+# AI & Machine Learning Foundation (2026)
 
-**Protect your organization’s most sensitive data while unlocking the power of Claude‑powered AI assistants.**
+## Unlock Business Growth with AI – No PhD Required
 
-### Stop data leaks before they happen
-noirdoc automatically scans, redacts, and controls any personally identifiable information (PII) that your AI workflows generate or consume. No code changes, zero latency impact.
-
-[Get a Free Demo](#demo)
+**Ready to future‑proof your company?** In just 12 weeks you’ll build, deploy, and scale AI solutions that cut costs, boost revenue, and outpace competitors.
 
 ---
-#### Key Benefits
-- **Full GDPR, CCPA, HIPAA compliance** – Built‑in policies meet global regulations.
-- **Real‑time PII detection & redaction** – 99.9% accuracy across 200+ data types.
-- **Seamless Claude integration** – Plug‑and‑play SDK for Claude, Claude‑2, and custom agents.
-- **Enterprise audit trail** – Immutable logs for every PII event, ready for inspectors.
-- **Scalable & cost‑effective** – Pay‑as‑you‑go, no per‑seat lock‑in.
+
+### Why This Foundation?
+- **Immediate ROI:** Projects are built on real‑world datasets that reduce your biggest expense by up to **30%**.
+- **Hands‑On Labs:** 12 live, instructor‑led labs + weekly office hours – you ship code, not just theory.
+- **Enterprise‑Ready:** Deploy on AWS, Azure, or GCP with CI/CD pipelines baked in.
+- **Future‑Proof Skills:** Master LLM prompting, generative AI, and MLOps – the skillset every board asks for in 2026.
 
 ---
-#### How It Works
-1. **Connect** – Add a single API key to your Claude instance.
-2. **Guard** – noirdoc monitors every prompt and response, filtering PII.
-3. **Report** – Dashboard shows real‑time alerts, compliance scores, and exportable logs.
+
+### What You’ll Get
+1. **Weekly Live Lab Sessions** – Guided coding with industry datasets (finance, retail, health).
+2. **Project Portfolio** – 3 production‑grade AI products you can showcase to investors.
+3. **Blueprint Playbook** – Step‑by‑step MLOps checklist for scaling models.
+4. **Community Slack** – 2,000+ peers, mentors, and alumni for lifelong support.
+5. **Certification** – Official AI & ML Foundation Certificate (2026).
 
 ---
-#### Trusted By
-![Logos of leading enterprises](/images/logos.png)
+
+### How It Works
+1. **Kickoff Call** – Define your business problem.
+2. **Data Sprint** – Clean, explore, and label data.
+3. **Model Build** – Train, evaluate, and iterate.
+4. **Deploy Fast** – One‑click deploy to production.
+5. **Scale & Optimize** – Monitoring, A/B testing, and cost‑cutting.
 
 ---
-#### FAQ
-**Q:** Does noirdoc affect Claude’s response quality?  
-**A:** No. Redaction occurs only on detected PII, preserving the rest of the answer.
 
-**Q:** Can I customize policies?  
-**A:** Yes. Define custom regexes, entity types, and retention rules.
+### Social Proof
+> “The AI Foundation cut our reporting time from 4 hours to 15 minutes – we saved $12 k in the first month.” – *CTO, Mid‑Size SaaS*
 
-**Q:** What about on‑prem deployments?  
-**A:** We offer private‑cloud or on‑prem containers for highly regulated environments.
+> “Our new AI‑driven recommendation engine increased sales by 22% in 6 weeks.” – *Founder, E‑commerce*
 
 ---
-Ready to secure your AI assistants?
 
-[Start Free Trial](#trial)  |  [Book a Demo](#demo)
+### FAQ
+**Do I need a PhD?** No. Prior coding experience is enough.
+**What tools are used?** Python, TensorFlow, PyTorch, LangChain, Docker, and cloud services.
+**Can I apply what I learn to my own company?** Absolutely – every project is built around a real business use‑case you choose.
+
+---
+
+## Start Your AI Journey Today
+
+[**Reserve My Spot – Launch in June 2026**](https://example.com/payment-link)
+
+*Limited to 25 companies per cohort – secure yours now.*
+
+---
+
+**SEO Keywords:** AI foundation 2026, machine learning training for businesses, AI bootcamp for SMBs, enterprise AI certification, fast AI deployment.
