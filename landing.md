@@ -1,54 +1,33 @@
-# AI Defense Stock Alerts – Ride the BigBear.ai Earnings Momentum
+# YouTube Automation Agency
 
-**Unlock exclusive, AI‑driven alerts that pinpoint the next big move in defense‑tech stocks.**
+## Scale Your Business with Automated YouTube Channels
 
----
+Are you a small‑to‑medium business owner looking to generate **consistent leads, brand authority, and revenue** without spending countless hours on video production?
 
-## Why BigBear.ai?
-- **Breakthrough AI‑powered analytics** that decode defense‑sector trends.
-- **Consistent earnings beat** – the last 4 quarters have outperformed the S&P 500 defense index by **+23%**.
-- **Strategic contracts** with the Pentagon and top‑tier allies fueling revenue growth.
+Our **YouTube Automation Agency** builds, manages, and optimizes fully automated YouTube channels that:
 
-## What You Get with the Premium Subscription
-- **Real‑time alerts** – delivered within minutes of earnings releases and contract announcements.
-- **Actionable trade signals** – entry, stop‑loss, and target levels backed by proprietary AI models.
-- **Weekly deep‑dive report** – market‑wide defense analysis, risk assessment, and portfolio recommendations.
-- **Private Discord community** – discuss tactics with fellow investors and our AI‑research team.
-- **Historical performance tracker** – see how past alerts performed in real‑time.
+- **Research & Script**: AI‑driven niche research and high‑converting scripts tailored to your audience.
+- **Production**: Voice‑over, stock B‑roll, and professional editing – all on autopilot.
+- **SEO & Growth**: Keyword‑rich titles, thumbnails, and algorithm‑friendly posting schedules.
+- **Lead Capture**: Integrated CTAs and funnel links that turn viewers into qualified leads.
 
-## How It Works
-1. **AI monitors** SEC filings, earnings calls, and contract news for BigBear.ai and its peers.
-2. **Signal engine** evaluates momentum, sentiment, and valuation metrics.
-3. **Instant push** via email, SMS, and Discord bot – you never miss a trade.
+### Why Choose Us?
+- **Zero Video Team Costs** – We handle everything from concept to upload.
+- **Fast Turnaround** – First video live within 7 days.
+- **Proven ROI** – Clients see a 2‑5× increase in inbound leads within the first month.
+- **Transparent Pricing** – Simple monthly packages, no hidden fees.
 
----
+### Packages
+| Package | Videos / Month | Target Views | Price |
+|---|---|---|---|
+| **Starter** | 4 | 5K‑10K | **$499** |
+| **Growth** | 8 | 10K‑25K | **$999** |
+| **Scale** | 12 | 25K‑50K | **$1,499** |
 
-## Pricing
-| Plan | Price (monthly) | Features |
-|------|----------------|----------|
-| **Premium** | **$49** | All alerts, weekly report, Discord access, performance tracker |
+Ready to dominate YouTube and flood your sales pipeline?
 
-> **Limited‑time offer:** Subscribe now and get the first month **FREE** – just cover the processing fee.
-
----
-
-## Frequently Asked Questions
-**Q: How fast are the alerts?**
-A: Typically within **5‑10 minutes** of a market‑moving event.
-
-**Q: Is there a lock‑in?**
-A: No. Cancel anytime with a single click.
-
-**Q: Do you guarantee profits?**
-A: We provide data‑driven signals, but all trading involves risk. Past performance is not indicative of future results.
+[**Book a Free Strategy Call**](https://calendly.com/youautomation/strategy)  
+Or start now with a **30‑day risk‑free trial** – **[Get Started](/signup)**
 
 ---
-
-## Ready to Turbocharge Your Defense‑Tech Portfolio?
-
-[**Start Your Free Month →**](https://buy.stripe.com/test)  
-*Secure checkout powered by Stripe – your data stays private.*
-
----
-
-*© 2024 AI Defense Alerts. All rights reserved.*
+*Your success on YouTube is just a click away.*
