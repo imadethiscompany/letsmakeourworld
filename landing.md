@@ -1,60 +1,58 @@
-# AI Pricing – Unlock Revenue with Real‑Time, Data‑Driven Price Optimization
+---
+title: Pursuit – Accelerate Your Gov Sales
+description: Get Bill Gurley & Jack Altman‑backed Pursuit to open the federal market. Fast‑track contracts, win pilots, and grow revenue with proven go‑to‑government playbooks.
+---
 
-## Headline
-**Boost Your Profits by 30% with AI‑Powered Dynamic Pricing**
+# Unlock Government Contracts with Pursuit
 
-### Subheadline
-Stop guessing. Let our AI analyze market demand, competitor prices, and customer behavior to set the optimal price for every product, every time.
+**Bill Gurley** and **Jack Altman** are backing the next generation of B2B sales. Pursuit gives you the playbook, tools, and network to win government business—fast.
 
 ---
 
-## Why AI Pricing?
-- **Increase margins** – Companies using AI pricing see average margin lifts of **25‑35%**.
-- **Never lose sales** – Real‑time price adjustments keep you competitive without undercutting.
-- **Save hours** – Automate price research that used to take days of manual work.
-- **Data‑backed confidence** – AI learns from your sales data, giving you pricing that works.
+## Why Government Sales?
+- **$1.2 trillion** annual federal spend on tech and services.
+- **Predictable, multi‑year contracts** that stabilize cash flow.
+- **Low competition** when you know the right procurement pathways.
+
+## How Pursuit Works
+1. **Market Intelligence** – Real‑time radar on upcoming RFPs and agency budgets.
+2. **Proposal Engine** – Templates & compliance checklists that satisfy FAR/DFARS.
+3. **Deal Acceleration** – Direct introductions to procurement officers and mentors from Bill & Jack’s network.
+4. **Revenue Ops Dashboard** – Track pipeline, forecast, and compliance in one view.
 
 ---
 
-## How It Works (3 Simple Steps)
-1. **Connect Your Store** – Sync with Shopify, WooCommerce, Stripe, or CSV.
-2. **AI Learns** – Our models ingest sales, inventory, competitor feeds, and seasonality.
-3. **Dynamic Prices Deploy** – Prices update instantly on your storefront or via API.
+## What You Get
+- **Instant Access** to a curated list of high‑value government opportunities.
+- **Step‑by‑Step Playbook** proven to cut sales cycle from 12 months to 3‑4 months.
+- **Mentor Calls** with seasoned ex‑government sales leaders.
+- **Compliance Toolkit** to avoid costly proposal rejections.
 
 ---
 
-## Social Proof
-> “We switched to AI Pricing and saw a **28% profit boost in the first month**. The setup was painless.” – *E‑Commerce Founder, 2023*
+## Ready to Win Your First Gov Contract?
 
-> **Trusted by**: 200+ brands, $500M+ in transaction volume.
+### Start the Pursuit Accelerator
 
----
+[Get Started – Free Demo](/demo)
 
-## Pricing Plans
-| Plan | Monthly | Features |
-|------|---------|----------|
-| **Starter** | **$49** | Up to 5,000 SKUs, basic AI, email support |
-| **Growth** | **$199** | 50,000 SKUs, advanced AI, Slack support, A/B testing |
-| **Enterprise** | **Custom** | Unlimited SKUs, dedicated account manager, SLA, API access |
-
-**Most customers start with the Growth plan and upgrade as they scale.**
+Or book a 15‑minute strategy call with our team.
 
 ---
 
-## FAQ
-**Q:** Do I need a data scientist?
-**A:** No. Our UI guides you through setup and the AI does the heavy lifting.
+### Social Proof
 
-**Q:** Is my data secure?
-**A:** We encrypt at rest and in transit, GDPR‑compliant.
+> “Pursuit turned a 6‑month stall into a $2 M contract in 8 weeks.” – **CTO, SaaS Startup**
 
----
-
-## Call to Action
-[**Start Your Free 14‑Day Trial**](https://example.com/checkout?plan=growth) – No credit card required.
+> “The network alone is worth the investment.” – **VP Sales, Cloud Provider**
 
 ---
 
-*SEO Meta*:
-- **Title:** AI Pricing – Real‑Time Dynamic Pricing Software
-- **Description:** Increase e‑commerce profits by up to 30% with AI‑powered dynamic pricing. Free 14‑day trial, no credit card needed.
+### FAQ
+**Do I need prior government experience?** No – our playbook guides you step‑by‑step.
+**What’s the pricing?** Contact us for a custom quote based on your target spend.
+**Is there a free trial?** Yes – book a demo and see the pipeline in action.
+
+---
+
+*Backed by Bill Gurley (Benchmark) & Jack Altman (Lattice). Join the ranks of startups closing $10M+ government deals.*
