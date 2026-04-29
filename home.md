@@ -1,36 +1,66 @@
-# YouTube Automation Agency
+# Zed AI Copywriter
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Write Faster, Convert Better
 
-**Turn your video ideas into revenue** with our end‑to‑end automation service. We handle video scripting, AI‑voice‑over, professional editing, eye‑catching thumbnails, SEO‑optimized titles & descriptions, and daily uploads – all on autopilot.
-
-### Why Choose Us?
-- **Zero Production Hassle** – AI‑generated scripts + voiceovers, premium B‑roll, and one‑click publishing.
-- **Rapid Growth** – Proven frameworks that boost views, watch time, and subscriber count.
-- **Full Funnel Integration** – Custom CTAs, email capture, and monetization strategies built in.
-- **Data‑Driven SEO** – Keyword research, tags, and algorithm‑friendly metadata for every video.
-- **Scalable Packages** – From solo creators to agencies handling dozens of channels.
-
-### Our All‑In‑One Service
-| Feature | Details |
-|---|---|
-| **Script Writing** | AI‑assisted research, outlines, and polished scripts tailored to your niche. |
-| **Voice‑Over** | Natural‑sound AI voice (or your own) with full editing. |
-| **Video Editing** | High‑quality cuts, transitions, captions, and royalty‑free stock footage. |
-| **Thumbnail Design** | Click‑bait‑ready designs that increase CTR by up to 30%. |
-| **SEO Optimization** | Titles, descriptions, tags, and timestamps optimized for YouTube’s algorithm. |
-| **Daily Uploads** | Consistent schedule to keep the algorithm happy. |
-| **Analytics & Reporting** | Weekly performance dashboards and growth recommendations. |
-
-### Packages
-- **Starter** – $499/mo: 3 videos/week, basic SEO, thumbnail design.
-- **Growth** – $999/mo: 7 videos/week, advanced SEO, custom CTAs, analytics.
-- **Enterprise** – Custom pricing: 14+ videos/week, dedicated account manager, full funnel integration.
-
-> **"We went from 0 to 10k subscribers in 2 months – hands‑free!"** – *Happy Creator*
-
-### Ready to Automate Your Channel?
-[**Start Free Trial**](https://example.com/checkout) – No credit card required. Or book a **15‑minute strategy call** to see how we can accelerate your growth.
+🚀 **Boost your copywriting productivity with AI-powered precision.**
 
 ---
-*SEO Keywords: YouTube automation, YouTube growth service, automated video production, YouTube channel management, AI video creation*
+
+### 🎥 Demo Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Zed AI Copywriter Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### ✨ Features
+
+- **AI‑Generated Copy** in seconds – headlines, ads, emails, blogs.
+- **SEO‑Optimized** content with keyword density control.
+- **Tone & Style** sliders – formal, casual, persuasive.
+- **One‑Click Export** to Word, PDF, or HTML.
+- **Team Collaboration** with real‑time editing.
+
+---
+
+### 📦 Pricing
+
+| Plan | Price / month | Included | Ideal For |
+|------|---------------|----------|-----------|
+| **Starter** | $19 | 10,000 words | Solo freelancers |
+| **Growth** | $49 | 50,000 words + priority support | Small agencies |
+| **Enterprise** | $149 | Unlimited words + custom model | Large teams |
+
+[Get Started](/signup)  
+*(All plans include a 14‑day free trial and cancel anytime.)*
+
+---
+
+### 📧 Get Early Access
+
+<div id="lead-form">
+  <form action="https://api.example.com/lead" method="POST">
+    <input type="email" name="email" placeholder="Your email address" required style="padding:8px;width:80%;margin-bottom:8px;"/>
+    <br/>
+    <button type="submit" style="padding:10px 20px;background:#0070f3;color:#fff;border:none;border-radius:4px;cursor:pointer;">Join Waitlist</button>
+  </form>
+</div>
+
+---
+
+#### Frequently Asked Questions
+
+**Q:** How does the AI ensure SEO quality?
+**A:** It uses the latest GPT‑4‑based models trained on top‑ranking pages and follows Yoast guidelines.
+
+**Q:** Can I cancel anytime?
+**A:** Yes, no contract required.
+
+---
+
+*Ready to supercharge your copy?*  
+**Start your free trial today!**
+
+---
+
+<meta name="description" content="Zed AI Copywriter – AI‑powered, SEO‑optimized copywriting for marketers, agencies, and businesses. Free trial, instant results.">
+<meta name="keywords" content="AI copywriter, AI writing, SEO copy, marketing AI, content generation">
