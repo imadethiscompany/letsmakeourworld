@@ -1,45 +1,43 @@
-# Gro v2 – Automated Lead Generation
+# noirdoc
+## Enterprise‑Grade PII Guard for Claude & AI Assistants
 
-## Capture, Enrich, Outreach – All in One Click
+**Protect your organization’s most sensitive data while unlocking the power of Claude‑powered AI assistants.**
 
-**Zero‑click lead capture** – instantly pull prospects from any source without manual entry.
+### Stop data leaks before they happen
+noirdoc automatically scans, redacts, and controls any personally identifiable information (PII) that your AI workflows generate or consume. No code changes, zero latency impact.
 
-**Real‑time enrichment** – add email, phone, company data, and social profiles on the fly.
-
-**Automated outreach** – send personalized sequences that convert.
-
-**Scalable for any team** – from solo founders to enterprise sales.
+[Get a Free Demo](#demo)
 
 ---
-
-### Why Gro v2?
-- **Save 10+ hours/week** by eliminating manual data entry.
-- **Boost conversion rates 2‑3×** with hyper‑personalized outreach.
-- **Never miss a lead** – our AI‑driven pipeline works 24/7.
-
----
-
-## Pricing
-| Plan | Price / mo | Features |
-|------|------------|----------|
-| **Starter** | **$49** | Capture + Enrichment + 5 outbound sequences |
-| **Pro** | **$199** | Unlimited sequences, advanced AI scoring, priority support |
-
-[Start Starter – 14‑day trial](#)  
-[Upgrade to Pro – 14‑day trial](#)
+#### Key Benefits
+- **Full GDPR, CCPA, HIPAA compliance** – Built‑in policies meet global regulations.
+- **Real‑time PII detection & redaction** – 99.9% accuracy across 200+ data types.
+- **Seamless Claude integration** – Plug‑and‑play SDK for Claude, Claude‑2, and custom agents.
+- **Enterprise audit trail** – Immutable logs for every PII event, ready for inspectors.
+- **Scalable & cost‑effective** – Pay‑as‑you‑go, no per‑seat lock‑in.
 
 ---
-
-### Frequently Asked Questions
-**Q:** Do I need a credit card?
-**A:** No. Start your free trial instantly – no payment required.
-
-**Q:** How quickly can I see results?
-**A:** Most users report qualified leads within 24 hours.
+#### How It Works
+1. **Connect** – Add a single API key to your Claude instance.
+2. **Guard** – noirdoc monitors every prompt and response, filtering PII.
+3. **Report** – Dashboard shows real‑time alerts, compliance scores, and exportable logs.
 
 ---
+#### Trusted By
+![Logos of leading enterprises](/images/logos.png)
 
-#### Ready to automate your pipeline?
-**Start your free trial now and watch leads flow in.**
+---
+#### FAQ
+**Q:** Does noirdoc affect Claude’s response quality?  
+**A:** No. Redaction occurs only on detected PII, preserving the rest of the answer.
 
-[Get Started →](#)
+**Q:** Can I customize policies?  
+**A:** Yes. Define custom regexes, entity types, and retention rules.
+
+**Q:** What about on‑prem deployments?  
+**A:** We offer private‑cloud or on‑prem containers for highly regulated environments.
+
+---
+Ready to secure your AI assistants?
+
+[Start Free Trial](#trial)  |  [Book a Demo](#demo)
