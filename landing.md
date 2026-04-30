@@ -1,61 +1,78 @@
-# AI Metrics into Hybrid Models Aligned with Product
+# Voice Agent API
 
-## Unlock Predictable Growth with Data‑Driven Hybrid AI
+<div style="background:#fffbcc;padding:15px;border:2px solid #ffd700;text-align:center;font-weight:bold;">
+🚀 **Launch Special! Get 20% OFF your first 3 months – Use code **VOICE20** at checkout. Offer ends **April 30, 2026**. 🚀
+</div>
 
-**Turn raw AI performance metrics into actionable hybrid models that power your product roadmap.**
+## Turn Speech into Seamless Conversations
 
----
+**Voice Agent API** lets developers add high‑quality, real‑time voice interaction to any app, product, or service. Powered by state‑of‑the‑art speech‑to‑text, natural‑language understanding, and text‑to‑speech, our API is built for speed, accuracy, and scalability.
 
-### Why Traditional AI Metrics Fail
-- **Isolated data:** Most teams track accuracy, latency, cost **separately** – you never see the full picture.
-- **No product tie‑in:** Metrics stay in notebooks, never inform feature decisions.
-- **Decision fatigue:** Teams drown in noisy dashboards and guess which metric matters.
+### Why Choose Voice Agent API?
 
-### Our Solution: Integrated Hybrid Modeling
-- **Combine** quantitative AI metrics (precision, recall, cost, latency) **with** product KPIs (conversion, churn, LTV).
-- **Hybrid models** automatically surface the metric‑product combos that drive revenue.
-- **Real‑time alerts** when a metric shift threatens product health.
-
-### Key Benefits
-1. **30% faster product decisions** – see which model improvements will boost conversion.
-2. **Reduce AI‑related churn by 20%** – proactive alerts stop bad experiences before they happen.
-3. **Cut experimentation cost by 40%** – focus on changes that move the needle.
-
-### How It Works (3 Simple Steps)
-1. **Connect** your AI monitoring tools (MLflow, Weights & Biases, custom logs).
-2. **Map** each metric to product outcomes using our drag‑and‑drop UI.
-3. **Deploy** hybrid models that feed live insights into your product dashboard.
+- **🔊 Ultra‑low latency** – <150 ms response time.
+- **🧠 AI‑driven NLU** – Intent detection with 95%+ accuracy.
+- **📈 Scalable** – Auto‑scales to millions of requests per day.
+- **🛡️ Enterprise‑grade security** – End‑to‑end encryption, GDPR‑ready.
+- **💰 Pay‑as‑you‑go** – No hidden fees, transparent pricing.
 
 ---
 
-### Social Proof
-- **Series A AI startup** reduced model‑related churn by **18%** in 2 months.
-- **E‑commerce platform** increased conversion **+12%** after aligning latency metrics with checkout flow.
-- Trusted by **30+** leading AI product teams.
+## Features
+
+- **Real‑time Streaming** – Bidirectional audio streaming for live conversations.
+- **Multi‑language Support** – 30+ languages & dialects.
+- **Custom Voice Models** – Upload your own acoustic models.
+- **Sentiment & Emotion Detection** – Understand user mood.
+- **Rich Analytics Dashboard** – Track usage, latency, and accuracy.
+- **Easy SDKs** – Node, Python, Go, Java, and REST.
 
 ---
 
-### Ready to Align AI Metrics with Product Success?
+## Pricing
 
-[**Start Your Free 14‑Day Trial**](#) – No credit card required.
+| Plan | Monthly Price | Included Minutes | Features |
+|------|---------------|------------------|----------|
+| **Free** | **$0** | 5,000 minutes | Basic streaming, 1 language, community support |
+| **Pro** | **$49** | 100,000 minutes | All features, 10 languages, email support, analytics |
+| **Enterprise** | **Custom** | Unlimited | SLA, dedicated account manager, on‑prem deployment, white‑labeling |
 
-Or **schedule a 15‑minute demo** to see the impact on your roadmap.
-
----
-
-#### FAQ
-**Q:** Do I need a data‑science team?
-**A:** Our UI is built for product managers; data scientists can add custom formulas.
-
-**Q:** Is my data secure?
-**A:** All connections use end‑to‑end encryption and are SOC‑2 compliant.
+> **Limited‑time Discount:** Apply **VOICE20** at checkout to receive **20% off** the Pro plan for the first 3 months.
 
 ---
 
-**SEO Meta**
-- **Title:** AI Metrics → Hybrid Models | Align AI with Product Goals
-- **Description:** Turn AI performance data into hybrid models that drive product growth. Free trial available.
+## Quick Start
+
+1. **Sign Up** – Create a free account.
+2. **Get API Key** – Your dashboard generates a secure token.
+3. **Integrate** – Use our SDKs or direct REST calls.
+4. **Deploy** – Scale instantly with our cloud infrastructure.
+
+```bash
+# Example cURL request
+curl -X POST https://api.voiceagent.io/v1/recognize \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -H "Content-Type: audio/wav" \
+  --data-binary @sample.wav
+```
 
 ---
 
-*Transform AI metrics from static numbers into growth‑driving insights.*
+## FAQ
+
+**Q:** *Do I need a credit card to start?*  
+**A:** No. The Free tier is completely credit‑card‑free.
+
+**Q:** *How secure is the data?*  
+**A:** All traffic uses TLS 1.3, data is encrypted at rest, and we are SOC 2 compliant.
+
+**Q:** *Can I cancel anytime?*  
+**A:** Yes, cancel via your dashboard – no penalties.
+
+---
+
+## Ready to Power Your Voice Experiences?
+
+[Start Your Free Trial →](https://voiceagent.io/signup)
+
+*Join the growing list of developers building voice‑first products with Voice Agent API.*
