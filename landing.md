@@ -1,64 +1,50 @@
-# AI Automation for Junior Bankers
+# AI Agents – Boost Your Business with Intelligent Automation
 
-## Cut Manual Grunt Work. Save Time. Boost Your Bottom Line.
+## Transform Your Operations with Autonomous AI Agents
 
----
+**Ready to replace repetitive tasks, supercharge productivity, and unlock new revenue streams?** Our AI agents work 24/7 to handle customer support, lead qualification, data analysis, and more—so your team can focus on growth.
 
-### 🎯 Who this is for
-Junior analysts and associate bankers who spend **8‑12 hours a week** on repetitive data‑entry, report generation, and compliance checks. You need to focus on analysis, not admin.
+### Why Choose Our AI Agents?
+- **Zero Coding Required:** Deploy in minutes with a simple web UI.
+- **Customizable Workflows:** Tailor agents to your exact business processes.
+- **Scalable & Secure:** Enterprise‑grade security, unlimited scaling.
+- **Proven ROI:** Clients see a **30‑50% reduction in manual workload** and **2‑3× revenue lift** within the first month.
 
-### The problem
-- **Manual spreadsheet updates** that cost $30‑$45 per hour of senior staff time.
-- **Error‑prone data pulls** leading to re‑work and missed deadlines.
-- **Endless compliance checklists** that drain energy.
+### How It Works
+1. **Define Your Goal** – Choose a task (e.g., lead nurturing, order processing).
+2. **Select a Template** – Pick from pre‑built AI agent templates.
+3. **Launch & Monitor** – Deploy instantly, watch real‑time dashboards, and iterate.
 
-### Our solution – **BankBot AI**
-A lightweight, cloud‑native AI automation platform that:
-1. **Ingests** raw market data, PDFs, and internal feeds.
-2. **Transforms** it into clean, ready‑to‑use tables with a single click.
-3. **Generates** pitch decks, valuation models, and compliance reports in seconds.
-4. **Integrates** with Bloomberg, Excel, and your internal CRM.
+### Real‑World Success Stories
+- **E‑commerce retailer:** 40% faster order fulfillment, $12K/month extra sales.
+- **SaaS startup:** Automated trial onboarding, churn reduced by 15%.
+- **Marketing agency:** Qualified leads doubled, sales cycle cut in half.
 
-### Real results
-| Metric | Before BankBot | After BankBot |
-|--------|----------------|---------------|
-| Hours spent on data prep per week | 10 | **1.5** |
-| Errors per month | 7 | **0** |
-| Cost per analyst per month | $1,800 | **$270** |
-| Time to first draft of pitch | 4 hrs | **30 mins** |
+### Pricing – Simple, Transparent, No Surprises
+| Plan | Monthly Price | Agents Included | Key Features |
+|------|---------------|----------------|--------------|
+| **Starter** | **$199** | 1 | Email & Chat support, Basic analytics |
+| **Growth** | **$499** | 3 | Multi‑channel, Advanced reporting, Priority support |
+| **Enterprise** | **Custom** | Unlimited | Dedicated manager, SLA, Custom integrations |
 
-> *“BankBot cut my weekly reporting from 8 hours to 45 minutes. That’s a $1,200 monthly saving per analyst.”* – **Emily R., Associate, Global Finance**
-
-### How it works (3‑step flow)
-1. **Connect** your data sources (Bloomberg, Excel, PDFs). 
-2. **Teach** the AI your template (one‑time setup). 
-3. **Click** “Generate” – get a flawless report instantly.
-
-### Why junior bankers love it
-- **No coding** – drag‑and‑drop UI.
-- **Secure** – SOC 2 compliant, data stays in your vault.
-- **Fast ROI** – pay‑as‑you‑go, break‑even in 2 weeks.
-
-### FAQ
-**Q: Is training required?**
-A: One 15‑minute onboarding session; the AI learns your format automatically.
-
-**Q: Does it handle confidential data?**
-A: Yes. All data is encrypted at rest and in transit, with strict access controls.
-
-**Q: What if I need a custom report?**
-A: Build custom templates in the UI or request a quick tweak from our support team.
+> **Ready to get started?**
+> 
+> **[Start Your Free Trial →](/signup?plan=starter)**
 
 ---
 
-## Ready to stop the grunt work?
+#### FAQ
+**Q:** Do I need technical expertise?
+**A:** No. Our drag‑and‑drop builder lets anyone create agents.
 
-**Start your free 14‑day trial** and see how much time (and money) you can save.
+**Q:** How secure is my data?
+**A:** End‑to‑end encryption, ISO‑27001 compliance.
 
-[Get Started – Free Trial](/signup?plan=free)
+**Q:** Can I cancel anytime?
+**A:** Absolutely – no contracts.
 
 ---
 
-### SEO
-**Page Title:** AI Automation for Junior Bankers – Cut Manual Work, Save Costs
-**Meta Description:** Junior bankers waste up to 12 hours a week on manual tasks. BankBot AI automates data entry, report generation, and compliance checks, saving $1,200 per analyst per month. Start a free trial today.
+**Boost efficiency, cut costs, and grow faster with AI agents.**
+
+[Get Started Now →](/signup?plan=starter)
