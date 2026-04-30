@@ -1,36 +1,50 @@
-# Form Your US LLC in Hours with doola MCP
+# Doola MCP for US LLC Formation
 
-**Fast, compliant, and affordable US LLC formation** – no paperwork, no headaches.
+## Form Your US LLC in Minutes – Hassle‑Free, All‑Inclusive
+
+**Headline:** *Launch Your US LLC Today – No Paperwork, No Delays, No Stress*  
+
+**Subheadline:** With Doola’s Managed Company Platform (MCP), you get a fully registered US Limited Liability Company, a dedicated business address, EIN, and compliance support – all for a flat monthly fee.
 
 ---
 
-## Why Choose doola MCP?
-- **Instantly register** your LLC online – 100% digital.
-- **All‑in‑one compliance**: EIN, operating agreement, registered agent included.
-- **Flat $199 price** – no hidden fees, no surprise add‑ons.
-- **Expert support**: Our team handles IRS filings and state filings for you.
+### Why Choose Doola MCP?
+
+- **Instant Registration:** Your LLC is filed and approved within 24‑48 hours.
+- **All‑In‑One Dashboard:** Manage filings, taxes, and compliance from a single portal.
+- **Bank‑Ready EIN:** We obtain your Employer Identification Number so you can open a US bank account instantly.
+- **Legal Shield:** Personal asset protection and a professional business identity.
+- **Transparent Pricing:** $49 /month – no hidden fees, no surprise charges.
 
 ---
 
 ### How It Works
-1. **Answer a few questions** about your business.
-2. **We file** your formation documents with the state.
-3. **Get your EIN & documents** within 24‑48 hours.
+1. **Select Your State** – Choose the best state for tax and legal benefits.
+2. **Provide Basic Info** – Name, owner details, and business purpose.
+3. **Pay & Launch** – One‑click payment, we file and set up everything.
+4. **Operate Confidently** – Ongoing compliance alerts and annual filing support.
 
 ---
 
-## Ready to launch?
-[**Start Your LLC Now – Pay $199**](#)
+### Trusted by Entrepreneurs
+> "Doola made forming my US LLC a breeze. I was up and running in two days!" – *Samantha R., SaaS Founder*
 
-*No credit card required for the quote. Secure checkout powered by Stripe.*
-
----
-
-### FAQs
-**Do I need a US address?** – Yes, we provide a registered agent address.
-**Can I upgrade later?** – Absolutely, add services like tax filing anytime.
-**Is my data safe?** – End‑to‑end encryption and GDPR‑compliant storage.
+> "All‑in‑one platform saved me thousands on legal fees." – *Mike L., E‑commerce Owner*
 
 ---
 
-*Join hundreds of entrepreneurs who’ve launched their US LLC with doola MCP.*
+### Ready to Get Started?
+
+[**Start Your LLC Now – $49/month**](https://example.com/payment-link)  
+*No credit card required for the first 7 days – cancel anytime.*
+
+---
+
+#### FAQ
+- **Do I need a US address?** – Yes, we provide a virtual business address included in the fee.
+- **Can I upgrade later?** – Absolutely, upgrade to premium services anytime.
+- **What about taxes?** – We provide tax filing guidance and partner accountants.
+
+---
+
+*Secure your US business presence today with Doola MCP.*
