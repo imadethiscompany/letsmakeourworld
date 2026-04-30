@@ -1,66 +1,59 @@
-# Secure Backup & Recovery for AI Agents
+# Top Software – Unlock Your Business Potential
 
-## Never Lose Critical AI Agent Data Again
+## The #1 Solution for SMB Owners Who Want to Scale Efficiently
 
-**Instant, automated snapshots** of every AI‑agent state, **48‑hour delayed delete** for safety, and a powerful **restore API** that gets you back in seconds.
+**Headline:** *"Supercharge Your Operations with Top Software – No IT Headcount Required"*
 
----
-
-### Why Choose Our Backup & Recovery?
-
-- **Zero‑downtime snapshots** – captured every minute, stored encrypted in the cloud.
-- **48‑hour grace period** – accidentally delete? Recover it within two days, no tickets.
-- **One‑click restore API** – plug‑and‑play endpoint for instant rollback.
-- **Compliance‑ready** – SOC‑2, ISO‑27001, GDPR‑compatible.
-- **Scalable** – from 10 agents to 10,000+ with automatic tiering.
+**Subheadline:**
+> Streamline workflows, cut costs, and boost revenue with our all‑in‑one platform designed for small‑to‑mid‑size businesses.
 
 ---
 
-## Pricing Plans
-
-| Plan | Agents Included | Daily Snapshots | Retention | Price / month |
-|------|----------------|----------------|-----------|---------------|
-| **Starter** | Up to 50 | 5 min interval | 30 days | **$49** |
-| **Growth** | Up to 500 | 1 min interval | 90 days | **$199** |
-| **Enterprise** | Unlimited | Real‑time | 365 days | **$799** |
-
-All plans include:
-- Unlimited restores via API
-- 48‑hour delayed delete protection
-- 24/7 support & SLA
-- Free migration assistance
+### Why Top Software?
+- **All‑in‑One Dashboard** – Manage CRM, invoicing, project tracking, and analytics from a single interface.
+- **Zero Setup Hassle** – Get started in minutes, no developers needed.
+- **Proven ROI** – Customers see an average **30% increase in productivity** within the first 30 days.
+- **Secure & Compliant** – GDPR‑ready, ISO‑27001 certified.
 
 ---
 
-### Trusted by Leading AI Teams
-
-![Logos of top customers](/assets/trust-logos.png)
-
-> "Our agents’ uptime is now 99.99% thanks to the reliable backups. – CTO, FinTech AI"
-
-> "The 48‑hour safety net saved us from a costly data wipe. – Head of Ops, HealthTech AI"
+### How It Works (3 Simple Steps)
+1. **Sign Up** – Free 14‑day trial, no credit card.
+2. **Connect Your Tools** – Import contacts, invoices, and tasks with one‑click integrations.
+3. **Automate & Grow** – Use pre‑built automations to eliminate manual work and focus on sales.
 
 ---
 
-## Ready to Protect Your AI Agents?
+### Testimonials
+> *"Top Software cut our admin time in half. We finally have time to chase new leads!"* – **Maria L., Café Owner**
 
-**Start your free 14‑day trial now – no credit card required.**
-
-[**Start Free Trial**](/signup?plan=starter)
-
----
-
-### FAQ
-
-**Q: How often are snapshots taken?**
-A: Depending on your plan, from every minute to every 5 minutes.
-
-**Q: Can I restore to a specific point in time?**
-A: Yes, our API lets you choose any snapshot within the retention window.
-
-**Q: Is my data encrypted?**
-A: All backups are encrypted at rest and in transit with AES‑256.
+> *"Our monthly revenue jumped from $8k to $12k after adopting the platform.*" – **Jamal K., Marketing Agency**
 
 ---
 
-*Secure your AI future today.*
+### Pricing
+- **Starter – $49/mo** – Core features, up to 5 users.
+- **Growth – $99/mo** – Advanced automations, unlimited users.
+- **Enterprise – Custom** – Dedicated support & SLA.
+
+> **Special Offer:** Sign up today and get **20% off** the first 3 months.
+
+---
+
+### Call to Action
+**[Start Your Free Trial →](https://topsoftware.example.com/signup)**
+
+---
+
+#### FAQ
+**Q:** Do I need technical knowledge?
+**A:** No. Our onboarding wizard guides you step‑by‑step.
+
+**Q:** Can I cancel anytime?
+**A:** Absolutely – no contracts.
+
+---
+
+*Ready to transform your business?* 
+
+**[Get Started Now – Free Trial]**
