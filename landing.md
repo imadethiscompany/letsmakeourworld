@@ -1,51 +1,51 @@
-# Unlock Unrestricted AI Power
+# Durable Queues, Streams, Pub/Sub & Cron Scheduler – All Inside Your SQLite File
 
-## After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, t
-
-**Headline:** *Get Unlimited Access to Cutting‑Edge AI Tools – No More Gatekeepers*  
-**Subheadline:** If you’re frustrated by AI providers pulling the rug, our platform gives you direct, unrestricted entry to the most advanced models, today.
+**Never add another external service.**
 
 ---
 
-### Why This Matters
-- **OpenAI’s new restrictions** block developers from using the powerful Cyber model, slowing product launches.
-- **Anthropic’s Mythos limits** cripple creative workflows and cost‑effective scaling.
-- **You need a reliable, open‑access alternative** that keeps your pipeline moving.
+## Why embed data pipelines in SQLite?
+- **Zero ops** – No separate brokers, no cloud costs.
+- **Atomic durability** – SQLite’s ACID guarantees protect every message.
+- **Instant local latency** – Reads/writes are micro‑seconds, not network hops.
+- **Portable** – Ship a single file to any server, edge, or desktop app.
 
 ---
 
-### What We Offer
-1. **Instant API Keys** – Connect in seconds, no approvals.
-2. **Full Model Suite** – Access Anthropic‑style, OpenAI‑style, and next‑gen Cyber models.
-3. **Transparent Pricing** – Pay‑as‑you‑go, no hidden tiers.
-4. **Enterprise SLA** – 99.9% uptime, dedicated support.
+## What you get
+- **Durable Queues** – FIFO queues that survive crashes, with back‑pressure handling.
+- **Realtime Streams** – Subscribe to live data changes via a lightweight pub/sub API.
+- **Cron Scheduler** – Define recurring jobs using familiar cron syntax, stored in the same DB.
+- **Simple API** – One‑line Python/JS/Go calls, no extra dependencies.
 
 ---
 
-### How It Works
-1. **Sign Up** – Simple email registration.
-2. **Choose Your Plan** – Free trial or paid tier.
-3. **Integrate** – One‑line SDK, ready for production.
+## Who benefits?
+- **Start‑ups** building MVPs that can’t afford Kafka or Redis.
+- **Edge developers** needing a tiny, self‑contained data pipeline.
+- **IoT platforms** where each device ships a single SQLite file.
 
 ---
 
-### Social Proof
-> *“We switched overnight and cut our AI‑costs by 30% while gaining access to the newest models.”* – CTO, FastScale
+## Quick demo
+```python
+import sqlite3, sqlean
+
+# Create a queue
+conn = sqlite3.connect('app.db')
+conn.execute("CREATE VIRTUAL TABLE queue USING sqlean_queue('tasks')")
+
+# Push a job
+conn.execute("INSERT INTO queue VALUES ('email', 'Send welcome email')")
+
+# Pull a job
+job = conn.execute("SELECT * FROM queue POP LIMIT 1").fetchone()
+print('Processing', job)
+```
 
 ---
 
-### Ready to Break Free?
+## Ready to eliminate external brokers?
+[**Get early‑access now →**](https://buy.stripe.com/example)
 
-[Get Early Access Now](#)  
-*No credit card required – start building instantly.*
-
----
-
-#### FAQ
-- **Is this legal?** Absolutely – we partner with licensed providers.
-- **Will I lose data?** All data stays on your infrastructure.
-- **What if I need more capacity?** Scale instantly with our auto‑scaling tier.
-
----
-
-*Join the movement of developers who refuse to be throttled by AI gatekeepers.*
+*No credit card required for the beta. Deploy in minutes.*
