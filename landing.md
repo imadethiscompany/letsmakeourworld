@@ -1,44 +1,41 @@
-# Critical Alert: cPanel Vulnerability Exploited
+# Critical Alert: Hackers Exploiting a cPanel Bug
 
-## Hackers are actively exploiting a bug in cPanel, used by millions of websites.
-
-**Your site is at risk right now.** If you host any site on cPanel, attackers can gain full server control, steal data, and deface your pages.
+**Millions of websites are at risk.** A newly discovered vulnerability in cPanel allows attackers to gain full server control, inject malicious code, and steal data.
 
 ---
 
-### Why This Matters
-- **Millions** of sites run cPanel – the attack surface is massive.
-- The vulnerability allows **remote code execution** without authentication.
-- Exploits are being sold on underground forums and used in automated ransomware campaigns.
-
-### Immediate Action Steps
-1. **Patch Now** – Apply the latest cPanel security update (v115.0.23 or later).
-2. **Audit Your Servers** – Run our free vulnerability scanner to confirm exposure.
-3. **Secure Your Data** – Backup critical files and enable two‑factor authentication.
-
-### Get Protected Instantly
-We offer a **one‑click remediation service** that:
-- Deploys the official patch across all your cPanel servers.
-- Performs a comprehensive security audit.
-- Sets up continuous monitoring and alerts.
-
-🔒 **Secure My cPanel Now** – [Start Free Scan](/scan)
+## Why This Matters
+- **cPanel powers 70%+ of shared hosting** – your site could be one of them.
+- **Active exploitation** – attacks are already in the wild, targeting WordPress, Joomla, and custom sites.
+- **Data loss & downtime** – compromised servers can be blacklisted, costing revenue and reputation.
 
 ---
 
-#### Frequently Asked Questions
-**Q: Do I need to be a cPanel user?**
-A: If your website is hosted on a shared or VPS server that uses cPanel, the vulnerability affects you.
-
-**Q: How long do I have to fix it?**
-A: Exploits are already active. Delaying increases the chance of a breach.
-
-**Q: Is the free scan really free?**
-A: Yes. No credit card required – just your domain.
+## Immediate Actions You Must Take
+1. **Update cPanel** – apply the latest security patch (v**[X.Y.Z]**).
+2. **Audit User Accounts** – remove any unused or suspicious accounts.
+3. **Enable Two‑Factor Authentication** for all admin logins.
+4. **Scan for Malware** – run a server‑side scanner (e.g., ClamAV, Maldet).
+5. **Backup Everything** – store offline copies of databases and site files.
 
 ---
 
-### Stay Informed
-Subscribe to our security newsletter for real‑time alerts and mitigation guides.
+## Get Professional Help
+If you lack the time or expertise, our **cPanel Security Sprint** will:
+- Patch the vulnerability instantly.
+- Harden your server against future exploits.
+- Provide a detailed report and ongoing monitoring.
 
-[Subscribe](/newsletter)
+**Limited slots – act now!**
+
+---
+
+### Ready to Secure Your Site?
+
+[**Secure My Site – 30‑Minute Sprint – $199**]
+
+*One‑time payment. No contracts. Immediate start.*
+
+---
+
+*Stay ahead of attackers. Protect your customers. Preserve your brand.*
