@@ -1,53 +1,66 @@
-# ElevenLabs Agent Templates
+# Secure Backup & Recovery for AI Agents
 
-## Create AI-powered Agents in Minutes
+## Never Lose Critical AI Agent Data Again
 
-Build custom voice agents powered by ElevenLabs' cutting‑edge text‑to‑speech technology. No code, no servers – just plug‑and‑play templates that turn your prompts into lifelike, multilingual assistants.
-
----
-
-### Why Choose Our Templates?
-
-- **Instantly Deployable** – Launch a fully functional agent with a single click.
-- **Crystal‑Clear Voice** – Leverage ElevenLabs' industry‑leading neural voices for natural conversations.
-- **Fully Customizable** – Adjust tone, language, personality, and workflow to match your brand.
-- **Zero Coding Required** – Drag‑and‑drop UI for rapid prototyping.
-- **Scalable & Secure** – Built on serverless architecture, ready for any traffic.
+**Instant, automated snapshots** of every AI‑agent state, **48‑hour delayed delete** for safety, and a powerful **restore API** that gets you back in seconds.
 
 ---
 
-### How It Works
+### Why Choose Our Backup & Recovery?
 
-1. **Pick a Template** – Choose from sales, support, education, or entertainment.
-2. **Configure Your Brand** – Upload your logo, set voice style, add custom prompts.
-3. **Integrate Anywhere** – Embed in websites, apps, or voice assistants with a simple script.
-4. **Launch & Grow** – Monitor performance with built‑in analytics and iterate instantly.
-
----
-
-### Real Results
-
-- **+300%** increase in lead conversions for SaaS startups.
-- **Reduced support tickets by 45%** using AI help desks.
-- **10x faster content creation** for e‑learning platforms.
-
-> "ElevenLabs Agent Templates let us spin up a sales assistant in under 5 minutes – it’s a game changer!" – *Product Lead, Acme Corp*
+- **Zero‑downtime snapshots** – captured every minute, stored encrypted in the cloud.
+- **48‑hour grace period** – accidentally delete? Recover it within two days, no tickets.
+- **One‑click restore API** – plug‑and‑play endpoint for instant rollback.
+- **Compliance‑ready** – SOC‑2, ISO‑27001, GDPR‑compatible.
+- **Scalable** – from 10 agents to 10,000+ with automatic tiering.
 
 ---
 
-### Get Started Now
+## Pricing Plans
 
-Ready to transform how you interact with customers? **Start your free trial** and launch your first agent today.
+| Plan | Agents Included | Daily Snapshots | Retention | Price / month |
+|------|----------------|----------------|-----------|---------------|
+| **Starter** | Up to 50 | 5 min interval | 30 days | **$49** |
+| **Growth** | Up to 500 | 1 min interval | 90 days | **$199** |
+| **Enterprise** | Unlimited | Real‑time | 365 days | **$799** |
 
-[**Start Free Trial**](https://example.com/checkout?product=elevenlabs-agent-templates)
+All plans include:
+- Unlimited restores via API
+- 48‑hour delayed delete protection
+- 24/7 support & SLA
+- Free migration assistance
 
 ---
 
-#### SEO Meta
+### Trusted by Leading AI Teams
 
-- **Title:** ElevenLabs Agent Templates – Build AI Voice Agents No Code
-- **Description:** Launch AI-powered voice agents instantly with ElevenLabs Agent Templates. No coding required. Free trial available.
+![Logos of top customers](/assets/trust-logos.png)
+
+> "Our agents’ uptime is now 99.99% thanks to the reliable backups. – CTO, FinTech AI"
+
+> "The 48‑hour safety net saved us from a costly data wipe. – Head of Ops, HealthTech AI"
 
 ---
 
-*Powered by ElevenLabs. © 2024*
+## Ready to Protect Your AI Agents?
+
+**Start your free 14‑day trial now – no credit card required.**
+
+[**Start Free Trial**](/signup?plan=starter)
+
+---
+
+### FAQ
+
+**Q: How often are snapshots taken?**
+A: Depending on your plan, from every minute to every 5 minutes.
+
+**Q: Can I restore to a specific point in time?**
+A: Yes, our API lets you choose any snapshot within the retention window.
+
+**Q: Is my data encrypted?**
+A: All backups are encrypted at rest and in transit with AES‑256.
+
+---
+
+*Secure your AI future today.*
