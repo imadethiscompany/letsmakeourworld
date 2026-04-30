@@ -1,28 +1,32 @@
 # YouTube Automation Agency
 
-## Scale Your Channel to 100k+ Subscribers Without Lifting a Finger
+## Scale Your Channel Faster Than Ever
 
-**Stop wasting time on video editing, SEO, and community management.**
+**Turn your YouTube channel into a profit‑generating machine without lifting a finger.**
 
-Our end‑to‑end YouTube Automation service handles:
-- **Content Ideation & Scriptwriting** – data‑driven topics that rank.
-- **AI‑Generated Voice‑overs & Video Production** – high‑quality, fast turnaround.
-- **Thumbnail Design & SEO Optimization** – click‑through rates + watch time.
-- **Channel Management & Growth Hacking** – daily uploads, audience engagement, and monetization.
+- **Full video production** – script, voice‑over, editing, thumbnail, and upload.
+- **AI‑driven content research** – trending topics, SEO‑optimized titles & tags.
+- **Growth automation** – automated posting, community engagement, and ad‑spend optimization.
+- **White‑label partnership** – we handle everything, you keep the revenue.
 
 ### Why Choose Us?
-- **Proven Results:** Clients see 3‑5× subscriber growth in 90 days.
-- **Zero Up‑front Cost:** Pay only for performance‑based packages.
-- **Full Transparency:** Real‑time dashboard of metrics and ROI.
+- **Zero hiring cost** – No need to build an in‑house video team.
+- **Fast turnaround** – New video ready in 48‑72 hours.
+- **Proven ROI** – Clients see 3‑5× increase in subscriber growth and ad revenue.
+- **Performance‑based pricing** – Pay only when we deliver results.
 
 ### Packages
-| Package | Subscribers/Month | Price |
+| Package | Monthly Videos | Price (USD) |
 |---|---|---|
-| **Starter** – 1 video/week | +1k | $499/mo |
-| **Growth** – 3 videos/week | +5k | $1,299/mo |
-| **Scale** – 7 videos/week + Ads | +15k | $2,999/mo |
+| **Starter** | 4 | $1,200 |
+| **Growth** | 8 | $2,200 |
+| **Scale** | 12 | $3,200 |
 
-### Ready to dominate YouTube?
-[**Get Started Now** – Book a Free Strategy Call](/schedule)
+### Ready to Automate Your Success?
 
-*Limited slots available – act fast!*
+**Book a free strategy call** and get a custom growth plan.
+
+[**Schedule Call**](https://calendly.com/youragency/strategy-call)
+
+---
+*No credit card required. Cancel anytime.*
