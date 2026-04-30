@@ -1,69 +1,85 @@
-# Voice Agent API – Add Conversational AI to Your Apps
+# Voice Agent API
 
----
-<div style="background:#fffae6;color:#333;padding:12px;border:1px solid #ffd700;border-radius:4px;text-align:center;font-weight:bold;">
-🚀 <strong>Launch Offer:</strong> Get <span style="color:#d00;">20% OFF</span> all plans for the first 30 days! Use code <code>LAUNCH20</code> at checkout. Limited time only.
-</div>
----
+## Build Conversational Voice Experiences in Minutes
 
-## Why Choose Voice Agent API?
-
-- **Instant Integration** – Simple REST endpoints, SDKs for Node, Python, Ruby.
-- **Scalable & Reliable** – Powered by globally distributed cloud, auto‑scales to millions of requests.
-- **Natural Conversations** – State‑of‑the‑art speech‑to‑text, intent detection, and response generation.
-- **Secure & Compliant** – End‑to‑end encryption, GDPR‑ready, PCI‑level security.
-- **Pay‑as‑You‑Go** – No contracts, transparent usage‑based billing.
-
-## Features
-
-- Real‑time voice transcription
-- Multi‑language support (30+ languages)
-- Custom intent & entity training
-- Call‑center routing & IVR
-- Analytics dashboard & webhook events
+**Turn text into natural‑sounding voice interactions** with our fully‑managed Voice Agent API. No servers, no scaling headaches – just a simple REST endpoint that powers voice assistants, IVR systems, and interactive audio bots.
 
 ---
 
-## Pricing
+### Why Choose Voice Agent API?
 
-| Plan | Price / month | Included Calls | Features |
-|------|----------------|----------------|----------|
-| **Free** | **$0** | 5,000 minutes | Basic transcription, 1 language, community support |
-| **Pro** | **$49** | 50,000 minutes | All Free features + 10 languages, custom intents, email support |
-| **Enterprise** | **$199** | 250,000 minutes | All Pro features + dedicated account manager, SLA, on‑premise option |
-
-> **Special Launch Discount:** Apply code **LAUNCH20** at checkout to receive **20% off** for the first month on any paid plan.
+- **Instantly realistic voices** – Powered by state‑of‑the‑art neural TTS, multiple language & accent options.
+- **Scalable & reliable** – Auto‑scales to millions of calls per day, backed by SLA‑grade infrastructure.
+- **Pay‑as‑you‑go** – Only pay for the audio you generate, with a free‑tier for testing.
+- **Easy integration** – One‑line SDKs for Node, Python, Go, and Java; Swagger docs for any HTTP client.
+- **Compliance ready** – GDPR, CCPA, and HIPAA‑compatible data handling.
 
 ---
 
-## Get Started in Minutes
+### How It Works (3 Simple Steps)
 
-1. **Sign Up** – Create a free account.
-2. **Get API Key** – Instantly receive your secret key.
-3. **Integrate** – Use our SDKs or call the REST API.
-4. **Launch** – Deploy your voice‑enabled app today.
+1. **Create an API key** in the dashboard.
+2. **POST** your text and select voice, language, and style.
+3. **Receive an audio URL** instantly – stream it or download for your app.
 
-<div style="text-align:center;margin:20px 0;">
-  <a href="https://example.com/signup" style="background:#0070f3;color:white;padding:12px 24px;border-radius:4px;text-decoration:none;font-size:1.2em;">Start Free Trial</a>
-</div>
-
----
-
-## Frequently Asked Questions
-
-**Q:** *How is usage measured?*  
-**A:** Minutes of processed audio. Billing rounds up to the nearest minute.
-
-**Q:** *Can I try before paying?*  
-**A:** Yes – the Free tier gives you 5,000 minutes each month.
-
-**Q:** *Is there a SLA for Enterprise?*  
-**A:** Yes – 99.9% uptime SLA with 24/7 priority support.
+```bash
+curl -X POST https://api.voiceagent.io/v1/synthesize \
+  -H "Authorization: Bearer $API_KEY" \
+  -d '{"text":"Hello, welcome to our service!","voice":"en-US‑Emma"}'
+```
 
 ---
 
-*Ready to give your users a natural voice experience?*  
+### Use Cases
 
-<div style="text-align:center;margin-top:30px;">
-  <a href="https://example.com/signup" style="background:#28a745;color:white;padding:14px 28px;border-radius:4px;text-decoration:none;font-size:1.3em;">Create Your Account Now</a>
-</div>
+- **Customer support IVR** – Reduce wait times with human‑like agents.
+- **Interactive podcasts** – Dynamically generate episode intros.
+- **E‑learning** – Convert lesson scripts to audio on‑the‑fly.
+- **Smart home devices** – Voice feedback for IoT actions.
+
+---
+
+### Pricing
+
+| Tier | Monthly minutes | Price |
+|------|----------------|-------|
+| Free | 5,000 | $0 |
+| Starter | 100,000 | $49 |
+| Pro | 1,000,000 | $399 |
+| Enterprise | Custom | Custom |
+
+> **20% launch discount** – Use code **VOICE20** on sign‑up (expires 30 days).
+
+---
+
+### Social Proof
+
+> "Voice Agent API cut our IVR development time from weeks to hours. The voice quality is unbeatable." – **Acme Corp, Head of Customer Experience**
+
+> "Our e‑learning platform now offers instant audio for every lesson. Students love it!" – **EduTech Labs**
+
+---
+
+### Get Started Now
+
+[Start Free Trial →](https://your-website.com/signup?plan=starter)
+
+---
+
+#### FAQ
+
+**Q:** Do I need any hardware?
+**A:** No. It’s a cloud API; just an internet connection.
+
+**Q:** How secure is the data?
+**A:** All traffic is encrypted TLS 1.3; data is not stored unless you enable persistence.
+
+---
+
+**SEO Meta**
+- **Title:** Voice Agent API – Real‑Time Text‑to‑Speech for Apps
+- **Description:** Fast, scalable, and affordable Voice Agent API lets developers add high‑quality, multilingual text‑to‑speech to any app. Free tier, 20% launch discount.
+
+---
+
+*Ready to give your product a voice?*
