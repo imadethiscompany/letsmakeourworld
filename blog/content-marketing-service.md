@@ -1,65 +1,33 @@
 # Content Marketing Service
 
-## Supercharge Your Business with High‑Impact Content Marketing
+## Supercharge Your Brand with High‑Converting Content
 
-**Turn traffic into leads, leads into customers, and customers into brand advocates** – all without the guesswork. Our end‑to‑end Content Marketing Service delivers a proven strategy, flawless execution, and measurable results.
+**Are you struggling to attract qualified leads, rank on Google, or keep your audience engaged?**
 
----
+Our **Content Marketing Service** delivers a complete, data‑driven strategy that turns traffic into customers:
 
-### Why Content Marketing?
-- **70% of B2B buyers** start their journey with online research. [Source: Demand Gen Report]
-- Companies that blog **generate 3x more leads** than those that don’t. [HubSpot]
-- High‑quality content **boosts SEO**, builds authority, and nurtures prospects at every stage of the funnel.
+- **Custom Editorial Calendar** – Built around your buyer personas and keyword opportunities.
+- **SEO‑Optimized Blog Posts & Guides** – Every piece follows the latest AI‑search best practices, includes schema markup, and targets high‑intent keywords.
+- **Conversion‑Focused Copy** – Headlines, CTAs, and storytelling that drive clicks and sales.
+- **Distribution & Promotion** – Automated social scheduling, outreach for backlinks, and email newsletters.
+- **Performance Dashboard** – Weekly reports on rankings, traffic, leads, and ROI.
 
-### What We Do
-| Phase | Deliverables | Benefits |
-|-------|--------------|----------|
-| **Strategy** | Audience personas, keyword research, content calendar, funnel mapping | Aligns content with buyer intent and revenue goals |
-| **Creation** | Blog posts, whitepapers, case studies, infographics, video scripts, social assets | Consistent brand voice, SEO‑optimized, ready‑to‑publish |
-| **Distribution** | SEO on‑page optimization, social scheduling, email newsletters, outreach | Amplifies reach, drives traffic, builds backlinks |
-| **Performance** | Analytics dashboard, KPI tracking, monthly insights, CRO recommendations | Data‑driven optimization, ROI visibility |
+### Why Choose Us?
+| Feature | Benefit |
+|---|---|
+| **Data‑Backed Keyword Research** | Rank for the terms your prospects actually search. |
+| **Industry‑Specific Expertise** | Content that speaks your market’s language. |
+| **Fast Turnaround** | First 3 pieces delivered in 7 days. |
+| **Scalable Packages** | From $1,500/mo for startups to $10,000/mo for enterprises. |
 
-### Our Proven Process
-1. **Discovery Call** – Understand your business, goals, and target market.
-2. **Research & Planning** – Deep keyword & competitor analysis, content audit.
-3. **Production Sprint** – Our team of writers, designers, and SEO specialists create assets.
-4. **Publish & Promote** – Optimized publishing, automated distribution, outreach.
-5. **Measure & Iterate** – Monthly reports, A/B testing, continuous improvement.
+### Ready to Grow?
 
-### Results You Can Expect
-- **2‑5× increase** in organic traffic within 6 months.
-- **30‑50% boost** in qualified leads from content.
-- **Higher conversion rates** through targeted nurture sequences.
-- **Authority positioning** as a thought leader in your niche.
+1. **Schedule a free audit** – We’ll review your current content and show quick wins.
+2. **Pick a package** – Choose the plan that matches your budget and goals.
+3. **Watch the leads roll in** – Consistent traffic, higher rankings, more sales.
 
-### Pricing Packages
-| Package | Ideal For | Monthly Deliverables | Price |
-|---------|------------|----------------------|------|
-| **Starter** | Small businesses, startups | 4 blog posts, 1 infographic, basic SEO | **$799/mo** |
-| **Growth** | Scaling SaaS, agencies | 8 blog posts, 2 whitepapers, 2 videos, advanced SEO | **$1,499/mo** |
-| **Enterprise** | Established brands, high‑volume needs | Unlimited content, dedicated strategist, full‑funnel support | **Custom** |
-
-> **Ready to dominate your market?**
-> 
-> 👉 **[Schedule a free strategy session](/contact)**
+[Get Started Now ➔](/contact?service=content-marketing)
 
 ---
 
-#### Frequently Asked Questions
-**Q:** *Do I need to provide topics?*  
-**A:** No. We research keywords and trends that match your audience.
-
-**Q:** *How long before I see results?*  
-**A:** Most clients see measurable traffic lift within 8‑12 weeks.
-
-**Q:** *Can you integrate with my existing marketing stack?*  
-**A:** Absolutely – we work with HubSpot, Marketo, Salesforce, WordPress, Webflow, and more.
-
----
-
-### About Us
-We are a boutique content agency that has helped **200+ companies** generate **$150M+ in revenue** through strategic content. Our team combines SEO expertise, copywriting mastery, and data‑driven growth tactics.
-
----
-
-*Boost your brand, outrank competitors, and drive revenue with a content engine that works 24/7.*
+*Our clients see an average **3× increase in organic traffic** and **2× boost in qualified leads** within 90 days.*
