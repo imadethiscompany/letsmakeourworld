@@ -1,50 +1,42 @@
-# Doola MCP for US LLC Formation
+# MailToDock
 
-## Form Your US LLC in Minutes – Hassle‑Free, All‑Inclusive
+## Transform Your Physical Mail into Digital Dock Deliveries
 
-**Headline:** *Launch Your US LLC Today – No Paperwork, No Delays, No Stress*  
-
-**Subheadline:** With Doola’s Managed Company Platform (MCP), you get a fully registered US Limited Liability Company, a dedicated business address, EIN, and compliance support – all for a flat monthly fee.
+**Never miss an important letter again.** MailToDock scans, digitizes, and securely forwards your physical mail directly to your preferred dock or digital inbox—instantly, reliably, and cost‑effectively.
 
 ---
 
-### Why Choose Doola MCP?
-
-- **Instant Registration:** Your LLC is filed and approved within 24‑48 hours.
-- **All‑In‑One Dashboard:** Manage filings, taxes, and compliance from a single portal.
-- **Bank‑Ready EIN:** We obtain your Employer Identification Number so you can open a US bank account instantly.
-- **Legal Shield:** Personal asset protection and a professional business identity.
-- **Transparent Pricing:** $49 /month – no hidden fees, no surprise charges.
+### Why MailToDock?
+- **Instant Access:** Receive scans of letters, invoices, and packages within minutes of arrival.
+- **Secure & Private:** End‑to‑end encryption, GDPR‑compliant storage.
+- **Flexible Delivery:** Choose a dock, email, or cloud folder for each piece of mail.
+- **Save Time & Money:** No more trips to the post office; automated forwarding reduces overhead.
 
 ---
 
 ### How It Works
-1. **Select Your State** – Choose the best state for tax and legal benefits.
-2. **Provide Basic Info** – Name, owner details, and business purpose.
-3. **Pay & Launch** – One‑click payment, we file and set up everything.
-4. **Operate Confidently** – Ongoing compliance alerts and annual filing support.
+1. **Register Your Address** – Get a unique MailToDock street address.
+2. **We Receive & Scan** – Our team scans every envelope and extracts key data.
+3. **Choose Destination** – Auto‑forward to your dock, email, or cloud storage.
+4. **Track & Manage** – Real‑time dashboard to view, archive, or forward.
 
 ---
 
-### Trusted by Entrepreneurs
-> "Doola made forming my US LLC a breeze. I was up and running in two days!" – *Samantha R., SaaS Founder*
+### Ready to Streamline Your Mail?
 
-> "All‑in‑one platform saved me thousands on legal fees." – *Mike L., E‑commerce Owner*
+[**Start Your Free Trial**](https://mailtodock.com/signup) – No credit card required.
 
----
-
-### Ready to Get Started?
-
-[**Start Your LLC Now – $49/month**](https://example.com/payment-link)  
-*No credit card required for the first 7 days – cancel anytime.*
+Or book a **Live Demo** now: <mailto:demo@mailtodock.com?subject=Schedule%20Demo>
 
 ---
 
-#### FAQ
-- **Do I need a US address?** – Yes, we provide a virtual business address included in the fee.
-- **Can I upgrade later?** – Absolutely, upgrade to premium services anytime.
-- **What about taxes?** – We provide tax filing guidance and partner accountants.
+#### Frequently Asked Questions
+**Q:** What types of mail can you handle?
+**A:** Letters, invoices, small parcels, and certified mail.
+
+**Q:** How secure is my data?
+**A:** We use AES‑256 encryption and strict access controls.
 
 ---
 
-*Secure your US business presence today with Doola MCP.*
+© 2026 MailToDock. All rights reserved.
