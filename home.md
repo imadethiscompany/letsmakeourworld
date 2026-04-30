@@ -1,60 +1,74 @@
-# Top Software
+# LegalAI – AI‑Powered Document Review & Clause Extraction
 
-## Transform Your Business with the #1 All‑In‑One Solution
+## Transform Your Legal Workflow with AI
 
-**Headline:** *"Boost Productivity by 40% without Hiring More Staff"*
-
-**Subheadline:**
-Top Software combines project management, CRM, and automation in a single, easy‑to‑use platform. No more juggling multiple tools – get everything you need to close deals, deliver projects, and scale faster.
+**Instantly review contracts, extract key clauses, and mitigate risk—all in seconds.**
 
 ---
 
-### Why Top Software?
-- **Save Time:** Automate repetitive tasks and reduce manual data entry by up to 70%.
-- **Increase Revenue:** Integrated sales pipelines drive a 30% lift in closed‑won deals.
-- **All‑In‑One Dashboard:** View projects, customers, and finances from one place.
-- **Secure & Reliable:** SOC‑2 compliant, 99.9% uptime.
+### Why LegalAI?
+- **Speed:** Review a 30‑page contract in under 30 seconds.
+- **Accuracy:** 98% clause‑extraction precision, validated on Fortune‑500 agreements.
+- **Compliance:** Built‑in GDPR, HIPAA, and industry‑specific compliance checks.
+- **Scalable:** From solo practitioners to enterprise legal teams.
 
 ---
 
-### Features That Deliver Results
-1. **Unified CRM & Project Tracker** – Manage leads and tasks side‑by‑side.
-2. **Smart Automation** – Auto‑assign tasks, send follow‑ups, generate invoices.
-3. **Real‑Time Analytics** – Custom dashboards show profit, velocity, and bottlenecks.
-4. **Collaboration Hub** – Chat, file sharing, and approvals in‑app.
-5. **Mobile App** – Stay productive on iOS and Android.
+## Core Features
+| Feature | What It Does | Benefit |
+|---|---|---|
+| **AI Document Review** | Scans uploaded PDFs/DOCs, flags risky language, highlights deviations. | Reduce review time by 80%.
+| **Clause Extraction** | Auto‑detects confidentiality, indemnity, termination, payment, etc. | Never miss a critical clause.
+| **Custom Clause Library** | Upload your own clause templates & rules. | Tailor AI to your firm’s standards.
+| **Version Comparison** | Diff two contracts side‑by‑side with AI‑highlighted changes. | Spot hidden alterations instantly.
+| **Secure Cloud Storage** | End‑to‑end encrypted storage, SOC 2 compliant. | Keep client data safe.
+| **API & Integrations** | REST API, Zapier, Microsoft Teams, Clio, NetDocuments. | Embed AI into existing workflows.
 
 ---
 
-### Social Proof
-> *"Top Software cut our reporting time from 4 hours to 15 minutes. Our team finally feels in control.*" – **Laura M., COO, ScaleCo**
+## Pricing Plans
+| Plan | Monthly Price | Docs per Month | Key Benefits |
+|---|---|---|---|
+| **Starter** | $49 | 50 | AI Review, Clause Extraction, Email Support |
+| **Professional** | $199 | 500 | All Starter features + Custom Library, API Access, Priority Support |
+| **Enterprise** | $799 | Unlimited | Dedicated account manager, On‑prem deployment, SLA, Single Sign‑On |
 
-> *"We closed 25% more deals in the first month thanks to the built‑in sales pipeline.*" – **James K., Founder, BrightStart**
-
----
-
-### How It Works (3 Simple Steps)
-1. **Sign Up** – Free 14‑day trial, no credit card required.
-2. **Import Data** – Connect your email, calendar, and spreadsheets.
-3. **Start Automating** – Choose a workflow template and watch productivity soar.
+**Free 14‑day trial – No credit card required.**
 
 ---
 
-### Ready to Supercharge Your Business?
-
-[**Start My Free Trial**](https://topsoftware.com/checkout?plan=trial)  
-No credit card. Cancel anytime.
-
----
-
-#### Frequently Asked Questions
-**Q:** Is there a long‑term contract?
-**A:** No. Pay month‑to‑month or choose an annual discount.
-
-**Q:** How secure is my data?
-**A:** We use end‑to‑end encryption, SOC‑2 compliance, and daily backups.
+## Trust Signals
+- **Trusted by**: <img src="/assets/logos/partner1.png" alt="Partner 1" width="80"> <img src="/assets/logos/partner2.png" alt="Partner 2" width="80"> <img src="/assets/logos/partner3.png" alt="Partner 3" width="80">
+- **Testimonials**:
+  > *“LegalAI cut our contract review time from days to minutes. The accuracy is astonishing.”* – **Jane Doe, General Counsel, FinTechCo**
+  > *“Our compliance team loves the custom clause library.”* – **John Smith, Managing Partner, LawWorks**
+- **Security**: SOC 2 Type II, ISO 27001, GDPR‑ready, 256‑bit encryption.
+- **Media**: Featured in **TechCrunch**, **The Verge**, **Law360**.
 
 ---
 
-**Meta Title:** Top Software – All‑In‑One Business Platform
-**Meta Description:** Boost productivity by 40% with Top Software. All‑in‑one CRM, project management, and automation. Start your free trial today!
+## Call to Action
+
+<div style="text-align:center; margin:2rem;">
+  <a href="/signup" style="background:#0066ff;color:#fff;padding:1rem 2rem;border-radius:8px;font-size:1.2rem;text-decoration:none;">Start Your Free Trial</a>
+</div>
+
+---
+
+### Frequently Asked Questions
+**Q:** *Can I upload scanned PDFs?*  
+**A:** Yes – OCR is built‑in and automatically extracts text.
+
+**Q:** *Is my data stored securely?*  
+**A:** All data is encrypted at rest and in transit; we do not retain documents after processing unless you enable storage.
+
+**Q:** *Do you offer on‑premise deployment?*  
+**A:** Enterprise plan includes optional on‑premise or private‑cloud deployment.
+
+---
+
+**Ready to supercharge your legal workflow?**
+
+<div style="text-align:center; margin-top:1.5rem;">
+  <a href="/signup" style="background:#28a745;color:#fff;padding:0.8rem 1.5rem;border-radius:6px;font-size:1rem;text-decoration:none;">Get Started – Free Trial</a>
+</div>
