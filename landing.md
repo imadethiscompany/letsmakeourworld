@@ -27,7 +27,7 @@ Legora just announced a **$600M Series D** funding round, underscoring the exp
 Experience the power of AI contract review risk‑free.  No credit card required for the first 7 days – then just $99 for the full trial.
 
 <div style="text-align:center; margin:20px 0;">
-  <a href="{{PAYMENT_LINK}}" style="background:#6772e5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-size:18px;">Start My Paid Trial</a>
+  <a href="https://buy.stripe.com/test_5kQdR1cpZf7m0YHgzoc7y0w" style="background:#6772e5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-size:18px;">Start My Paid Trial</a>
 </div>
 
 ---
