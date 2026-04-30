@@ -1,51 +1,49 @@
-# Durable Queues, Streams, Pub/Sub & Cron Scheduler – All Inside Your SQLite File
+# 🚨 Critical Alert: cPanel Bug Exploited by Hackers
 
-**Never add another external service.**
-
----
-
-## Why embed data pipelines in SQLite?
-- **Zero ops** – No separate brokers, no cloud costs.
-- **Atomic durability** – SQLite’s ACID guarantees protect every message.
-- **Instant local latency** – Reads/writes are micro‑seconds, not network hops.
-- **Portable** – Ship a single file to any server, edge, or desktop app.
+**Millions of websites are at risk right now.** A severe vulnerability in cPanel is being actively exploited, allowing attackers to gain full server control, steal data, and deface sites.
 
 ---
 
-## What you get
-- **Durable Queues** – FIFO queues that survive crashes, with back‑pressure handling.
-- **Realtime Streams** – Subscribe to live data changes via a lightweight pub/sub API.
-- **Cron Scheduler** – Define recurring jobs using familiar cron syntax, stored in the same DB.
-- **Simple API** – One‑line Python/JS/Go calls, no extra dependencies.
+## Why This Matters
+- **Immediate danger**: Over 10,000 compromised sites reported in the last 48 hours.
+- **Financial loss**: Ransom demands averaging $5,000 per site.
+- **Reputation damage**: Search engine de‑indexing and loss of customer trust.
 
 ---
 
-## Who benefits?
-- **Start‑ups** building MVPs that can’t afford Kafka or Redis.
-- **Edge developers** needing a tiny, self‑contained data pipeline.
-- **IoT platforms** where each device ships a single SQLite file.
+## What You Need to Do
+1. **Secure Your cPanel** – Apply the latest patches (link to official advisory).
+2. **Audit Your Servers** – Run our free vulnerability scanner.
+3. **Get Expert Help** – Our cPanel security team can remediate in 24‑hours.
 
 ---
 
-## Quick demo
-```python
-import sqlite3, sqlean
+### 🔒 Get Immediate Protection
 
-# Create a queue
-conn = sqlite3.connect('app.db')
-conn.execute("CREATE VIRTUAL TABLE queue USING sqlean_queue('tasks')")
+**[Secure My Site Now →](/checkout?product=cpanel-protection)**
 
-# Push a job
-conn.execute("INSERT INTO queue VALUES ('email', 'Send welcome email')")
-
-# Pull a job
-job = conn.execute("SELECT * FROM queue POP LIMIT 1").fetchone()
-print('Processing', job)
-```
+*One‑click protection package includes:
+- Immediate patch deployment
+- Full server audit
+- 24/7 monitoring for 30 days
+- Incident response guarantee*
 
 ---
 
-## Ready to eliminate external brokers?
-[**Get early‑access now →**](https://buy.stripe.com/example)
+## Frequently Asked Questions
+**Q:** *Is my site definitely compromised?*  
+**A:** If you’re using cPanel and haven’t patched since March 2024, you’re at high risk.
 
-*No credit card required for the beta. Deploy in minutes.*
+**Q:** *Can I fix it myself?*  
+**A:** Yes, but we recommend professional remediation to avoid downtime.
+
+---
+
+### Stay Informed
+Subscribe to our security alerts and receive real‑time updates on emerging threats.
+
+**[Subscribe to Alerts](/subscribe)**
+
+---
+
+*Act now before it’s too late.*
