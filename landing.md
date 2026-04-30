@@ -1,50 +1,34 @@
-# AI Agents – Boost Your Business with Intelligent Automation
+# AI Agents for SMBs – Boost Productivity & Profits
 
-## Transform Your Operations with Autonomous AI Agents
+## Transform Your Business with Intelligent Automation
 
-**Ready to replace repetitive tasks, supercharge productivity, and unlock new revenue streams?** Our AI agents work 24/7 to handle customer support, lead qualification, data analysis, and more—so your team can focus on growth.
+**Unlock the power of AI agents** to handle repetitive tasks, generate leads, and supercharge your team's efficiency—all without hiring extra staff.
 
-### Why Choose Our AI Agents?
-- **Zero Coding Required:** Deploy in minutes with a simple web UI.
-- **Customizable Workflows:** Tailor agents to your exact business processes.
-- **Scalable & Secure:** Enterprise‑grade security, unlimited scaling.
-- **Proven ROI:** Clients see a **30‑50% reduction in manual workload** and **2‑3× revenue lift** within the first month.
+- **Cut operational costs by up to 40%**
+- **Increase revenue by 20‑30%** with automated sales funnels
+- **24/7 customer support** without additional hires
 
-### How It Works
-1. **Define Your Goal** – Choose a task (e.g., lead nurturing, order processing).
-2. **Select a Template** – Pick from pre‑built AI agent templates.
-3. **Launch & Monitor** – Deploy instantly, watch real‑time dashboards, and iterate.
+### Why AI Agents?
+
+* **Instant ROI** – Deploy in minutes, see results in days.
+* **Scalable** – Handles limitless tasks as your business grows.
+* **No technical expertise required** – Our pre‑built agents are ready to go.
+
+### How It Works (3 Simple Steps)
+1. **Choose your workflow** – Sales outreach, support tickets, data entry, or custom.
+2. **Plug‑and‑play integration** – Connect to your CRM, email, or Slack.
+3. **Watch the automation** – AI agents work round‑the‑clock, delivering results.
 
 ### Real‑World Success Stories
-- **E‑commerce retailer:** 40% faster order fulfillment, $12K/month extra sales.
-- **SaaS startup:** Automated trial onboarding, churn reduced by 15%.
-- **Marketing agency:** Qualified leads doubled, sales cycle cut in half.
+- **Acme Retail** saved **$12k/month** by automating inventory alerts.
+- **Beta Studios** generated **$8k extra revenue** with AI‑driven lead nurturing.
 
-### Pricing – Simple, Transparent, No Surprises
-| Plan | Monthly Price | Agents Included | Key Features |
-|------|---------------|----------------|--------------|
-| **Starter** | **$199** | 1 | Email & Chat support, Basic analytics |
-| **Growth** | **$499** | 3 | Multi‑channel, Advanced reporting, Priority support |
-| **Enterprise** | **Custom** | Unlimited | Dedicated manager, SLA, Custom integrations |
+### Get Started Today
 
-> **Ready to get started?**
-> 
-> **[Start Your Free Trial →](/signup?plan=starter)**
+[**Start Your Free Trial**](https://letsmakeourworld-9gn593ljq-vikasvardhanvs-projects.vercel.app/ai-agents-smb?trial=1) – No credit card required.
 
 ---
 
-#### FAQ
-**Q:** Do I need technical expertise?
-**A:** No. Our drag‑and‑drop builder lets anyone create agents.
+*Ready to see AI agents in action? Book a 15‑minute demo now.*
 
-**Q:** How secure is my data?
-**A:** End‑to‑end encryption, ISO‑27001 compliance.
-
-**Q:** Can I cancel anytime?
-**A:** Absolutely – no contracts.
-
----
-
-**Boost efficiency, cut costs, and grow faster with AI agents.**
-
-[Get Started Now →](/signup?plan=starter)
+[**Book Demo**](https://calendly.com/aiagents-demo)
