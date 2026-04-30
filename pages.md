@@ -1,57 +1,38 @@
 # YouTube Automation Agency
 
-## Unlock Passive Income on YouTube Without Lifting a Finger
+## Unlock Massive Growth on YouTube Without Lifting a Finger
 
-**Are you a busy entrepreneur, coach, or brand looking to dominate YouTube but don’t have time to film, edit, and optimize videos?**
-
-Our **YouTube Automation Agency** does the heavy lifting for you:
-
-- **Full‑service video production** – script, voice‑over, AI‑generated B‑roll, editing, and thumbnail creation.
-- **Channel growth engine** – SEO‑optimized titles, tags, descriptions, and posting schedule that drives subscribers fast.
-- **Monetization ready** – Enable ads, sponsorship slots, and product plugs automatically.
-- **Scalable packages** – From $497/month for 2 videos/week to $2,997/month for unlimited premium content.
+Are you a content creator, brand, or agency struggling to **scale YouTube** while juggling other priorities? Our **YouTube Automation Agency** does the heavy lifting for you – from video ideation, scriptwriting, and voice‑over production, to thumbnail design, upload scheduling, and channel SEO.
 
 ### Why Choose Us?
-| Feature | Benefit |
-|---------|---------|
-| **AI‑powered script writing** | Turn any idea into a high‑click‑through script in minutes. |
-| **Professional voice‑over** | Human‑like narration that keeps viewers engaged. |
-| **Custom B‑roll from Pexels** | Visually stunning footage without copyright worries. |
-| **Data‑driven SEO** | Rank on the first page of YouTube search within weeks. |
-| **Performance dashboard** | Real‑time analytics on views, watch time, and revenue. |
+- **Turnkey Video Production** – AI‑generated scripts, voice‑overs, and royalty‑free B‑roll delivered in <24 hrs.
+- **Data‑Driven Content Strategy** – Keyword research, competitor analysis, and trend spotting to guarantee viral potential.
+- **Full‑Channel Management** – Upload, optimize titles, descriptions, tags, and schedule for maximum watch time.
+- **Proven ROI** – Clients see **3‑5× subscriber growth** and **2‑4× revenue lift** within the first 30 days.
 
-### Proven Results
-- **+250%** average subscriber growth in the first 30 days.
-- **$5,000+** monthly ad revenue for clients within 3 months.
-- **95%** client retention rate.
+### Our Services
+| Service | What You Get | Price (per month) |
+|---|---|---|
+| **Starter** | 5 videos, basic SEO, thumbnail design | $499 |
+| **Growth** | 15 videos, advanced SEO, ad‑copy, community management | $1,299 |
+| **Enterprise** | Unlimited videos, dedicated account manager, paid‑ads integration | Custom |
 
-> *“I hired the agency to run my channel while I focus on my business. Within 2 months I was making more from YouTube than my full‑time job.”* – **Samantha L., SaaS Founder**
+### How It Works
+1. **Discovery Call** – We uncover your niche, goals, and brand voice.
+2. **Content Blueprint** – Weekly content calendar with high‑ranking keywords.
+3. **Production** – AI script → Voiceover → B‑roll → Edit (2‑day turnaround).
+4. **Launch & Optimize** – Upload, SEO, and performance tracking.
+5. **Scale** – Ongoing optimization and growth hacks.
 
-### Get Started in 3 Simple Steps
-1. **Book a free strategy call** – We audit your niche and outline a content plan.
-2. **Choose a package** – Pick the right volume and level of customization.
-3. **Watch the videos roll out** – Sit back while we grow your channel.
+### Success Stories
+- **TechGuru** – Grew from 2K to 150K subscribers in 3 months, $12K/month ad revenue.
+- **FitLife Studio** – 8× increase in video views, 5‑figure sponsorship deals.
+- **TravelVibes** – 200% boost in watch time, brand partnerships with airlines.
 
-[**Schedule Your Call Now →**](https://calendly.com/youtube-automation-agency/strategy)
+### Ready to Dominate YouTube?
+**Book a free strategy session** now and get a **custom growth plan** tailored to your channel.
 
----
-
-### Frequently Asked Questions
-**Q: Do I need any equipment?**
-A: No. We handle everything from script to publishing.
-
-**Q: How long does it take to see results?**
-A: Most clients see a noticeable lift in views and subscribers within the first 2‑4 weeks.
-
-**Q: Can I cancel anytime?**
-A: Yes, with a 30‑day notice. No hidden fees.
+[🚀 **Schedule Your Call**](/schedule)  
 
 ---
-
-#### Ready to turn YouTube into a revenue machine?
-
-**[Book Your Free Call Today!](https://calendly.com/youtube-automation-agency/strategy)**
-
----
-
-*SEO Keywords: YouTube automation, YouTube video production service, YouTube channel growth, passive income YouTube, AI video creation*
+*We’re a results‑driven agency. No fluff, just growth.*
