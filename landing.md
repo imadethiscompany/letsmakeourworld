@@ -1,34 +1,35 @@
 # AI Metrics into Hybrid Models
 
-## Unlock Predictive Power for Your Business
+## Unlock Predictive Power with Seamless AI‑Driven Metrics
 
-**Turn raw AI data into actionable insights** that boost revenue, cut costs, and accelerate product cycles. Our hybrid modeling platform blends statistical rigor with cutting‑edge machine learning, giving you the best of both worlds.
+**Turn raw data into actionable insights** that power both classic statistical models and cutting‑edge AI. Our hybrid solution gives you the best of both worlds:
+
+- **Real‑time KPI dashboards** that feed directly into your existing forecasting tools.
+- **AI‑enhanced anomaly detection** that flags out‑of‑trend behavior before it hurts your bottom line.
+- **Model‑agnostic integration** – plug into Python, R, Snowflake, or any API you already use.
 
 ### Why Hybrid?
-- **Accuracy + Explainability** – Combine the precision of deep learning with the transparency of classic statistical models.
-- **Speed + Scalability** – Deploy models in minutes, scale to millions of predictions without breaking the bank.
-- **Business‑Ready** – Pre‑built connectors to CRM, ERP, and BI tools so you can start seeing ROI instantly.
+Traditional models excel at interpretability, but they miss complex patterns. Pure AI models capture nuance but can be black‑boxes. By **combining them**, you get:
+- Faster time‑to‑value (use your trusted stats while AI learns in the background).
+- Higher accuracy – up to **30% lift** on forecast error reduction (our beta customers report).
+- Trustable decisions – AI insights are **explainable** via the underlying statistical layer.
 
-### Key Benefits
-1. **Increase conversion rates by up to 27%** – Leverage AI‑driven scoring to prioritize hot leads.
-2. **Reduce churn by 15%** – Predict at‑risk customers and intervene before they leave.
-3. **Cut analytics spend by 30%** – One platform replaces dozens of fragmented tools.
-4. **Fast onboarding** – No data‑science team required; our UI guides you step‑by‑step.
-
-### How It Works (3 Simple Steps)
-1. **Connect Your Data** – Securely pull from databases, SaaS apps, or CSV files.
-2. **Choose a Hybrid Blueprint** – Pick a pre‑built model (e.g., “Revenue Forecast + LSTM”) or customize.
-3. **Deploy & Optimize** – Get real‑time predictions via API or dashboard; A/B test and iterate.
-
-### Trusted By
-- **FinTech startups** – Accelerated loan approval models.
-- **E‑commerce brands** – Boosted cart recovery with AI‑scored offers.
-- **Manufacturing firms** – Optimized supply‑chain demand forecasts.
+### What You Get
+1. **Metrics Engine** – ingest any data source, compute custom AI‑augmented metrics.
+2. **Hybrid Modeling Toolkit** – pre‑built connectors for Prophet, ARIMA, XGBoost, LLM‑based regressors.
+3. **Live Dashboard** – real‑time visualizations, alerts, and export to CSV/Excel.
+4. **Implementation Playbook** – step‑by‑step guide to embed hybrid models in your workflow.
 
 ### Ready to Transform Your Data?
-**Schedule a 15‑minute demo** and see a live prototype built on your own data.
 
-[**Book My Demo →**](https://calendly.com/ai-metrics-demo)
+[Start Your Free 14‑Day Trial →](/signup)
+
+Or book a 15‑minute strategy call to see the solution in action.
 
 ---
-*No credit card required. No commitment.*
+**FAQ**
+- **Do I need an AI team?** No. Our UI abstracts the AI layer; you just set up metric formulas.
+- **Is my data secure?** End‑to‑end encryption, GDPR‑compliant, hosted on ISO‑certified cloud.
+- **Can I cancel anytime?** Yes, with no hidden fees.
+
+**Contact us**: sales@hybridmetrics.ai
