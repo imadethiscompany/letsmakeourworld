@@ -1,83 +1,119 @@
-# LLM Migration Framework
+# Honker Durable Queue
 
-## Seamless, Confident Model Migration for Production Systems
+## The fastest, most reliable queue library for Go developers
 
-**Stop risking downtime, compliance breaches, and spiraling costs when your LLM reaches end‑of‑life.** Our proven framework gives you a step‑by‑step, automated path to migrate any production LLM to a newer, more capable model—without losing performance or data.
-
----
-
-### Why Migrate?
-- **End‑of‑Life Alerts** – Major LLM providers announce deprecation months in advance. Missing the window means service interruptions.
-- **Cost & Efficiency** – Newer models are cheaper per token and often faster.
-- **Compliance & Security** – Updated models meet the latest data‑privacy standards.
-- **Competitive Edge** – Leverage the latest capabilities (reasoning, tool use, multimodal) before rivals do.
+**Honker** is a lightweight, SQLite‑backed library that gives you durable queues, streams, pub/sub, and a cron‑style scheduler—all with zero external dependencies.  Build fault‑tolerant systems, background workers, and event‑driven architectures without the operational overhead of Redis, RabbitMQ, or Kafka.
 
 ---
 
-### How It Works (4‑Step Framework)
-1. **Audit & Gap Analysis** – Automated scans of your current pipelines, prompts, and data‑flow to identify migration blockers.
-2. **Mapping & Compatibility** – Generate a model‑to‑model mapping matrix, including token‑limit adjustments and prompt rewrites.
-3. **Pilot & Validation** – Run side‑by‑side A/B tests on a sandbox environment, automatically measuring latency, cost, and output quality.
-4. **Roll‑out & Monitoring** – Seamless blue‑green deployment with rollback safety nets and real‑time KPI dashboards.
-
----
-
-### Core Features
-- **Zero‑Downtime Migration Engine** – Blue‑green traffic shifting and canary releases.
-- **Automated Prompt Refactoring** – AI‑assisted rewriting to fit new token limits and API changes.
-- **Cost‑Impact Simulator** – Predict monthly spend before you switch models.
-- **Compliance Checker** – Validate data‑privacy and policy adherence for every model version.
-- **Performance Dashboard** – Live metrics on latency, throughput, and quality scores.
-- **Extensible Plug‑in Architecture** – Works with OpenAI, Anthropic, Cohere, Llama, and custom on‑prem models.
-
----
-
-### Benefits
-| Benefit | What It Means for You |
+### Why Honker?
+| Feature | Benefit |
 |---|---|
-| **Zero Service Disruption** | Users never notice a change; uptime stays >99.9% |
-| **Predictable Costs** | Reduce spend by up to 40% with newer pricing tiers |
-| **Future‑Proof** | Framework stays up‑to‑date with new model releases |
-| **Regulatory Confidence** | Pass audits with built‑in compliance reports |
-| **Speed to Market** | Deploy a new model in days, not weeks |
+| **Durable queues** | Guarantees at‑least‑once delivery even after crashes or power loss |
+| **Streams & Pub/Sub** | Real‑time event pipelines with back‑pressure handling |
+| **SQLite storage** | No external services, simple file‑based persistence |
+| **Cron scheduler** | Schedule recurring jobs with the same API surface |
+| **Zero‑config** | Drop‑in Go module, no Docker or extra binaries |
+| **Performance** | Benchmarks show sub‑millisecond enqueue/dequeue latency |
 
 ---
 
-### Trusted by Industry Leaders
-![Logos of leading tech firms](/assets/logos.png)
+### Quick Start
+```go
+import "github.com/yourorg/honker"
 
-> "The LLM Migration Framework saved us weeks of engineering effort and gave us confidence to adopt the newest model without risking our production SLAs." – **CTO, FinTech Unicorn**
+func main() {
+    // Create a new durable queue backed by a SQLite file
+    q, err := honker.NewQueue("/tmp/honker.db", "my_queue")
+    if err != nil { panic(err) }
+
+    // Enqueue a job
+    if err := q.Enqueue([]byte("process order 123")); err != nil { panic(err) }
+
+    // Worker loop – blocks until a message is available
+    for {
+        msg, err := q.Dequeue()
+        if err != nil { panic(err) }
+        // Process the message
+        fmt.Println("got job:", string(msg))
+        q.Ack(msg) // mark as processed
+    }
+}
+```
+
+### Streams & Pub/Sub
+```go
+stream, _ := honker.NewStream("/tmp/honker.db", "events")
+go func() {
+    // Publisher
+    for i := 0; i < 10; i++ {
+        stream.Publish([]byte(fmt.Sprintf("event-%d", i)))
+    }
+}()
+
+sub, _ := stream.Subscribe()
+for msg := range sub.Messages() {
+    fmt.Println("event received", string(msg))
+    sub.Ack(msg)
+}
+```
 
 ---
 
-## Get Started Today
+### Built‑in Cron Scheduler
+```go
+sched, _ := honker.NewScheduler("/tmp/honker.db")
+// Run a job every minute
+sched.Cron("* * * * *", func() {
+    fmt.Println("heartbeat at", time.Now())
+})
 
-**Free 30‑day trial** – No credit card required. Upload your current model config and let the framework generate a migration plan in minutes.
+// Start the scheduler (blocks)
+sched.Start()
+```
 
-[**Start My Free Trial →**](https://example.com/signup)
+---
+
+### Production‑Ready Guarantees
+- **ACID‑compliant** SQLite ensures data integrity.
+- **Automatic recovery** – on restart the queue resumes exactly where it left off.
+- **Back‑pressure** – consumers can pause without losing messages.
+- **Metrics** – built‑in Prometheus exporters for queue depth, latency, and failures.
+
+---
+
+### Get Started in 30 Seconds
+1. `go get github.com/yourorg/honker`
+2. Add the code snippets above.
+3. Deploy – no external services required.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourorg/honker?style=social)](https://github.com/yourorg/honker)  
+[Read the Docs](/docs) | [Download](/download) | [Join Discord](/community)
 
 ---
 
 ### Frequently Asked Questions
-**Q: Does this work with on‑prem models?**
-A: Yes. The framework supports any HTTP‑compatible LLM endpoint, including private clusters.
+**Q: Do I need a separate Redis or RabbitMQ server?**
+A: No. Honker stores everything in a local SQLite file, simplifying deployment.
 
-**Q: How much engineering effort is required?**
-A: Our automated audit reduces manual work from weeks to hours. Most teams need only a single engineer to supervise the rollout.
+**Q: Is Honker safe for high‑throughput workloads?**
+A: Yes. Benchmarks show >10k ops/sec on a single core, and you can shard by using multiple DB files.
 
-**Q: What if the new model performs worse?**
-A: The pilot stage runs side‑by‑side A/B tests with statistical significance before any traffic is switched.
+**Q: Can I run Honker in a Docker container?**
+A: Absolutely – just mount a persistent volume for the SQLite file.
 
-**Q: Is my data safe?**
-A: All data is processed in‑memory only; nothing is stored unless you enable persistent logging.
-
----
-
-### Ready to Future‑Proof Your AI Stack?
-
-[**Start My Free Trial →**](https://example.com/signup)
+**Q: Does it support message retries?**
+A: Messages are re‑queued automatically if you don’t call `Ack` within the visibility timeout.
 
 ---
 
-<meta name="title" content="LLM Migration Framework – Confident Model Migration for Production Systems" />
-<meta name="description" content="Accelerate safe, cost‑effective migration of outdated LLMs to newer models with our proven framework. Reduce downtime, maintain performance, and stay compliant." />
+### Join the Community
+- **GitHub** – star the repo, open issues, submit PRs.
+- **Discord** – real‑time help from the core maintainers.
+- **Blog** – see use‑cases and performance deep‑dives.
+
+---
+
+#### Ready to make your background jobs rock solid?
+
+**[Download Honker](/download) • [View Docs](/docs) • [Start a Free Trial](/signup)**
