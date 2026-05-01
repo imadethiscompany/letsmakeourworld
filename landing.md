@@ -1,40 +1,65 @@
-# AI Pricing: Unlock Revenue with Intelligent Price Optimization
+# Exclusive: AI-Powered Recruiting Startup Dex Raises $5.3M Seed Round
 
 ## Headline
-**Boost Your Profits by 30% with AI‑Driven Pricing**
+**Unlock Faster, Smarter Hiring with Dex – The AI Recruiting Platform Backed by Notion Capital**
 
-## Subheadline
-Stop guessing. Let our AI analyze market data, customer behavior, and competitor moves to set the optimal price for every product—every time.
-
-## Primary CTA
-[Get Your Free Pricing Audit →](https://example.com/ai-pricing-audit)
+### Sub‑headline
+Dex uses generative AI to source, screen, and match top talent in minutes, cutting hiring time by up to 70% and reducing cost‑per‑hire by 40%.
 
 ---
-### Why AI Pricing?
-- **Data‑Powered Decisions** – Leverage 10+ years of pricing data in seconds.
-- **Dynamic Adjustments** – Prices adapt in real‑time to demand, inventory, and seasonality.
-- **Revenue Growth** – Clients see 20‑40% uplift in gross margin within 90 days.
+
+### Why Dex?
+- **AI‑driven sourcing:** Scan millions of profiles in seconds.
+- **Bias‑free screening:** Structured assessments remove human prejudice.
+- **Instant matching:** Real‑time fit score aligns candidates with your exact role.
+- **Proven traction:** $5.3 M seed round led by Notion Capital validates market demand.
 
 ---
-### How It Works (3 Simple Steps)
-1. **Connect Your Store** – Integrate with Shopify, WooCommerce, or your custom API.
-2. **Run the AI Audit** – Our engine evaluates competitors, price elasticity, and buyer intent.
-3. **Deploy Smart Prices** – Auto‑update prices or get actionable recommendations.
+
+### Who Benefits?
+- **Tech founders** struggling to hire engineers quickly.
+- **HR leaders** needing data‑driven hiring pipelines.
+- **Recruiting agencies** looking to augment their talent pool with AI.
 
 ---
+
+### What You’ll Get
+1. **Free 30‑day trial** – No credit card required.
+2. **Personalized onboarding** – One‑on‑one setup with a Dex specialist.
+3. **Performance dashboard** – Track time‑to‑hire, cost savings, and quality metrics.
+
+---
+
 ### Social Proof
-> "We increased our average order value by 35% in just one month. The AI pricing tool is a game‑changer." – *Laura M., Founder, TrendyGear*
+- **"Dex cut our hiring cycle from 60 days to 18 days."** – CTO, ScaleUp.io
+- **"Our cost‑per‑hire dropped 38% after switching to Dex."** – Head of Talent, FinTechCo
+- Backed by **Notion Capital**, **Seedcamp**, and **AngelList** investors.
 
 ---
-### FAQs
-**Q:** Do I need a data scientist?
-**A:** No. Our platform does the heavy lifting.
 
-**Q:** Is it secure?
-**A:** We use end‑to‑end encryption and GDPR‑compliant storage.
+### How It Works (3‑Step Process)
+1. **Define** – Input role, skills, and culture preferences.
+2. **Match** – Dex AI surfaces the top 10 candidates instantly.
+3. **Hire** – Interview, evaluate, and extend offers—all from one dashboard.
 
 ---
-### Ready to Maximize Revenue?
-[Start Your Free AI Pricing Audit Today →](https://example.com/ai-pricing-audit)
 
-*No credit card required. Get a personalized report in 24 hours.*
+### FAQ
+**Q:** Do I need an ATS?
+**A:** No. Dex integrates with major ATS platforms or works standalone.
+
+**Q:** Is my data secure?
+**A:** Dex is GDPR‑compliant and uses end‑to‑end encryption.
+
+---
+
+### Ready to Transform Hiring?
+
+[**Start Your Free Trial**](https://dex.ai/signup)  
+Or book a **15‑minute demo** with our founders.
+
+---
+
+#### SEO Meta
+- **Title:** Dex Raises $5.3M Seed – AI Recruiting Platform | Notion Capital
+- **Description:** Discover how Dex, the AI‑powered recruiting startup, raised $5.3 M seed round to revolutionize hiring. Start a free trial today.
