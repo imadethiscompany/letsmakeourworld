@@ -6,6 +6,15 @@
   <title>DeepSeek AI Automation – Text Generation, Summarization & Workflow Bots</title>
   <meta name="description" content="Unlock the power of DeepSeek V4 APIs. Generate text, summarize documents, and automate workflows with our affordable AI SaaS. Free trial, instant sign‑up.">
   <meta name="keywords" content="DeepSeek AI, AI automation SaaS, text generation, summarization, workflow bots, AI pricing, low‑cost AI API">
+  <meta property="og:title" content="DeepSeek AI Automation – Text Generation, Summarization & Workflow Bots" />
+  <meta property="og:description" content="Generate text, summarize documents, and build workflow bots using DeepSeek V4 APIs. Start your free trial with one click." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourdomain.com/deepseek-saas" />
+  <meta property="og:image" content="https://yourdomain.com/assets/og-image.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="DeepSeek AI Automation – Text Generation, Summarization & Workflow Bots" />
+  <meta name="twitter:description" content="Generate text, summarize documents, and build workflow bots using DeepSeek V4 APIs. Start your free trial with one click." />
+  <meta name="twitter:image" content="https://yourdomain.com/assets/og-image.png" />
   <link rel="canonical" href="https://yourdomain.com/deepseek-saas" />
   <script type="application/ld+json">
   {
@@ -82,7 +91,7 @@
       <h3>Pro</h3>
       <div class="price">$299/mo</div>
       <ul><li>100,000 tokens per month</li><li>Priority email support</li><li>Workflow bots & advanced API limits</li></ul>
-      <a href="https://buy.stripe.com/test_6oU5kv0HhgbqcHpgzoc7y23">Buy Now</a>
+      <a href="https://buy.stripe.com/test_6uU5kv0HhgbqcHpgzoc7y23">Buy Now</a>
     </div>
   </section>
 
