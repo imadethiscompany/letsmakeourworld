@@ -1,71 +1,50 @@
-# AI Agent Config Manager
+# Launch Your SaaS with Usage‑Based Pricing
 
-## Seamless, Version‑Controlled AI Agent Configuration – Powered by GitOps
+## Turn every user into a happy paying customer
 
-**Deploy, update, and audit AI agents in seconds.**
+**Headline:** *“Start your SaaS, get paid as they use – no contracts, no guesswork.”*
 
----
-
-### Why Choose Us?
-
-- **Instant Rollbacks** – Every config change is a Git commit. Revert with a single click.
-- **Team Collaboration** – Branch, PR, and code‑review your agent prompts.
-- **API‑First** – Fetch the latest config via a secure REST endpoint.
-- **Enterprise‑Grade Security** – Role‑based access, audit logs, and encrypted storage.
-- **Zero Downtime** – Hot‑swap configs without restarting agents.
+**Sub‑headline:**
+Launch fast, grow faster. Our platform lets you set up usage‑based billing in minutes, so you can focus on building features while we handle the money.
 
 ---
 
-### Core Features
+### Why Usage‑Based Pricing Wins
+- **Zero friction:** Users pay only for what they consume – higher conversion rates.
+- **Predictable growth:** Revenue scales with adoption, matching product‑market fit.
+- **Competitive edge:** Stand out from flat‑fee SaaS competitors.
 
-| Feature | Benefit |
-|---|---|
-| **Git‑backed versioning** | Full history, diff view, and revert.
-| **Web UI Dashboard** | Visual editor, live preview, change‑log.
-| **REST & Webhook API** | Pull configs programmatically or get push notifications.
-| **Access Controls** | Teams, roles, SSO (SAML/OIDC).
-| **Compliance Export** | Export configs for audits (PDF/JSON).
-| **CI/CD Integration** | Plug into GitHub Actions, GitLab CI, Jenkins.
-
----
-
-## Pricing Plans
-
-| Plan | Monthly | Key Inclusions |
-|---|---|---|
-| **Starter** | **$49** | 5 agents, 10k API calls, community Slack, email support |
-| **Growth** | **$149** | 25 agents, 100k API calls, SSO, priority email, audit logs |
-| **Enterprise** | **Custom** | Unlimited agents, dedicated account manager, on‑prem deployment, 24/7 phone support |
-
-> **Free 14‑day trial** – No credit card required.
+### What You Get
+1. **Instant billing integration** – Stripe, Paddle, PayPal ready.
+2. **Real‑time usage tracking** – dashboards for you and your customers.
+3. **Smart pricing builder** – tiered, per‑seat, per‑event, or hybrid.
+4. **Automated invoicing & dunning** – never chase payments again.
+5. **Free onboarding session** – we set it up for you in 48 hours.
 
 ---
 
-### Frequently Asked Questions
-
-**Q: How does version control work?**
-A: Every change is stored as a Git commit. You can view diffs, tag releases, and roll back instantly.
-
-**Q: Can I integrate with my CI pipeline?**
-A: Yes. Use our GitHub Action or call the `/configs` endpoint from any CI tool.
-
-**Q: Is my data secure?**
-A: All data is encrypted at rest and in transit. Role‑based access and optional on‑prem deployment guarantee compliance.
+### Who Benefits
+- **Bootstrapped founders** – keep cash flow healthy.
+- **SMB owners** launching a new tool – prove value before asking for a commitment.
+- **Product teams** testing pricing experiments – iterate instantly.
 
 ---
 
-### Get Started Now
+## Ready to start?
 
-<div style="border:2px solid #4A90E2; padding:20px; border-radius:8px; max-width:500px; margin:auto;">
-  <h3>Start Your Free Trial</h3>
-  <form action="https://api.projectnexus.io/lead" method="POST">
-    <label>Name<br><input type="text" name="name" required style="width:100%;"></label><br><br>
-    <label>Email<br><input type="email" name="email" required style="width:100%;"></label><br><br>
-    <label>Company<br><input type="text" name="company" style="width:100%;"></label><br><br>
-    <button type="submit" style="background:#4A90E2;color:white;padding:10px 20px;border:none;border-radius:4px;cursor:pointer;">Start Free Trial</button>
-  </form>
-</div>
+**[Get Your Free Usage‑Based Billing Setup]**(https://example.com/signup?plan=usage‑starter)
+
+*No credit card required. Launch in under 5 minutes.*
 
 ---
 
-*Optimized for keywords: AI agent configuration management, version‑controlled AI prompts, hosted AI config SaaS, AI ops platform.*
+### FAQ
+**Q:** Do I need a developer?
+**A:** No. Our UI guides you step‑by‑step.
+
+**Q:** Can I switch to a flat‑fee later?
+**A:** Absolutely. Change pricing models anytime.
+
+---
+
+*Launch your SaaS today and let usage pay the bills.*
