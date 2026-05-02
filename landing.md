@@ -1,68 +1,70 @@
-# Mark Cuban Warns: 5 Jobs at Risk from AI
+# AI Spellcraft Engine
 
-**Are you in one of the professions that could disappear?**
+## Unleash Unlimited Magic in Your Games – No Code, All AI
 
-*The Hill* recently reported that billionaire entrepreneur **Mark Cuban** has identified **five job categories** that are **most vulnerable** to AI automation. If you work in any of these fields, you need to act **now** to protect your career.
+**Headline:** *Create Spell‑casting, Combat Scenarios, and Magical Worlds in Seconds.*
 
----
-
-## 🚨 The 5 High‑Risk Job Categories
-
-| # | Job Category | Why AI Threatens It | Quick Action You Can Take |
-|---|--------------|----------------------|---------------------------|
-| 1 | **Customer Service Representatives** | AI chatbots and voice assistants can handle routine inquiries 24/7. | Upskill to AI‑augmented support roles; learn prompt engineering. |
-| 2 | **Data Entry Clerks** | OCR + LLMs can extract and validate data faster than humans. | Transition to data analysis, learn SQL & Python basics. |
-| 3 | **Paralegals / Legal Researchers** | AI can draft contracts and summarize case law instantly. | Gain expertise in AI‑assisted legal tech tools; focus on strategy. |
-| 4 | **Manufacturing Assembly Line Workers** | Robotics + computer vision automate repetitive tasks. | Train in robot maintenance, CNC programming, or advanced manufacturing. |
-| 5 | **Retail Cashiers** | Self‑checkout and computer‑vision payment systems are proliferating. | Shift to inventory management, e‑commerce logistics, or customer experience design. |
+**Sub‑headline:** *The AI‑powered engine indie developers and hobbyist creators need to bring tabletop‑level spellcraft to any game, instantly.*
 
 ---
 
-## 🎯 Why This Matters
-- **90%** of CEOs say AI will **disrupt** their industry within 5 years. *(McKinsey)*
-- **$2.5 trillion** in productivity gains are projected, but **jobs will shift** dramatically. *(World Economic Forum)*
-- **Your career security** depends on staying ahead of the curve – **don’t wait** until it’s too late.
+### 🎮 Why Indie Developers Love It
+- **Zero‑code integration** – Drop‑in SDK works with Unity, Unreal, Godot, or pure JavaScript.
+- **Instant spell generation** – Prompt a spell, get balanced stats, visual effects, and sound assets ready to drop.
+- **Real‑time combat scenarios** – AI builds enemy encounters, mana curves, and cooldown systems on the fly.
+- **Play‑test confidence** – Run 100+ simulated battles in seconds to fine‑tune difficulty.
+- **Affordable & scalable** – Pay‑as‑you‑go pricing perfect for hobby projects.
 
 ---
 
-## 📈 Get the FREE "AI Job‑Risk Report"
-We’ve distilled Mark Cuban’s insights and added **actionable steps** for each role. **Download now** and receive:
-- A concise 5‑page PDF with **risk scores**.
-- **Skill‑upgrade roadmaps** tailored to each job.
-- Access to our **exclusive webinar** with AI career coaches.
-
-### 👉 **[Download the Report Instantly](/download/ai-job-risk-report) 👈**
-
----
-
-## ✅ What Sets Our Report Apart
-- **Real‑world data** from the latest AI adoption studies.
-- **Practical upskilling guides** you can start today (free resources included).
-- **Community support** – join a Slack channel of professionals navigating AI transitions.
+### ✨ Core Features
+| Feature | Benefit |
+|---|---|
+| **Prompt‑to‑Spell** | Type a description – AI returns JSON with name, damage, mana cost, animation links. |
+| **Dynamic Encounter Builder** | Generate balanced combat encounters for any party level. |
+| **Asset Library** | Auto‑fetch royalty‑free art & SFX matching your spell theme. |
+| **Live Balancing AI** | Adjust damage, cooldowns, and rarity with a single click. |
+| **Cross‑Engine Compatibility** | Unity, Unreal, Godot, Phaser, HTML5 – one SDK, many worlds. |
 
 ---
 
-## 📣 Join the Movement
-**Stay informed. Stay employable.**
+### 🚀 Get Started in 3 Minutes
+1. **Sign up** – Free developer account, no credit card required.
+2. **Install SDK** – `npm i ai-spellcraft` or download the Unity package.
+3. **Prompt your first spell** – "Fireball that explodes into lava shards".
+4. **Drop the generated assets** – Your game is magical instantly.
 
-- **Subscribe** for weekly AI‑impact newsletters.
-- **Follow** us on LinkedIn for daily insights.
-- **Share** this page with colleagues who need to hear the warning.
-
----
-
-### Frequently Asked Questions
-**Q:** *Is this just hype?*  
-**A:** Mark Cuban’s statements are backed by industry data; the risk is real for the listed roles.
-
-**Q:** *I’m not in one of these jobs – should I care?*  
-**A:** AI’s ripple effects affect many sectors. Understanding the trends helps you anticipate future changes.
+[**Start Free Trial →**](https://example.com/signup)
 
 ---
 
-#### Ready to protect your career?
-**Download the free report now** and start future‑proofing your skills.
+### 📣 What Creators Are Saying
+> *"I added a whole new magic system to my indie RPG in an afternoon. The AI balanced everything perfectly!"* – **Liam K., Indie Dev**
 
-**[Get My Free AI Job‑Risk Report](/download/ai-job-risk-report)**
+> *"No‑code spell generation saved me weeks of art hunting. The SDK works straight out of the box with Godot."* – **Maya R., Hobbyist Creator**
 
-*Your future is a click away.*
+---
+
+### ❓ Frequently Asked Questions
+**Q: Do I need any AI/ML knowledge?**
+A: No. The engine handles all model hosting and inference.
+
+**Q: Is the generated content royalty‑free?**
+A: Yes. All art and sound assets are licensed for commercial use.
+
+**Q: Can I customize the AI prompts?**
+A: Absolutely – advanced users can fine‑tune tone, element affinity, and rarity curves.
+
+**Q: What pricing plans are available?**
+A: Free tier (up to 50 spells/month), Pro ($19/mo), Enterprise (custom). 
+
+---
+
+### 📈 SEO Keywords
+* AI Spellcraft Engine, AI‑generated spells, indie game dev tools, hobbyist game creator, real‑time combat AI, no‑code game magic, procedural spell generation
+
+---
+
+#### Ready to turn your ideas into magical gameplay?
+
+[**Get Early Access – Free**](https://example.com/signup)
