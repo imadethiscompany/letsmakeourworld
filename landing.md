@@ -59,7 +59,7 @@ A: Our team monitors SEC filings, Crunchbase, and direct founder outreach to ver
 
 ## Ready to Beat the Market?
 
-[**Start My Free Trial**](#) – Get the first 3 days on us.
+[**Start My Free Trial**](https://buy.stripe.com/test_aFadR1gGf6AQ8r94QGc7y1W) – Get the first 3 days on us.
 
 ---
 
