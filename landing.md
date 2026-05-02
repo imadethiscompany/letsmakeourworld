@@ -1,52 +1,52 @@
-# Accelerate SaaS Growth with Proven Business Models
+# Transform Your SaaS Growth with Proven Effective Models
 
-**Headline:** *"Unlock Predictable Revenue: Proven Go‑to‑Market Models for SaaS Leaders"*
+## Unlock Predictable Revenue, Faster Scaling, and Higher Retention
 
-**Subheadline:**
-> Discover how the top 5% of SaaS companies scale 3x faster using repeatable growth frameworks. Apply the same playbook to your product today.
+**Join the elite SaaS leaders who are using data‑driven models to double ARR in 12 months.**
+
+[Get the Free Playbook](/signup)
+
+### Why This Works
+
+- **Predictable Forecasting:** Reduce revenue variance by 30% with our proven modeling framework.
+- **Accelerated Scaling:** Cut time‑to‑$1M ARR from 18 months to 9 months.
+- **Higher Retention:** Increase net revenue retention (NRR) by up to 15 points.
+- **Actionable Insights:** Real‑time dashboards that turn data into decisions.
+
+### Who’s Using It
+
+| Company | ARR Growth | NRR Increase |
+|---------|------------|---------------|
+| **Acme SaaS** | +120% YoY | +12 pts |
+| **BetaCloud** | +95% YoY | +10 pts |
+| **Nimbus.io** | +80% YoY | +9 pts |
+
+### How It Works
+
+1. **Assess** – We audit your current go‑to‑market and product metrics.
+2. **Model** – Build a custom revenue model using our proprietary framework.
+3. **Implement** – Deploy actionable playbooks across sales, marketing, and product.
+4. **Iterate** – Continuous optimization with live KPI tracking.
+
+### Ready to See the Model in Action?
+
+**Download the free “Effective SaaS Models Playbook”** and start building predictable growth today.
+
+[Download Now](/download)
+
+### Frequently Asked Questions
+
+**Q:** Do I need a data team?  
+**A:** No. Our playbook is designed for founders and PMs to implement without heavy engineering.
+
+**Q:** Is this for early‑stage SaaS only?  
+**A:** Works for Series A‑D companies looking to scale predictably.
+
+**Q:** What’s the cost?  
+**A:** The playbook is free. Our consulting services start at $5,000 for a full‑scale implementation.
 
 ---
 
-### Why Traditional Tactics Fail
-- **Spending on paid ads** without a repeatable funnel leads to volatile cash flow.
-- **Feature‑first roadmaps** ignore the core levers that drive ARR.
-- **One‑size‑fits‑all pricing** leaves $‑million revenue on the table.
+**Take the first step toward predictable growth.**
 
-### Our Proven Model Framework
-1. **Ideal Customer Profile (ICP) Mapping** – Pinpoint the 3‑digit ARR accounts that buy fastest.
-2. **Value‑Based Pricing Engine** – Turn usage data into tiered pricing that grows with the customer.
-3. **Growth Funnel Automation** – Convert trial users to paying customers in 7 days or less.
-4. **Retention Playbook** – Reduce churn by 30% with automated health‑checks and upsell triggers.
-5. **Metrics‑Driven Expansion** – Leverage NRR, LTV:CAC, and cohort analysis to fuel continuous growth.
-
-### What You’ll Get
-- **Live Blueprint** – A downloadable PDF of the full framework.
-- **30‑Minute Strategy Call** – Personalized audit of your current growth engine.
-- **Access to Private Community** – Network with CEOs who have built $10M+ SaaS businesses.
-
----
-
-## Ready to Transform Your Revenue?
-
-[**Schedule Your Free Strategy Call**](https://calendly.com/saas-leaders/strategy)  
-*No credit card required. Seats are limited to 20 per month.*
-
----
-
-### Social Proof
-> "Implementing the model increased our ARR by 45% in 90 days." – **CTO, ScaleUp SaaS**
-
-> "We finally have a repeatable pricing engine that scales with our customers." – **Founder, DataFlow**
-
----
-
-**FAQ**
-- **Do I need a big team?** – No. The framework is designed for founders and small teams.
-- **Is this only for B2B SaaS?** – Works for both B2B and B2C subscription models.
-- **What’s the commitment?** – Just a 30‑minute call. No strings attached.
-
----
-
-**Take the first step to predictable growth.**
-
-[**Schedule Your Free Strategy Call Now**](https://calendly.com/saas-leaders/strategy)
+[Get the Free Playbook](/signup)
