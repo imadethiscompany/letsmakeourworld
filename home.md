@@ -69,7 +69,9 @@
   <section class="hero">
     <h1>DeepSeek‑Powered AI Automation</h1>
     <p>Generate text, summarize documents, and build workflow bots in seconds. Scale your business with the most cost‑effective LLM on the market.</p>
-    <button class="cta-button" onclick="window.location.href='https://buy.stripe.com/test_dRm9AL61BbVagXFcj8c7y22'">Start Free Trial – No Credit Card</button>
+    <form action="https://buy.stripe.com/test_dRm9AL61BbVagXFcj8c7y22" method="GET" style="margin:0;">
+      <button type="submit" class="cta-button">Start Free Trial – No Credit Card</button>
+    </form>
   </section>
 
   <section class="features">
@@ -91,7 +93,7 @@
       <h3>Pro</h3>
       <div class="price">$299/mo</div>
       <ul><li>100,000 tokens per month</li><li>Priority email support</li><li>Workflow bots & advanced API limits</li></ul>
-      <a href="https://buy.stripe.com/test_6uU5kv0HhgbqcHpgzoc7y23">Buy Now</a>
+      <a href="https://buy.stripe.com/test_6oU5kv0HhgbqcHpgzoc7y23">Buy Now</a>
     </div>
   </section>
 
