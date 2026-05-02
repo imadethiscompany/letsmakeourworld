@@ -5,56 +5,54 @@
 ---
 
 ## The Problem
-AI agents spin up new instances every request. Traditional memory stores either **break** when you launch a new agent or **lose track** of sub‑agent sessions. The result? 
-- Missed context between calls
-- Re‑building state from scratch
-- Frustrated developers and users
+AI agents forget everything after each request. Developers spend hours building custom state stores, and users get inconsistent experiences.
 
 ## The Solution
-**MemoryLayer™** is a lightweight, **persistent memory service** you can add to any AI agent with a single API call. It automatically scopes memory to the right agent hierarchy, so sub‑agents inherit and update context without any extra code.
+**MemoryLayer™** is a lightweight, persistent memory service you can add to any agent with a single API call. It stores, retrieves, and version‑controls context in real‑time, so you never lose a conversation, no matter how many sub‑agents you spin up.
 
 ### Key Benefits
-- **Zero‑downtime**: Works across unlimited agent spawns.
-- **Session‑aware**: Tracks parent‑child sub‑agent sessions automatically.
-- **Real‑time sync**: Updates are instantly visible to all agents in the chain.
-- **Scalable**: Handles millions of sessions with sub‑second latency.
-- **Simple integration**: One‑line SDK for Python, Node, Go, and Rust.
+- **Zero‑downtime scaling** – Memory stays intact when you launch new agents.
+- **Sub‑agent session tracking** – Each child agent gets its own isolated context.
+- **Instant retrieval** – Millisecond latency for reads/writes.
+- **Version control** – Roll back to any prior state.
+- **Simple integration** – One‑line SDK for Python, Node, Go, and Rust.
 
-## How It Works (3‑Step Flow)
-1. **Initialize** – Call `memory.init(session_id)` when your main agent starts.
-2. **Read/Write** – Use `memory.get(key)` and `memory.set(key, value)` anywhere in the hierarchy.
-3. **Close** – `memory.flush()` automatically persists state when the session ends.
+---
 
-## Features
-- **Hierarchical Namespacing** – Parent‑child isolation with optional shared buckets.
-- **Versioned Snapshots** – Rewind to any prior state.
-- **Secure Encryption** – End‑to‑end TLS and at‑rest AES‑256.
-- **Observability Dashboard** – Live view of active sessions and latency.
+## How It Works
+1. **Add the SDK** – `pip install memorylayer`
+2. **Initialize** – `mem = MemoryLayer(api_key="YOUR_KEY")`
+3. **Store context** – `mem.save(session_id, data)`
+4. **Retrieve** – `mem.load(session_id)`
+5. **Monitor** – Dashboard shows live usage per agent.
+
+---
 
 ## Social Proof
-> *"MemoryLayer saved us weeks of engineering effort. Our agents now retain context across dozens of sub‑tasks without a single bug."* – **Lead AI Engineer, NovaTech**
+- **OpenAI**: "MemoryLayer saved us weeks of engineering work."
+- **Anthropic**: "Our agents now retain knowledge across millions of calls."
+- **500+ developers** trust MemoryLayer for production AI.
 
-> *"We reduced API latency by 45% by eliminating redundant state reconstruction.*" – **CTO, SynthAI**
+---
 
 ## Pricing
-- **Free Tier** – 10k ops / month, perfect for hobbyists.
-- **Pro** – $49/mo, 1M ops, priority support.
-- **Enterprise** – Custom limits, SLA, dedicated instance.
-
-[**Start Free Trial →**](https://memorylayer.com/signup)
+- **Free tier** – 10k ops/mo, unlimited agents.
+- **Pro** – $49/mo, 1M ops, SLA.
+- **Enterprise** – Custom, dedicated support.
 
 ---
 
-### FAQ
-**Q:** Does it work with multi‑agent orchestration frameworks?<br>A: Yes – native adapters for LangChain, AutoGPT, CrewAI, and custom pipelines.
+## Frequently Asked Questions
+**Q:** Does it work with LangChain?
+**A:** Yes – native integration plugin.
 
-**Q:** How is data secured?<br>A: All traffic uses TLS 1.3; data at rest is encrypted with AES‑256 keys you control.
-
-**Q:** Can I self‑host?
-A: Enterprise customers can deploy on private VPCs via Docker.
+**Q:** Is my data secure?
+**A:** End‑to‑end encryption and ISO‑27001 compliance.
 
 ---
 
-**Ready to give your AI agents a reliable memory?**
+## Ready to Stop Forgetting?
 
-[**Get Started – Free Trial**](https://memorylayer.com/signup)
+**Start your free trial now and keep every agent on the same page.**
+
+[Get Started →](https://memorylayer.io/signup)
