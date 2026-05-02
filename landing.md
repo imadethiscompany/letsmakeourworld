@@ -1,69 +1,68 @@
-# Mark Cuban Warns These 5 Job Categories Are At Risk Due To AI
+# Mark Cuban Warns: 5 Jobs at Risk from AI
 
-## Unlock the Future of Work – Stay Ahead Before AI Takes Your Job
+**Are you in one of the professions that could disappear?**
 
-**Discover the 5 high‑risk professions** that billionaire investor **Mark Cuban** says are most vulnerable to AI automation, and **learn actionable steps** to protect your career and boost your earning power.
-
----
-
-### Why This Page Matters
-- **AI is already reshaping the workforce** – 40% of tasks could be automated by 2030.
-- **Mark Cuban’s warning** is based on real‑world investments and data, not hype.
-- **You’ll get a concise, data‑driven report** you can download in seconds.
+*The Hill* recently reported that billionaire entrepreneur **Mark Cuban** has identified **five job categories** that are **most vulnerable** to AI automation. If you work in any of these fields, you need to act **now** to protect your career.
 
 ---
 
-## The 5 At‑Risk Job Categories (According to Mark Cuban)
-1. **Administrative & Clerical Roles** – Scheduling, data entry, and basic bookkeeping.
-2. **Customer Service Representatives** – Chatbots and voice AI are handling routine inquiries.
-3. **Retail Cashiers & Sales Associates** – Self‑checkout and AI‑driven recommendation engines.
-4. **Transportation & Delivery Drivers** – Autonomous vehicles and drones.
-5. **Manufacturing & Assembly Line Workers** – Robotics and AI‑controlled production.
+## 🚨 The 5 High‑Risk Job Categories
 
-> *"If you’re in any of these roles, you need to start up‑skilling now or risk being left behind,"* – Mark Cuban, 2024.
-
----
-
-## What You’ll Get When You Download the Free Report
-- **A 2‑page PDF** summarizing the risk factors and timeline for each job.
-- **5 Proven Upskilling Paths** with free and paid resources (Coursera, Udemy, LinkedIn Learning).
-- **Salary Impact Calculator** – See how upskilling can increase your earnings by up to 30%.
-- **Early‑Access Invitation** to our weekly AI‑Career Newsletter.
+| # | Job Category | Why AI Threatens It | Quick Action You Can Take |
+|---|--------------|----------------------|---------------------------|
+| 1 | **Customer Service Representatives** | AI chatbots and voice assistants can handle routine inquiries 24/7. | Upskill to AI‑augmented support roles; learn prompt engineering. |
+| 2 | **Data Entry Clerks** | OCR + LLMs can extract and validate data faster than humans. | Transition to data analysis, learn SQL & Python basics. |
+| 3 | **Paralegals / Legal Researchers** | AI can draft contracts and summarize case law instantly. | Gain expertise in AI‑assisted legal tech tools; focus on strategy. |
+| 4 | **Manufacturing Assembly Line Workers** | Robotics + computer vision automate repetitive tasks. | Train in robot maintenance, CNC programming, or advanced manufacturing. |
+| 5 | **Retail Cashiers** | Self‑checkout and computer‑vision payment systems are proliferating. | Shift to inventory management, e‑commerce logistics, or customer experience design. |
 
 ---
 
-## How It Works
-1. **Enter your email** – We’ll send the PDF instantly.
-2. **Get a personalized upskilling plan** based on your current role.
-3. **Join our community** of professionals navigating AI disruption.
+## 🎯 Why This Matters
+- **90%** of CEOs say AI will **disrupt** their industry within 5 years. *(McKinsey)*
+- **$2.5 trillion** in productivity gains are projected, but **jobs will shift** dramatically. *(World Economic Forum)*
+- **Your career security** depends on staying ahead of the curve – **don’t wait** until it’s too late.
 
 ---
 
-### 📧 Get the Report Now – It’s FREE!
+## 📈 Get the FREE "AI Job‑Risk Report"
+We’ve distilled Mark Cuban’s insights and added **actionable steps** for each role. **Download now** and receive:
+- A concise 5‑page PDF with **risk scores**.
+- **Skill‑upgrade roadmaps** tailored to each job.
+- Access to our **exclusive webinar** with AI career coaches.
 
-<form action="https://example.com/subscribe" method="POST">
-  <input type="email" name="email" placeholder="Enter your email" required style="padding:12px; width:80%; max-width:400px; margin-bottom:12px;">
-  <br>
-  <button type="submit" style="background:#0066ff; color:#fff; padding:12px 24px; border:none; cursor:pointer; font-size:1rem;">Download My Free AI‑Job‑Risk Report</button>
-</form>
+### 👉 **[Download the Report Instantly](/download/ai-job-risk-report) 👈**
+
+---
+
+## ✅ What Sets Our Report Apart
+- **Real‑world data** from the latest AI adoption studies.
+- **Practical upskilling guides** you can start today (free resources included).
+- **Community support** – join a Slack channel of professionals navigating AI transitions.
+
+---
+
+## 📣 Join the Movement
+**Stay informed. Stay employable.**
+
+- **Subscribe** for weekly AI‑impact newsletters.
+- **Follow** us on LinkedIn for daily insights.
+- **Share** this page with colleagues who need to hear the warning.
 
 ---
 
 ### Frequently Asked Questions
-**Q:** *Is this really from Mark Cuban?*  
-**A:** The insights are compiled from his recent interview on The Hill and verified by our research team.
+**Q:** *Is this just hype?*  
+**A:** Mark Cuban’s statements are backed by industry data; the risk is real for the listed roles.
 
-**Q:** *Will my data be safe?*  
-**A:** We never share your email and comply with GDPR.
-
-**Q:** *I’m not in any of these jobs – is this still useful?*  
-**A:** Absolutely – the report also covers emerging AI‑proof careers and how to transition.
+**Q:** *I’m not in one of these jobs – should I care?*  
+**A:** AI’s ripple effects affect many sectors. Understanding the trends helps you anticipate future changes.
 
 ---
 
-#### Ready to future‑proof your career?
-**[Download the Free Report]** – No credit card required.
+#### Ready to protect your career?
+**Download the free report now** and start future‑proofing your skills.
 
----
+**[Get My Free AI Job‑Risk Report](/download/ai-job-risk-report)**
 
-*© 2024 AI Career Insights – All rights reserved.*
+*Your future is a click away.*
