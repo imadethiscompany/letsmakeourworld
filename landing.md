@@ -1,33 +1,52 @@
-# Unlock Predictable Growth for SaaS Leaders
+# Accelerate SaaS Growth with Proven Business Models
 
-## Proven Revenue Models That Convert
+**Headline:** *"Unlock Predictable Revenue: Proven Go‑to‑Market Models for SaaS Leaders"*
 
-Are you a SaaS founder or VP of Growth struggling to scale profitably? Our data‑driven framework shows **how the top 10% of SaaS companies generate 3‑5x more ARR** by mastering three core models:
-
-1. **Land‑and‑Expand** – Turn first‑time users into enterprise accounts.
-2. **Usage‑Based Pricing** – Capture value as your customers grow.
-3. **Product‑Led Upsell** – Leverage in‑app triggers to boost LTV.
-
-### Why It Works
-- **Evidence‑backed**: Benchmark against 500+ SaaS benchmarks.
-- **Actionable Playbooks**: Ready‑to‑implement templates & scripts.
-- **Immediate ROI**: Most teams see a 20% lift in conversion within 30 days.
+**Subheadline:**
+> Discover how the top 5% of SaaS companies scale 3x faster using repeatable growth frameworks. Apply the same playbook to your product today.
 
 ---
 
-### Get the Free Framework
+### Why Traditional Tactics Fail
+- **Spending on paid ads** without a repeatable funnel leads to volatile cash flow.
+- **Feature‑first roadmaps** ignore the core levers that drive ARR.
+- **One‑size‑fits‑all pricing** leaves $‑million revenue on the table.
 
-**[Download the “SaaS Growth Playbook”](/download) →**
+### Our Proven Model Framework
+1. **Ideal Customer Profile (ICP) Mapping** – Pinpoint the 3‑digit ARR accounts that buy fastest.
+2. **Value‑Based Pricing Engine** – Turn usage data into tiered pricing that grows with the customer.
+3. **Growth Funnel Automation** – Convert trial users to paying customers in 7 days or less.
+4. **Retention Playbook** – Reduce churn by 30% with automated health‑checks and upsell triggers.
+5. **Metrics‑Driven Expansion** – Leverage NRR, LTV:CAC, and cohort analysis to fuel continuous growth.
 
-No credit card. No fluff. Just the exact models you need to hit $100k‑$1M MRR faster.
+### What You’ll Get
+- **Live Blueprint** – A downloadable PDF of the full framework.
+- **30‑Minute Strategy Call** – Personalized audit of your current growth engine.
+- **Access to Private Community** – Network with CEOs who have built $10M+ SaaS businesses.
 
 ---
 
-#### FAQ
-- **Who is this for?** SaaS founders, CEOs, CROs, and growth teams.
-- **What if I’m not tech‑heavy?** Our playbooks are low‑code, with step‑by‑step guides.
-- **How quickly can I see results?** Teams report measurable lift in 2‑4 weeks.
+## Ready to Transform Your Revenue?
+
+[**Schedule Your Free Strategy Call**](https://calendly.com/saas-leaders/strategy)  
+*No credit card required. Seats are limited to 20 per month.*
 
 ---
 
-*Join the elite SaaS leaders who are already scaling with confidence.*
+### Social Proof
+> "Implementing the model increased our ARR by 45% in 90 days." – **CTO, ScaleUp SaaS**
+
+> "We finally have a repeatable pricing engine that scales with our customers." – **Founder, DataFlow**
+
+---
+
+**FAQ**
+- **Do I need a big team?** – No. The framework is designed for founders and small teams.
+- **Is this only for B2B SaaS?** – Works for both B2B and B2C subscription models.
+- **What’s the commitment?** – Just a 30‑minute call. No strings attached.
+
+---
+
+**Take the first step to predictable growth.**
+
+[**Schedule Your Free Strategy Call Now**](https://calendly.com/saas-leaders/strategy)
