@@ -7,6 +7,35 @@
   <meta name="description" content="Unlock the power of DeepSeek V4 APIs. Generate text, summarize documents, and automate workflows with our affordable AI SaaS. Free trial, instant sign‑up.">
   <meta name="keywords" content="DeepSeek AI, AI automation SaaS, text generation, summarization, workflow bots, AI pricing, low‑cost AI API">
   <link rel="canonical" href="https://yourdomain.com/deepseek-saas" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeepSeek AI Automation Platform",
+    "description": "Generate text, summarize documents, and build workflow bots using DeepSeek V4 APIs.",
+    "brand": "DeepSeek",
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://buy.stripe.com/test_dRm9AL61BbVagXFcj8c7y22",
+        "priceCurrency": "USD",
+        "price": "99",
+        "priceSpecification": {"@type": "UnitPriceSpecification", "price": 99, "priceCurrency": "USD", "unitText": "month"},
+        "availability": "https://schema.org/InStock",
+        "sku": "starter-plan"
+      },
+      {
+        "@type": "Offer",
+        "url": "https://buy.stripe.com/test_6oU5kv0HhgbqcHpgzoc7y23",
+        "priceCurrency": "USD",
+        "price": "299",
+        "priceSpecification": {"@type": "UnitPriceSpecification", "price": 299, "priceCurrency": "USD", "unitText": "month"},
+        "availability": "https://schema.org/InStock",
+        "sku": "pro-plan"
+      }
+    ]
+  }
+  </script>
   <style>
     body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0;line-height:1.6;color:#333;background:#f9f9f9;}
     .hero{background:#0d47a1;color:#fff;padding:80px 20px;text-align:center;}
@@ -35,22 +64,10 @@
   </section>
 
   <section class="features">
-    <div class="feature">
-      <h2>Lightning‑Fast Text Generation</h2>
-      <p>Leverage DeepSeek V4 for coherent, context‑aware copy, emails, code snippets, and more.</p>
-    </div>
-    <div class="feature">
-      <h2>Instant Summarization</h2>
-      <p>Turn long reports, articles, or transcripts into concise summaries with a single API call.</p>
-    </div>
-    <div class="feature">
-      <h2>Custom Workflow Bots</h2>
-      <p>Automate repetitive tasks – data entry, ticket routing, content publishing – using our low‑code bot builder.</p>
-    </div>
-    <div class="feature">
-      <h2>Scalable & Secure</h2>
-      <p>Enterprise‑grade security, GDPR compliance, and auto‑scaling infrastructure.</p>
-    </div>
+    <div class="feature"><h2>Lightning‑Fast Text Generation</h2><p>Leverage DeepSeek V4 for coherent, context‑aware copy, emails, code snippets, and more.</p></div>
+    <div class="feature"><h2>Instant Summarization</h2><p>Turn long reports, articles, or transcripts into concise summaries with a single API call.</p></div>
+    <div class="feature"><h2>Custom Workflow Bots</h2><p>Automate repetitive tasks – data entry, ticket routing, content publishing – using our low‑code bot builder.</p></div>
+    <div class="feature"><h2>Scalable & Secure</h2><p>Enterprise‑grade security, GDPR compliance, and auto‑scaling infrastructure.</p></div>
   </section>
 
   <section class="pricing">
@@ -58,21 +75,13 @@
     <div class="plan">
       <h3>Starter</h3>
       <div class="price">$99/mo</div>
-      <ul>
-        <li>10,000 tokens per month</li>
-        <li>Basic text generation & summarization</li>
-        <li>Email support</li>
-      </ul>
+      <ul><li>10,000 tokens per month</li><li>Basic text generation & summarization</li><li>Email support</li></ul>
       <a href="https://buy.stripe.com/test_dRm9AL61BbVagXFcj8c7y22">Buy Now</a>
     </div>
     <div class="plan">
       <h3>Pro</h3>
       <div class="price">$299/mo</div>
-      <ul>
-        <li>100,000 tokens per month</li>
-        <li>Priority email support</li>
-        <li>Workflow bots & advanced API limits</li>
-      </ul>
+      <ul><li>100,000 tokens per month</li><li>Priority email support</li><li>Workflow bots & advanced API limits</li></ul>
       <a href="https://buy.stripe.com/test_6oU5kv0HhgbqcHpgzoc7y23">Buy Now</a>
     </div>
   </section>
