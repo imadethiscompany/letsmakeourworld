@@ -1,46 +1,69 @@
-# Transform Your Business with Cutting-Edge SaaS & AI Solutions
+# Mark Cuban Warns These 5 Job Categories Are At Risk Due To AI
 
-## Headline
-**Accelerate Growth, Cut Costs, and Unlock New Revenue Streams with Our Turnkey SaaS & AI Products**
+## Unlock the Future of Work – Stay Ahead Before AI Takes Your Job
 
-### Sub‑headline
-All‑in‑one platform that lets small‑and‑mid‑size businesses automate workflows, gain AI‑driven insights, and scale without hiring engineers.
+**Discover the 5 high‑risk professions** that billionaire investor **Mark Cuban** says are most vulnerable to AI automation, and **learn actionable steps** to protect your career and boost your earning power.
 
 ---
 
-## Why Choose Us?
-- **Instant ROI:** Reduce manual effort by up to 80% and see revenue lift within 30 days.
-- **Zero‑Code Integration:** Connect to your existing tools (CRM, ERP, accounting) with drag‑and‑drop flows.
-- **AI‑Powered Decision Engine:** Predict churn, upsell opportunities, and optimize pricing with built‑in machine‑learning models.
-- **Scalable Cloud Architecture:** Pay‑as‑you‑grow pricing, no hidden fees.
-- **24/7 Expert Support:** Dedicated success manager for onboarding and ongoing optimization.
+### Why This Page Matters
+- **AI is already reshaping the workforce** – 40% of tasks could be automated by 2030.
+- **Mark Cuban’s warning** is based on real‑world investments and data, not hype.
+- **You’ll get a concise, data‑driven report** you can download in seconds.
 
 ---
 
-## How It Works (3 Simple Steps)
-1. **Pick a Solution** – Choose from our pre‑built SaaS modules (Marketing Automation, Sales Enablement, Customer Support AI).
-2. **Configure in Minutes** – Use our visual builder to map data sources and set AI parameters.
-3. **Launch & Grow** – Go live instantly, track live dashboards, and iterate with real‑time AI insights.
+## The 5 At‑Risk Job Categories (According to Mark Cuban)
+1. **Administrative & Clerical Roles** – Scheduling, data entry, and basic bookkeeping.
+2. **Customer Service Representatives** – Chatbots and voice AI are handling routine inquiries.
+3. **Retail Cashiers & Sales Associates** – Self‑checkout and AI‑driven recommendation engines.
+4. **Transportation & Delivery Drivers** – Autonomous vehicles and drones.
+5. **Manufacturing & Assembly Line Workers** – Robotics and AI‑controlled production.
+
+> *"If you’re in any of these roles, you need to start up‑skilling now or risk being left behind,"* – Mark Cuban, 2024.
 
 ---
 
-## Social Proof
-> “We cut our lead qualification time from 3 hours to 15 minutes and saw a 25% sales increase in the first month.” – **CEO, Tech‑Scale SMB**
+## What You’ll Get When You Download the Free Report
+- **A 2‑page PDF** summarizing the risk factors and timeline for each job.
+- **5 Proven Upskilling Paths** with free and paid resources (Coursera, Udemy, LinkedIn Learning).
+- **Salary Impact Calculator** – See how upskilling can increase your earnings by up to 30%.
+- **Early‑Access Invitation** to our weekly AI‑Career Newsletter.
 
 ---
 
-## Ready to Transform?
-[**Start Your Free 14‑Day Trial**](/signup) – No credit card required.
-
-Or book a 15‑minute demo: **[Schedule Now](/schedule-demo)**
-
----
-
-### FAQ
-**Do I need technical staff?** No. Our platform is built for non‑technical founders.
-**What’s the pricing?** Starts at $49 / month per module, with volume discounts.
-**Can I cancel anytime?** Yes, with a simple click.
+## How It Works
+1. **Enter your email** – We’ll send the PDF instantly.
+2. **Get a personalized upskilling plan** based on your current role.
+3. **Join our community** of professionals navigating AI disruption.
 
 ---
 
-*© 2024 YourCompany – All rights reserved.*
+### 📧 Get the Report Now – It’s FREE!
+
+<form action="https://example.com/subscribe" method="POST">
+  <input type="email" name="email" placeholder="Enter your email" required style="padding:12px; width:80%; max-width:400px; margin-bottom:12px;">
+  <br>
+  <button type="submit" style="background:#0066ff; color:#fff; padding:12px 24px; border:none; cursor:pointer; font-size:1rem;">Download My Free AI‑Job‑Risk Report</button>
+</form>
+
+---
+
+### Frequently Asked Questions
+**Q:** *Is this really from Mark Cuban?*  
+**A:** The insights are compiled from his recent interview on The Hill and verified by our research team.
+
+**Q:** *Will my data be safe?*  
+**A:** We never share your email and comply with GDPR.
+
+**Q:** *I’m not in any of these jobs – is this still useful?*  
+**A:** Absolutely – the report also covers emerging AI‑proof careers and how to transition.
+
+---
+
+#### Ready to future‑proof your career?
+**[Download the Free Report]** – No credit card required.
+
+---
+
+*© 2024 AI Career Insights – All rights reserved.*
