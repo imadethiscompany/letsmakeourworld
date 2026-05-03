@@ -1,19 +1,24 @@
-# Unlock Growth with SaaS as Your Core Strategy
-## Turn software into a predictable revenue engine
+# Rollback‑Ready Physics Engine for Multiplayer Games
 
-[Start Your Free Demo](/signup)
+## Instantly rewind physics for flawless multiplayer experiences
 
-### Why SaaS?
-- **Recurring revenue**: Build steady cash flow month after month.
-- **Scalable growth**: Add customers without adding overhead.
-- **Customer lock‑in**: Deliver continuous value that keeps users subscribed.
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
+  <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
-### How It Works
-1. **Identify** the core problem your product solves.
-2. **Package** it as a subscription service.
-3. **Automate** delivery, billing, and support.
+### Pricing
 
-### Ready to Accelerate?
-Get a customized SaaS roadmap in minutes. No credit card required.
+| Plan | Price | Features |
+|------|-------|----------|
+| **Starter** | $49/mo | • 5 concurrent game instances<br>• Basic rollback engine<br>• Email support |
+| **Pro** | $149/mo | • 20 concurrent instances<br>• Advanced deterministic rollback<br>• Priority support<br>• Usage analytics |
+| **Enterprise** | $499/mo | • Unlimited instances<br>• Custom integration
+• SLA guarantee
+• Dedicated account manager |
 
-[Get My Free SaaS Blueprint](/signup)
+### Sign up now
+
+<form action="https://example.com/signup" method="POST" style="margin-top:20px;">
+  <input type="email" name="email" placeholder="Your email" required style="padding:8px;width:250px;"/>
+  <button type="submit" style="padding:8px 16px;margin-left:8px;">Get Started</button>
+</form>
