@@ -1,40 +1,21 @@
-# AI Policy Impact Report
+# Fed Chair Warning: Immediate Market Impact & Actionable Strategies
 
-## Unlock the Future of AI Regulation
+<meta name="title" content="Fed Chair Warning: Immediate Market Impact & Actionable Strategies">
+<meta name="description" content="Discover the immediate market impact of the Fed Chair's warning and get actionable strategies to protect and grow your portfolio. Limited time video for $49.">
+<meta name="keywords" content="Fed warning market impact, Fed chair, market impact, investment strategies, finance video">
 
-In just **30 minutes**, get a comprehensive analysis of the latest AI policy developments, a full transcript of our exclusive video, and actionable insights you can implement **today**.
+## 🎯 Why This Video Matters
+- **Urgent Market Shift:** The Fed Chair just warned about imminent economic turbulence. *Act now before the market reacts.*
+- **Proven 80/20 Framework:** Get the 20% insights that will drive 80% of your portfolio performance.
+- **Actionable Playbook:** Step‑by‑step strategies you can implement today.
 
----
+### What You’ll Get
+- 10‑minute expert‑level video analysis
+- Downloadable cheat‑sheet of key metrics
+- Immediate tactics to protect assets and capture upside
 
-### What’s Inside?
-- **Full Video Transcript** – Every word from our expert‑led deep‑dive.
-- **Policy Breakdown** – Clear, concise summaries of the NYT AI policy controversy and upcoming regulations.
-- **Actionable Insights** – Step‑by‑step recommendations for founders, investors, and policy‑savvy teams.
-- **Strategic Playbook** – How to future‑proof your product roadmap and compliance strategy.
-
----
-
-### Who Benefits?
-- **Startup Founders** – Navigate compliance before it becomes a roadblock.
-- **Investors & VCs** – Spot regulatory risks early.
-- **Legal & Policy Teams** – Get a ready‑to‑use briefing.
-- **Tech Media** – Stay ahead of the news cycle.
+### Only **$49** – One‑time, lifetime access
+[Buy Now – Secure Checkout]({{stripe_payment_link}})
 
 ---
-
-## Only $49 – One‑Time Purchase
-
-<a href="https://buy.stripe.com/test_bJe6oz9dNf7m9vd1Euc7y3A" target="_blank" style="display:inline-block;background:#28a745;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy Now – Get Instant Access</a>
-
----
-
-### Frequently Asked Questions
-**Q:** How do I receive the report?
-**A:** After purchase, you’ll instantly receive a download link via email.
-
-**Q:** Is there a refund policy?
-**A:** Yes, a 7‑day money‑back guarantee if you’re not satisfied.
-
----
-
-*Ready to stay ahead of the AI policy curve?*
+*Limited seats available – once the video is sold out, the analysis will be archived.*
