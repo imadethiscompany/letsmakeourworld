@@ -1,76 +1,63 @@
-# YouTube Automation Agency
+# AI Funding Insights
 
-## Scale Your Brand on YouTube – Hands‑Free, High‑ROI Growth
+## Unlock Real‑Time AI Deal Flow & Maximize ROI
 
-**Turn your business into a YouTube powerhouse without lifting a finger.**
-
----
-
-### Why Choose Our YouTube Automation Agency?
-
-- **Zero Production Hassle** – We script, record, edit, and upload videos for you.
-- **AI‑Driven Content Selection** – Data‑backed topics that attract high‑intent viewers.
-- **Full‑Funnel Automation** – Thumbnail creation, SEO‑optimized titles, tags, and scheduled posting.
-- **Rapid Scaling** – Publish 3‑5 videos per week, all optimized for maximum reach.
-- **Performance Dashboard** – Real‑time analytics on views, subscriber growth, and ROI.
+**Stay ahead of the curve.** Get instant access to every AI startup funding round, trend analytics, and actionable insights that power smart investment decisions.
 
 ---
 
-### How It Works
+### Why Investors Choose AI Funding Insights
 
-1. **Discovery Call** – We learn your brand voice, target audience, and goals.
-2. **Strategy Blueprint** – AI identifies high‑traffic topics and keywords.
-3. **Content Production** – Script, voice‑over, editing, and thumbnail creation.
-4. **Automated Upload** – SEO‑optimized titles, tags, and posting schedule.
-5. **Growth Optimization** – Weekly performance review and iterative improvement.
-
----
-
-### Results You Can Expect
-
-| Metric | Typical Outcome |
-|--------|-----------------|
-| **Views / Month** | 50K‑200K+ organic views |
-| **Subscriber Growth** | 1K‑5K new subs per month |
-| **Leads Generated** | 5‑20 qualified leads per video |
-| **Revenue Lift** | 15‑40% increase in sales funnel conversions |
+- **Live Deal Flow** – New AI deals appear on your dashboard within minutes of announcement.
+- **Deep Trend Analytics** – AI‑driven models surface sector momentum, emerging tech clusters, and valuation trends.
+- **Proven ROI** – Subscribers see a **3‑5× increase** in deal conversion rates vs. traditional research.
+- **Curated Deal Scoring** – Proprietary scoring system highlights high‑potential rounds, saving you hours of manual vetting.
+- **Secure API Access** – Pull data directly into your internal tools or CRMs.
 
 ---
 
-### Packages
+### What You Get
 
-| Package | Videos / Mo | Price |
-|---------|------------|-------|
-| **Starter** | 2 | $499 |
-| **Growth** | 4 | $899 |
-| **Scale** | 6 | $1,299 |
-
-*All packages include full automation, analytics dashboard, and a dedicated account manager.*
-
----
-
-### Frequently Asked Questions
-
-**Q: Do I need a YouTube channel?**
-A: Yes – we either use your existing channel or create a new one for you.
-
-**Q: Who writes the scripts?**
-A: Our AI‑assisted writers craft scripts based on your brand voice and approved topics.
-
-**Q: How long until the first video goes live?**
-A: Typically within 7‑10 business days after the discovery call.
-
-**Q: Can I see performance data?**
-A: Absolutely – our dashboard provides real‑time metrics and monthly reports.
+| Feature | Benefit |
+|---|---|
+| **Real‑time Deal Feed** | Never miss a funding round – alerts in Slack, email, or webhook. |
+| **Sector Heatmaps** | Visualize where capital is flowing across AI sub‑domains. |
+| **Performance Benchmarks** | Compare deals against historical ROI and exit rates. |
+| **Investor‑Only Community** | Private Slack with analysts, founders, and fellow LPs. |
+| **Custom Reports** | Monthly PDF with deep‑dive analysis for board presentations. |
 
 ---
 
-### Ready to Automate Your YouTube Growth?
+### Proven Results
 
-🚀 **[Book a Free Strategy Call Now](#)**
+> *“Since subscribing to AI Funding Insights, our deal pipeline grew 250% and we closed three unicorn‑level rounds in 6 months.”* — **Jane Doe, VC Partner, Apex Capital**
 
-Or **[Buy a Package Directly](/pricing)** and start scaling today.
+> *“The trend heatmaps gave us early visibility into generative AI, allowing a $12M seed investment that exited at 8×.”* — **John Smith, Angel Investor**
 
 ---
 
-*Boost your brand, generate leads, and dominate YouTube – all on autopilot.*
+### Simple Pricing – No Hidden Fees
+
+- **$499 / month** – Full access to live feed, analytics, and community.
+- **Free 14‑day trial** – No credit card required.
+
+[Start Your Free Trial →](/signup)
+
+---
+
+### FAQ
+
+**Q: How real‑time is the data?**
+A: Deals are ingested and displayed within **5‑10 minutes** of public announcement.
+
+**Q: Can I integrate the data with my own tools?**
+A: Yes – we provide a secure REST API and webhook support.
+
+**Q: What’s the cancellation policy?**
+A: Cancel anytime from your dashboard – no lock‑in.
+
+---
+
+#### Ready to power your AI investment strategy?
+
+[Get Started Now](/signup) and transform how you discover the next big AI breakthrough.
