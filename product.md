@@ -1,26 +1,40 @@
-# AI Job‑Risk Report
+# AI Policy Impact Report
 
-## Discover Which Jobs Are At Risk From AI – and How to Future‑Proof Your Career
+## Unlock the Future of AI Regulation
 
-**Only $29** – Get the full PDF report **plus** an exclusive video walkthrough that explains the findings and actionable steps.
-
-### What’s Inside
-- A list of **20+ high‑impact jobs** that are most vulnerable to AI automation.
-- Detailed analysis of **why** these roles are at risk.
-- **Actionable strategies** to upskill, pivot, or protect your income.
-- Bonus video **(15‑minute walkthrough)** with real‑world examples.
+In just **30 minutes**, get a comprehensive analysis of the latest AI policy developments, a full transcript of our exclusive video, and actionable insights you can implement **today**.
 
 ---
 
-#### Why Pay $29?
-- **Immediate value** – Save hundreds of hours researching trends.
-- **Expert insights** – Compiled by AI specialists and career strategists.
-- **One‑click checkout** – Secure Stripe payment, instant access.
+### What’s Inside?
+- **Full Video Transcript** – Every word from our expert‑led deep‑dive.
+- **Policy Breakdown** – Clear, concise summaries of the NYT AI policy controversy and upcoming regulations.
+- **Actionable Insights** – Step‑by‑step recommendations for founders, investors, and policy‑savvy teams.
+- **Strategic Playbook** – How to future‑proof your product roadmap and compliance strategy.
 
 ---
 
-<a href="https://buy.stripe.com/test_14A4gr1Ll8IY7n51Euc7y2v" style="display:inline-block;background:#6772e5;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy Now – Get Instant Access</a>
+### Who Benefits?
+- **Startup Founders** – Navigate compliance before it becomes a roadblock.
+- **Investors & VCs** – Spot regulatory risks early.
+- **Legal & Policy Teams** – Get a ready‑to‑use briefing.
+- **Tech Media** – Stay ahead of the news cycle.
 
 ---
 
-*Your payment is processed securely via Stripe. After purchase you’ll receive an email with the PDF download link and a private video URL.*
+## Only $49 – One‑Time Purchase
+
+<a href="https://buy.stripe.com/test_bJe6oz9dNf7m9vd1Euc7y3A" target="_blank" style="display:inline-block;background:#28a745;color:white;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy Now – Get Instant Access</a>
+
+---
+
+### Frequently Asked Questions
+**Q:** How do I receive the report?
+**A:** After purchase, you’ll instantly receive a download link via email.
+
+**Q:** Is there a refund policy?
+**A:** Yes, a 7‑day money‑back guarantee if you’re not satisfied.
+
+---
+
+*Ready to stay ahead of the AI policy curve?*
