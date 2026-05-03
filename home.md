@@ -1,58 +1,41 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel to 6‑Figures Without Lifting a Finger
+## Supercharge Your Channel, Scale to 7 Figures
 
-**Turn views into revenue** with a fully‑managed, AI‑powered YouTube automation service. We handle **content creation, SEO, posting, community management, and monetization** so you can focus on what matters – your brand.
+**Ready to turn your YouTube channel into a revenue-generating machine without lifting a finger?**
 
----
+Our **YouTube Automation Agency** handles everything:
+
+- **Video Ideation & Scripting** – Data‑driven topics that attract clicks.
+- **AI‑Generated Voiceovers** – Professional, human‑like narration in minutes.
+- **High‑Quality B‑Roll & Editing** – Stock footage, motion graphics, and branding.
+- **Full Upload & Optimization** – SEO‑optimized titles, thumbnails, tags, and descriptions.
+- **Community Management** – Automated comment replies and growth hacks.
 
 ### Why Choose Us?
 
 | Benefit | What You Get |
 |---|---|
-| **Zero Content Hassle** | AI‑generated scripts, voice‑overs, and stock footage assembled into viral‑ready videos. |
-| **SEO‑Optimized** | Keyword‑rich titles, descriptions, hashtags, and thumbnail A/B testing for maximum discoverability. |
-| **Growth Hacking** | Automated comment engagement, playlist optimization, and subscriber retargeting. |
-| **Revenue Automation** | Affiliate integration, sponsorship matchmaking, and merch store setup. |
-| **Transparent Reporting** | Weekly dashboards with subscriber growth, CPM, and ROI metrics. |
+| **Zero Production Hassle** | All video creation steps automated.
+| **Fast Turnaround** | New videos published **3‑5 days** after brief.
+| **Scalable Growth** | From 0 to 100k+ subs in 6‑12 months.
+| **Revenue Focused** | Monetization strategy built‑in (ads, sponsorships, merch).
+| **Transparent Pricing** | Pay‑as‑you‑grow, no hidden fees.
+
+### Packages
+
+- **Starter** – 4 videos/month – **$499/mo**
+- **Growth** – 8 videos/month – **$899/mo**
+- **Scale** – 12 videos/month – **$1,399/mo**
+
+> **Limited Offer:** First month **50% off** for the first 10 sign‑ups.
+
+### Ready to Automate?
+
+[**Book a Free Strategy Call**](https://calendly.com/yt-automation/strategy) – No credit card required.
+
+Or click **Buy Now** to get instant access to our **Starter Package** and start scaling your channel today.
 
 ---
 
-### How It Works (4‑Step System)
-
-1. **Discovery Call** – We define your niche, audience, and revenue goals.
-2. **Content Blueprint** – AI crafts a 30‑day video calendar based on high‑search keywords.
-3. **Production & Publish** – Our pipeline creates, edits, and uploads videos on schedule.
-4. **Scale & Monetize** – Ongoing SEO tweaks, ad‑revenue optimization, and brand deals.
-
----
-
-### Pricing Packages
-
-| Package | Monthly Price | Videos / Month | Ideal For |
-|---|---|---|---|
-| **Starter** | **$499** | 4 | New creators looking for steady growth. |
-| **Growth** | **$999** | 8 | Channels with 10‑50k subs aiming for 6‑figure revenue. |
-| **Enterprise** | **$1,999** | 15+ | Established brands needing full‑scale automation. |
-
-> **Limited Time Offer:** Sign up this week and get **1 month free** on any package.
-
----
-
-### Success Stories
-
-> *"Within 60 days, our subscriber count jumped from 2k to 12k and ad revenue tripled. The agency handled everything – we just watched the numbers climb!"* – **Alex M., Tech Reviewer**
-
-> *"Our niche cooking channel went from 0 to 8k subs in 3 months. The AI scripts are spot‑on and the thumbnails get clicks every time."* – **Sofia L., Food Blogger**
-
----
-
-### Ready to Automate Your Success?
-
-[**Start Your Free Strategy Call →**](https://example.com/strategy-call)
-
-Or email us at **team@ytautomation.com**.
-
----
-
-*© 2026 YouTube Automation Agency – All rights reserved.*
+*We’re trusted by creators earning **$10k‑$100k+** per month. Join the automation revolution.*
