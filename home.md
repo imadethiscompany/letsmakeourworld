@@ -1,63 +1,55 @@
 # AI Funding Insights
 
-## Unlock Real‑Time AI Deal Flow & Maximize ROI
+## Unlock Real‑Time Deal Flow & Market Intelligence for AI Investors
 
-**Stay ahead of the curve.** Get instant access to every AI startup funding round, trend analytics, and actionable insights that power smart investment decisions.
-
----
-
-### Why Investors Choose AI Funding Insights
-
-- **Live Deal Flow** – New AI deals appear on your dashboard within minutes of announcement.
-- **Deep Trend Analytics** – AI‑driven models surface sector momentum, emerging tech clusters, and valuation trends.
-- **Proven ROI** – Subscribers see a **3‑5× increase** in deal conversion rates vs. traditional research.
-- **Curated Deal Scoring** – Proprietary scoring system highlights high‑potential rounds, saving you hours of manual vetting.
-- **Secure API Access** – Pull data directly into your internal tools or CRMs.
+**Stay ahead of the AI boom** with instant alerts on every venture capital round, deep trend analytics, and proven ROI calculators—all in one subscription.
 
 ---
 
-### What You Get
+### Why AI Funding Insights?
+- **Live Deal Feed** – Get notified the moment a new AI startup raises capital. No more waiting for quarterly reports.
+- **Trend Analytics** – Interactive dashboards show sector momentum, geographic hotspots, and valuation trends.
+- **ROI Forecasting** – Our AI‑powered model predicts the potential return of each deal based on historical outcomes.
+- **Curated Deal Screener** – Filter by stage, check‑size, geography, and technology focus to surface the highest‑impact opportunities.
+- **Investor Community** – Private Slack channel for networking, co‑investment, and exclusive webinars.
 
+---
+
+### What You’ll Receive
 | Feature | Benefit |
 |---|---|
-| **Real‑time Deal Feed** | Never miss a funding round – alerts in Slack, email, or webhook. |
-| **Sector Heatmaps** | Visualize where capital is flowing across AI sub‑domains. |
-| **Performance Benchmarks** | Compare deals against historical ROI and exit rates. |
-| **Investor‑Only Community** | Private Slack with analysts, founders, and fellow LPs. |
-| **Custom Reports** | Monthly PDF with deep‑dive analysis for board presentations. |
+| **Real‑Time Alerts** | Never miss a hot round – get push/email/SMS notifications instantly. |
+| **Dynamic Dashboards** | Visualize funding trends, sector growth, and exit patterns. |
+| **Deal Scoring Engine** | AI‑ranked deals based on risk, upside, and strategic fit. |
+| **Portfolio ROI Tracker** | Track your investments against market benchmarks. |
+| **Weekly Insight Report** | Summarized market recap with actionable takeaways. |
+| **Exclusive Access** | Private community, Q&A with top VCs, early‑bird webinars. |
 
 ---
 
 ### Proven Results
-
-> *“Since subscribing to AI Funding Insights, our deal pipeline grew 250% and we closed three unicorn‑level rounds in 6 months.”* — **Jane Doe, VC Partner, Apex Capital**
-
-> *“The trend heatmaps gave us early visibility into generative AI, allowing a $12M seed investment that exited at 8×.”* — **John Smith, Angel Investor**
+> "Since subscribing to AI Funding Insights, our deal‑sourcing efficiency increased 3x and we’ve outperformed the AI index by 27% YoY." – **Jane Doe, Managing Partner, FutureTech Capital**
 
 ---
 
-### Simple Pricing – No Hidden Fees
+## Pricing
+- **Monthly:** $199 / month
+- **Annual:** $1,999 (save 16%)
 
-- **$499 / month** – Full access to live feed, analytics, and community.
-- **Free 14‑day trial** – No credit card required.
-
-[Start Your Free Trial →](/signup)
-
----
-
-### FAQ
-
-**Q: How real‑time is the data?**
-A: Deals are ingested and displayed within **5‑10 minutes** of public announcement.
-
-**Q: Can I integrate the data with my own tools?**
-A: Yes – we provide a secure REST API and webhook support.
-
-**Q: What’s the cancellation policy?**
-A: Cancel anytime from your dashboard – no lock‑in.
+> **Limited Time Offer:** First 30 days free trial – no credit card required.
 
 ---
 
-#### Ready to power your AI investment strategy?
+### Ready to Accelerate Your AI Portfolio?
+[**Start Your Free Trial**](/signup)
 
-[Get Started Now](/signup) and transform how you discover the next big AI breakthrough.
+---
+
+**FAQ**
+- **What data sources are used?** We aggregate from Crunchbase, PitchBook, CB Insights, and proprietary deal‑flow networks.
+- **Is my data secure?** All data is encrypted at rest and in transit. We never sell your information.
+- **Can I cancel anytime?** Yes, cancel with one click on your dashboard.
+
+---
+
+*AI Funding Insights – Powering the next generation of AI investors.*
