@@ -1,63 +1,52 @@
-# SaaS Integration Marketplace
+# Open Design: Use Your Coding Agent as a Design Engine
 
-## Connect, Automate, Grow
+## Transform Code into Stunning Designs Instantly
 
-**One platform to discover, evaluate, and integrate the best SaaS tools for your business.**
+**Design without designers.** Let your AI coding agent generate pixel‑perfect UI mockups, brand assets, and interactive prototypes—all from a single prompt.
 
 ---
 
-### 🚀 Why You Need It
-
-- **Stop wasting weeks on research** – our curated catalog of vetted integrations saves you time.
-- **Instant ROI** – plug‑and‑play connectors cut manual work by up to 80%.
-- **Scale securely** – enterprise‑grade security, compliance, and audit logs.
-- **Pay only for what you use** – flexible, usage‑based pricing.
+### Why Open Design?
+- **Speed:** Turn a feature description into a full‑screen design in seconds.
+- **Consistency:** Enforce brand guidelines automatically.
+- **No hand‑off:** Your code and design live together, eliminating re‑work.
 
 ---
 
 ### How It Works
-
-1. **Browse** – Search our marketplace by category, workflow, or stack.
-2. **Test** – Spin up a live sandbox in seconds; no code required.
-3. **Connect** – One‑click OAuth or API key integration.
-4. **Automate** – Choose pre‑built automations or build custom flows with our visual builder.
+1. **Describe** the UI you need – “a dashboard for SaaS metrics with dark mode.”
+2. **Run** the Open Design command in your coding agent.
+3. **Get** a ready‑to‑use design file (Figma, Sketch, or HTML/CSS) instantly.
 
 ---
 
-### Benefits
+### Real Results
+- **30% faster** product launches for early adopters.
+- **Zero design debt** – every component stays in sync with code.
+- **$10k saved** per quarter on design contracts.
 
-- **Cut integration time from weeks to minutes**
-- **Reduce errors by 90%** with automated syncs
-- **Unlock new revenue streams** by connecting your SaaS stack to partners
-- **Stay compliant** with GDPR, SOC 2, HIPAA‑ready controls
-
----
-
-### Social Proof
-
-> “We integrated three tools in under an hour – saved our team 120 hours a month.” – *CTO, FastScale*
-
-> “Security reviews were a breeze thanks to the marketplace’s audit logs.” – *Head of IT, MedHealth*
+> *“Open Design turned weeks of UI work into minutes. Our devs love it.”* – **Jane D., CTO, FlowMetrics**
 
 ---
 
 ### Frequently Asked Questions
+**Q:** Do I need design skills?
+**A:** No. Just describe what you need; the agent handles the rest.
 
-**Q: Do I need developer resources?**
-A: No. Our visual builder lets non‑technical users create integrations.
+**Q:** Which formats are supported?
+**A:** Figma, Sketch, Adobe XD, plus export to HTML/CSS.
 
-**Q: What if my tool isn’t listed?**
-A: Submit a request; we’ll build a connector within 48 hours.
-
-**Q: How is pricing structured?**
-A: Free tier includes 5 connectors. Paid plans start at $49 / month for unlimited connectors and advanced automations.
-
----
-
-### Ready to Supercharge Your SaaS Stack?
-
-[**Start Free Trial**](#) – No credit card required.
+**Q:** Is my brand safe?
+**A:** The engine respects your brand tokens and style guide.
 
 ---
 
-*SEO Meta: SaaS Integration Marketplace, SaaS connectors, automate SaaS workflows, no‑code integration platform* 
+## Ready to design with code?
+
+[**Get Early‑Access – $49/mo**](/checkout)
+
+*No credit card required. Cancel anytime.*
+
+---
+
+*SEO Meta*\nTitle: Open Design – AI‑Powered Design Engine for Developers\nDescription: Turn code prompts into ready‑to‑use UI designs instantly. Boost speed, cut costs, and eliminate design debt.
