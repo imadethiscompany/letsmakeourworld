@@ -1,45 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Fed Chair Warning: Immediate Market Impact & Actionable Strategies</title>
-<meta name="description" content="Discover the Fed Chair's latest warning, its immediate market impact, and actionable strategies for investors. Get expert analysis in a 10‑minute premium video for just $49.">
-<meta name="keywords" content="Fed warning market impact, Fed chair warning, market impact analysis, investor strategies, Fed speech, financial markets, trading strategy">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://yourdomain.com/fed-warning-market-impact">
 <style>
-  body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0;background:#f9f9f9;color:#333;}
-  .hero{background:#004080;color:#fff;padding:60px 20px;text-align:center;}
-  .hero h1{font-size:2.5rem;margin-bottom:10px;}
-  .hero p{font-size:1.2rem;margin-bottom:20px;}
-  .cta{background:#ff6600;color:#fff;padding:15px 30px;font-size:1.2rem;border:none;border-radius:5px;cursor:pointer;}
-  .price{font-size:2rem;margin:20px 0;}
-  .features{max-width:800px;margin:40px auto;padding:0 20px;}
-  .features h2{font-size:2rem;margin-bottom:10px;}
-  .features ul{list-style:none;padding:0;}
-  .features li{margin:10px 0;padding-left:20px;position:relative;}
-  .features li:before{content:"✔";position:absolute;left:0;color:#28a745;}
-  .footer{background:#222;color:#ccc;padding:20px;text-align:center;font-size:.9rem;}
+  .banner {background:#ff4d4d;color:#fff;padding:15px;text-align:center;font-weight:bold;}
+  .hero {text-align:center;padding:50px 20px;}
+  .hero h1 {font-size:2.5rem;margin-bottom:10px;}
+  .hero p {font-size:1.2rem;margin-bottom:20px;}
+  .cta-btn {background:#28a745;color:#fff;padding:15px 30px;border:none;border-radius:5px;font-size:1.1rem;cursor:pointer;text-decoration:none;}
+  .features {max-width:800px;margin:auto;padding:20px;}
+  .features ul {list-style-type:disc;margin-left:20px;}
 </style>
-</head>
-<body>
+<div class="banner">⚡️ 48‑Hour Flash Sale – Get **30% OFF**! Use code <strong>ETH30</strong> at checkout. Offer ends soon.</div>
 <div class="hero">
-<h1>Fed Chair Warning: Immediate Market Impact</h1>
-<p>Get the expert analysis you need to protect and grow your portfolio.</p>
-<div class="price">Only $49</div>
-<button class="cta" onclick="location.href='https://buy.stripe.com/test_7sY8wHey75wM36P5UKc7y46'">Buy Now – Unlock Video</button>
+  <h1>Ethereum Surge & Immediate Trading Playbook</h1>
+  <p>Unlock the exact moves to profit from the current ETH rally – in just 8 minutes.</p>
+  <a href="https://buy.stripe.com/test_14A8wH3TtgbqcHp0Aqc7z01" class="cta-btn">Grab the Bundle – Only $13.30 (Was $19)</a>
 </div>
 <div class="features">
-<h2>What You’ll Learn</h2>
-<ul>
-<li>Key takeaways from the Fed Chair’s latest speech.</li>
-<li>Short‑term market reactions you can trade today.</li>
-<li>Risk‑managed strategies for stocks, bonds, and commodities.</li>
-<li>Position sizing and stop‑loss tactics to protect capital.</li>
-<li>Actionable checklist you can implement immediately.</li>
-</ul>
+  <h2>What You’ll Get</h2>
+  <ul>
+    <li>🔥 8‑minute premium video breaking down the ETH surge and immediate trade setups.</li>
+    <li>📄 "Crypto Volatility Playbook" PDF – proven strategies to ride market chaos.</li>
+    <li>✅ Actionable entry & exit points with risk‑management tips.</li>
+    <li>🚀 Real‑time price alert checklist you can copy‑paste.</li>
+    <li>💡 Lifetime access – watch anytime, anywhere.</li>
+  </ul>
 </div>
-<div class="footer">
-© 2026 Your Company – All Rights Reserved.
+<div class="hero">
+  <a href="https://buy.stripe.com/test_14A8wH3TtgbqcHp0Aqc7z01" class="cta-btn">Yes, I Want This Deal!</a>
 </div>
-</body>
-</html>
+<div class="features">
+  <h2>Why This Works</h2>
+  <p>We focus on the 20% of strategies that generate 80% of the profits. This playbook isolates the highest‑probability setups right now, so you can act fast and capture upside.</p>
+</div>
+<div class="features">
+  <h2>FAQ</h2>
+  <ul>
+    <li><strong>Is this a live webinar?</strong> No – it’s a pre‑recorded video you can watch on demand.</li>
+    <li><strong>Do I need any prior experience?</strong> The playbook is designed for both beginners and seasoned traders.</li>
+    <li><strong>What if I’m not satisfied?</strong> We offer a 7‑day money‑back guarantee – just email support.</li>
+  </ul>
+</div>
