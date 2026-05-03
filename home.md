@@ -1,59 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Claude SaaS Agent – AI Automation for Your Business</title>
-  <meta name="description" content="Boost productivity with Claude SaaS Agent. Automated AI workflows, 5k‑20k token plans, instant results. Start your free trial today!" />
-  <style>
-    body{font-family:Arial,sans-serif;margin:0;padding:0;color:#333;background:#f9f9f9;}
-    .hero{background:#4A90E2;color:#fff;padding:80px 20px;text-align:center;}
-    .hero h1{font-size:2.8rem;margin:0 0 20px;}
-    .hero p{font-size:1.2rem;margin:0 0 30px;}
-    .cta-btn{background:#fff;color:#4A90E2;padding:15px 30px;border:none;border-radius:5px;font-size:1rem;cursor:pointer;text-decoration:none;}
-    .pricing{display:flex;justify-content:center;gap:40px;padding:60px 20px;background:#fff;}
-    .plan{border:1px solid #ddd;border-radius:8px;width:300px;padding:30px;box-shadow:0 2px5px rgba(0,0,0,0.1);}
-    .plan h2{margin-top:0;color:#4A90E2;}
-    .price{font-size:2rem;margin:20px 0;}
-    .features{list-style:none;padding:0;margin:20px 0;}
-    .features li{margin-bottom:10px;}
-    .footer{text-align:center;padding:20px;font-size:.9rem;color:#777;}
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <h1>Automate Your Workflows with Claude SaaS Agent</h1>
-    <p>AI‑powered agents that handle tasks, extract insights, and boost productivity – no coding required.</p>
-    <a href="https://buy.stripe.com/test_eVq4gr4Xx0cscHpdncc7y2V" class="cta-btn">Start Free Trial (Starter)</a>
-    <a href="https://buy.stripe.com/test_aFa7sDblV0csdLtcj8c7y2W" class="cta-btn" style="margin-left:15px;">Upgrade to Pro</a>
-  </section>
+# AI Design Engine
 
-  <section class="pricing">
-    <div class="plan">
-      <h2>Starter</h2>
-      <div class="price">$19/mo</div>
-      <ul class="features">
-        <li>5,000 tokens per month</li>
-        <li>Email support</li>
-        <li>Community access</li>
-      </ul>
-      <a href="https://buy.stripe.com/test_eVq4gr4Xx0cscHpdncc7y2V" class="cta-btn">Get Started</a>
-    </div>
-    <div class="plan">
-      <h2>Pro</h2>
-      <div class="price">$49/mo</div>
-      <ul class="features">
-        <li>20,000 tokens per month</li>
-        <li>Priority email support</li>
-        <li>Community access</li>
-        <li>API access</li>
-      </ul>
-      <a href="https://buy.stripe.com/test_aFa7sDblV0csdLtcj8c7y2W" class="cta-btn">Upgrade Now</a>
-    </div>
-  </section>
+## Turn design specs into production‑ready UI code in seconds
 
-  <section class="footer">
-    <p>&copy; 2026 Claude SaaS Agent – All rights reserved.</p>
-  </section>
-</body>
-</html>
+![AI Design Engine Hero](https://example.com/hero-image.jpg)
+
+### How it works
+1. **Enter your design brief** – UI layout, color palette, component library.
+2. **AI generates clean React/Vue/Svelte code** – fully responsive, accessible, and production‑ready.
+3. **Download or export** – instantly integrate into your project.
+
+---
+
+## 🎥 Demo Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEMO_VIDEO_ID" title="AI Design Engine Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Pricing
+
+| Plan | Price / month | Features |
+|------|----------------|----------|
+| **Starter** | **$29** | 5 design specs, React output, community support |
+| **Pro** | **$79** | 20 design specs, React & Vue, priority support, API access |
+| **Enterprise** | **Custom** | Unlimited specs, all frameworks, dedicated account manager, SLA |
+
+**All plans include a 14‑day free trial.**
+
+---
+
+## Why Choose AI Design Engine?
+- **Speed:** From brief to code in < 60 seconds.
+- **Quality:** Clean, linted, and accessible code.
+- **Flexibility:** Supports React, Vue, Svelte, Angular.
+- **Scalable:** API for automated pipelines.
+
+---
+
+## Ready to supercharge your UI development?
+
+<a href="https://yourdomain.com/signup" style="display:inline-block;padding:12px 24px;background:#0066ff;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">Start Your Free Trial</a>
+
+---
+
+### FAQ
+**Q:** Can I export the code to my existing repo?
+**A:** Yes, download a zip or push directly via the API.
+
+**Q:** Is the generated code production‑ready?
+**A:** Absolutely – it follows best practices and passes linting.
+
+---
+
+*SEO meta: AI Design Engine, generate UI code, automated design, React code generator, UI automation*
