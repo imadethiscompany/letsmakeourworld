@@ -1,1 +1,14 @@
-<h1>Ethereum Surge & Immediate Trading Playbook Bundle</h1><p>Unlock an 8‑minute premium video analyzing the current ETH rally with actionable trades, plus the Crypto Volatility Playbook PDF.</p><a href="https://buy.stripe.com/test_14A8wH3TtgbqcHp0Aqc7z01" style="display:inline-block;padding:10px 20px;background:#6772e5;color:#fff;border-radius:5px;text-decoration:none;">Buy Now for $68</a>
+# eBay Acquisition Alert
+
+**Stay ahead of the market with an exclusive, in‑depth report on Ryan Cohen's $56 B bid to acquire eBay.**
+
+- Detailed analysis of the offer and its implications
+- Timeline and next steps
+- Impact on shareholders, competitors, and the e‑commerce landscape
+- Actionable insights for investors and traders
+
+**One‑time price: $199**
+
+[Buy Now] (https://buy.stripe.com/test_8x23cney7e3ibDl6YOc7z1e)
+
+Get the report instantly after purchase.
