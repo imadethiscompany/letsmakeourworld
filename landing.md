@@ -1,67 +1,30 @@
-# Creative & Marketing Jobs in Boston, MA
-
-## Unlock Your Next Creative Career in Boston
-
-**Find high‑paying, flexible, and growth‑focused creative & marketing roles in Boston, MA—fast.**
-
----
-
-### Why Boston?
-- **Thriving tech & media hub** – Home to over 1,000 startups and Fortune‑500 marketing agencies.
-- **Competitive salaries** – Avg. $85k‑$115k for mid‑level creative roles.
-- **Culture & lifestyle** – Walkable neighborhoods, world‑class universities, vibrant arts scene.
-
----
-
-### What We Offer
-- **Curated job feed** – Only vetted, full‑time or contract roles that match your skill set.
-- **Instant matching** – AI‑powered matchmaking sends you the right openings within 24 hrs.
-- **Career coaching** – Free resume & portfolio review with industry experts.
-- **Salary insights** – Transparent pay ranges and negotiation tips.
-
----
-
-### Featured Roles (Updated Daily)
-| Role | Company | Salary | Type |
-|------|---------|--------|------|
-| Senior Graphic Designer | HubSpot | $95k‑$110k | Full‑time |
-| Content Marketing Manager | Wayfair | $90k‑$105k | Full‑time |
-| Social Media Strategist | DraftKings | $80k‑$95k | Contract |
-| UX Writer | Vertex | $85k‑$100k | Full‑time |
-| Brand Designer | Ginkgo Bioworks | $92k‑$108k | Full‑time |
-
----
-
-### Get Matched in 3 Simple Steps
-1. **Enter your email** – No spam, just the jobs you want.
-2. **Complete a 2‑minute profile** – Skills, experience, salary expectations.
-3. **Receive curated listings** – Directly to your inbox or Viber/WhatsApp.
-
-**[Get Started – Find My Jobs Now]**
-
----
-
-### Success Stories
-> *"Within 48 hours I landed a senior copywriter role at a Boston fintech startup. The process was seamless!"* – **Maria L., Boston**
-
-> *"The salary data saved me from low‑ball offers. I negotiated $10k more thanks to the insights."* – **James K., Cambridge**
-
----
-
-### Frequently Asked Questions
-**Q: Are the jobs remote or on‑site?**
-A: We list both. Filter results by location or remote preference.
-
-**Q: Is there a fee?**
-A: No. Our service is free for candidates; companies pay us to source top talent.
-
-**Q: How often is the list updated?**
-A: New postings appear every hour.
-
----
-
-### Ready to Elevate Your Creative Career?
-
-**[Get Matched – Join Boston’s Creative Elite]**
-
-*Your next big opportunity is just a click away.*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Free Backdoor Roth Blueprint + $49 Premium Video Course</title>
+<style>
+body {font-family:Arial,Helvetica,sans-serif;background:#f9f9f9;color:#333;margin:0;padding:0;}
+.container {max-width:800px;margin:auto;padding:20px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+h1 {color:#2c3e50;}
+button {background:#27ae60;color:#fff;padding:12px 20px;border:none;border-radius:4px;cursor:pointer;font-size:16px;}
+button:hover {background:#219150;}
+form {margin-top:20px;}
+input[type=email] {width:100%;padding:12px;margin:8px 0;border:1px solid #ccc;border-radius:4px;}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Unlock the Secret: Backdoor Roth Blueprint</h1>
+<p>Download the <strong>FREE PDF</strong> that shows step‑by‑step how to legally contribute $6,500+ to a Roth IRA, even if your income is too high for a direct Roth.</p>
+<form id="leadForm" method="POST" action="/api/lead_capture">
+<input type="email" name="email" placeholder="Enter your email" required />
+<button type="submit">Send Me the Blueprint</button>
+</form>
+<hr/>
+<h2>Ready to Accelerate Your Retirement?</h2>
+<p>Get the <strong>Premium Video Course</strong> – a 30‑minute, high‑impact walkthrough that expands the PDF with real‑world examples, tax‑saving tricks, and a live Q&amp;A session.</p>
+<a href="https://buy.stripe.com/test_14A6ozblV9N27n51Euc7z0q" target="_blank"><button>Buy Now – Only $49</button></a>
+</div>
+</body>
+</html>
