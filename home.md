@@ -1,75 +1,88 @@
-# AI Tools for Merchant Onboarding
+# AI-Generated Music Service
 
-## Unlock Faster, Smarter Onboarding for DoorDash Affiliates & B2B Partners
+## 🎵 Create Unlimited Music Instantly – Powered by Suno’s $5 B Valuation
 
-**Turn weeks of manual paperwork into seconds.** Our AI‑powered onboarding suite automates verification, risk scoring, menu digitization, and compliance – so you can scale partner acquisition without the bottleneck.
+### Hero
+
+**Headline:** *AI‑Generated Music for Creators, Brands & Apps*  
+**Sub‑headline:** *Leverage the same technology behind Suno’s $5 B‑valued AI music startup. Instantly generate royalty‑free tracks, customize style, and scale your audio needs.*
+
+**Primary CTA:** [Start Your Free 7‑Day Trial](/signup)  
+**Secondary CTA:** [Become an Affiliate Partner]
 
 ---
 
-### Why DoorDash Affiliates Need AI‑Driven Onboarding
+## Why AI‑Generated Music?
 
-| Challenge | Traditional Process | AI Solution |
+- **Speed:** Produce a full‑length track in seconds.
+- **Cost‑Effective:** No licensing fees, no royalty headaches.
+- **Customization:** Choose genre, mood, tempo, instrumentation, and even lyrical style.
+- **Scalable:** From TikTok videos to full‑length podcasts – generate at any volume.
+
+### Powered by Suno’s Cutting‑Edge Tech
+
+Suno, the AI music pioneer recently valued at **$5 billion**, fuels our generation engine. That same model delivers:
+- State‑of‑the‑art neural audio synthesis
+- Natural‑language prompting (e.g., “upbeat synthwave for a product demo”)
+- High‑fidelity, royalty‑free outputs ready for commercial use.
+
+---
+
+## Features
+
+| Feature | Benefit |
+|---|---|
+| **Instant Track Generation** | Get a 30‑second to 3‑minute track in <10 seconds |
+| **Style Controls** | Genres, moods, instruments, vocal presence |
+| **API Access** | Integrate music generation into apps, games, ads |
+| **Unlimited Downloads** | No per‑track cost – pay a flat subscription |
+| **Commercial License** | Use tracks in monetized content without extra fees |
+
+---
+
+## Pricing
+
+| Plan | Price / month | What You Get |
 |---|---|---|
-| **Lengthy verification** | Manual document checks, phone calls | Real‑time ID & document validation using computer‑vision AI |
-| **Risk assessment** | Manual scorecards, delayed reviews | Predictive risk scoring with machine‑learning models trained on fraud data |
-| **Menu integration** | Spreadsheet uploads, human error | Automatic menu parsing & categorization from PDFs or images |
-| **Compliance** | Paper trails, missed deadlines | Continuous compliance monitoring with AI‑driven alerts |
+| **Starter** | **$19** | 100 tracks, basic styles, email support |
+| **Creator** | **$49** | 500 tracks, advanced controls, API access, priority support |
+| **Enterprise** | **$199** | Unlimited tracks, custom models, dedicated account manager |
 
-### Core Features
-
-- **Instant Identity Verification** – OCR + facial‑match AI validates driver‑partner IDs in <5 seconds.
-- **Dynamic Risk Scoring** – ML model predicts fraud probability and suggests actions.
-- **Smart Menu Extraction** – Upload a menu PDF; AI creates structured SKUs ready for DoorDash.
-- **Automated Compliance Checks** – AI monitors licensing, insurance, and local regulations.
-- **Seamless Integration** – REST & webhook endpoints plug into your existing merchant portal.
-- **Dashboard & Reporting** – Real‑time KPIs, conversion funnel, and partner health metrics.
-
-### Benefits for Your Business
-
-- **30‑50% Faster Partner Activation** – Reduce onboarding time from days to minutes.
-- **Increase Partner Volume** – Scale without adding headcount.
-- **Lower Fraud Losses** – Early detection cuts chargebacks by up to 40%.
-- **Higher Affiliate Satisfaction** – Streamlined experience drives referrals.
-- **Data‑Driven Decisions** – Actionable insights from AI analytics.
+> **Free 7‑Day Trial** – No credit card required. Cancel anytime.
 
 ---
 
-## How It Works
+## Affiliate Program
 
-1. **Partner submits documents** via your portal.
-2. **AI validates** identity and extracts data instantly.
-3. **Risk engine** scores the merchant and flags concerns.
-4. **Menu AI** parses and structures menu items.
-5. **Compliance module** ensures all regulatory items are met.
-6. **One‑click approval** – push the partner to DoorDash network.
+Earn **30 % recurring commission** for every paying customer you refer.
 
----
+- **Instant payouts** via Stripe Connect.
+- **Dedicated dashboard** to track clicks, sign‑ups, and earnings.
+- **Marketing assets** – banners, email copy, and social posts ready to use.
 
-## Trusted By Industry Leaders
-
-> “Our onboarding throughput doubled after integrating the AI suite. The risk model saved us $200k in fraud in the first quarter.” – *Head of Partnerships, DoorDash*
+**[Join the Affiliate Program](/affiliate-signup)**
 
 ---
 
-## Ready to Accelerate Your Merchant Network?
+## FAQ
 
-**Start a free demo today** and see how AI can power your affiliate growth.
+**Q: Do I own the music I generate?**  
+A: Yes. All tracks come with a perpetual commercial license.
 
-[ **Book a Live Demo** ](https://example.com/demo?product=ai-merchant-onboarding)
+**Q: Can I integrate via API?**  
+A: Absolutely. Our REST API lets you generate tracks programmatically.
 
----
-
-### Frequently Asked Questions
-
-**Q: Do I need technical resources to integrate?**
-A: Our SDKs and pre‑built webhook adapters let non‑engineers set up in under an hour.
-
-**Q: How secure is the data?**
-A: End‑to‑end encryption, ISO‑27001 compliance, and data residency options.
-
-**Q: Can I customize the risk model?**
-A: Yes – you can train on your own fraud data via our secure API.
+**Q: How does Suno’s valuation relate to me?**  
+A: Suno’s $5 B valuation proves the technology’s market‑validation and financial backing – you get world‑class AI without the risk.
 
 ---
 
-*Boost your partner acquisition with AI. Faster, safer, smarter.*
+## Ready to Transform Your Audio?
+
+[Start Your Free Trial →](/signup)  
+or  
+[Become an Affiliate Partner →](/affiliate-signup)
+
+---
+
+*© 2026 AI‑Music Labs – All rights reserved.*
