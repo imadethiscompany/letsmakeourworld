@@ -1,69 +1,78 @@
-# ColorLidar AI Perception API
+---
+title: "Banking AI Agent – Automate Workflows & Boost Efficiency"
+description: "Pre‑order the next‑gen AI banking assistant. Get 30% off for early adopters. Streamline transaction categorization, compliance checks, and more."
+keywords: "banking AI, financial automation, transaction categorization, compliance automation, AI agent, fintech SaaS"
+---
 
-## Real‑time 3D Vision for Autonomous Machines
+# Transform Your Bank’s Operations with AI‑Powered Automation
 
-**Turn raw color‑LiDAR streams into instant object detection, segmentation, and scene understanding.**
+**Unlock a 30% pre‑order discount – limited time only!**
 
 ---
 
-### Why ColorLidar?
-- **Fusion‑ready:** Native support for Ouster’s color‑LiDAR point clouds (XYZ+RGB).
-- **Low latency:** < 50 ms per frame on a single V100 GPU.
-- **Scalable:** Server‑less endpoint, auto‑scales from 10 fps to 500 fps.
-- **Turnkey:** REST‑ful JSON responses, SDKs for Python, C++, and ROS.
+## Why Choose Our Banking AI‑Agent?
+
+- **Instant Transaction Categorization** – AI tags every transaction in real‑time, reducing manual effort by up to 90%.
+- **Regulatory Compliance Checks** – Automated AML/KYC screening that flags risky activity instantly.
+- **Seamless Integration** – Connects with legacy core banking systems via secure APIs.
+- **Scalable & Secure** – Built on enterprise‑grade LLMs with end‑to‑end encryption.
+- **Actionable Insights** – Dashboard analytics turn data into revenue‑boosting decisions.
 
 ---
 
-## Core Features
+## Features at a Glance
+
 | Feature | Benefit |
 |---|---|
-| **Object Detection** | 80+ classes, bounding boxes & confidence scores |
-| **Semantic Segmentation** | Per‑point class labels, 0.93 mIoU on Ouster dataset |
-| **Instance Segmentation** | Separate IDs for each object instance |
-| **Dynamic Scene Flow** | Motion vectors for moving objects |
-| **Custom Model Upload** | Bring your own TensorFlow/PyTorch model |
-| **Batch & Stream Modes** | Process single frames or continuous streams |
+| **Smart Categorization** | Auto‑classify deposits, withdrawals, fees, and more. |
+| **Compliance Engine** | Real‑time AML, KYC, and fraud detection. |
+| **API‑First Architecture** | Plug‑and‑play with existing banking platforms. |
+| **Customizable Rules** | Tailor AI behavior to your policies. |
+| **Analytics Suite** | Visualize spend patterns, risk scores, and ROI. |
 
 ---
 
-## Use‑Case Scenarios
-- **Autonomous Vehicles** – Real‑time perception for navigation and obstacle avoidance.
-- **Robotics & Drones** – 3‑D mapping and object tracking in indoor/outdoor environments.
-- **Construction & Mining** – Site monitoring, equipment detection, safety zones.
-- **Smart Cities** – Traffic analysis, pedestrian counting, and infrastructure inspection.
-- **AR/VR Content Creation** – Generate 3‑D assets from LiDAR scans for immersive experiences.
+## Limited‑Time Pre‑Order Offer
+
+**Save 30%** when you lock in early access. The discount expires **July 31 2026**. Early adopters also receive:
+- **Priority onboarding** with a dedicated success manager.
+- **Beta‑only features** (predictive cash‑flow forecasting).
+- **Exclusive community** for product feedback.
 
 ---
 
-## Pricing (Pay‑as‑You‑Go)
-| Tier | Monthly Calls | Price per 1,000 Calls | Included Features |
-|---|---|---|---|
-| **Free‑Trial** | 10,000 | **$0** | All core features, 1‑month support |
-| **Starter** | 250,000 | **$49** | SLA 99.5%, email support |
-| **Professional** | 1,000,000 | **$179** | SLA 99.9%, priority email & Slack, custom model upload |
-| **Enterprise** | Unlimited | **Custom** | Dedicated account manager, on‑premise deployment option |
+## Get Early Access – It’s Free & Instant
 
-*All tiers include auto‑scaling, detailed usage dashboard, and GDPR‑compliant data handling.*
-
----
-
-## Early‑Access Invitation
-We’re opening a limited **Beta program** for developers and partners. Join now to get:
-- **Unlimited free calls for the first 30 days**
-- Direct access to our engineering team for integration help
-- Early‑bird pricing lock‑in for the Professional tier
-
-[ **Request Early Access →** ](mailto:beta@colorlidar.com?subject=Early%20Access%20Request)
+<form action="https://example.com/api/early‑access" method="POST" style="max-width: 500px; margin: auto;">
+  <label for="name" style="display:block;margin-top:10px;">Full Name</label>
+  <input type="text" id="name" name="name" required style="width:100%;padding:8px;">
+  
+  <label for="email" style="display:block;margin-top:10px;">Email Address</label>
+  <input type="email" id="email" name="email" required style="width:100%;padding:8px;">
+  
+  <label for="company" style="display:block;margin-top:10px;">Company</label>
+  <input type="text" id="company" name="company" required style="width:100%;padding:8px;">
+  
+  <button type="submit" style="margin-top:15px;padding:12px 20px;background:#0066ff;color:#fff;border:none;cursor:pointer;">Reserve My Spot & Get 30% Off</button>
+</form>
 
 ---
 
-### FAQs
-**Q:** *What LiDAR sensors are supported?*\n**A:** Currently Ouster OS‑1, OS‑2, and OS‑0.9. Support for Velodyne and Hesai coming Q3 2026.
+### Frequently Asked Questions
 
-**Q:** *How is data secured?*\n**A:** All traffic is TLS‑encrypted, data is transient (no storage) unless you enable persistent logs.
+**Q: How does the AI handle sensitive data?**
+A: All data is encrypted in‑flight and at rest. The model runs in a secure VPC with zero‑knowledge compliance.
 
-**Q:** *Can I run the API on-prem?*\n**A:** Yes – Enterprise customers receive a Docker image for on‑prem deployment.
+**Q: Do I need a developer to integrate?**
+A: No. Our low‑code connector wizard lets you set up integrations in minutes.
+
+**Q: When will the product be available?**
+A: Early access begins **August 2026**, with full rollout in **Q4 2026**.
 
 ---
 
-*Accelerate your 3‑D perception pipeline today. The future of autonomous vision starts with ColorLidar.*
+#### Ready to revolutionize banking?
+
+[**Reserve Your Spot →**](#)
+
+*Join the future of finance today.*
