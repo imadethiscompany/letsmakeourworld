@@ -1,30 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Free Backdoor Roth Blueprint + $49 Premium Video Course</title>
-<style>
-body {font-family:Arial,Helvetica,sans-serif;background:#f9f9f9;color:#333;margin:0;padding:0;}
-.container {max-width:800px;margin:auto;padding:20px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,0.1);}
-h1 {color:#2c3e50;}
-button {background:#27ae60;color:#fff;padding:12px 20px;border:none;border-radius:4px;cursor:pointer;font-size:16px;}
-button:hover {background:#219150;}
-form {margin-top:20px;}
-input[type=email] {width:100%;padding:12px;margin:8px 0;border:1px solid #ccc;border-radius:4px;}
-</style>
-</head>
-<body>
-<div class="container">
-<h1>Unlock the Secret: Backdoor Roth Blueprint</h1>
-<p>Download the <strong>FREE PDF</strong> that shows step‑by‑step how to legally contribute $6,500+ to a Roth IRA, even if your income is too high for a direct Roth.</p>
-<form id="leadForm" method="POST" action="/api/lead_capture">
-<input type="email" name="email" placeholder="Enter your email" required />
-<button type="submit">Send Me the Blueprint</button>
-</form>
-<hr/>
-<h2>Ready to Accelerate Your Retirement?</h2>
-<p>Get the <strong>Premium Video Course</strong> – a 30‑minute, high‑impact walkthrough that expands the PDF with real‑world examples, tax‑saving tricks, and a live Q&amp;A session.</p>
-<a href="https://buy.stripe.com/test_14A6ozblV9N27n51Euc7z0q" target="_blank"><button>Buy Now – Only $49</button></a>
-</div>
-</body>
-</html>
+# Unlock the Full Power of Your Backdoor Roth
+
+**Headline:** *Maximize Your Roth Contributions Without the IRS Headache*  
+**Subheadline:** Learn the exact annual contribution limit you can legally funnel through a Backdoor Roth—no guesswork, no penalties.
+
+---
+
+## Who This Is For
+- High‑income earners who are **blocked** from direct Roth IRA contributions.
+- Professionals who want to **protect** their retirement savings from future tax hikes.
+- Anyone confused about the **annual contribution limit** after the 2024 tax law changes.
+
+---
+
+## The Problem
+You’ve heard about the Backdoor Roth, but the rules keep shifting. You’re worried you might:
+- Over‑contribute and trigger a penalty.
+- Miss out on the maximum tax‑free growth.
+- Waste time deciphering IRS language.
+
+---
+
+## The Solution
+Our **Backdoor Roth Annual Contribution Calculator** gives you a crystal‑clear answer:
+1. **Enter** your MAGI and filing status.
+2. **Get** the exact dollar amount you can contribute for the current tax year.
+3. **Download** a ready‑to‑file worksheet that satisfies the IRS.
+
+No more second‑guessing. No more costly accountant fees.
+
+---
+
+## Key Benefits
+- **Precision:** Exact contribution limit down to the cent.
+- **Compliance:** Built‑in checks to prevent excess contributions.
+- **Speed:** Results in under 30 seconds.
+- **Peace of Mind:** Confidence that you’re maximizing tax‑free growth.
+
+---
+
+## How It Works (3 Simple Steps)
+1. **Answer a few quick questions** – your income, filing status, and any existing traditional IRA balances.
+2. **Instant calculation** – our engine applies the latest IRS rules.
+3. **Download your personalized report** – includes a checklist for your tax professional.
+
+---
+
+## Frequently Asked Questions
+**Q: Can I use this if I already have a traditional IRA?**  
+A: Absolutely. Our tool accounts for existing balances to avoid excess contributions.
+
+**Q: Is this legal?**  
+A: Yes. The Backdoor Roth is a perfectly legal strategy endorsed by tax professionals.
+
+**Q: Will the contribution limit change next year?**  
+A: The tool updates automatically with any IRS revisions, so you’ll always have the current limit.
+
+---
+
+## Ready to Maximize Your Roth?
+
+**[Calculate My Exact Contribution Now]**(https://example.com/pay)  
+*One‑click access to the calculator – instant, secure, and free for the first 24 hours.*
+
+---
+
+### SEO Meta
+- **Title:** Backdoor Roth Annual Contribution Limit Calculator – Get Your Exact Amount
+- **Meta Description:** Confused about how much you can contribute to a Backdoor Roth this year? Use our free calculator to instantly know your exact limit and stay IRS‑compliant.
