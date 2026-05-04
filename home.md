@@ -1,47 +1,78 @@
-# torch-nvenc-compress
+# Creative & Marketing Jobs in Boston, MA
 
-## GPU‑accelerated video compression that turns your NVIDIA NVENC silicon into a PCIe bandwidth multiplier
-
-**Speed. Efficiency. Scale.**
-
-- **67% of theoretical max parallel‑path overlap** on real GEMM + encode workloads – the fastest PyTorch‑compatible encoder on the market.
-- **Pure‑ctypes Video Codec SDK wrapper** – no heavy binaries, works out‑of‑the‑box on Linux, Windows and macOS.
-- **PCA‑based bandwidth multiplier** – squeezes extra throughput through the PCIe bus, delivering up to **2× higher frame‑rate** compared to native NVENC.
-- **Drop‑in PyTorch module** – simply replace `torch.nn.Conv2d` with `torch_nvenc.Compress` and watch your training pipelines accelerate.
-- **Zero‑copy memory handling** – keeps data on the GPU, eliminates costly CPU‑GPU transfers.
-
-### Who Benefits?
-- **AI researchers** running large‑scale video diffusion models.
-- **Game developers** needing real‑time cut‑scene encoding.
-- **Content creators** compressing 4K streams for upload.
-- **Enterprises** that process massive video datasets daily.
-
-### Pricing
-- **Free trial:** 5 GB of compressed video.
-- **Starter:** $49 / month – 100 GB.
-- **Pro:** $149 / month – 500 GB + priority support.
-- **Enterprise:** Custom – unlimited.
-
-[Get Started →](/signup)
+**Meta Title:** Creative & Marketing Jobs in Boston, MA – Top Opportunities 2024
+**Meta Description:** Discover the hottest creative and marketing jobs in Boston, MA. Find roles at leading agencies, startups, and Fortune 500 companies. Apply now and boost your career.
 
 ---
 
-### Technical Highlights
-- **Pure‑ctypes wrapper** of NVIDIA Video Codec SDK – no extra drivers.
-- **PCA‑based multiplexing** uses the PCIe bus efficiently.
-- **Parallel‑path overlap** measured at **67 %** of the theoretical max on a real GEMM + encode workload.
-- **Works with any PyTorch version ≥1.9**.
+## 🚀 Find Your Next Creative or Marketing Role in Boston
 
-### FAQ
-**Q:** Does this replace my existing NVENC encoder?
-**A:** It works alongside it, providing a bandwidth‑boosted path for heavy workloads.
+Boston’s vibrant tech and media scene is booming. Whether you’re a graphic designer, copywriter, digital marketer, or brand strategist, the city offers high‑paying, growth‑focused positions at agencies, startups, and Fortune‑500 firms.
 
-**Q:** What GPUs are supported?
-**A:** All NVIDIA GPUs with NVENC (GTX 10xx+, RTX 20xx+, A100, H100, etc.).
-
-**Q:** Is the library open‑source?
-**A:** Yes – MIT licensed, contributions welcome.
+**Ready to land your dream job?** Fill out the form below and get matched with top recruiters instantly.
 
 ---
 
-*Accelerate your video pipelines today with torch‑nvenc‑compress – the ultimate GPU‑first encoder.*
+### Why Boston?
+- **$80k+ average salary** for creative & marketing roles
+- **30% higher growth** than the national average
+- **Thriving startup ecosystem** – over 1,300 startups hiring now
+- **World‑class companies** – HubSpot, Wayfair, DraftKings, and more
+
+---
+
+### Top Roles We Fill
+| Role | Salary Range | Companies hiring |
+|------|-------------|-------------------|
+| Senior Graphic Designer | $85k‑$115k | Wayfair, HubSpot, Local agencies |
+| Content Marketing Manager | $90k‑$130k | DraftKings, Vertex, Startups |
+| Social Media Strategist | $70k‑$100k | Boston Consulting Group, Media firms |
+| SEO/SEM Specialist | $75k‑$110k | eCommerce brands, Tech startups |
+| Creative Director | $130k‑$180k | Advertising agencies, Large corporates |
+
+---
+
+### How It Works
+1. **Submit your profile** – quick 2‑minute form.
+2. **Get matched** – our AI‑powered platform connects you with recruiters.
+3. **Interview fast** – most candidates land interviews within 48 hours.
+4. **Negotiate salary** – we help you get the best offer.
+
+---
+
+### Success Stories
+> *“I landed a senior copywriter role at Wayfair within a week. The process was seamless.”* – **Emily R., Boston**
+
+> *“The salary negotiation support got me $15k more than I expected.”* – **Mike T., Cambridge**
+
+---
+
+## 🎯 Get Matched Now
+
+<form action="https://example.com/submit" method="POST">
+  <label>Name<br><input type="text" name="name" required></label><br>
+  <label>Email<br><input type="email" name="email" required></label><br>
+  <label>Desired Role<br><input type="text" name="role" placeholder="e.g., Social Media Strategist" required></label><br>
+  <button type="submit" style="margin-top:10px;padding:10px 20px;background:#0070f3;color:white;border:none;cursor:pointer;">Get Matched Instantly</button>
+</form>
+
+---
+
+### Frequently Asked Questions
+**Q:** *Do I need to pay to view jobs?*  
+**A:** No. Our service is free for candidates.
+
+**Q:** *What types of companies hire?*  
+**A:** From fast‑growing startups to Fortune‑500 giants.
+
+**Q:** *How quickly can I expect responses?*  
+**A:** Most matches are sent within 24‑48 hours.
+
+---
+
+#### Ready to accelerate your career?
+**[Get Matched Now →](https://example.com/submit)**
+
+---
+
+*Powered by CreativeCareerMatch – Your Boston marketing & creative job hub.*
