@@ -1,41 +1,53 @@
-# AI Platforms for SMBs
+# AI Platforms – Power Your Business with Intelligent Automation
 
-## Accelerate Your Business with Turnkey AI
+## Transform Your Operations with a Single AI Platform
 
-**Instantly deploy AI solutions without hiring data scientists.** Our platform gives you pre‑built, customizable AI models that plug into your existing tools, so you can boost sales, automate support, and cut costs.
+**Headline:**
+"Scale Faster, Save Money, and Delight Customers with AI‑Driven Automation."
 
----
-
-### Why SMBs Choose Us
-- **Zero‑code integration** – Connect to Zapier, HubSpot, Shopify in minutes.
-- **Predictive insights** – Increase conversion rates by up to **27%** with AI‑driven recommendations.
-- **Pay‑as‑you‑go pricing** – Starts at **$49/month**, no contracts.
-- **Enterprise‑grade security** – SOC 2, GDPR‑compliant.
+**Subheadline:**
+A ready‑to‑go AI platform that lets small‑to‑mid‑size businesses replace manual workflows, boost sales, and cut costs—all without hiring data scientists.
 
 ---
+### Why SMB Owners Choose Us
 
-### How It Works
-1. **Select a use‑case** – Sales, Marketing, Support, Operations.
-2. **Connect your data** – Upload CSV or link your SaaS tools.
-3. **Launch AI** – Get real‑time predictions and automation.
-
----
-
-### Success Stories
-- *"Our email open rates jumped 15% after adding AI‑personalized subject lines."* – **TechCo**
-- *"Support tickets resolved 30% faster with AI triage."* – **RetailHub**
+- **Cut Costs by 30%** – Automate repetitive tasks and free up staff for high‑value work.
+- **Increase Revenue 20%+** – AI‑powered recommendations that upsell and cross‑sell in real time.
+- **Deploy in Days, Not Months** – Pre‑built integrations with CRM, ERP, marketing tools, and more.
+- **No Coding Required** – Drag‑and‑drop builder + ready templates.
+- **Enterprise‑grade Security** – SOC‑2, GDPR, and ISO‑27001 compliant.
 
 ---
+### How It Works (4 Simple Steps)
 
-#### Ready to Transform?
-[**Start Your Free Trial**](#) – No credit card required.
-
----
-
-*FAQ*:
-- **Do I need technical staff?** No, our UI is built for non‑technical users.
-- **Can I cancel anytime?** Yes, with a single click.
+1. **Connect Your Apps** – Link your existing tools (Shopify, HubSpot, QuickBooks, etc.).
+2. **Choose a Template** – Pick a workflow (lead scoring, invoice automation, support triage).
+3. **Train in Minutes** – Upload a few examples; our Auto‑ML does the rest.
+4. **Go Live & Optimize** – Real‑time analytics show ROI; tweak with a click.
 
 ---
+### Proof That It Works
 
-*Privacy Policy* | *Terms of Service*
+- **10,000+ SMBs** worldwide trust our platform.
+- **$5M+** saved in operational costs across our customers.
+- **4.9/5** average satisfaction rating.
+- **Case Study:** *Acme Retail* increased online sales by **22%** after automating product recommendations.
+
+---
+### Ready to See It in Action?
+
+**[Start Your Free 14‑Day Trial →](/signup?plan=free)**
+
+No credit card required. Get a personal AI consultant to set up your first workflow.
+
+---
+#### Frequently Asked Questions
+
+**Q:** Do I need a technical team?
+**A:** No. Our visual builder is made for non‑technical founders.
+
+**Q:** What if I need help?
+**A:** 24/7 live chat + dedicated onboarding specialist.
+
+---
+*Take the guesswork out of AI. Let our platform do the heavy lifting so you can focus on growth.*
