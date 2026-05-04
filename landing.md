@@ -1,77 +1,52 @@
-# AI Platforms – Unlock Intelligent Automation
+# AI Platforms for SMBs
 
-## Empower Your Business with Cutting‑Edge AI Platforms
+## Unlock Enterprise‑Grade AI without the Headache
 
-**Headline:** *Accelerate Growth with the Right AI Platform – No Coding, No Guesswork.*
+**Headline:**
+> Deploy AI‑Powered Solutions in Days, Not Months – No Engineers Needed
 
-**Sub‑headline:** Discover how leading AI platforms streamline data, automate decisions, and boost productivity for teams of any size.
-
----
-
-### Why AI Platforms Matter
-- **Speed to market:** Deploy models in minutes, not months.
-- **Scalability:** From a single user to millions of requests – auto‑scale without infrastructure headaches.
-- **Cost control:** Pay‑as‑you‑go pricing eliminates big upfront investments.
-- **Security & compliance:** Built‑in governance, data encryption, and audit trails.
+**Subheadline:**
+Turn data into profit with a turnkey AI platform that handles model training, scaling, and compliance while you focus on growth.
 
 ---
 
-### Top Features You’ll Get
-1. **Pre‑built Model Library** – Choose from vision, language, forecasting, and more.
-2. **Drag‑and‑Drop Builder** – Create pipelines without writing code.
-3. **Real‑time Inference API** – Instant predictions for web, mobile, or IoT.
-4. **Auto‑ML Optimization** – Let the platform tune hyper‑parameters for you.
-5. **Enterprise Integrations** – Connect to CRM, ERP, data lakes, and BI tools.
+### Why SMB Owners Choose Us
+- **Instant ROI:** Reduce operational costs by up to 40% with automated workflows.
+- **Zero‑Code Integration:** Connect your CRM, ERP, or website with a simple API or Zapier‑style UI.
+- **Scalable Pricing:** Pay‑as‑you‑grow plans starting at **$199/month**.
+- **Compliance & Security:** ISO‑27001, GDPR‑ready, and SOC‑2 certified.
 
 ---
 
-### Benefits for Your Business
-- **Cut decision‑making time by up to 80%** – Automated insights replace manual analysis.
-- **Increase revenue by 15‑30%** – Personalised recommendations drive higher conversions.
-- **Reduce operational costs by 25%** – Automate repetitive tasks and free up talent.
-- **Improve customer satisfaction** – Faster response times and smarter support.
-
----
-
-### How It Works (3 Simple Steps)
-1. **Select a Template** – Pick the AI use‑case that matches your goal.
-2. **Upload Your Data** – Securely connect your data sources.
-3. **Launch & Iterate** – Deploy with one click, monitor performance, and refine.
-
----
-
-### Who Benefits?
-- **Start‑ups** looking for rapid prototyping.
-- **SMBs** needing affordable AI without a data science team.
-- **Enterprises** that require governance, scaling, and integration.
+### How It Works (3‑Step Simplicity)
+1. **Upload Your Data** – CSV, spreadsheet, or live DB connection.
+2. **Select a Use‑Case** – Sales forecasting, churn prediction, support automation, etc.
+3. **Launch in Minutes** – Our platform trains, validates, and deploys a production‑ready model.
 
 ---
 
 ### Social Proof
-> *"Switching to XYZ AI Platform cut our model training time from weeks to hours and boosted sales by 22%."* – **CTO, RetailTech Co.**
+> "We added AI to our sales pipeline in 3 days and saw a 25% lift in conversions." – *Jane Doe, Founder, GreenTech Co.*
 
-> *"The drag‑and‑drop builder let our marketing team create predictive campaigns without any code."* – **Head of Marketing, FinServe Ltd.**
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need a data‑science background?
-**A:** No. Our visual builder and Auto‑ML handle the heavy lifting.
-
-**Q:** How secure is my data?
-**A:** End‑to‑end encryption, SOC‑2 compliance, and role‑based access controls.
-
-**Q:** What pricing options are available?
-**A:** Free tier, pay‑as‑you‑go, and enterprise contracts – choose what fits your budget.
+> "The compliance package saved us months of legal review." – *Mark Lee, COO, RetailHub*.
 
 ---
 
 ### Ready to Transform Your Business?
 
-**Primary Call‑to‑Action:** [Start Free Trial] – Get 14 days of full access, no credit card required.
+[**Start Your Free 14‑Day Trial →**](/signup?plan=ai-platforms)
 
-**Secondary CTA:** [Schedule a Demo] – Talk to an AI specialist to map a custom solution.
+*No credit card required. Cancel anytime.*
 
 ---
 
-*Boost efficiency, drive revenue, and stay ahead of the competition with the AI platform that works for you.*
+#### Frequently Asked Questions
+- **Do I need data scientists?** – No. Our AutoML engine builds models automatically.
+- **What if I outgrow the plan?** – Upgrade instantly; pricing scales with usage.
+- **Is my data safe?** – All data is encrypted at rest and in transit.
+
+---
+
+**Contact us**: sales@ai-platforms.com | +1 (800) 555‑0199
+
+*Power your SMB with AI – the easy way.*
