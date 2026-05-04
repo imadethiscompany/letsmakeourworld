@@ -1,24 +1,59 @@
-# AI Pricing for SMBs
+# AI Pricing
 
-## Unlock Revenue with Dynamic AI‑Powered Pricing
+## Unlock Dynamic, Profit‑Boosting Prices in Seconds
 
-**Stop guessing. Start earning.**
+**Instantly generate optimal prices for every product, customer, and market condition using AI.**
 
-- **Boost margins by up to 30%** with real‑time price optimization.
-- **No code, no data science team** – our AI learns from your sales automatically.
-- **Pay only for results** – start free, upgrade when revenue grows.
+---
+
+### Why AI Pricing?
+- **Increase revenue by up to 30%** – our models learn from your sales data and competitors to find the sweet spot.
+- **Save hours of manual analysis** – set it up once, let the AI adjust prices in real‑time.
+- **Never lose a sale** – dynamic pricing reacts to demand spikes, inventory levels, and price‑sensitivity.
+
+---
 
 ### How It Works
-1. **Connect your sales channel** (Shopify, Stripe, WooCommerce) in minutes.
-2. **AI analyzes buyer behavior** and market trends.
-3. **Dynamic prices update instantly** to capture every extra dollar.
+1. **Connect your data** – import sales, inventory, and competitor feeds.
+2. **AI trains on patterns** – discovers price elasticity and optimal margins.
+3. **Automated price updates** – push new prices to your store or ERP instantly.
 
-### Why SMB Owners Choose Us
-- **Simple dashboard** – see profit impact in real time.
-- **Transparent pricing** – $49/mo or performance‑based.
-- **24/7 support** – we’re your pricing partner, not a vendor.
+---
 
-#### Ready to supercharge your revenue?
-[Get Started Free →](/pricing) 
+### Key Benefits
+- **Revenue Growth:** +15‑30% on average for early adopters.
+- **Time Savings:** 10‑hour weekly manual pricing reduced to <10 minutes.
+- **Competitive Edge:** React to market changes faster than rivals.
+- **Confidence:** Data‑driven decisions, no more guesswork.
 
-*No credit card required. Cancel anytime.*
+---
+
+### Trusted By
+![Logos of known brands]
+> *“AI Pricing doubled our average order value in 2 months.”* – **E‑Commerce Director, RetailCo**
+
+---
+
+### Ready to Transform Your Pricing?
+
+[**Start Your Free 14‑Day Trial**](#) – No credit card required.
+
+Or book a **demo** with our pricing specialist.
+
+---
+
+#### Frequently Asked Questions
+**Q:** Do I need a data scientist?
+**A:** No. Our UI guides you through setup; the AI does the heavy lifting.
+
+**Q:** Is my data secure?
+**A:** We use AES‑256 encryption and never store raw sales data.
+
+**Q:** Can I customize the algorithm?
+**A:** Yes – advanced settings let you set price floors, ceilings, and rules.
+
+---
+
+**Boost your margins today with AI‑driven pricing.**
+
+[**Start Free Trial**](#)
