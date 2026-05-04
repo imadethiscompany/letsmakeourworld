@@ -1,86 +1,69 @@
-# AI Diagnostic Assistant
+# ColorLidar AI Perception API
 
-## Diagnose, Optimize, and Accelerate Your Business with AI
+## Real‑time 3D Vision for Autonomous Machines
 
-**Instant, accurate, actionable insights** for your SaaS, e‑commerce, or enterprise platform.
-
----
-
-### 🚀 Hero
-
-**Headline:** *“Turn Complex Data into Clear Action – Instantly.”*
-
-**Sub‑headline:** *AI‑powered diagnostics that spot performance bottlenecks, security risks, and growth opportunities in seconds.*
-
-**CTA Button:** *Get Early Access* (links to #lead‑capture)
+**Turn raw color‑LiDAR streams into instant object detection, segmentation, and scene understanding.**
 
 ---
 
-### 🎯 Why Choose AI Diagnostic Assistant?
+### Why ColorLidar?
+- **Fusion‑ready:** Native support for Ouster’s color‑LiDAR point clouds (XYZ+RGB).
+- **Low latency:** < 50 ms per frame on a single V100 GPU.
+- **Scalable:** Server‑less endpoint, auto‑scales from 10 fps to 500 fps.
+- **Turnkey:** REST‑ful JSON responses, SDKs for Python, C++, and ROS.
 
-| ✅ Feature | 💡 Benefit |
+---
+
+## Core Features
+| Feature | Benefit |
 |---|---|
-| **Real‑time anomaly detection** | Spot latency spikes, error bursts, and revenue leaks before customers notice. |
-| **Root‑cause AI** | Automatic correlation of logs, metrics, and user behavior to pinpoint the exact cause. |
-| **Actionable recommendations** | One‑click fixes, code snippets, or workflow automations to resolve issues fast. |
-| **Integrations** | Connect to Datadog, New Relic, Mixpanel, AWS CloudWatch, and more – zero‑code setup. |
-| **Security audit mode** | AI scans for mis‑configurations, open ports, and compliance gaps (PCI, GDPR). |
-| **Scalable SaaS pricing** | Pay only for the diagnostics you run – from 1 K to 1 M+ events per month. |
+| **Object Detection** | 80+ classes, bounding boxes & confidence scores |
+| **Semantic Segmentation** | Per‑point class labels, 0.93 mIoU on Ouster dataset |
+| **Instance Segmentation** | Separate IDs for each object instance |
+| **Dynamic Scene Flow** | Motion vectors for moving objects |
+| **Custom Model Upload** | Bring your own TensorFlow/PyTorch model |
+| **Batch & Stream Modes** | Process single frames or continuous streams |
 
 ---
 
-### 📊 How It Works
-1. **Connect** – Install a lightweight agent or API key.
-2. **Analyze** – AI ingests logs, metrics, and user journeys.
-3. **Diagnose** – Dashboard shows health score, alerts, and root‑cause paths.
-4. **Act** – Click‑through playbooks or export fixes to your CI/CD pipeline.
+## Use‑Case Scenarios
+- **Autonomous Vehicles** – Real‑time perception for navigation and obstacle avoidance.
+- **Robotics & Drones** – 3‑D mapping and object tracking in indoor/outdoor environments.
+- **Construction & Mining** – Site monitoring, equipment detection, safety zones.
+- **Smart Cities** – Traffic analysis, pedestrian counting, and infrastructure inspection.
+- **AR/VR Content Creation** – Generate 3‑D assets from LiDAR scans for immersive experiences.
 
 ---
 
-### 💰 Pricing Tiers
-
-| Plan | Monthly Price | Events Included | Key Features |
+## Pricing (Pay‑as‑You‑Go)
+| Tier | Monthly Calls | Price per 1,000 Calls | Included Features |
 |---|---|---|---|
-| **Starter** | $49 | 10 K | Real‑time alerts, basic recommendations, email support |
-| **Growth** | $199 | 100 K | All Starter + advanced root‑cause AI, Slack & PagerDuty integration, priority email |
-| **Scale** | $799 | 1 M | All Growth + dedicated account manager, custom playbooks, 24/7 phone support |
-| **Enterprise** | Custom | Unlimited | Unlimited events, on‑prem deployment, SSO/SAML, SLA guarantees |
+| **Free‑Trial** | 10,000 | **$0** | All core features, 1‑month support |
+| **Starter** | 250,000 | **$49** | SLA 99.5%, email support |
+| **Professional** | 1,000,000 | **$179** | SLA 99.9%, priority email & Slack, custom model upload |
+| **Enterprise** | Unlimited | **Custom** | Dedicated account manager, on‑premise deployment option |
 
-**Free trial:** 7‑day, no credit card required.
-
----
-
-### 📞 Lead Capture
-
-<form action="https://example.com/api/lead" method="POST" id="lead-capture">
-  <input type="email" name="email" placeholder="Your work email" required style="padding:0.8rem;width:100%;margin-bottom:0.5rem;"/>
-  <input type="text" name="company" placeholder="Company name" required style="padding:0.8rem;width:100%;margin-bottom:0.5rem;"/>
-  <button type="submit" style="background:#0066ff;color:#fff;padding:0.8rem 1.5rem;border:none;cursor:pointer;">Start My Free Trial</button>
-</form>
-
-*We respect your privacy – no spam, unsubscribe anytime.*
+*All tiers include auto‑scaling, detailed usage dashboard, and GDPR‑compliant data handling.*
 
 ---
 
-### ❓ Frequently Asked Questions
-**Q:** *Do I need a data‑science team?*  
-**A:** No. Our AI runs on your data and returns plain‑English recommendations.
+## Early‑Access Invitation
+We’re opening a limited **Beta program** for developers and partners. Join now to get:
+- **Unlimited free calls for the first 30 days**
+- Direct access to our engineering team for integration help
+- Early‑bird pricing lock‑in for the Professional tier
 
-**Q:** *Is my data secure?*  
-**A:** All traffic is TLS‑encrypted, data is stored in regional, SOC‑2 compliant stores, and we never sell your logs.
-
-**Q:** *Can I cancel anytime?*  
-**A:** Yes – cancel in the dashboard with no penalty.
+[ **Request Early Access →** ](mailto:beta@colorlidar.com?subject=Early%20Access%20Request)
 
 ---
 
-### 📈 Boost Your Bottom Line
-> *“We reduced mean‑time‑to‑resolution by 68% and saved $120 K in the first month.”* – **Beta Customer, FinTech SaaS**
+### FAQs
+**Q:** *What LiDAR sensors are supported?*\n**A:** Currently Ouster OS‑1, OS‑2, and OS‑0.9. Support for Velodyne and Hesai coming Q3 2026.
 
-Ready to turn hidden friction into growth?
+**Q:** *How is data secured?*\n**A:** All traffic is TLS‑encrypted, data is transient (no storage) unless you enable persistent logs.
 
-[**Start Your Free Trial**](#lead-capture)
+**Q:** *Can I run the API on-prem?*\n**A:** Yes – Enterprise customers receive a Docker image for on‑prem deployment.
 
 ---
 
-*SEO Keywords: AI diagnostics, SaaS performance monitoring, automated root cause analysis, AI security audit, real‑time anomaly detection.*
+*Accelerate your 3‑D perception pipeline today. The future of autonomous vision starts with ColorLidar.*
