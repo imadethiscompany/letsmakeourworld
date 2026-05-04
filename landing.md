@@ -1,43 +1,44 @@
-# OpenAI Trial Live Updates: Greg Brockman Takes the Stand
+# OpenAI Trial Live Updates: Greg Brockman Takes the Stand – NBC Bay Area
 
-## Stay Informed, Stay Ahead
+## Real‑time coverage of the landmark OpenAI trial
 
-*Real‑time coverage of the OpenAI trial as CTO Greg Brockman steps into the courtroom. Get instant updates, expert analysis, and exclusive insights you won’t find anywhere else.*
+Stay ahead of the AI legal battle with **instant updates**, exclusive analysis, and behind‑the‑scenes insights as OpenAI co‑founder **Greg Brockman** takes the stand. Our live feed delivers:
 
----
+- **Minute‑by‑minute transcripts** of Brockman’s testimony
+- **Expert commentary** breaking down legal implications for AI developers
+- **Key takeaways** you can act on for your business today
 
-### Why This Matters
-- **High‑Stakes Legal Battle** – The outcome could reshape the future of AI regulation.
-- **Insider Perspective** – Direct quotes and live commentary from Brockman’s testimony.
-- **Actionable Intelligence** – How the trial impacts investors, developers, and businesses.
+### Why this matters for you
+- **Regulatory risk:** Understand how the trial could reshape AI compliance.
+- **Competitive edge:** Leverage early knowledge to adjust product roadmaps.
+- **Investor confidence:** Show stakeholders you’re informed about industry‑shaping events.
 
----
+## What you’ll get
+1. **Live text feed** updated every 30 seconds.
+2. **Summarized bullet points** after each major segment.
+3. **Downloadable PDF** of the full testimony for offline review.
+4. **Email alerts** for major developments.
 
-### What You’ll Get
-1. **Minute‑by‑Minute Live Feed** – Never miss a statement.
-2. **Expert Summaries** – Our AI‑focused analysts break down legal jargon.
-3. **Impact Alerts** – Immediate notifications on decisions that affect your AI strategy.
+## Join the live stream now
 
----
+[**Start Live Updates – Free Access**](/subscribe?product=openai-trial-live)
 
-### Join the Front‑Row Seat
-
-**Limited Free Access – Act Fast!**
-
-[Get Live Updates Now →](#)
-
----
-
-#### Frequently Asked Questions
-**Is this really live?**  
-Yes – our system pulls the courtroom transcript in real time and pushes updates to you.
-
-**Do I need to sign up?**  
-Only a quick email address to deliver the feed.
-
-**Will there be a cost later?**  
-The first 48 hours are free. After that you can subscribe for $9.99/month for continued coverage and archives.
+*No credit card required. Get instant access and never miss a crucial moment.*
 
 ---
 
-*Stay ahead of the AI curve. Get the live trial updates now.*
+### Frequently Asked Questions
+**Is this a paid product?**
+- The live feed is free. Premium PDF archives and deep‑dive analysis are available for a one‑time $9.99 upgrade.
+
+**How quickly is the content updated?**
+- Every 30 seconds during the testimony, with a summary posted within 5 minutes of each major segment.
+
+**Can I share the feed with my team?**
+- Yes, you’ll receive a shareable link and embed code.
+
+---
+
+#### SEO Meta
+**Title:** OpenAI Trial Live Updates – Greg Brockman Testimony (NBC Bay Area)
+**Description:** Get real‑time coverage of Greg Brockman's testimony in the OpenAI trial. Live text feed, expert analysis, and downloadable PDFs. Stay informed on AI legal developments.
