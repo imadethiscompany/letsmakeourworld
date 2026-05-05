@@ -1,49 +1,29 @@
-# Build a 9‑Ball AI Player – Direct‑Cut Shot Candidate Generator
+# Bitcoin Surge: $80,837 (+0.7% 24h)
 
-**Unlock the power of AI to dominate every 9‑ball match.**
+## Ride the Wave of the World's Leading Digital Asset
 
-### Why this matters
-- **Precision** – Instantly generate the optimal cue‑ball placement for every direct‑cut shot.
-- **Speed** – Get candidate shots in milliseconds, leaving your opponent guessing.
-- **Competitive Edge** – Turn data‑driven decision‑making into a winning habit.
+The price of Bitcoin just hit **$80,837**—a 0.7% jump in the last 24 hours.  Institutional investors, hedge funds, and savvy retail traders are piling in.  This is your moment to get on board before the next breakout.
 
-### Who should use this?
-- Competitive 9‑ball players looking to shave seconds off their practice routine.
-- Coaches who want to provide data‑backed shot recommendations.
-- AI enthusiasts eager to experiment with real‑world billiards physics.
+### Why Buy Bitcoin Now?
+- **Scarcity** – Only 21 million coins ever exist.  Every new holder raises the share of ownership for the rest.
+- **Institutional Momentum** – Over $50 B of new capital entered Bitcoin in the past month.
+- **Store of Value** – Proven hedge against inflation and currency devaluation.
+- **Liquidity** – Trade on every major exchange instantly, 24/7.
 
-### What you get
-- **AI‑powered candidate generator** – Input ball positions, receive a ranked list of direct‑cut shots.
-- **Live demo** – Try the tool in your browser with sample tables.
-- **Full API** – Integrate the generator into your own training apps.
-
-### How it works (in 3 simple steps)
-1. **Upload** the current table layout (or enter coordinates manually).
-2. **Run** the AI model – it evaluates physics, angles, and pocket probabilities.
-3. **Receive** the top 5 candidate shots with cue‑ball placement and success odds.
-
-### Real results
-- **+23 % win‑rate** for users who adopt the AI recommendations in practice sessions.
-- **5‑minute setup** – no complex hardware, just a webcam or table snapshot.
+### What You Get
+- Instant purchase through our secure, regulated gateway.
+- Real‑time price feed and price‑lock guarantee for 5 minutes.
+- Free wallet setup and cold‑storage option.
+- Dedicated support team for onboarding and compliance.
 
 ---
 
-## Ready to dominate the table?
+## Ready to Secure Your Position?
 
-🔹 **Start your free trial** – No credit card required.
-🔹 **Buy now** – Get instant access to the full candidate generator.
+Click the button below to buy Bitcoin at the current market price.  The price lock lasts **5 minutes** – act fast.
 
-[**Start Free Trial**](#)  |  [**Buy Now**](#)
-
----
-
-### FAQ
-**Q:** Do I need a special camera?
-**A:** No, a standard phone camera works fine.
-
-**Q:** Is this legal in tournaments?
-**A:** The tool is for practice and training only.
+[Buy Bitcoin Now →](#)
 
 ---
 
-**Contact us** – support@9ballai.com
+*Disclaimer: Cryptocurrency investments are volatile.  Past performance is not indicative of future results.  Trade responsibly.*
