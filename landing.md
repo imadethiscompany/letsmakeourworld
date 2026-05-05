@@ -1,30 +1,26 @@
-# YouTube Automation Agency
+# Unlock Explosive Growth with Our YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your Channel to 10K+ Subscribers in 30 Days – No Video Editing Required
 
-🚀 **Full‑service automation** – From video ideation, script writing, AI voice‑over, stock B‑roll, to scheduled publishing.
+**What you get**
+- **Fully Automated Video Production**: From script to upload, we handle everything.
+- **AI‑Powered Research & Scriptwriting**: Trending topics, SEO‑optimized titles & descriptions.
+- **Zero‑Hands‑On Editing**: Voice‑over, B‑roll, captions – all done by our AI pipeline.
+- **Growth Engine**: Automated posting schedule, community engagement, and analytics.
+- **Performance Guarantee**: First 5 videos hit >1,000 views each or we work for free.
 
-💰 **Pay‑per‑performance** – Only pay when we hit **10,000+ views** on your first video.
+### Who is this for?
+- **SMB owners** looking to add a high‑ROI marketing channel.
+- **Coaches & consultants** wanting to showcase expertise.
+- **E‑commerce brands** seeking organic traffic and sales.
 
-🔧 **Zero tech hassle** – No editing software, no hiring freelancers. We handle everything on a done‑for‑you basis.
-
-### Why Choose Us?
-- **AI‑powered scripts** that rank on YouTube SEO.
-- **Professional voice‑over** using Vikash’s custom voice model.
-- **High‑quality B‑roll** from Pexels curated to your niche.
-- **Full channel management** – upload, thumbnail, description, tags, and community engagement.
-
-### Packages
-| Package | Monthly Views | Price |
-|---|---|---|
-| **Starter** | Up to 50k | $499 |
-| **Growth** | Up to 200k | $1,299 |
-| **Enterprise** | 200k+ (custom) | Contact Us |
+### Pricing (All‑Inclusive)
+- **Starter** – $1,200/mo (4 videos)
+- **Growth** – $2,500/mo (10 videos + ad‑spend consulting)
+- **Enterprise** – Custom – Unlimited videos & dedicated manager.
 
 ### Ready to Automate?
-[**Start Your Free Audit →**](https://example.com/yt-automation-audit)
-
-*No credit card required. Get a personalized growth plan in 24h.*
+[**Get Started Now**](https://checkout.example.com/youtube-automation) – Secure your spot, and we’ll schedule a strategy call within 24h.
 
 ---
-*Boost your brand, dominate your niche, and let the AI do the heavy lifting.*
+*No credit card required for the free audit. Limited slots – act now!*
