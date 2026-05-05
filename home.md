@@ -1,46 +1,38 @@
-# Intuned Agent
+# Seamless SaaS Integration Marketplace
 
-## Automate Browser Tasks. Scale Agencies.
+## Connect, Automate, Grow – All in One Place
 
-**Stop wasting hours on repetitive clicks.**
+**Headline:** *"Integrate Every SaaS Tool in Minutes – No Code, No Hassle."
 
----
-
-### Why Intuned Agent?
-- **Zero‑code browser automation** – Build bots by recording actions.
-- **Enterprise‑grade security** – User authentication, encrypted credentials.
-- **Built‑in billing** – Stripe checkout integrated, so you can start earning instantly.
-- **Scalable API** – Trigger bots from any workflow or SaaS.
+**Subheadline:**
+Unlock a marketplace of pre‑built integrations that let your business sync sales, marketing, finance, and support apps instantly. Spend less time wiring systems and more time serving customers.
 
 ---
-
-## Choose Your Plan
-
-| Plan | Price / month | Features |
-|------|---------------|----------|
-| **Starter** | **$49** | • Up to 5 bots<br>• 10,000 actions/mo<br>• Email support |
-| **Pro** | **$199** | • Unlimited bots<br>• 100,000 actions/mo<br>• Priority support<br>• Custom integrations |
-
-[Start Starter](https://buy.stripe.com/test_28EcMX89J8IY8r90Aqc7z28)  
-[Upgrade to Pro](https://buy.stripe.com/test_7sY6ozcpZ5wM22Lgzoc7z29)
+### Why SMB Owners Choose Us
+- **30% Faster Onboarding** – Pre‑configured connectors cut setup from days to minutes.
+- **Zero Development Cost** – No developers needed; drag‑and‑drop UI.
+- **All‑In‑One Billing** – One subscription, unlimited integrations.
+- **Security‑First** – ISO‑27001 compliant, data encrypted at rest and in transit.
 
 ---
-
 ### How It Works
-1. **Record** – Use our Chrome extension to capture any browser workflow.
-2. **Deploy** – Publish the bot to the cloud with one click.
-3. **Run** – Trigger via API, schedule, or webhook. Results are returned instantly.
+1. **Pick Your Apps** – Choose from 200+ SaaS tools.
+2. **Select a Template** – Use a ready‑made workflow (e.g., *Lead → CRM → Accounting*).
+3. **Activate & Go** – One‑click enable and start syncing.
 
 ---
-
 ### Social Proof
-> "Intuned Agent cut our data‑scraping time from 8 hours to 15 minutes." – *Agency XYZ*
+> "We reduced manual data entry by 85% and saved $12k/month after switching to the Integration Marketplace."
+> — **Laura M., Founder, RetailCo**
 
 ---
-
-#### Ready to automate?
-[Get Started Free Trial](https://buy.stripe.com/test_28EcMX89J8IY8r90Aqc7z28)
+### Frequently Asked Questions
+- **Do I need a developer?** No, everything is built for non‑technical users.
+- **What if my app isn’t listed?** Request a custom connector – we build it within 48 hours.
+- **How is pricing structured?** Flat $49/mo for unlimited integrations, 14‑day free trial.
 
 ---
+### Ready to Automate?
+[**Start Your Free Trial**](/signup)
 
-*All plans include a 14‑day money‑back guarantee.*
+*No credit card required. Cancel anytime.*
