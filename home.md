@@ -2,55 +2,54 @@
 
 ## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn views into revenue on autopilot.** Our end‑to‑end YouTube Automation Agency handles everything from content ideation, script writing, AI voice‑over, video editing, thumbnail creation, to daily upload scheduling and channel growth.
+**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle content creation, video editing, SEO, posting, and audience growth so you can focus on your business.
 
 ---
 
-### Why Choose Our Agency?
+### Why Choose Us?
+- **Turnkey Production** – Script, voice‑over, B‑roll, editing, thumbnail, and upload.
+- **AI‑Powered SEO** – Keyword‑rich titles, tags, and descriptions that rank.
+- **Growth Engine** – Automated community engagement, comment replies, and cross‑platform promotion.
+- **Proven Results** – Clients see a **300% increase** in subscriber growth within 90 days.
 
-| ✅ | Benefit |
+---
+
+### Our Services
+| Service | What You Get |
 |---|---|
-| **Zero Production Hassle** | AI‑generated scripts, voice‑overs, and edits – you never need a video editor again. |
-| **Fast Turnaround** | New, SEO‑optimized videos delivered in **24‑48 hrs**. |
-| **Proven Growth System** | Keyword‑driven titles, tags, and thumbnail A/B testing that boosts subscriber count by **30‑50%** month‑over‑month. |
-| **Full Channel Management** | Upload, schedule, comment moderation, and analytics dashboard. |
-| **Transparent Pricing** | Fixed monthly fee, no hidden costs. |
+| **Channel Audit** | Detailed performance report & growth roadmap |
+| **Content Creation** | 4‑minute video scripts, AI voice‑over, royalty‑free B‑roll |
+| **Video Production** | Fully edited videos ready for upload |
+| **SEO & Publishing** | Optimized titles, tags, descriptions, scheduled posting |
+| **Community Management** | Automated comment replies & engagement boosts |
 
 ---
 
-### Our All‑In‑One Service
+### Pricing
+- **Starter** – $499/month (up to 8 videos) 
+- **Growth** – $999/month (up to 20 videos + community boost) 
+- **Enterprise** – Custom (unlimited videos, dedicated manager)
 
-1. **Niche Research & Keyword Strategy** – We find high‑traffic, low‑competition topics.
-2. **AI Script Writing** – Engaging, SEO‑optimized scripts written by GPT‑4.
-3. **Voice‑Over Production** – Natural‑sounding voice‑overs using state‑of‑the‑art TTS.
-4. **Video Editing & B‑Roll** – Professional cuts, motion graphics, and royalty‑free footage.
-5. **Thumbnail & Title Optimization** – Click‑through‑rate boosting designs.
-6. **Upload & Scheduling** – Daily uploads at peak times, with full metadata.
-7. **Growth & Community** – Comment moderation, community posts, and analytics reporting.
+> **Limited Offer:** Sign up this week and get **2 free videos** + a **30‑day money‑back guarantee**.
 
 ---
 
-### Limited‑Time Launch Offer
+## Ready to Dominate YouTube?
 
-**First month 50% off** for the first 20 clients who sign up this week. Use code **LAUNCH50** at checkout.
-
-[**Start Scaling Now →**](/checkout?plan=agency&discount=LAUNCH50)
+[**Start Your Free Audit →**](https://example.com/checkout?product=YouTubeAutomationAgency)
 
 ---
 
 ### Frequently Asked Questions
+**Q:** Do I need any equipment?
+**A:** No. We produce everything remotely and upload directly to your channel.
 
-**Q: Do I need any existing content?**
-A: No. We can start from scratch or repurpose your existing assets.
+**Q:** How fast can I see results?
+**A:** Most clients notice a lift in views within the first 2 weeks and subscriber growth in 30‑45 days.
 
-**Q: How fast can I see results?**
-A: Most clients notice a **20‑30% increase in views** within the first 30 days.
-
-**Q: What if I want to cancel?**
-A: Cancel anytime with a 30‑day notice – no lock‑in contracts.
+**Q:** Is there a contract?
+**A:** No long‑term contracts. Cancel anytime with 30‑day notice.
 
 ---
 
-*Ready to dominate YouTube?* Let our automation engine do the heavy lifting while you focus on your business.
-
-[Get Started Today](/checkout?plan=agency)
+*Boost your brand, grow your audience, and monetize faster with the YouTube Automation Agency.*
