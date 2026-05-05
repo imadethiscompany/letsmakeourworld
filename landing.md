@@ -1,68 +1,62 @@
-# Connect Your SaaS Stack in Minutes
+# Unity AI Integration Toolkit
 
-**Headline:** One Marketplace. All Your SaaS Integrations.
+## Seamlessly integrate cutting‑edge AI into your Unity projects.
 
-**Subheadline:** Discover, purchase, and install certified integrations that sync your favorite tools—no code, no developers needed. Ideal for SMB owners who want to automate sales, support, finance, and marketing instantly.
-
----
-
-## Why Choose Our Marketplace?
-
-- **200+ Certified Integrations** – From CRM to accounting, marketing to support.
-- **Zero‑Code Setup** – Install with one click, no developer required.
-- **Instant Sync** – Real‑time data flow keeps your apps up‑to‑date.
-- **Secure & Reliable** – Enterprise‑grade security, SLA‑backed uptime.
+**Early‑access beta now open for just $49.**
 
 ---
 
-## Who Is It For?
-
-- **Founders & CEOs** who need rapid automation without hiring engineers.
-- **Operations Managers** looking to streamline workflows across tools.
-- **Marketers & Sales Teams** who want leads auto‑enriched and deals synced.
-- **Finance & HR** professionals needing payroll, invoicing, and employee data in sync.
-
----
-
-## How It Works (3 Simple Steps)
-
-1. **Browse** – Search or filter integrations by app, category, or use‑case.
-2. **Buy & Install** – One‑click purchase, automatic OAuth connection.
-3. **Run & Scale** – Monitor sync health, add more integrations anytime.
+### Why Unity AI Integration Toolkit?
+- **Plug‑and‑play AI modules**: Add chatbots, image generation, and decision‑making AI with a few lines of code.
+- **Optimized for performance**: Lightweight, GPU‑aware, works on WebGL, mobile, and desktop.
+- **Full Unity editor support**: Visual node‑based workflow, custom inspectors, and runtime debugging.
+- **Extensible SDK**: Build your own AI services or connect to OpenAI, Anthropic, Stability AI, etc.
 
 ---
 
-## Benefits You’ll See
-
-- **Save 10+ Hours/Week** – Automate manual data entry.
-- **Cut Costs 30%** – Replace custom dev work with ready‑made connectors.
-- **Increase Revenue 15%** – Faster lead‑to‑deal cycles.
-- **Boost Accuracy** – Eliminate spreadsheet errors.
-
----
-
-## Social Proof
-
-> "We reduced our onboarding time from days to minutes. The marketplace is a game‑changer." – *CTO, FastGrowth SaaS*
-
-> "200+ integrations and counting – we finally have the tool we needed." – *Head of Ops, RetailCo*
+### Core Features
+- **AI‑Powered NPCs** – Natural language dialogue & behavior trees.
+- **Procedural Content Generation** – AI‑driven terrain, textures, and assets.
+- **Real‑time Vision** – Object detection & pose estimation directly in‑engine.
+- **Analytics Dashboard** – Track usage, latency, and cost.
+- **Cross‑platform** – Works on PC, consoles, mobile, and WebGL.
 
 ---
 
-## Frequently Asked Questions
-
-**Do I need a developer?** No. All integrations are zero‑code and guided.
-
-**What if an integration breaks?** Our support team fixes issues within 2 hours, SLA guaranteed.
-
-**Can I try before I buy?** Yes – free 14‑day trial for any integration.
+### Early‑Access Beta Includes
+- Full SDK (all modules)
+- 1‑year updates & priority support
+- Access to private Discord community
+- Sample Unity project & documentation
 
 ---
 
-## Ready to Supercharge Your Stack?
+### Pricing
+**$49 one‑time payment** for lifetime early‑access license.
 
-[Start Free Trial](/signup)   •   [Book a Demo](/demo)
+[**Join Early Access →**](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
 
 ---
 
-*SEO Meta*: SaaS Integration Marketplace, no‑code SaaS connectors, automate workflows, 200+ integrations, SMB automation.
+### FAQ
+**Q:** Do I need an existing Unity project?
+**A:** No. Use our starter template or add to any project.
+
+**Q:** Is the SDK compatible with Unity 2022+?
+**A:** Yes, supports Unity 2020 LTS and newer.
+
+**Q:** When will the full product launch?
+**A:** Expected Q4 2024. Early‑access buyers get a free upgrade.
+
+---
+
+### Testimonials (preview)
+> *"The AI integration was unbelievably easy – saved us weeks of work.*" – Indie dev
+
+> *"Performance is smooth even on mobile devices.*" – Studio lead
+
+---
+
+Ready to level up your Unity games with AI?
+
+[**Join Early Access for $49**](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
