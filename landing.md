@@ -1,36 +1,51 @@
-# AI Metrics for Hybrid Models
+# AI Metrics into Hybrid Mode
 
-## Turn raw data into real‑time AI‑driven metrics you can plug into rule‑based and machine‑learning pipelines.
+## Unlock Predictive Power & Operational Efficiency
 
-**Why hybrid models?**
-- **Compliance** – deterministic rules keep you safe.
-- **Adaptability** – AI learns from new patterns automatically.
-- **Speed** – metrics update in seconds, not hours.
+**Turn raw AI metrics into actionable insights that seamlessly switch between real‑time and batch processing.**
 
-### Key Benefits
-- **Instant scoring** – Get a confidence score for any event in < 200 ms.
-- **Unified API** – One endpoint feeds both your rule engine and ML model.
-- **No data‑science team required** – Pre‑built feature extraction.
-- **Scalable** – Handles millions of events per day.
+---
 
-### How It Works (3‑Step Flow)
-1. **Ingest** – Stream raw logs, sensor data, or transaction records.
-2. **Score** – Our AI evaluates against hundreds of pre‑trained metrics (anomaly, risk, intent, quality).
-3. **Distribute** – Push scores to your rule engine *and* to your ML model for continuous learning.
+### Why Hybrid Mode?
+- **Maximize Accuracy** – Combine the speed of streaming data with the depth of offline analysis.
+- **Cut Costs** – Run heavy‑lift models off‑peak, keep critical alerts live.
+- **Future‑Proof** – Adapt to any workload without re‑architecting.
 
-### Real‑World Use Cases
-- **Fraud detection** – Rules block known patterns, AI catches evolving tactics.
-- **Predictive maintenance** – Rules trigger safety shutdowns, AI predicts component wear.
-- **Customer segmentation** – Rules enforce compliance, AI refines personas in real time.
+---
 
-### Trusted By
-![Logos of companies](/assets/logos.png)
+## Key Benefits
+- **Instant Anomaly Detection** – Real‑time alerts when metrics diverge.
+- **Deep Trend Analysis** – Batch jobs surface hidden patterns.
+- **Unified Dashboard** – One view, two modes, zero friction.
+- **Scalable Architecture** – Auto‑scale on demand, pay only for what you use.
 
-### Pricing
-- **Starter** – 10k events / month – $199
-- **Growth** – 100k events / month – $799
-- **Enterprise** – Unlimited – Custom
+---
 
-**Ready to supercharge your hybrid models?**
+## Pricing Plans
+| Plan | Features | Monthly Price |
+|------|----------|--------------|
+| **Starter** | Up to 5 hybrid pipelines, basic dashboard, email alerts | **$49** |
+| **Growth** | Up to 20 pipelines, advanced analytics, Slack & Teams integration | **$149** |
+| **Enterprise** | Unlimited pipelines, custom SLA, dedicated support, on‑prem deployment | **$499** |
 
-[Get Started Free →](/signup)
+### 🎉 Early‑Bird Discount
+Sign up within the next **7 days** and get **20% off** the first 3 months! Use code **HYBRID20** at checkout.
+
+---
+
+## Ready to Transform Your AI Ops?
+
+[**Start Free Trial**](https://example.com/checkout?plan=starter) | [**Book a Demo**](https://example.com/demo)
+
+---
+
+### Frequently Asked Questions
+**Q:** *Do I need a data engineer?*  
+**A:** No. Our UI guides you through pipeline setup.
+
+**Q:** *Is there a free tier?*  
+**A:** Yes – 1 pipeline, limited to 1000 events per month.
+
+---
+
+*Powered by NextGen AI Ops Platform*
