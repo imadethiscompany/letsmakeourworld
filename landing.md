@@ -1,29 +1,43 @@
-# Sierra AI Agent Startup
+# Agent Skills – Unlock AI-Powered Capabilities
 
-## Valued at $15 B – Powered by a $950 M Funding Round
+## Transform Your Team with Ready‑to‑Use AI Agents
 
-**Unlock the future of autonomous AI agents.**
+**Headline:**
+> *Empower every employee with AI agents that get work done—no code, no friction.*
 
-Sierra combines cutting‑edge large‑language models, real‑time data integration, and proprietary orchestration to deliver AI agents that *act* on your behalf, 24/7.
-
-### Why Sierra?
-- **Scale with confidence:** Backed by $950 M, our platform is built for enterprise‑grade reliability.
-- **Speed to value:** Deploy a custom AI agent in days, not months.
-- **Revenue impact:** Clients see up to **+30 %** lift in productivity and cost savings.
-
-### How It Works
-1. **Define your goal** – sales outreach, support automation, data synthesis.
-2. **Train the agent** – our UI lets you feed data, set policies, and test in sandbox.
-3. **Deploy instantly** – integrate via API or no‑code widgets.
-
-### Trusted By
-- Fortune 500 firms
-- Leading VC‑backed startups
-- Global enterprises across finance, health, and e‑commerce
-
-### Ready to Accelerate?
-
-[**Get Early Access**](https://example.com/early-access) – limited slots for the first wave of partners.
+**Subheadline:**
+> *Deploy custom AI agents in minutes, automate routine tasks, and boost productivity by up to 30%.*
 
 ---
-*Featured in SiliconANGLE, TechCrunch, and The Wall Street Journal.*
+
+### Why Agent Skills?
+- **Instant value:** Pre‑built skill templates (email triage, data entry, lead qualification) that work out‑of‑the‑box.
+- **Zero integration hassle:** Connect to Slack, Gmail, Salesforce, or any API with a single click.
+- **Scalable pricing:** Pay per‑agent run or subscribe for unlimited usage.
+- **Proven results:** Teams report a **28% reduction in manual effort** within the first week.
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Select a skill** – Choose from our library of vetted AI agents.
+2. **Configure your workflow** – Link your tools, set triggers, and define outcomes.
+3. **Launch & monitor** – Agents run autonomously; view real‑time metrics on the dashboard.
+
+---
+
+### Social Proof
+> *"Agent Skills cut our weekly reporting time from 4 hours to 15 minutes. Our team can finally focus on strategy."* – **Product Ops Lead, FinTech Co.**
+
+---
+
+### Ready to Supercharge Your Team?
+[ **Start Free Trial** ](https://example.com/checkout) – No credit card required.
+
+**FAQ**
+- **Do I need technical expertise?** No. Our UI guides you step‑by‑step.
+- **What data does the AI see?** Only what you explicitly grant access to.
+- **Can I cancel anytime?** Yes, with a single click.
+
+---
+
+*Unlock the future of work. Deploy AI agents today.*
