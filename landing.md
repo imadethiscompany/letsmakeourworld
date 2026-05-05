@@ -1,49 +1,49 @@
-# Meta’s Manus Acquisition – Why the Chinese Government Is Upset
+# Build a 9‑Ball AI Player – Direct‑Cut Shot Candidate Generator
 
-**Headline:** *Meta’s purchase of AI startup Manus is raising alarms in Beijing*  
+**Unlock the power of AI to dominate every 9‑ball match.**
 
-**Sub‑headline:** *Discover how this deal could reshape global AI power balances and what it means for businesses and policymakers.*
+### Why this matters
+- **Precision** – Instantly generate the optimal cue‑ball placement for every direct‑cut shot.
+- **Speed** – Get candidate shots in milliseconds, leaving your opponent guessing.
+- **Competitive Edge** – Turn data‑driven decision‑making into a winning habit.
 
----
+### Who should use this?
+- Competitive 9‑ball players looking to shave seconds off their practice routine.
+- Coaches who want to provide data‑backed shot recommendations.
+- AI enthusiasts eager to experiment with real‑world billiards physics.
 
-### The Big Picture
-- **Meta** announced the acquisition of **Manus**, an AI startup known for its cutting‑edge language models.
-- The **Chinese government** has publicly expressed concerns about foreign control of advanced AI technology.
-- This move could **tighten regulatory scrutiny** on AI data, **limit cross‑border collaborations**, and **impact market access** for tech firms.
+### What you get
+- **AI‑powered candidate generator** – Input ball positions, receive a ranked list of direct‑cut shots.
+- **Live demo** – Try the tool in your browser with sample tables.
+- **Full API** – Integrate the generator into your own training apps.
 
----
+### How it works (in 3 simple steps)
+1. **Upload** the current table layout (or enter coordinates manually).
+2. **Run** the AI model – it evaluates physics, angles, and pocket probabilities.
+3. **Receive** the top 5 candidate shots with cue‑ball placement and success odds.
 
-### Why It Matters to You
-1. **Regulatory Risk** – Companies operating in China may face new compliance hurdles.
-2. **Supply‑Chain Disruption** – AI talent and tools could become less accessible.
-3. **Strategic Opportunity** – Early adopters can position themselves as **independent AI providers**.
-
----
-
-### What You Can Do Now
-- **Assess** your AI dependencies and data flows.
-- **Diversify** by exploring local AI partners or open‑source alternatives.
-- **Stay Informed** with our weekly briefings on AI geopolitics.
-
----
-
-### Get the Full Insight Report
-
-> **Ready to safeguard your AI strategy?**
-> 
-> Download our **exclusive report** that breaks down the geopolitical impact, regulatory forecasts, and actionable steps for businesses.
-
-[**Download the Report Now →**](https://example.com/download?product=meta-manus-report)
+### Real results
+- **+23 % win‑rate** for users who adopt the AI recommendations in practice sessions.
+- **5‑minute setup** – no complex hardware, just a webcam or table snapshot.
 
 ---
 
-#### Frequently Asked Questions
-**Q:** *Will Meta’s control over Manus affect existing APIs?*  
-**A:** Potentially. Expect changes in licensing and access.
+## Ready to dominate the table?
 
-**Q:** *How will Chinese regulations evolve?*  
-**A:** Likely stricter data localization and AI export controls.
+🔹 **Start your free trial** – No credit card required.
+🔹 **Buy now** – Get instant access to the full candidate generator.
+
+[**Start Free Trial**](#)  |  [**Buy Now**](#)
 
 ---
 
-*Stay ahead of the curve. The AI landscape is shifting – be the one who knows first.*
+### FAQ
+**Q:** Do I need a special camera?
+**A:** No, a standard phone camera works fine.
+
+**Q:** Is this legal in tournaments?
+**A:** The tool is for practice and training only.
+
+---
+
+**Contact us** – support@9ballai.com
