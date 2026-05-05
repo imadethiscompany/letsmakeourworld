@@ -1,29 +1,31 @@
-# YouTube Automation Agency
+# Unlock YouTube Growth with Zero Effort
 
-## Scale Your Channel to 10x Growth Without Lifting a Finger
+## Scale Your Business with Our YouTube Automation Agency
 
-**Turn your YouTube channel into a revenue‑generating machine** with our end‑to‑end automation service:
-- **Video Ideation & Scriptwriting** powered by AI
-- **Voice‑over & Editing** with professional clone‑voice technology
-- **Thumbnail & SEO Optimization** for maximum click‑through
-- **Full Channel Management** – publishing, community, analytics
+**What We Do**
+- Full‑service video creation, editing, and publishing
+- AI‑driven scriptwriting, voice‑over, and thumbnail design
+- Proven SEO & algorithm hacks to skyrocket views & leads
 
-### Why Choose Us?
-- **Zero Hiring Costs** – we handle the entire production pipeline.
-- **Fast Turnaround** – 2‑day video delivery.
-- **Proven Results** – 250+ clients, average 300% subscriber growth.
-- **Transparent Pricing** – pay per video or monthly subscription.
+**Why Choose Us?**
+- **Zero hiring** – we handle the entire production pipeline
+- **Fast turnaround** – 1 video per week, ready to publish
+- **Revenue‑focused** – every video is built to convert viewers into paying customers
 
-### Packages
+### Packages (All‑in‑One, No Hidden Fees)
 | Package | Videos / Month | Price |
 |---|---|---|
-| **Starter** | 2 | $499 |
-| **Growth** | 5 | $1,199 |
-| **Enterprise** | 10+ | Custom |
+| **Starter** | 2 | **$499** |
+| **Growth** | 4 | **$899** |
+| **Enterprise** | 8+ | **Custom** |
 
-Ready to dominate YouTube?
+**Ready to dominate YouTube?**
 
-[**Get Started Now**](https://example.com/checkout) – No credit card required for a free audit.
+👉 **[Book a Free Strategy Call](/schedule)**
+
+Or click below to get started instantly:
+
+<button style="background:#ff0000;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;" onclick="window.location.href='https://buy.stripe.com/test_4gw5kM0aV6xZ1aM4AA'">Buy Now</button>
 
 ---
-*We’re trusted by SaaS founders, coaches, and e‑commerce brands to accelerate their video marketing.*
+*Trusted by dozens of SMBs boosting sales by up to 3x.*
