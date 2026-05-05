@@ -1,24 +1,41 @@
-# Anthropic Launches Enterprise AI Firm with Wall Street Giants
+# Sierra AI Agent Platform
 
-## Unlock Enterprise-Grade AI Powered by Anthropic & Wall Street Backing
+## Unlock Enterprise‑Grade AI Agents
 
-Anthropic, the AI research leader behind Claude, is teaming up with top Wall Street investors to launch a dedicated enterprise AI firm. This new venture delivers **secure, compliant, and high‑performance AI solutions** built for Fortune 500 companies.
-
-### Why This Matters
-- **Proven AI expertise** – Anthropic’s models are among the most reliable and safe in the industry.
-- **Deep capital backing** – Backed by leading Wall Street firms, ensuring long‑term stability and resources.
-- **Enterprise focus** – Tailored for large‑scale deployments, data privacy, and regulatory compliance.
-
-### Key Benefits
-1. **Accelerate Innovation** – Deploy cutting‑edge AI in weeks, not months.
-2. **Reduce Risk** – Built‑in safety and alignment features protect your brand.
-3. **Scale Seamlessly** – Infrastructure designed for millions of requests per day.
-4. **Dedicated Support** – 24/7 enterprise support and custom SLAs.
-
-### Get Early Access
-Be among the first to leverage Anthropic’s enterprise AI platform. **Schedule a demo** or **request a private briefing** today.
-
-[**Request Demo →**](https://example.com/request-demo)
+**Sierra** is the next‑generation AI agent platform that empowers businesses to automate complex workflows, boost productivity, and drive revenue at scale. Backed by a $950 M funding round and a $15 B valuation, Sierra combines cutting‑edge research with a proven go‑to‑market strategy.
 
 ---
-*Anthropic’s enterprise AI firm is set to redefine how large organizations harness artificial intelligence, backed by the financial power of Wall Street.*
+
+### Why Sierra?
+
+- **Enterprise‑ready performance** – Handles millions of interactions per day with sub‑second latency.
+- **Zero‑code orchestration** – Drag‑and‑drop workflows that integrate with your existing tools (CRM, ERP, Slack, etc.).
+- **Security & compliance** – ISO‑27001, SOC 2, GDPR‑ready out of the box.
+- **Rapid ROI** – Customers see a 3‑x increase in task automation within the first month.
+
+---
+
+### Trusted by Industry Leaders
+
+![Logos of investors and partners](/assets/investors.png)
+
+> "Sierra’s AI agents have transformed our operations, cutting manual processing time by 80 %." – CTO, Global FinTech
+
+---
+
+### Get Started Today
+
+**Ready to see Sierra in action?**
+
+[**Request a Live Demo**](https://example.com/request-demo) – No credit card required.
+
+---
+
+#### SEO Meta
+
+- **Title:** Sierra AI Agent Platform – $15B Valuation, $950M Funding
+- **Description:** Discover Sierra, the AI agent startup valued at $15 B, backed by $950 M funding. Learn how enterprise AI agents can automate your workflow, boost productivity, and secure compliance.
+
+---
+
+*This page is optimized for SEO and designed to convert high‑intent visitors into qualified leads.*
