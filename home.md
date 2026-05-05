@@ -21,8 +21,8 @@
 | **Starter** | **$49** | • Up to 5 bots<br>• 10,000 actions/mo<br>• Email support |
 | **Pro** | **$199** | • Unlimited bots<br>• 100,000 actions/mo<br>• Priority support<br>• Custom integrations |
 
-[Start Starter]({{starter_link}})  
-[Upgrade to Pro]({{pro_link}})
+[Start Starter](https://buy.stripe.com/test_28EcMX89J8IY8r90Aqc7z28)  
+[Upgrade to Pro](https://buy.stripe.com/test_7sY6ozcpZ5wM22Lgzoc7z29)
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 #### Ready to automate?
-[Get Started Free Trial]({{starter_link}})
+[Get Started Free Trial](https://buy.stripe.com/test_28EcMX89J8IY8r90Aqc7z28)
 
 ---
 
