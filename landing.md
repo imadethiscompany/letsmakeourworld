@@ -1,64 +1,59 @@
 # AI Agents for Financial Services
 
-## Transform Your Operations with Autonomous AI Agents
+## Transform Your Financial Operations with Autonomous AI Agents
 
-**Instantly automate KYC, transaction monitoring, regulatory reporting, and fraud detection – all while reducing costs and error rates.**
-
----
-
-### Why Financial Institutions Need AI Agents Now
-- **Regulatory pressure is rising** – 80% of banks say compliance costs are outpacing revenue growth.
-- **Manual processes waste up to 30% of staff time** on repetitive checks.
-- **AI agents cut processing time from hours to seconds**, delivering real‑time risk insights.
+**Accelerate compliance, reduce risk, and boost efficiency** – all while delivering a seamless client experience.
 
 ---
 
-## Real‑World Use Cases
-| Use‑Case | What the Agent Does | Business Impact |
-|----------|-------------------|-----------------|
-| **KYC Verification** | Pulls identity docs, runs OCR, cross‑checks sanctions lists, and flags anomalies automatically. | Reduces onboarding time from 2‑3 days to <5 minutes; 95% fewer manual errors. |
-| **Transaction Monitoring** | Streams transaction data, applies AML rules, scores risk, and alerts investigators instantly. | Cuts false‑positive alerts by 60%; detects suspicious activity 2× faster. |
-| **Regulatory Reporting** | Generates SAR, CDD, and quarterly compliance reports from raw data sources. | Saves 20+ analyst hours per month; ensures 100% filing accuracy. |
-| **Fraud Detection** | Analyzes patterns, runs predictive models, and triggers automated block actions. | Prevents $1.2 M average fraud loss per 1,000 transactions. |
-| **Customer Service Automation** | Handles routine inquiries, updates account info, and escalates complex cases. | Improves CSAT by 15% and reduces call volume by 30%. |
+### 🚀 Use‑Cases
+
+| Use‑Case | What It Solves | How the AI Agent Works |
+|---|---|---|
+| **KYC & AML Verification** | Manual identity checks are slow and error‑prone. | Extracts data from IDs, runs real‑time watch‑list checks, and updates customer records automatically. |
+| **Transaction Monitoring** | Detecting fraud in real time is costly. | Analyzes transaction streams, flags anomalies, and generates SAR reports for investigators. |
+| **Regulatory Reporting** | Quarterly filings consume weeks of analyst time. | Consolidates data, formats reports to regulator specs, and files them via APIs. |
+| **Customer Onboarding** | Long onboarding leads to churn. | Guides users through document upload, validates information, and creates accounts instantly. |
+| **Risk Scoring** | Manual risk models lack agility. | Continuously retrains models on new data, providing live risk scores for each client. |
 
 ---
 
-## Pricing Tiers – Choose the Right Scale for Your Business
-| Tier | Monthly Price (USD) | Included Agents | Transactions / Month | SLA |
-|------|-------------------|----------------|--------------------|-----|
-| **Starter** | **$499** | 2 agents (KYC + Monitoring) | Up to 10,000 | 99% uptime, 24‑h support |
-| **Professional** | **$1,799** | 5 agents (add Reporting & Fraud) | Up to 100,000 | 99.9% uptime, 12‑h support |
-| **Enterprise** | **Custom** | Unlimited agents & custom integrations | Unlimited | 99.99% uptime, Dedicated CSM, SLA‑backed compliance guarantees |
+### 💰 Pricing Tiers
 
-*All plans include a sandbox environment, API access, and quarterly model tuning.*
+| Plan | Monthly Price | Included Agents | Limits | Ideal For |
+|---|---|---|---|---|
+| **Starter** | **Free** | 1 Agent | Up to 1,000 transactions / month | Small fintechs, pilots |
+| **Growth** | **$199** | 5 Agents | Up to 50,000 transactions / month | Mid‑size banks, credit unions |
+| **Enterprise** | **Custom** | Unlimited Agents | Unlimited volume, SLA 99.9% | Large institutions, global firms |
+
+All plans come with:
+- Secure, ISO‑27001‑certified hosting
+- 24/7 monitoring & support
+- Easy API integration (REST, GraphQL)
+- GDPR & CCPA compliance
 
 ---
 
-## Get Early Access – Limited Seats
+### 📅 Early Access
 
-We’re launching a **beta program for forward‑thinking banks and fintechs**. Join now to get:
-- **Free 30‑day trial** of any tier
-- **Dedicated onboarding specialist**
-- **Early‑bird pricing lock‑in** (up to 30% off the first year)
+Be among the first to deploy AI‑powered financial agents. **Join the private beta** and get a dedicated onboarding engineer, priority support, and a 20% discount on the Growth plan.
 
-<div style="text-align:center; margin:2rem 0;">
-  <a href="https://example.com/early-access" style="background:#0066ff;color:#fff;padding:1rem 2rem;border-radius:8px;text-decoration:none;font-size:1.2rem;">Request Early Access</a>
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="https://example.com/early-access" style="background:#0066ff;color:#fff;padding:1rem 2rem;border-radius:6px;text-decoration:none;font-weight:bold;">Get Early Access Now</a>
 </div>
 
 ---
 
-### Frequently Asked Questions
-**Q: Do I need a data‑science team to use the agents?**
-A: No. Our platform ships pre‑trained models and a low‑code workflow builder.
+#### FAQ
+**Q:** Do I need any coding skills?
+**A:** No. Our drag‑and‑drop workflow lets you configure agents in minutes.
 
-**Q: How secure is my data?**
-A: End‑to‑end encryption, ISO‑27001 compliance, and on‑premise deployment options.
+**Q:** How is data secured?
+**A:** All data is encrypted at rest and in transit, with role‑based access controls.
 
-**Q: Can the agents integrate with existing core banking systems?**
-A: Yes – we provide REST, gRPC, and Kafka connectors out of the box.
+**Q:** Can I upgrade later?
+**A:** Absolutely – switch plans anytime from the dashboard.
 
 ---
 
-*Ready to automate compliance and unlock growth?*  
-**[Request Early Access]**(https://example.com/early-access) today.
+*Ready to automate the future of finance?*
