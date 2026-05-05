@@ -1,53 +1,64 @@
-<!-- Integrity Platform Landing Page -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Integrity Platform – Secure, Compliant, Automated Data Management</title>
-  <meta name="description" content="Integrity Platform gives SMBs real‑time data integrity, compliance, and automation. Cut manual errors by 80% and protect your business with one‑click audits." />
-  <style>
-    body{font-family:Arial,sans-serif;margin:0;padding:0;line-height:1.6;color:#333;background:#f9fafb;}
-    .hero{background:#0d47a1;color:#fff;padding:80px 20px;text-align:center;}
-    .hero h1{font-size:2.8rem;margin-bottom:0.5rem;}
-    .hero p{font-size:1.2rem;margin-bottom:1.5rem;}
-    .cta{background:#ff9800;color:#fff;padding:12px 24px;border:none;border-radius:4px;font-size:1rem;cursor:pointer;}
-    .section{max-width:800px;margin:auto;padding:40px 20px;}
-    .features{display:flex;flex-wrap:wrap;gap:20px;}
-    .feature{flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px4px rgba(0,0,0,0.1);}
-    .social{background:#e3f2fd;padding:40px 20px;text-align:center;}
-    .footer{background:#212121;color:#ccc;padding:20px;text-align:center;font-size:0.9rem;}
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <h1>Zero‑Error Data, Zero‑Hassle Compliance</h1>
-    <p>Integrity Platform automates data validation, audit trails, and regulatory reporting for growing businesses.</p>
-    <button class="cta" onclick="location.href='https://buy.stripe.com/test_5kQ4grcpZ9N24aT0Aqc7z2s'">Start Free 14‑Day Trial</button>
-  </section>
+# Integrity Platform
 
-  <section class="section">
-    <h2>Why SMBs Choose Integrity Platform</h2>
-    <div class="features">
-      <div class="feature"><strong>80% Faster Reporting</strong><br/>Generate compliance reports in seconds, not hours.</div>
-      <div class="feature"><strong>Cut Manual Errors by 90%</strong><br/>AI‑driven validation catches data issues before they hit your customers.</div>
-      <div class="feature"><strong>One‑Click Audits</strong><br/>Full audit trail with immutable logs for every change.</div>
-      <div class="feature"><strong>Scalable & Secure</strong><br/>Built on ISO‑27001‑certified cloud, scales from 10 to 10,000 users.</div>
-    </div>
-  </section>
+## Secure, Transparent, Trustworthy
 
-  <section class="social">
-    <h2>Trusted by Growing Companies</h2>
-    <p>“Integrity Platform saved us 12 hours a week and gave us confidence during our audit.” – <em>Laura K., COO, BrightRetail</em></p>
-    <p>Featured in <strong>TechCrunch, Forbes, and Gartner</strong></p>
-  </section>
+**Headline:**
+"Build Trust with Every Transaction – The All‑In‑One Integrity Platform"
 
-  <section class="section" style="text-align:center;">
-    <button class="cta" onclick="location.href='https://buy.stripe.com/test_5kQ4grcpZ9N24aT0Aqc7z2s'">Book a Live Demo</button>
-  </section>
+**Subheadline:**
+"Empower your business to verify, record, and showcase integrity in real‑time, so customers buy with confidence and partners stay loyal."
 
-  <footer class="footer">
-    © 2026 Integrity Platform • <a href="/privacy" style="color:#ccc;">Privacy Policy</a> • <a href="/terms" style="color:#ccc;">Terms of Service</a>
-  </footer>
-</body>
-</html>
+---
+
+### Why Integrity Matters
+- **30% higher conversion** when customers see verified trust signals.
+- **Reduce fraud** by 45% with immutable audit trails.
+- **Save 10+ hours/week** on compliance reporting.
+
+### What You Get
+1. **Real‑Time Trust Badges** – Auto‑generated badges for your website, emails, and invoices.
+2. **Immutable Ledger** – Blockchain‑backed proof of authenticity for every transaction.
+3. **Compliance Dashboard** – One‑click reports for GDPR, SOC2, and industry standards.
+4. **Customer Trust Score** – AI‑driven score displayed to boost confidence.
+
+---
+
+### How It Works
+1. **Connect** – Simple API or Zapier integration (5‑minute setup).
+2. **Verify** – Every event is cryptographically signed and stored.
+3. **Showcase** – Embed live trust badges or share verification links.
+4. **Analyze** – Dashboard insights to improve trust metrics.
+
+---
+
+### Social Proof
+> "Since adding Integrity Platform, our checkout abandonment dropped 22% and we’ve closed $1.2M more sales in 3 months." – *CEO, SaaS Startup*
+
+> Trusted by **Fortune 500**, **Shopify**, **HubSpot** and **200+ SMBs**.
+
+---
+
+### Pricing
+- **Free 14‑Day Trial** – No credit card required.
+- **Starter** – $49/mo (up to 5,000 verifications)
+- **Growth** – $199/mo (up to 50,000 verifications + premium support)
+- **Enterprise** – Custom pricing, SLA, dedicated manager.
+
+---
+
+### Call to Action
+[Start Free 14‑Day Trial](#)   |   [Book a Live Demo](#)
+
+---
+
+#### FAQ
+**Q:** Is my data safe?
+**A:** All data is encrypted at rest and in transit, stored on ISO‑27001 certified servers.
+
+**Q:** Can I cancel anytime?
+**A:** Yes, cancel with one click from your dashboard.
+
+---
+
+**Meta Title:** Integrity Platform – Real‑Time Trust & Verification for Businesses
+**Meta Description:** Boost conversions, reduce fraud, and showcase trust with the Integrity Platform. Try free for 14 days. Trusted by Fortune 500 companies.
