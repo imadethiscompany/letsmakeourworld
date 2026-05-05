@@ -1,66 +1,28 @@
 # Integrity Platform
 
-## Secure, Transparent, and Trustworthy Data Management for Modern Enterprises
+## Build Trust. Protect Data. Grow Faster.
 
-**The problem:** Companies struggle with fragmented data silos, compliance headaches, and a lack of real‑time auditability. Traditional platforms either sacrifice security for convenience or cost too much to scale.
-
-**Our solution:** Integrity Platform is an end‑to‑end data governance suite that **protects** every byte, **verifies** every transaction, and **automates** compliance—all from a single, intuitive dashboard.
-
----
+**The all‑in‑one solution for small‑to‑medium businesses that need airtight data integrity, compliance, and real‑time visibility.**
 
 ### Why Integrity Platform?
+- **Zero‑trust security** – end‑to‑end encryption, automated access controls, and continuous monitoring.
+- **Regulatory compliance** – built‑in GDPR, CCPA, HIPAA checklists that keep you audit‑ready.
+- **Live audit trail** – every change is recorded with timestamps and user attribution.
+- **Integrates instantly** – connects to QuickBooks, Xero, Salesforce, HubSpot, and dozens of SaaS tools with one click.
+- **Pay-as‑you‑go pricing** – start for $49/mo, no contracts.
 
-| Benefit | How it works |
-|---|---|
-| **Zero‑trust data storage** | All data is encrypted at rest and in transit with per‑record access controls. |
-| **Real‑time audit trails** | Immutable logs powered by blockchain‑style hashing, searchable in seconds. |
-| **Automated compliance** | Built‑in templates for GDPR, CCPA, HIPAA; auto‑remediation alerts keep you audit‑ready. |
-| **Scalable performance** | Cloud‑native micro‑services handle petabytes without latency spikes. |
-| **Developer friendly** | REST & GraphQL APIs, SDKs for Python, Node, Java – plug‑and‑play in minutes. |
-
----
-
-### How It Works (3‑Step Simplicity)
-
-1. **Connect** – Securely link your data sources (databases, SaaS, on‑prem). 
-2. **Govern** – Define policies, roles, and compliance rules in the UI or via API. 
-3. **Monitor** – Live dashboards, alerts, and exportable audit reports keep you in control.
-
----
+### How It Works (3 Simple Steps)
+1. **Connect your apps** – link your accounting, CRM, and file storage.
+2. **Set policies** – choose compliance frameworks and security rules.
+3. **Monitor & act** – real‑time alerts, dashboards, and one‑click remediation.
 
 ### Social Proof
+> "Integrity Platform saved us $12k in audit costs and gave our investors confidence in our data integrity." – **Laura M., Founder, FinTechCo**
 
-> *"Integrity Platform cut our audit preparation time from weeks to hours. The peace of mind is priceless."* – **CTO, FinTech Unicorn**
+### Ready to Secure Your Business?
 
-> *"Our security team finally trusts the data pipeline. No more manual checks."* – **Head of Compliance, HealthTech**
+[**Start Your Free 14‑Day Trial →**](https://integrityplatform.com/signup)
 
----
+Or book a live demo with our specialists:
 
-### Pricing (Transparent, No Hidden Fees)
-
-- **Starter** – $49/mo – up to 5 TB, basic compliance templates.
-- **Growth** – $199/mo – 25 TB, advanced policies, priority support.
-- **Enterprise** – Custom – Unlimited, dedicated account manager, SLA.
-
-> **Free 14‑day trial** – No credit card required.
-
----
-
-### Frequently Asked Questions
-
-**Q:** Is there a minimum contract?
-**A:** No. Cancel anytime during the trial.
-
-**Q:** How is my data protected?
-**A:** End‑to‑end encryption, zero‑knowledge keys, and immutable audit logs.
-
-**Q:** Can I export my data?
-**A:** Yes, via secure CSV, JSON, or direct S3 bucket.
-
----
-
-## Ready to Secure Your Data?
-
-[Start Free Trial](/signup) | [Book a Demo](/contact)
-
-*Integrity Platform – Trust Your Data, Trust Your Business.*
+[**Book Demo**](https://integrityplatform.com/demo)
