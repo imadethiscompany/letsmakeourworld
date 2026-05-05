@@ -1,65 +1,43 @@
 # YouTube Automation Agency
 
-**Scale Your YouTube Channel to 10K+ Subscribers in 90 Days – Guaranteed**
+## Unlock Explosive Growth for Your YouTube Channel
+
+**Ready to turn your YouTube channel into a revenue‑generating machine without spending 40‑hours a week on video production?**
+
+Our **YouTube Automation Agency** handles everything:
+- **Content Ideation** – Data‑driven topics that rank high on search.
+- **Script Writing** – Persuasive, SEO‑optimized scripts.
+- **AI Voice‑over** – Professional‑grade voice using Vikash’s “Mine” profile.
+- **B‑roll & Editing** – Stunning stock footage from Pexels, polished in Remotion.
+- **Thumbnail & SEO** – Click‑worthy thumbnails, keyword‑rich titles & descriptions.
+- **Channel Management** – Upload scheduling, community engagement, analytics.
+
+### Why Choose Us?
+| Benefit | What You Get |
+|---|---|
+| **Speed** | New videos published **daily** without you lifting a finger. |
+| **Scale** | From 1k to 1M+ subs in months, proven track record. |
+| **Cost‑Effective** | Packages start at **$499/mo** – far cheaper than hiring a full‑time team. |
+| **Data‑Backed** | AI‑driven keyword research ensures every video ranks. |
+| **Full Ownership** | All assets delivered, you keep the channel forever. |
+
+### Packages
+- **Starter** – $499/mo: 3 videos/week, basic SEO.
+- **Growth** – $999/mo: 7 videos/week, advanced SEO + thumbnail design.
+- **Dominance** – $1,999/mo: 14 videos/week, full channel management, ad‑strategy.
+
+> **Limited Time Offer:** Sign up within 48 hours and get the first month **20 % off**.
+
+### How It Works
+1. **Onboard** – Fill a short questionnaire about your niche.
+2. **Strategy Call** – We define your growth roadmap.
+3. **Automation Launch** – Our AI pipeline starts producing videos.
+4. **Watch the Numbers Grow** – Real‑time analytics dashboard.
 
 ---
+**Take the first step now** – click the button below to schedule a free 15‑minute strategy call.
 
-## Why Choose Our YouTube Automation Agency?
-
-- **Turnkey Channel Management** – From niche research, video scripting, voice‑over, editing, to daily uploads.
-- **AI‑Powered Content Creation** – Leverage cutting‑edge AI for scripts, thumbnails, and SEO‑optimized titles.
-- **Zero‑Hands‑On** – We handle everything while you focus on your brand and community.
-- **Proven ROI** – Clients see **3‑5× subscriber growth** and **2‑4× revenue boost** within the first quarter.
+[Schedule My Call](https://calendly.com/youragency/strategy-call)
 
 ---
-
-## Our Proven 5‑Step System
-
-1. **Niche & Keyword Research** – Deep data analysis to target high‑traffic, low‑competition topics.
-2. **Script & Voice Generation** – SEO‑friendly scripts written by experts, narrated by AI voices that sound 100% human.
-3. **Video Production** – Fast‑track editing, motion graphics, and royalty‑free B‑roll.
-4. **Upload & Optimization** – Perfect titles, tags, descriptions, and custom thumbnails for maximum click‑through.
-5. **Growth Hacking** – Community engagement, cross‑promotion, and paid ad scaling.
-
----
-
-## What You Get
-
-| Package | Monthly Price | Deliverables |
-|---|---|---|
-| **Starter** | **$997** | 4 videos, keyword research, thumbnail design, basic SEO. |
-| **Growth** | **$1,997** | 8 videos, advanced SEO, community management, ad spend consulting. |
-| **Enterprise** | **$3,997** | 12+ videos, full‑service channel management, dedicated account manager. |
-
----
-
-## Success Stories
-
-> **"Our subscriber count jumped from 2K to 25K in 2 months. Revenue tripled!"** – *TechGuru Channel*
-
-> **"We outsourced everything and focused on product development. The agency delivered viral videos weekly."** – *FitnessPro Media*
-
----
-
-## Frequently Asked Questions
-
-**Q: Do I need any existing content?**
-A: No. We can start a brand‑new channel or revamp an existing one.
-
-**Q: How quickly will I see results?**
-A: Most clients see measurable growth within the first 30‑45 days.
-
-**Q: Is there a contract?**
-A: We offer month‑to‑month plans with a 30‑day notice for cancellation.
-
----
-
-## Ready to Dominate YouTube?
-
-[**Start Your Free Strategy Call →**](https://calendly.com/youautomation/strategy)
-
-Or click **Buy Now** below to get started instantly.
-
----
-
-*SEO Keywords: YouTube automation, YouTube growth agency, outsource video production, AI YouTube channel, fast YouTube subscriber growth*
+*Boost your channel, boost your income. Let automation do the heavy lifting.*
