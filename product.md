@@ -1,14 +1,42 @@
-# eBay Acquisition Alert
+# Unity AI Integration Toolkit
 
-**Stay ahead of the market with an exclusive, in‑depth report on Ryan Cohen's $56 B bid to acquire eBay.**
+## Unlock the Future of Game Development with AI
 
-- Detailed analysis of the offer and its implications
-- Timeline and next steps
-- Impact on shareholders, competitors, and the e‑commerce landscape
-- Actionable insights for investors and traders
+**Seamlessly integrate AI-powered features into your Unity projects.** From intelligent NPC behavior to procedural content generation, our toolkit accelerates development and elevates player experiences.
 
-**One‑time price: $199**
+---
 
-[Buy Now] (https://buy.stripe.com/test_8x23cney7e3ibDl6YOc7z1e)
+### Key Features
+- **AI‑Driven NPCs**: Natural language understanding and adaptive behavior.
+- **Procedural World Generation**: AI‑crafted terrains, quests, and assets.
+- **Smart Animation Blending**: Real‑time motion synthesis.
+- **Easy Unity Integration**: Plug‑and‑play package with comprehensive docs.
+- **Dedicated Support**: Access to our private Discord community.
 
-Get the report instantly after purchase.
+---
+
+### Early‑Access Beta – Only $49
+Be among the first to shape the toolkit. Early‑access includes:
+- Full toolkit download
+- Priority feature requests
+- Direct line to the development team
+- Lifetime updates for the beta version
+
+**Limited spots – secure yours now!**
+
+[![Get Early Access](https://img.shields.io/badge/Get%20Early%20Access-%2450-blue?style=for-the-badge)](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
+
+---
+
+#### FAQ
+**Q:** Do I need a Unity Pro license?
+**A:** No, the toolkit works with Unity Personal, Plus, and Pro.
+
+**Q:** When will the full release be?
+**A:** Expected Q4 2024 for beta participants.
+
+---
+
+**Ready to transform your games?**
+
+[Get Early Access Now →](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
