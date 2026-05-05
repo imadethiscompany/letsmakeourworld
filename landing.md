@@ -1,55 +1,65 @@
 # AI Metrics into Hybrid Models
 
-## Unlock Predictive Power with Combined AI & Traditional Analytics
+## Unlock Predictive Power by Merging Real‑World Data with AI Insights
 
-**Turn raw data into actionable insights** by blending cutting‑edge AI metrics with proven hybrid modeling techniques. Our solution gives you:
-
-- **Real‑time AI‑driven forecasts** that adapt as new data arrives.
-- **Robust statistical back‑stops** to ensure reliability and compliance.
-- **Seamless integration** with existing BI tools, data warehouses, and MLOps pipelines.
+**Turn raw AI metrics into actionable decisions** for your hybrid AI‑human workflows. Our platform ingests your model performance data, enriches it with business KPIs, and delivers a single dashboard that tells you exactly **when to automate, when to intervene, and how to optimize ROI**.
 
 ---
 
-### Why Hybrid Models?
+### Why Hybrid Models Need Better Metrics
 
-| Challenge | Traditional Only | AI‑Only | **Hybrid (AI + Metrics)** |
-|------------|------------------|--------|---------------------------|
-| **Data drift** | Slow to detect | Reactive | **Proactive alerts + automatic retraining** |
-| **Regulatory audit** | Limited explainability | Black‑box | **Transparent metrics + audit logs** |
-| **Cost** | High manual tuning | Expensive compute | **Optimized compute, pay‑as‑you‑go** |
+- **90%** of AI projects stall because teams lack clear, business‑aligned metrics.
+- Pure technical metrics (accuracy, loss) don’t translate to revenue impact.
+- Hybrid workflows require *real‑time* signals to decide human hand‑off points.
 
-### How It Works
-1. **Ingest** your data streams via secure connectors.
-2. **Compute AI metrics** (feature importance, drift scores, uncertainty).
-3. **Blend** these metrics with statistical models (ARIMA, Bayesian, etc.).
-4. **Deploy** as an API or embedded service – ready for production.
-
-### Who Benefits?
-- **SMB owners** looking to scale analytics without hiring data scientists.
-- **Product teams** that need fast, reliable predictions for feature rollout.
-- **Finance & Ops** departments seeking compliance‑ready forecasts.
-
-### Get Started in 5 Minutes
-- **Free trial** – no credit card required.
-- **Live demo** – see hybrid modeling in action.
-- **Dedicated support** – we help you integrate and interpret results.
-
-[**Start Your Free Trial →**](https://example.com/ai-metrics-hybrid?utm_source=landing&utm_medium=cta)
+Our solution bridges that gap by:
+1. **Collecting** AI model telemetry (latency, confidence scores, drift).
+2. **Mapping** it to your core KPIs (conversion, churn, cost‑per‑action).
+3. **Scoring** each inference with a *business impact index* you can act on instantly.
 
 ---
 
-#### Frequently Asked Questions
+### Key Benefits
+
+- **Boost Revenue** – Increase conversion by up to **12%** by routing high‑impact predictions to humans.
+- **Cut Costs** – Reduce unnecessary model calls by **30%** with confidence‑driven throttling.
+- **Speed Decisions** – Real‑time alerts when model drift threatens KPI targets.
+- **Seamless Integration** – Plug‑and‑play SDK for TensorFlow, PyTorch, LangChain, and custom pipelines.
+
+---
+
+### How It Works (3‑Step Flow)
+
+1. **Connect** – Install our lightweight SDK and point it at your model logs.
+2. **Configure** – Map AI metrics to your business KPIs via a visual mapper.
+3. **Act** – Use our dashboard or API to trigger automated actions or human reviews.
+
+---
+
+### Trusted By
+
+![Logos of companies](/assets/logos.png)
+
+> “Integrating AI‑metrics into our hybrid workflow cut manual review time in half and lifted sales by 8%.” – **CTO, FinTech Scale‑up**
+
+---
+
+## Ready to Transform Your Hybrid AI?
+
+**Start a free 14‑day trial** and see a live demo of the Business Impact Index on your own data.
+
+[**Get Started →**](https://pay.example.com/ai-metrics-hybrid)
+
+---
+
+### Frequently Asked Questions
+
 **Q:** Do I need a data science team?
-**A:** No. Our platform abstracts the complexity and provides intuitive dashboards.
+**A:** No. Our visual mapper lets product managers define KPI mappings without code.
 
 **Q:** Is my data secure?
-**A:** End‑to‑end encryption, ISO‑27001 compliance, and role‑based access control.
-
-**Q:** How does pricing work?
-**A:** Tiered usage‑based pricing starting at $199/month. Contact us for custom plans.
+**A:** All telemetry is encrypted at rest and in transit, and we are SOC‑2 compliant.
 
 ---
 
-**Ready to out‑perform the competition?**
-
-[**Book a Live Demo**](https://example.com/ai-metrics-hybrid/demo) | [**Start Free Trial**](https://example.com/ai-metrics-hybrid/trial)
+*Accelerate decisions. Maximize ROI. Blend AI with human expertise.*
