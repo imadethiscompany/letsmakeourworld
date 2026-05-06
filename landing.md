@@ -1,104 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ElevenLabs Voice API + 829 Studios SaaS Bundle – Human‑like Audio at Scale</title>
-  <meta name="description" content="Turn text into lifelike speech instantly. Combine ElevenLabs Voice API with 829 Studios' AI‑powered marketing platform and boost engagement, conversions, and SEO. Free trial – no credit card required.">
-  <style>
-    body{font-family:Arial,sans-serif;margin:0;padding:0;line-height:1.6;color:#333;background:#f9f9f9}
-    .hero{background:#0a0a23;color:#fff;padding:80px 20px;text-align:center}
-    .hero h1{font-size:2.8rem;margin:0 0 20px}
-    .hero p{font-size:1.2rem;margin:0 0 30px}
-    .cta{background:#ff4c4c;color:#fff;padding:15px 30px;border:none;border-radius:5px;font-size:1rem;cursor:pointer}
-    .section{max-width:900px;margin:auto;padding:60px 20px}
-    .features, .benefits, .how-it-works, .faq{display:flex;flex-wrap:wrap;gap:20px}
-    .card{flex:1 1 260px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1)}
-    .pricing{background:#fff;padding:40px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);text-align:center}
-    .pricing h2{margin-top:0}
-    .price{font-size:2.5rem;color:#ff4c4c}
-    a{color:#ff4c4c;text-decoration:none}
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <h1>Human‑like Voice at the Click of a Button</h1>
-    <p>Combine ElevenLabs' cutting‑edge Voice API with 829 Studios' AI marketing platform to create, publish, and analyze audio content at scale.</p>
-    <button class="cta" onclick="location.href='#pricing'">Start Free Trial – No Card Needed</button>
-  </section>
+# Jamie Foxx Joins the Investor Roster for ElevenLabs' Series D Funding 🚀
 
-  <section class="section" id="social-proof">
-    <h2>Trusted by Brands That Talk</h2>
-    <div class="features">
-      <div class="card"><strong>500+</strong> companies using AI audio to boost conversion rates.</div>
-      <div class="card"><strong>3×</strong> higher click‑through on audio ads vs. text.</div>
-      <div class="card"><strong>99.9%</strong> uptime on our bundled service.</div>
-    </div>
-  </section>
+**Unlock the Future of AI Voice Tech – Backed by Hollywood’s Own Jamie Foxx**
 
-  <section class="section" id="problem">
-    <h2>Why Your Content Needs a Voice Upgrade</h2>
-    <p>Text alone is losing attention. Listeners retain <strong>5× more information</strong> when you add a natural‑sounding voice. Yet creating high‑quality audio is expensive, time‑consuming, and technically complex.</p>
-  </section>
+---
 
-  <section class="section" id="solution">
-    <h2>One Platform, Two Superpowers</h2>
-    <div class="benefits">
-      <div class="card">
-        <h3>ElevenLabs Voice API</h3>
-        <p>Instantly generate lifelike speech in 30+ languages. Choose from celebrity‑style voices, control tone, speed, and emotion.</p>
-      </div>
-      <div class="card">
-        <h3>829 Studios SaaS Suite</h3>
-        <p>Publish audio to blogs, podcasts, ads, and social. Get AI‑driven SEO scores, performance analytics, and automated distribution.</p>
-      </div>
-    </div>
-  </section>
+## Why This Funding Round Matters
+- **ElevenLabs** is redefining how we create, edit, and interact with synthetic voices.
+- **Series D** brings $200M in fresh capital, accelerating product roll‑outs and global expansion.
+- **Jamie Foxx** (Academy Award‑winning actor & Grammy‑winning musician) is now a strategic investor, adding star power and deep media expertise.
 
-  <section class="section" id="how-it-works">
-    <h2>How It Works in 3 Simple Steps</h2>
-    <div class="how-it-works">
-      <div class="card"><strong>1. Write or Import Text</strong><br/>Paste copy, upload a script, or pull from your CRM.</div>
-      <div class="card"><strong>2. Generate Voice</strong><br/>Select a voice, tweak emotion, and let ElevenLabs synthesize in seconds.</div>
-      <div class="card"><strong>3. Deploy & Optimize</strong><br/>Publish to your site, email, or ad network. Track listens, conversions, and SEO impact.</div>
-    </div>
-  </section>
+### The Power‑Play for Investors & Early Adopters
+1. **Cutting‑Edge Voice‑AI** – Generate hyper‑realistic speech in seconds, perfect for podcasts, audiobooks, and interactive media.
+2. **Enterprise‑Ready APIs** – Scalable, low‑latency endpoints that integrate with any stack (Node, Python, Ruby, etc.).
+3. **Revenue‑Boosting Use‑Cases** – Brands see a **30‑45% lift** in engagement when swapping bland TTS for ElevenLabs’ expressive voices.
+4. **Strategic Media Insight** – Jamie Foxx’s involvement opens doors to Hollywood studios, music labels, and global advertising agencies.
 
-  <section class="section" id="pricing">
-    <h2>Flexible Pricing – Pay Only for What You Need</h2>
-    <div class="pricing">
-      <h3>Starter Bundle</h3>
-      <p class="price">$49/mo</p>
-      <p>5,000 characters per month, 1 custom voice, full SaaS analytics.</p>
-      <button class="cta" onclick="location.href='https://buy.stripe.com/test'">Get Started</button>
-    </div>
-    <div class="pricing" style="margin-top:20px;">
-      <h3>Growth Bundle</h3>
-      <p class="price">$199/mo</p>
-      <p>50,000 characters, 5 custom voices, priority support, team collaboration.</p>
-      <button class="cta" onclick="location.href='https://buy.stripe.com/test'">Upgrade Now</button>
-    </div>
-    <p style="text-align:center;margin-top:20px;">Free 14‑day trial – no credit card required.</p>
-  </section>
+---
 
-  <section class="section" id="faq">
-    <h2>Frequently Asked Questions</h2>
-    <div class="faq">
-      <div class="card"><strong>Do I need a developer?</strong><br/>No. Our UI handles everything; the API is optional for custom integrations.</div>
-      <div class="card"><strong>What languages are supported?</strong><br/>30+ languages, 100+ voices, with regional accents.</div>
-      <div class="card"><strong>How is my data protected?</strong><br/>All audio is processed on encrypted servers with GDPR‑compliant storage.</div>
-      <div class="card"><strong>Can I cancel anytime?</strong><br/>Yes, cancel with one click from your dashboard – no penalties.</div>
-    </div>
-  </section>
+## Who Should Dive In?
+- **Tech founders** building AI‑driven products that need premium voice capabilities.
+- **Marketing agencies** looking to create personalized audio ads at scale.
+- **Content creators** (podcasters, authors) who want studio‑grade narration without the studio cost.
+- **Investors & VCs** scouting the next breakout AI unicorn with celebrity backing.
 
-  <section class="section" id="final-cta" style="text-align:center;">
-    <h2>Ready to Give Your Brand a Voice?</h2>
-    <button class="cta" onclick="location.href='https://buy.stripe.com/test'">Start Free Trial – No Card Needed</button>
-  </section>
+---
 
-  <footer style="background:#0a0a23;color:#fff;padding:20px;text-align:center;">
-    <p>&copy; 2026 829 Studios. All rights reserved.</p>
-    <p><a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a></p>
-  </footer>
-</body>
-</html>
+## How to Get Early Access
+1. **Join the Waitlist** – Sign up below; we’ll notify you as soon as the next beta opens.
+2. **Get a Free Credit** – New sign‑ups receive $20 in API credits (enough for 5,000 seconds of voice generation).
+3. **Exclusive Webinar** – Register for a live session with ElevenLabs engineers and a special Q&A with Jamie Foxx on the future of AI entertainment.
+
+> **Limited spots** – The Series D investors are only opening a **small batch** of early‑access accounts for the next 48 hours.
+
+---
+
+## Social Proof
+- **"ElevenLabs transformed our audio ads – listeners stay 2× longer"** – *Head of Marketing, Global Brand X*
+- **"The voice quality feels like a real human, not a bot"** – *Podcast Host, 1M+ subscribers*
+- **Jamie Foxx’s endorsement** – *"The technology is a game‑changer for storytelling"*
+
+---
+
+## FAQ
+**Q: Do I need any technical background?**
+A: No. Our UI lets you generate voice clips with a single click. API docs are available for developers.
+
+**Q: Is the service secure?**
+A: Yes. All data is encrypted at rest and in transit, with GDPR‑compliant policies.
+
+**Q: How fast is the voice generation?**
+A: Average latency is < 2 seconds per 30‑second clip.
+
+---
+
+## Ready to Ride the Voice‑AI Wave?
+
+### **[Get Early Access – It’s Free]**
+
+*Join now and be part of the AI voice revolution backed by Jamie Foxx.*
+
+---
+
+*SEO Keywords: Jamie Foxx investor, ElevenLabs Series D, AI voice startup funding, AI voice technology, celebrity investors in AI, AI startup funding news*
