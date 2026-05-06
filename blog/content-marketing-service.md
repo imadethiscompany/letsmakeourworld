@@ -1,48 +1,63 @@
-# Content Marketing Service – Boost Your Brand & Leads
+# Content Marketing Service
 
-## Drive Traffic, Generate Leads, Grow Revenue
+## Supercharge Your Brand with Data‑Driven Content Marketing
 
-Are you struggling to turn website visitors into paying customers? Our **Content Marketing Service** turns your brand story into a flood of qualified leads.
-
-### Why Content Marketing?
-- **80%** of B2B buyers prefer to research online before contacting sales.
-- Companies that blog **generate 3x more leads** than those that don’t.
-- High‑quality content improves SEO, builds authority, and shortens sales cycles.
-
-### What We Deliver
-| Deliverable | Benefits | Timeline |
-|---|---|---|
-| **Strategy Blueprint** – audience personas, keyword map, content calendar | Clear roadmap aligned with revenue goals | Week 1 |
-| **SEO‑Optimized Blog Posts** (2‑4 per week) | Rank on Google, attract organic traffic | Ongoing |
-| **Evergreen Guides & Pillar Pages** | Authority & internal linking power | Month 2 |
-| **Lead Magnets & Email Funnels** | Capture leads, nurture to sale | Month 1 |
-| **Performance Dashboard** – traffic, rankings, conversions | Data‑driven decisions | Real‑time |
-
-### How It Works (3‑Step Process)
-1. **Discovery Call** – We uncover your target market, pain points, and growth goals.
-2. **Content Engine Build** – Research, writing, SEO, design, and publishing.
-3. **Scale & Optimize** – Ongoing testing, analytics, and content upgrades.
-
-### Our Proven Results
-- **+250%** increase in organic traffic for a SaaS startup in 6 months.
-- **+180%** lead generation boost for a B2B consultancy.
-- **Top 3** Google rankings for 15+ high‑intent keywords.
-
-### Ready to Turn Content into Customers?
-**Book a free strategy session** now and see a custom growth plan.
-
-[Schedule Your Call →](https://calendly.com/yourcompany/strategy-call)
+**Turn traffic into qualified leads and revenue with a full‑stack content marketing service that writes, optimizes, distributes, and measures every piece of content.**
 
 ---
-**FAQ**
-**Q:** How long before I see results?
-**A:** Most clients see measurable traffic lift within 30‑45 days and lead growth within 60‑90 days.
 
-**Q:** Do I need to write anything?
-**A:** No. Our team handles research, writing, SEO, and publishing. You just provide brand voice guidelines.
+### Why Choose Our Content Marketing Service?
 
-**Q:** Is this a one‑time project?
-**A:** We recommend a 6‑month retainer to continuously produce and optimize content for sustained growth.
+- **Strategic Planning** – We build a custom content strategy based on keyword research, audience intent, and competitor gaps.
+- **Premium Creation** – SEO‑optimized blog posts, landing pages, case studies, and thought‑leadership pieces written by industry experts.
+- **Technical SEO & Schema** – On‑page optimization, internal linking, JSON‑LD markup, and Core Web Vitals tuning.
+- **Distribution & Promotion** – Automated outreach, social amplification, and backlink acquisition.
+- **Performance Dashboard** – Real‑time traffic, ranking, and conversion metrics so you see ROI instantly.
 
 ---
-*Boost your brand’s visibility and revenue with a results‑driven content marketing partnership.*
+
+### How It Works (4‑Step Framework)
+
+1. **Audit & Discovery** – Deep dive into your brand, audience personas, and current assets.
+2. **Strategy Blueprint** – Keyword clusters, content pillars, and editorial calendar.
+3. **Production & Optimization** – High‑quality, SEO‑ready copy with on‑page schema.
+4. **Publish, Promote & Report** – Automated publishing to WordPress/HubSpot, link‑building outreach, and monthly performance reports.
+
+---
+
+### Results Our Clients See
+| Metric | Typical Outcome |
+|--------|-----------------|
+| Organic Traffic Growth | **+150%** in 6 months |
+| Lead Generation | **+3×** qualified leads |
+| Conversion Rate | **+45%** on landing pages |
+| Time to Rank (Top 10) | **30‑60 days** |
+
+---
+
+### Frequently Asked Questions
+**Q: Do I need an existing blog?**
+A: No. We can create a new content hub from scratch or revamp your current site.
+
+**Q: How long before I see results?**
+A: Most clients see measurable traffic lift within 4‑6 weeks; top‑10 rankings typically appear in 2‑3 months.
+
+**Q: Is there a long‑term contract?**
+A: We offer month‑to‑month plans with a 30‑day cancellation window, plus discounted annual packages.
+
+---
+
+## Ready to Dominate Search?
+
+> **"Our organic leads doubled in three months – the most profitable channel we have."** – *SaaS Founder, Series A*
+
+### Get Started Today
+1️⃣ **Schedule a free strategy call** – [book a 15‑minute slot](/schedule)
+2️⃣ **Get a custom proposal** – tailored to your budget and goals.
+3️⃣ **Watch your traffic explode** – with our proven content engine.
+
+**[Start Your Free Consultation →](/schedule)**
+
+---
+
+*SEO‑optimized, conversion‑focused, and backed by data.*
