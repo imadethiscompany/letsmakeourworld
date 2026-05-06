@@ -1,58 +1,39 @@
-# AI Metrics into Hybrid Models
-
-## Unlock Predictive Power with Seamless Integration
-
-**Headline:** Turn raw AI metrics into actionable hybrid models – no data science PhD required.
-
-**Subheadline:** Combine the accuracy of AI forecasts with the reliability of traditional statistical models to boost ROI by up to **30%**.
-
----
-
-### Why You’re Struggling
-- **Fragmented data:** AI outputs sit in notebooks, while business decisions rely on legacy spreadsheets.
-- **Trust gap:** Stakeholders doubt black‑box AI predictions.
-- **Speed bottleneck:** Building hybrid pipelines takes weeks of engineering.
-
-### Our Solution
-**AI‑Hybrid Fusion Engine** automatically ingests your AI metrics (confidence scores, feature importance, prediction intervals) and merges them with proven econometric or rule‑based models. The result is a single, explainable forecast you can trust and act on instantly.
-
-#### Core Benefits
-1. **Higher Accuracy** – Blend AI’s nuance with statistical stability.
-2. **Explainability** – Full audit trail for every prediction.
-3. **Speed to Market** – Deploy in hours, not weeks.
-4. **Cost Savings** – Reduce data‑science overhead by 40%.
-5. **Scalable** – Cloud‑native, handles millions of rows.
-
----
-
-### How It Works (3 Simple Steps)
-1. **Upload** your AI metric CSV or connect via API.
-2. **Select** a base statistical model (ARIMA, Linear, etc.) or use our smart defaults.
-3. **Launch** – Get a unified forecast dashboard and export ready‑to‑use results.
-
----
-
-### Trusted by Leaders
-- **FinTech Corp** – 28% lift in credit‑risk prediction accuracy.
-- **RetailCo** – Cut inventory forecasting errors by 22%.
-- **HealthAnalytics** – Integrated AI health‑risk scores with epidemiological models.
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need a data‑science team?
-**A:** No. Our UI guides you through the whole process.
-
-**Q:** Is my data secure?
-**A:** End‑to‑end encryption, SOC‑2 compliant.
-
-**Q:** Can I test before buying?
-**A:** Yes – a 14‑day free trial with full features.
-
----
-
-## Ready to Transform Your Forecasts?
-
-[**Start Free Trial**](#)       [**Book a Demo**](#)
-
-*No credit card required. Cancel anytime.*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpaceX IPO Investment Guide – Unlock Early Access</title>
+  <style>
+    body{font-family:Arial,sans-serif;background:#f9fafb;color:#333;margin:0;padding:0;display:flex;justify-content:center;align-items:center;min-height:100vh;}
+    .container{max-width:600px;background:#fff;padding:2rem;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.1);}
+    h1{font-size:2rem;margin-bottom:0.5rem;}
+    p.subtitle{font-size:1.1rem;color:#555;margin-top:0;}
+    ul{margin:1rem 0;padding-left:1.2rem;}
+    li{margin-bottom:0.5rem;}
+    form{display:flex;flex-direction:column;margin-top:1.5rem;}
+    input[type=email]{padding:0.8rem;border:1px solid #ccc;border-radius:4px;margin-bottom:1rem;font-size:1rem;}
+    button{background:#0066ff;color:#fff;padding:0.8rem;border:none;border-radius:4px;font-size:1rem;cursor:pointer;}
+    button:hover{background:#0052cc;}
+    .footer{font-size:0.9rem;color:#777;margin-top:1rem;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Free SpaceX IPO Investment Guide</h1>
+    <p class="subtitle">Your step‑by‑step playbook to profit from the upcoming SpaceX public offering.</p>
+    <ul>
+      <li>Timeline & key filing dates</li>
+      <li>Valuation scenarios & upside potential</li>
+      <li>How to position your portfolio for maximum gains</li>
+      <li>Risk mitigation strategies</li>
+      <li>Exclusive bonus: early‑access to our AI Funding Alerts subscription</li>
+    </ul>
+    <form action="/subscribe" method="POST">
+      <input type="email" name="email" placeholder="Enter your email" required />
+      <button type="submit">Get the Guide & Join AI Funding Alerts</button>
+    </form>
+    <p class="footer">We respect your privacy. Unsubscribe any time.</p>
+  </div>
+</body>
+</html>
