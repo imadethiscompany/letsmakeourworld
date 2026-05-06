@@ -1,45 +1,52 @@
-# YouTube Automation Agency
+# ClinicBot – AI‑Powered Clinical Chatbot
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Transform Patient Interaction with Trusted, Real‑Time AI
 
-**Turn your ideas into viral videos** with our end‑to‑end automation service:
+<div style="text-align:center; margin:20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="ClinicBot Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-- **Content Ideation & Scriptwriting** – AI‑driven research to find hot topics that rank.
-- **Professional Voice‑over** – Custom voice model that sounds natural and engaging.
-- **High‑Quality Video Production** – Stock B‑roll, motion graphics, and automated rendering.
-- **Upload & SEO Optimization** – Optimized titles, descriptions, tags, and thumbnails for maximum discoverability.
-- **Performance Dashboard** – Real‑time analytics on views, watch‑time, and revenue.
-
-### Why Choose Us?
-| Feature | Benefit |
-|---|---|
-| **Zero Production Hassle** | We handle script, voice, video, and upload.
-| **Fast Turnaround** | New video ready in 24‑48 hours.
-| **Proven SEO** | Keyword‑rich metadata boosts rankings.
-| **Scalable** | From 1 video/week to 30+ videos/month.
-| **Transparent Pricing** | No hidden fees, pay per video or monthly retainer.
-
-### Pricing Plans
-- **Starter** – $299/video – Ideal for solo creators.
-- **Growth** – $2,499/month – 8 videos/month + analytics.
-- **Enterprise** – Custom – Unlimited videos, dedicated manager.
-
-> **Ready to automate your growth?**
-> 
-> 👉 **[Book a Free Strategy Call](https://calendly.com/yt-automation/strategy)**
+### Why ClinicBot?
+- **Evidence‑Based Answers** – Powered by Retrieval‑Augmented Generation (RAG) with up‑to‑date medical literature.
+- **Verifiable Citations** – Every response includes source links, enabling clinicians to audit.
+- **HIPAA & GDPR Compliant** – End‑to‑end encryption, data residency options, and audit logs.
+- **Seamless EMR Integration** – Connect via FHIR, HL7, or simple webhooks.
+- **24/7 Patient Support** – Reduce call‑center load by up to 40%.
 
 ---
 
-#### FAQ
-**Q: Do I need any technical skills?**
-A: No. Just give us your niche and goals.
+## Pricing Plans
 
-**Q: How fast can I see results?**
-A: Most clients see a 2‑3× lift in views within the first month.
+| Plan | Monthly Price | Features |
+|------|---------------|----------|
+| **Starter** | **$49** | Up to 5,000 patient queries, basic analytics, email support |
+| **Professional** | **$199** | Unlimited queries, advanced analytics, EMR integration, priority support |
+| **Enterprise** | **Custom** | Dedicated instance, SLA 99.9%, on‑prem deployment, custom model tuning |
 
-**Q: What platforms do you support?**
-A: YouTube, Shorts, and TikTok repurposing.
+> **Free 14‑day trial** – No credit card required. Experience the power of AI‑driven triage instantly.
 
 ---
 
-*Boost your channel, save time, and focus on what you love – creating content.*
+## Compliance & Security FAQ
+
+**Q: Is ClinicBot HIPAA‑compliant?**
+A: Yes. All patient data is encrypted at rest and in transit. We sign a Business Associate Agreement (BAA) for all paid plans.
+
+**Q: How does ClinicBot handle GDPR?**
+A: Data residency is selectable (US/EU). Users can request data export or deletion at any time via the dashboard.
+
+**Q: What sources does the chatbot use?**
+A: Peer‑reviewed journals, FDA‑approved guidelines, and your uploaded clinical protocols. Every answer includes a citation link.
+
+**Q: Can I audit the model’s decisions?**
+A: Absolutely. The admin console provides full logs, source documents, and confidence scores for each interaction.
+
+---
+
+### Ready to Elevate Patient Care?
+
+<div style="text-align:center; margin:30px 0;">
+  <a href="https://clinicbot.example.com/signup" style="background:#0066ff;color:white;padding:15px 30px;border-radius:5px;text-decoration:none;font-size:1.2em;">Start Free Trial</a>
+</div>
+
+*ClinicBot – Trusted AI for modern healthcare providers.*
