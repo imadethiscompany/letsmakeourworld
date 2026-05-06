@@ -1,108 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Content Marketing Service – Grow Your Brand with Expert Content</title>
-<meta name="description" content="Professional content marketing service that drives traffic, leads, and revenue. Custom strategy, creation, distribution, and analytics. Get started today!">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/static/css/main.css">
-</head>
-<body>
-<section class="hero" style="background:#f5f5f5;padding:60px 0;text-align:center;">
-  <h1 style="font-size:2.5rem;margin-bottom:20px;">Boost Your Business with Expert Content Marketing</h1>
-  <p style="font-size:1.2rem;margin-bottom:30px;">Strategic, high‑quality content that attracts visitors, converts leads, and fuels growth.</p>
-  <a href="https://buy.stripe.com/test_28obKc8VZ0bU5pWc00" style="background:#ff6600;color:#fff;padding:15px 30px;border-radius:5px;text-decoration:none;font-weight:bold;">Start Now – Get a Free Audit</a>
-</section>
+# Pricing Optimization Consulting
 
-<section class="benefits" style="padding:40px 20px;max-width:1000px;margin:auto;">
-  <h2 style="text-align:center;margin-bottom:30px;">Why Choose Our Content Marketing Service?</h2>
-  <ul style="display:flex;flex-wrap:wrap;justify-content:space-around;list-style:none;padding:0;">
-    <li style="flex:1 1 300px;margin:10px;padding:20px;border:1px solid #ddd;border-radius:8px;">
-      <h3>Data‑Driven Strategy</h3>
-      <p>We research keywords, audience intent, and competitor gaps to build a roadmap that captures real search demand.</p>
-    </li>
-    <li style="flex:1 1 300px;margin:10px;padding:20px;border:1px solid #ddd;border-radius:8px;">
-      <h3>Premium Content Creation</h3>
-      <p>Professional writers, designers, and video producers craft SEO‑optimized blogs, guides, videos, and infographics.</p>
-    </li>
-    <li style="flex:1 1 300px;margin:10px;padding:20px;border:1px solid #ddd;border-radius:8px;">
-      <h3>Full‑Funnel Distribution</h3>
-      <p>We publish on your website, Medium, LinkedIn, and social channels to maximise reach and authority.</p>
-    </li>
-    <li style="flex:1 1 300px;margin:10px;padding:20px;border:1px solid #ddd;border-radius:8px;">
-      <h3>Performance Tracking</h3>
-      <p>Monthly dashboards show traffic, leads, rankings, and ROI – so you see the impact instantly.</p>
-    </li>
-  </ul>
-</section>
+## Headline
+**Boost Your Profits by 15‑30% with Data‑Driven Pricing**
 
-<section class="process" style="background:#fafafa;padding:40px 20px;">
-  <div style="max-width:1000px;margin:auto;">
-    <h2 style="text-align:center;margin-bottom:30px;">Our Proven 4‑Step Process</h2>
-    <ol style="display:flex;flex-direction:column;gap:20px;list-style:none;padding:0;">
-      <li><strong>1. Discovery & Audit</strong> – We analyze your existing assets, audience, and competitors.</li>
-      <li><strong>2. Strategy Blueprint</strong> – Keyword clusters, content calendar, and distribution plan.</li>
-      <li><strong>3. Creation & Optimization</strong> – SEO‑ready copy, visuals, and on‑page SEO implementation.</li>
-      <li><strong>4. Publish & Scale</strong> – Automated publishing, promotion, and performance reporting.</li>
-    </ol>
-  </div>
-</section>
+### Subheadline
+Stop leaving money on the table. Our pricing optimization consulting uses AI‑powered analytics and proven frameworks to turn every price point into a revenue engine.
 
-<section class="pricing" style="padding:40px 20px;max-width:1000px;margin:auto;">
-  <h2 style="text-align:center;margin-bottom:30px;">Transparent Pricing</h2>
-  <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
-    <div style="border:1px solid #ddd;padding:20px;border-radius:8px;width:280px;">
-      <h3>Starter</h3>
-      <p><strong>$799/month</strong></p>
-      <ul>
-        <li>1 keyword cluster (5 topics)</li>
-        <li>4 pieces of content per month</li>
-        <li>Basic distribution</li>
-        <li>Monthly performance report</li>
-      </ul>
-    </div>
-    <div style="border:2px solid #ff6600;padding:20px;border-radius:8px;width:280px;">
-      <h3>Growth</h3>
-      <p><strong>$1,899/month</strong></p>
-      <ul>
-        <li>3 keyword clusters (15 topics)</li>
-        <li>12 pieces of content per month</li>
-        <li>Advanced distribution + outreach</li>
-        <li>Bi‑weekly analytics dashboard</li>
-      </ul>
-    </div>
-    <div style="border:1px solid #ddd;padding:20px;border-radius:8px;width:280px;">
-      <h3>Enterprise</h3>
-      <p><strong>Custom</strong></p>
-      <ul>
-        <li>Unlimited clusters & content</li>
-        <li>Dedicated strategy team</li>
-        <li>Full‑funnel campaign management</li>
-        <li>Real‑time KPI monitoring</li>
-      </ul>
-    </div>
-  </div>
-  <div style="text-align:center;margin-top:30px;">
-    <a href="https://buy.stripe.com/test_28obKc8VZ0bU5pWc00" style="background:#ff6600;color:#fff;padding:12px 25px;border-radius:5px;text-decoration:none;">Schedule Your Free Strategy Call</a>
-  </div>
-</section>
+---
 
-<section class="faq" style="background:#f5f5f5;padding:40px 20px;max-width:1000px;margin:auto;">
-  <h2 style="text-align:center;margin-bottom:30px;">Frequently Asked Questions</h2>
-  <dl>
-    <dt>What types of content do you create?</dt>
-    <dd>Blog posts, long‑form guides, videos, infographics, podcasts, and social snippets – all SEO‑optimized.</dd>
-    <dt>How long does it take to see results?</dt>
-    <dd>Most clients notice traffic lift within 4‑6 weeks and qualified leads within 2‑3 months.</dd>
-    <dt>Do you handle keyword research?</dt>
-    <dd>Yes – we build a data‑driven keyword map targeting high‑intent, low‑competition terms.</dd>
-    <dt>Can I cancel anytime?</dt>
-    <dd>Our contracts are month‑to‑month with a 30‑day notice period.</dd>
-  </dl>
-</section>
+### Who Is This For?
+- **E‑commerce brands** struggling with stagnant margins.
+- **SaaS companies** that price plans on guesswork.
+- **Retail chains** looking to harmonize regional pricing.
 
-<footer style="background:#222;color:#fff;padding:20px;text-align:center;">
-  <p>&copy; 2024 ContentBoost Agency. All rights reserved.</p>
-</footer>
-</body>
-</html>
+### The Pain
+- Prices set by intuition, not data.
+- Frequent discount wars eating profit.
+- Inconsistent pricing across channels causing customer confusion.
+
+### Our Solution
+We combine market‑level competitive intelligence, customer‑willingness modeling, and real‑time A/B testing to deliver a **custom pricing strategy** that:
+1. **Identifies optimal price tiers** for each segment.
+2. **Implements dynamic pricing rules** that react to demand.
+3. **Provides a playbook** for sales and marketing to communicate value.
+
+### Key Benefits
+- **+15‑30% revenue lift** in the first 3‑6 months.
+- **Reduce discount reliance** by 40%.
+- **Higher price confidence** – eliminate guesswork.
+- **Scalable framework** – works for $10K‑$10M ARR businesses.
+
+---
+
+## How It Works
+1. **Data Audit** – We ingest sales, CRM, and market data.
+2. **Price Elasticity Modeling** – AI predicts how demand shifts with price changes.
+3. **Strategy Design** – Tiered pricing, bundling, and dynamic rules.
+4. **Implementation & Testing** – Live A/B tests on your platform.
+5. **Ongoing Optimization** – Monthly dashboards & tweaks.
+
+---
+
+## Social Proof
+> "Within 4 weeks, we saw a 22% increase in average order value without any extra marketing spend." – *Head of Revenue, SaaSCo*
+
+> "Our discount rate dropped from 28% to 12% after the new pricing playbook." – *CEO, RetailChainX*
+
+---
+
+## Frequently Asked Questions
+**Q: Do I need a data scientist?**
+A: No. Our team handles the heavy lifting and delivers a clear, actionable plan.
+
+**Q: How long does the engagement take?**
+A: Typical projects run 6‑8 weeks from kickoff to live pricing.
+
+**Q: Is this only for large companies?**
+A: Our framework scales. We’ve helped startups at $250K ARR and enterprises over $50M.
+
+---
+
+## Ready to Unlock Hidden Profit?
+
+**Schedule a free 30‑minute pricing audit** and see the potential numbers for your business.
+
+[**Book Your Audit Now →**](https://calendly.com/yourcompany/pricing-audit)
+
+---
+
+*Keywords: pricing optimization consulting, price strategy, revenue growth, dynamic pricing, pricing audit, pricing consultancy*
