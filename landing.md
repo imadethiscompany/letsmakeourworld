@@ -1,26 +1,16 @@
 # Alumni Founder
 
-## Unlock the Power of Your Alumni Network
+**Turn Your Campus Network into a Launchpad for Startups**
 
-Are you a founder looking to tap into the hidden goldmine of alumni connections? **Alumni Founder** helps you:
+Join the exclusive community of alumni entrepreneurs who have raised >$10M, built exits, and mentor the next generation. Get instant access to:
 
-- **Find** alumni who are now CEOs, investors, or industry leaders.
-- **Connect** with personalized outreach templates that get replies.
-- **Leverage** these relationships to raise capital, hire top talent, and accelerate growth.
+- Curated deal flow from trusted alumni founders
+- Private pitch events and demo days
+- Mentorship & advisory from proven CEOs
+- Co‑founder matching and talent pool
 
-### Why It Works
-- **Verified alumni data** from top universities worldwide.
-- **AI‑crafted messages** that speak the language of successful founders.
-- **Proven results**: 3x faster fundraising and 2x better hiring speed.
+**Ready to accelerate your venture?**
 
-### Get Started in 3 Simple Steps
-1. **Enter your school & industry**.
-2. **Select alumni prospects** you want to contact.
-3. **Launch the outreach** with one click.
+[Get Started Now](https://example.com/payment)
 
-#### Ready to supercharge your startup?
-
-[**Start Your Free Trial**](/signup) – No credit card required.
-
----
-*Alumni Founder – Turning alumni connections into growth engines.*
+*Limited seats – apply today.*
