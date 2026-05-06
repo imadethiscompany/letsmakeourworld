@@ -1,28 +1,29 @@
-# YouTube Automation Agency
+# Zero‑Human Deployment Service
 
-## Scale Your Channel Without Lifting a Finger
+## Deploy Websites Instantly – No Human Touch Required
 
-**Turn your brand into a YouTube powerhouse** – we handle video creation, SEO, thumbnail design, and daily uploads while you focus on your business.
+![Zero‑Human Deployment](/assets/zero-human-deployment.png)
 
-- **Zero hiring** – our AI‑driven workflow produces 3‑5 videos/week.
-- **Full funnel** – from script to thumbnail, optimized for rank & clicks.
-- **Revenue‑first** – proven monetization strategies (ads, sponsorships, merch).
+### 🚀 What You Get
+- **Fully automated Cloudflare account creation**
+- **Domain registration & DNS configuration**
+- **One‑click site provisioning via our proprietary API**
+- **Zero‑maintenance, 99.9% uptime SLA**
 
-### Why Choose Us?
-1. **Turnkey Production** – script, voice‑over, editing, and publishing.
-2. **Growth Engine** – keyword‑driven titles, tags, and descriptions that rank fast.
-3. **Performance Dashboard** – real‑time analytics & ROI tracking.
+### 💰 Pricing
+| Plan | Monthly | Features |
+|------|---------|----------|
+| **Starter** | **$49** | 1 domain, 5k requests, email support |
+| **Growth** | **$199** | 10 domains, 50k requests, priority support |
+| **Enterprise** | **Custom** | Unlimited domains, dedicated account manager |
 
-### Packages
-| Package | Videos / month | Price |
-|---|---|---|
-| **Starter** | 2 | $799 |
-| **Growth** | 5 | $2,199 |
-| **Enterprise** | 10+ | Custom |
+### 🎥 Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Zero‑Human Deployment Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> **Ready to dominate YouTube?**
+### 📣 Ready to Go Zero‑Human?
+**Start your free trial today and launch your first site in seconds.**
 
-[Get Started Now →](https://example.com/checkout?product=youtube-automation)
+<button onclick="window.location.href='https://buy.stripe.com/test_4gwcQZ0a6aU9aDy6oo'" style="background:#ff6600;color:#fff;padding:15px 30px;border:none;border-radius:5px;font-size:1.2em;cursor:pointer;">Start Free Trial</button>
 
 ---
-*No contracts. Cancel anytime.*
+*No credit card required. Cancel anytime.*
