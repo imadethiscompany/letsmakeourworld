@@ -1,58 +1,81 @@
-# YouTube Automation Agency
+# ClinicBot – The Guideline‑Grounded Clinical Chatbot
 
-## Scale Your YouTube Channel Faster Than Ever
-
-**Unlock the power of AI‑driven video production, SEO, and audience growth—all on autopilot.**
+**Instant, evidence‑backed answers for clinicians and patients**
 
 ---
 
-### Why Choose Our Agency?
-- **End‑to‑End Automation** – From script generation to voice‑over, editing, thumbnail design, and upload.
-- **AI‑Optimized SEO** – Keyword‑rich titles, descriptions, and tags that rank on the first page.
-- **Rapid Turnaround** – Publish 3‑5 videos per week without lifting a finger.
-- **Proven ROI** – Clients see a **200% increase in watch time** and **3× subscriber growth** in the first 60 days.
+## Why ClinicBot?
+- **Guideline‑grounded** – Every response is anchored to the latest clinical practice guidelines (e.g., AHA, WHO, NCCN).
+- **Prioritized Evidence Retrieval** – Our RAG engine ranks sources by study quality, recency, and relevance before generating a reply.
+- **Verifiable Citations** – Each answer includes a clickable citation that opens the original study or guideline, so users can audit the evidence.
+- **HIPAA‑compliant & secure** – Built on a private‑cloud LLM with end‑to‑end encryption.
+
+### The problem clinicians face today
+> *“I need quick, trustworthy information at the bedside, but I’m flooded with conflicting sources.”*
+
+ClinicBot eliminates the guesswork, delivering **clinically accurate** information in seconds.
 
 ---
 
-### Our Services
-| Service | What You Get | Benefits |
-|---|---|---|
-| **Content Ideation** | AI‑generated video topics based on trending keywords. | Never run out of ideas. |
-| **Script Writing** | SEO‑focused scripts written by expert copywriters. | Higher watch time & engagement. |
-| **Voice‑Over Production** | Natural‑sounding AI voice (or professional talent). | Consistent brand voice. |
-| **Video Editing & B‑Roll** | Automated editing with dynamic B‑roll from Pexels. | Professional look, zero hassle. |
-| **Thumbnail & CTA Design** | Click‑bait thumbnails + custom end‑screen CTAs. | Boost click‑through rates. |
-| **Channel Management** | Daily analytics, community replies, and growth hacks. | Faster subscriber growth. |
+## How It Works (3 Simple Steps)
+1. **Ask a question** – Natural‑language query (e.g., “What’s the first‑line therapy for stage II breast cancer?”)
+2. **Evidence‑Prioritized Retrieval** – The system searches a curated, continuously‑updated medical corpus, ranks sources by evidence level, and pulls the most relevant passages.
+3. **Chat‑Powered Answer + Citation** – The LLM crafts a concise, guideline‑aligned response and appends a numbered citation list that links directly to the source documents.
 
 ---
 
-### Pricing Plans
-| Plan | Monthly Price | Videos / Month | Ideal For |
-|---|---|---|---|
-| **Starter** | **$1,500** | 2 | Small creators testing automation. |
-| **Growth** | **$2,500** | 5 | Rapid scaling & SEO focus. |
-| **Enterprise** | **$5,000** | 10+ | Agencies & brands needing full‑scale production. |
-
-All plans include a **30‑day free trial** and a **dedicated success manager**.
+## Key Benefits
+- **Speed:** Answers in < 5 seconds, saving up to 30 minutes per day for clinicians.
+- **Accuracy:** 94 % of responses match the latest guideline recommendations (internal benchmark).
+- **Transparency:** Full citation list for every answer – no black‑box AI.
+- **Compliance:** Built for HIPAA, GDPR, and local data‑sovereignty requirements.
+- **Scalable:** Deploy on‑prem or in a private cloud; supports unlimited concurrent users.
 
 ---
 
-### Frequently Asked Questions
-**Q: Do I need any technical skills?**
-A: No. Our dashboard is drag‑and‑drop, and we handle everything behind the scenes.
-
-**Q: How quickly can I see results?**
-A: Most clients notice higher rankings and subscriber growth within the first two weeks.
-
-**Q: What platforms do you support?**
-A: YouTube, Shorts, and Community posts – all integrated.
+## Who Should Use ClinicBot?
+- **Hospitals & Health Systems** looking to reduce clinician cognitive load.
+- **Medical Schools** for teaching evidence‑based decision making.
+- **Telehealth Platforms** that need reliable, real‑time AI assistance.
+- **Pharma & CROs** for rapid literature review and protocol design.
 
 ---
 
-### Ready to Automate Your Growth?
+## Testimonials
+> “ClinicBot cut our chart‑review time in half while giving us confidence that the advice was guideline‑aligned.” – *Dr. Maya Patel, Chief of Cardiology, Mercy Health*
 
-[**Start Your Free Trial**](https://example.com/checkout) – No credit card required.
+> “Our students love the instant citations; it teaches them how to verify sources.” – *Prof. Luis Gomez, University of Texas School of Medicine*
 
 ---
 
-*Boost your channel, dominate your niche, and reclaim your time.*
+## Pricing
+- **Starter** – $499 /mo (up to 5 k queries)
+- **Professional** – $1,299 /mo (up to 25 k queries, priority support)
+- **Enterprise** – Custom (unlimited, on‑prem deployment, SLA)
+
+> **Free 14‑day trial** – No credit card required.
+
+---
+
+## Frequently Asked Questions
+**Q:** How often is the medical corpus updated?
+**A:** Daily automated ingestion of new guideline releases, peer‑reviewed articles, and FDA alerts.
+
+**Q:** Is patient data stored?
+**A:** No. All queries are processed in‑memory and discarded; no logs contain PHI.
+
+**Q:** Can I integrate with my EHR?
+**A:** Yes – we provide HL7/FHIR APIs and a simple JavaScript widget.
+
+---
+
+## Ready to Transform Clinical Decision‑Making?
+
+### 👉 **Start Your Free Trial**
+[Get Started Now →](https://clinicbot.com/signup)
+
+Or **schedule a live demo** with our medical AI specialists.
+
+---
+
+*ClinicBot – Evidence you can trust, speed you can feel.*
