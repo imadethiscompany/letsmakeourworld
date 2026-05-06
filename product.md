@@ -1,42 +1,38 @@
-# Unity AI Integration Toolkit
+# AgentCore Optimization Guide
 
-## Unlock the Future of Game Development with AI
-
-**Seamlessly integrate AI-powered features into your Unity projects.** From intelligent NPC behavior to procedural content generation, our toolkit accelerates development and elevates player experiences.
+**Unlock the full potential of AWS AgentCore with our comprehensive e‑book and demo script.**
 
 ---
 
-### Key Features
-- **AI‑Driven NPCs**: Natural language understanding and adaptive behavior.
-- **Procedural World Generation**: AI‑crafted terrains, quests, and assets.
-- **Smart Animation Blending**: Real‑time motion synthesis.
-- **Easy Unity Integration**: Plug‑and‑play package with comprehensive docs.
-- **Dedicated Support**: Access to our private Discord community.
+## Why this guide?
+- **Accelerate quality optimization**: Proven tactics to boost AgentCore performance by up to 30%.
+- **Hands‑on demo script**: Ready‑to‑run code you can drop into your CI pipeline.
+- **Tailored for B2B automation teams**: Speak the language of DevOps, SRE, and data engineering.
 
 ---
 
-### Early‑Access Beta – Only $49
-Be among the first to shape the toolkit. Early‑access includes:
-- Full toolkit download
-- Priority feature requests
-- Direct line to the development team
-- Lifetime updates for the beta version
-
-**Limited spots – secure yours now!**
-
-[![Get Early Access](https://img.shields.io/badge/Get%20Early%20Access-%2450-blue?style=for-the-badge)](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
+## What’s inside?
+- 45‑page deep‑dive e‑book covering architecture, best practices, and troubleshooting.
+- Full demo script with step‑by‑step instructions and sample data.
+- Checklist & cheat‑sheet for quick reference.
 
 ---
 
-#### FAQ
-**Q:** Do I need a Unity Pro license?
-**A:** No, the toolkit works with Unity Personal, Plus, and Pro.
+### **Only $49**
 
-**Q:** When will the full release be?
-**A:** Expected Q4 2024 for beta participants.
+Ready to level‑up your AgentCore deployments?
+
+[Buy Now on Stripe](https://buy.stripe.com/test_3cI28jey70cs8r92Iyc7z3L){: .button }
 
 ---
 
-**Ready to transform your games?**
+### Frequently Asked Questions
+**Q:** Is this guide only for AWS customers?
+**A:** Yes, it focuses on AWS AgentCore, but concepts apply to any large‑scale automation.
 
-[Get Early Access Now →](https://buy.stripe.com/test_28EbITcpZ5wMdLtfvkc7z2f)
+**Q:** Do I get updates?
+**A:** Yes, you’ll receive future revisions at no extra cost.
+
+---
+
+*If you have any questions, email support@yourcompany.com.*
