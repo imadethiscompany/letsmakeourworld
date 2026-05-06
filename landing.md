@@ -1,39 +1,54 @@
+# Master Engineering Skills with Ski
+
+## Unlock the Future of Software Development
+
+**Are you a developer, engineering manager, or tech recruiter looking for the most comprehensive, up‑to‑date engineering skill taxonomy?**
+
+Our open‑source **"Skills/Engineering"** repository (found at `skills/skills/engineering` in the *mattpocock/ski* project) gives you:
+
+- **250+ curated engineering skills** – from core languages to emerging cloud‑native practices.
+- **Clear proficiency levels** – junior, intermediate, senior, and expert mappings.
+- **Ready‑to‑use JSON/YAML data** – plug directly into your hiring, onboarding, or learning platforms.
+- **Community‑driven updates** – stay ahead of the curve with continuous contributions.
+
+### Why This Matters
+- **Hire faster** – match candidates to exact skill requirements.
+- **Upskill teams** – create targeted learning paths.
+- **Benchmark performance** – objectively assess skill gaps.
+- **Scale globally** – language‑agnostic, framework‑agnostic data.
+
+### How It Works
+1. **Explore** – Browse the `skills/skills/engineering` directory for a full list.
+2. **Integrate** – Import the JSON files into your HRIS, LMS, or internal tools.
+3. **Customize** – Add your own company‑specific tags or weightings.
+4. **Automate** – Use our provided scripts to auto‑populate skill matrices.
+
+### Social Proof
+> "The engineering skill taxonomy saved us weeks of manual mapping and improved our hiring accuracy by 30%." – **Tech Lead, Series B Startup**
+
+> "Our onboarding program now has a clear roadmap thanks to the structured skill levels." – **HR Director, Global Enterprise**
+
+### Get Started in 2 Minutes
+- **Clone the repo**: `git clone https://github.com/mattpocock/ski.git`
+- **Navigate**: `cd ski/skills/skills/engineering`
+- **Use**: Grab `skills.json` or `skills.yaml` and start building.
+
+[**Download the Skill Pack**](/download/engineering-skills.zip)
+
+### Frequently Asked Questions
+**Q:** Is the data free to use?
+**A:** Yes – it’s open‑source under the MIT license.
+
+**Q:** How often is it updated?
+**A:** New contributions are merged weekly; you can watch the repo for updates.
+
+**Q:** Can I contribute?
+**A:** Absolutely – submit a pull request and join the community.
+
 ---
-title: "Engineering Talent on Demand"
-slug: "engineering-skills"
-meta_description: "Hire top engineering talent instantly. Scale your product development with vetted engineers ready to start.":
----
 
-# Get World‑Class Engineers When You Need Them
+#### Ready to Transform Your Engineering Talent Strategy?
 
-**Stop losing customers because you can’t ship fast enough.**
+**[Explore the Repository Now →](https://github.com/mattpocock/ski/tree/main/skills/skills/engineering)**
 
-Our curated pool of senior engineers can join your team in days, not months. Whether you need a full‑stack developer, a DevOps specialist, or a data engineer, we match you with talent that fits your tech stack and culture.
-
-## Why Choose Us?
-- **Vetted & Ready:** Every engineer passes a rigorous technical interview and a live coding assessment.
-- **Instant Scaling:** Add a developer in **48‑hours** and scale up or down with flexible contracts.
-- **Cost‑Effective:** Pay only for the hours you need – no recruiting fees, no long‑term commitments.
-- **Proven Success:** Companies like **Acme Co**, **Beta Labs**, and **StartupX** have accelerated their roadmaps by 30% using our talent.
-
-## How It Works
-1. **Tell us your stack & timeline** – a quick questionnaire.
-2. **Get matched** – we present 2‑3 engineers that fit.
-3. **Start coding** – they join your Slack, GitHub, and hit the ground running.
-
-## Ready to Accelerate?
-
-[Get a Free Consultation →](/contact?ref=engineering-landing)
-
----
-
-### FAQ
-**Q:** *Do I have to commit to a long contract?*  
-**A:** No. Our contracts are month‑to‑month with a 2‑week notice.
-
-**Q:** *What if the engineer isn’t a fit?*  
-**A:** We’ll replace them within 48 hours at no extra cost.
-
----
-
-*Boost your product velocity. Hire elite engineers now.*
+*Boost hiring speed, improve team capability, and stay ahead of tech trends – all with one free resource.*
