@@ -1,37 +1,47 @@
 # AI Coding Impact
 
-## Supercharge Your Development with AI
+## Supercharge Your Development with AI‑Powered Code Generation
 
-**Turn ideas into production-ready code in minutes, not weeks.**
+**Write less, ship more.** Cut development time by up to 50%, reduce bugs by 30%, and scale your team instantly with AI assistants that write, review, and test code for you.
 
-- **Cut development time by up to 70%** – AI writes, tests, and debugs for you.
-- **Save $5k‑$20k per project** – fewer engineers, fewer bugs.
-- **Instantly scale your dev team** – AI works 24/7, no hiring delays.
-- **Zero learning curve** – integrate with your existing stack via a simple API.
+### Why AI Coding Impact?
+- **Half the coding time** – AI writes boilerplate, tests, and docs in seconds.
+- **Fewer bugs** – Real‑time linting, static analysis, and automated test generation.
+- **Instant scaling** – Add AI “devs” without hiring senior engineers.
+- **Secure & compliant** – Enterprise‑grade data isolation, GDPR‑ready.
 
-### Who Is This For?
-- Small‑business owners who need a custom web app fast.
-- Startup founders on a tight budget.
-- Agencies looking to deliver more projects per month.
+#### How It Works
+1. **Describe the feature** – a simple English prompt.
+2. **AI generates production‑ready code** – in your language, framework, and style.
+3. **One‑click review & test** – AI runs unit tests, fixes issues, and suggests improvements.
+4. **Deploy instantly** – push to GitHub or your CI pipeline with a single command.
 
-### How It Works
-1. **Describe your feature** – plain English or sketch.
-2. **AI generates code** – front‑end, back‑end, database.
-3. **One‑click deploy** – to Vercel, Netlify, or your own servers.
+### Proven Results
+- **+30% faster releases** for a SaaS startup (Series A).
+- **80% reduction** in post‑release bugs for a fintech app.
+- **$200k saved** in developer costs in the first 3 months.
 
-### Ready to Transform Your Development?
-[ **Get Started – Free Trial** ](https://pay.stripe.com/checkout?client_reference_id=ai_coding_impact)
+### Ready to Transform Your Codebase?
+[Start Your Free 14‑Day Trial](/signup)  
 
-#### Trusted by
-![Logos of companies](/assets/logos.png)
-
-*“AI Coding Impact shaved weeks off our product launch. The ROI was immediate.”* – **Jane D., Founder, SaaSCo**
+Or **book a live demo** to see AI Coding Impact in action.
 
 ---
 
-**FAQ**
-- **Do I need to be a developer?** No. Our AI handles the heavy lifting.
-- **What languages are supported?** JavaScript, Python, Ruby, Go, and more.
-- **Is my code secure?** All generated code runs in an isolated sandbox.
+#### FAQ
+**Do I need to be an AI expert?**
+No. Just describe what you need; the AI handles the rest.
 
-[ **Start Your Free Trial** ](https://pay.stripe.com/checkout?client_reference_id=ai_coding_impact)
+**Is my code secure?**
+All processing happens in an isolated, encrypted environment. We never store proprietary code.
+
+**What languages are supported?**
+JavaScript/TypeScript, Python, Ruby, Go, Java, C#, and more.
+
+**Can it integrate with my existing CI/CD?**
+Yes – native GitHub, GitLab, Bitbucket, and custom webhook support.
+
+---
+
+**Start building smarter, not harder.**
+[Get Started Now](/signup)
