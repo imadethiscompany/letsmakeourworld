@@ -1,34 +1,45 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-🚀 **Turn your ideas into viral videos**
-- Full video production (script, voice‑over, editing)
-- SEO‑optimized titles, tags & thumbnails
-- Automated publishing & growth hacks
+**Turn your ideas into viral videos** with our end‑to‑end automation service:
 
-💼 **Ideal for SMB owners, coaches, and brands**
-- No video expertise required
-- Fast turnaround – 48‑hour video delivery
-- Proven ROI: up to **5x** subscriber growth
+- **Content Ideation & Scriptwriting** – AI‑driven research to find hot topics that rank.
+- **Professional Voice‑over** – Custom voice model that sounds natural and engaging.
+- **High‑Quality Video Production** – Stock B‑roll, motion graphics, and automated rendering.
+- **Upload & SEO Optimization** – Optimized titles, descriptions, tags, and thumbnails for maximum discoverability.
+- **Performance Dashboard** – Real‑time analytics on views, watch‑time, and revenue.
 
 ### Why Choose Us?
 | Feature | Benefit |
 |---|---|
-| **AI‑generated scripts** | Capture attention with data‑driven storytelling |
-| **Professional voice‑overs** | Human‑like narration that converts |
-| **B‑roll from Pexels** | High‑quality visuals at zero cost |
-| **Remotion rendering** | Fast, scalable video production |
-| **YouTube SEO** | Rank on the first page of search |
+| **Zero Production Hassle** | We handle script, voice, video, and upload.
+| **Fast Turnaround** | New video ready in 24‑48 hours.
+| **Proven SEO** | Keyword‑rich metadata boosts rankings.
+| **Scalable** | From 1 video/week to 30+ videos/month.
+| **Transparent Pricing** | No hidden fees, pay per video or monthly retainer.
 
-### Packages
-- **Starter** – $1,000/month – 4 videos
-- **Growth** – $3,500/month – 12 videos + SEO boost
-- **Enterprise** – Custom – Unlimited videos & dedicated manager
+### Pricing Plans
+- **Starter** – $299/video – Ideal for solo creators.
+- **Growth** – $2,499/month – 8 videos/month + analytics.
+- **Enterprise** – Custom – Unlimited videos, dedicated manager.
 
-🗓️ **Book a free strategy call** now and get a **30% discount** on your first month.
-
-[**Schedule Call →**](https://calendly.com/youragency/strategy)
+> **Ready to automate your growth?**
+> 
+> 👉 **[Book a Free Strategy Call](https://calendly.com/yt-automation/strategy)**
 
 ---
-© 2024 YouTube Automation Agency. All rights reserved.
+
+#### FAQ
+**Q: Do I need any technical skills?**
+A: No. Just give us your niche and goals.
+
+**Q: How fast can I see results?**
+A: Most clients see a 2‑3× lift in views within the first month.
+
+**Q: What platforms do you support?**
+A: YouTube, Shorts, and TikTok repurposing.
+
+---
+
+*Boost your channel, save time, and focus on what you love – creating content.*
