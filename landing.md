@@ -1,54 +1,53 @@
-# Master Engineering Skills with Ski
+# AI‑Powered Fiber Network Automation
 
-## Unlock the Future of Software Development
+## Transform Your Fiber Ops with Autonomous AI
 
-**Are you a developer, engineering manager, or tech recruiter looking for the most comprehensive, up‑to‑date engineering skill taxonomy?**
-
-Our open‑source **"Skills/Engineering"** repository (found at `skills/skills/engineering` in the *mattpocock/ski* project) gives you:
-
-- **250+ curated engineering skills** – from core languages to emerging cloud‑native practices.
-- **Clear proficiency levels** – junior, intermediate, senior, and expert mappings.
-- **Ready‑to‑use JSON/YAML data** – plug directly into your hiring, onboarding, or learning platforms.
-- **Community‑driven updates** – stay ahead of the curve with continuous contributions.
-
-### Why This Matters
-- **Hire faster** – match candidates to exact skill requirements.
-- **Upskill teams** – create targeted learning paths.
-- **Benchmark performance** – objectively assess skill gaps.
-- **Scale globally** – language‑agnostic, framework‑agnostic data.
-
-### How It Works
-1. **Explore** – Browse the `skills/skills/engineering` directory for a full list.
-2. **Integrate** – Import the JSON files into your HRIS, LMS, or internal tools.
-3. **Customize** – Add your own company‑specific tags or weightings.
-4. **Automate** – Use our provided scripts to auto‑populate skill matrices.
-
-### Social Proof
-> "The engineering skill taxonomy saved us weeks of manual mapping and improved our hiring accuracy by 30%." – **Tech Lead, Series B Startup**
-
-> "Our onboarding program now has a clear roadmap thanks to the structured skill levels." – **HR Director, Global Enterprise**
-
-### Get Started in 2 Minutes
-- **Clone the repo**: `git clone https://github.com/mattpocock/ski.git`
-- **Navigate**: `cd ski/skills/skills/engineering`
-- **Use**: Grab `skills.json` or `skills.yaml` and start building.
-
-[**Download the Skill Pack**](/download/engineering-skills.zip)
-
-### Frequently Asked Questions
-**Q:** Is the data free to use?
-**A:** Yes – it’s open‑source under the MIT license.
-
-**Q:** How often is it updated?
-**A:** New contributions are merged weekly; you can watch the repo for updates.
-
-**Q:** Can I contribute?
-**A:** Absolutely – submit a pull request and join the community.
+**Deploy, monitor, and optimize fiber networks at lightning speed—without the manual overhead.**
 
 ---
 
-#### Ready to Transform Your Engineering Talent Strategy?
+### Why Traditional Fiber Management Fails
+- **30%+ capacity waste** from manual provisioning.
+- **Weeks of downtime** during upgrades.
+- **Human error** leading to costly outages.
 
-**[Explore the Repository Now →](https://github.com/mattpocock/ski/tree/main/skills/skills/engineering)**
+### Our AI‑Driven Solution
+- **Instant provisioning:** AI predicts demand and auto‑allocates fiber paths in seconds.
+- **Predictive health monitoring:** Detects degradation before it impacts customers.
+- **Self‑healing orchestration:** Automatically reroutes traffic, reducing MTTR by up to 80%.
+- **Unified dashboard:** Real‑time visibility across all assets.
 
-*Boost hiring speed, improve team capability, and stay ahead of tech trends – all with one free resource.*
+---
+
+#### How It Works (3‑Step Flow)
+1. **Ingest** network topology & telemetry.
+2. **Analyze** with NVIDIA‑accelerated AI models.
+3. **Act** via Corning‑compatible automation APIs.
+
+---
+
+### Trusted by Industry Leaders
+![Logos of major carriers]
+> "Our network uptime rose 22% after switching to AI‑Powered Automation." – CTO, Global Telecom
+
+---
+
+#### Frequently Asked Questions
+**Q:** Is integration complex?
+**A:** Our plug‑and‑play connectors work with existing OSS/BSS platforms.
+
+**Q:** What’s the ROI?
+**A:** Customers see a 3‑4× ROI within 12 months via reduced OPEX and higher capacity utilization.
+
+---
+
+## Ready to Future‑Proof Your Fiber Network?
+
+**Start your 30‑day free trial now** – no credit card required.
+
+[Start Free Trial](#)
+
+---
+
+**Meta Title:** AI‑Powered Fiber Network Automation – Accelerate Deployment & Reduce Downtime
+**Meta Description:** Discover AI‑driven fiber network automation that instantly provisions, monitors, and self‑heals fiber infrastructure. Start a 30‑day free trial today.
