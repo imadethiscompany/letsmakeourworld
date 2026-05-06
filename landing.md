@@ -1,15 +1,26 @@
-# SOL Investment Opportunity
+# Alumni Founder
 
-## $88.77 (+5.0% 24h)
+## Unlock the Power of Your Alumni Network
 
-**Why SOL?**
-- Rapid 5% daily gain – momentum you can’t ignore
-- Strong fundamentals and growing ecosystem
-- Limited supply driving price appreciation
+Are you a founder looking to tap into the hidden goldmine of alumni connections? **Alumni Founder** helps you:
 
-### Act Now – Secure Your Position
+- **Find** alumni who are now CEOs, investors, or industry leaders.
+- **Connect** with personalized outreach templates that get replies.
+- **Leverage** these relationships to raise capital, hire top talent, and accelerate growth.
 
-Invest in SOL today and ride the next wave of growth. Our platform provides real‑time market data, secure wallet integration, and instant purchase.
+### Why It Works
+- **Verified alumni data** from top universities worldwide.
+- **AI‑crafted messages** that speak the language of successful founders.
+- **Proven results**: 3x faster fundraising and 2x better hiring speed.
 
-[**Buy SOL Now**](https://example.com/buy-sol)  
-*Limited time pricing – lock in at $88.77 while the surge continues.*
+### Get Started in 3 Simple Steps
+1. **Enter your school & industry**.
+2. **Select alumni prospects** you want to contact.
+3. **Launch the outreach** with one click.
+
+#### Ready to supercharge your startup?
+
+[**Start Your Free Trial**](/signup) – No credit card required.
+
+---
+*Alumni Founder – Turning alumni connections into growth engines.*
