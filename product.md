@@ -1,19 +1,33 @@
-# Lingo.dev Lite
+# AI Pricing Engine for Diagnostic Companies
 
-## Instant AI-powered code generation for developers
+## Transform Your Test Pricing with AI‑Driven Optimization
 
-Lingo.dev Lite is a lightweight assistant that helps you **write**, **refactor**, and **debug** code instantly. No bloat, just pure productivity.
-
-- **Instant code generation** – get ready‑to‑run snippets in seconds.
-- **Multi‑language support** – JavaScript, Python, Go, Rust, and more.
-- **Context‑aware suggestions** – understand your project files and give relevant advice.
-- **Free tier** – limited credits, upgrade for unlimited usage.
-
-### Pricing
-- **$99.00 one‑time** for lifetime access.
-- Free tier available with limited credits.
-
-[Buy now](https://buy.stripe.com/test_00wbITdu31gw5eXergc7A18)
+Accelerate revenue growth and streamline pricing decisions for diagnostic tests using our AI Pricing Engine. Choose the plan that fits your organization’s needs.
 
 ---
-© 2026 Lingo.dev Lite. All rights reserved.
+
+### Pricing Plans
+
+| Plan | Monthly Price | Key Features |
+|------|---------------|--------------|
+| **Starter** | **$199/mo** | • AI‑powered price recommendations for up to 50 tests<br>• Dashboard & alerts<br>• Email support |
+| **Enterprise** | **$1,299/mo** | • Unlimited test pricing
+• Custom model training
+• Integration with LIMS/EHR
+• Dedicated account manager
+| 
+
+#### Get Started
+
+- **Starter:** <a href="https://buy.stripe.com/test_dRmeV589J9N20YH96Wc7A1k" target="_blank">Subscribe Now</a>
+- **Enterprise:** <a href="https://buy.stripe.com/test_28E00bdu32kAgXF82Sc7A1l" target="_blank">Subscribe Now</a>
+
+---
+
+### Why Choose Our Engine?
+
+- **Data‑Driven:** Leverages real‑world pricing data and market trends.
+- **Rapid ROI:** Most customers see pricing efficiency gains within 30 days.
+- **Scalable:** From boutique labs to global diagnostic firms.
+
+Ready to revolutionize your pricing? Choose a plan above and start optimizing today.
