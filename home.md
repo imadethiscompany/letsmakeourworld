@@ -19,11 +19,11 @@
 
 | Feature | Benefit |
 |---|---|
-| **Agent Quality Scoring** | Automatic tuning of prompts for higher success rates.
-| **Workflow Builder** | Drag‑and‑drop canvas to orchestrate multi‑step automations.
-| **API‑First** | REST/GraphQL endpoints for any language.
-| **Audit Trail** | Immutable logs for compliance and debugging.
-| **Custom Skill Marketplace** | Publish & consume community‑built agents.
+| **Agent Quality Scoring** | Automatic tuning of prompts for higher success rates. |
+| **Workflow Builder** | Drag‑and‑drop canvas to orchestrate multi‑step automations. |
+| **API‑First** | REST/GraphQL endpoints for any language. |
+| **Audit Trail** | Immutable logs for compliance and debugging. |
+| **Custom Skill Marketplace** | Publish & consume community‑built agents. |
 
 ---
 
@@ -66,3 +66,37 @@ A: We encrypt data at rest and in transit, comply with SOC 2, and offer VPC‑
 ---
 
 <meta name="description" content="AgentCore SaaS automates B2B workflows with AI‑optimized agents. Free trial, Pro & Enterprise plans. Start automating today!" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "AgentCore AI Automation SaaS",
+  "description": "Automate B2B workflows with AI‑optimized agents powered by AWS AgentCore.",
+  "image": "https://example.com/agentcore-banner.png",
+  "brand": {
+    "@type": "Brand",
+    "name": "AgentCore"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "0",
+      "url": "https://yourdomain.com/signup",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "name": "Free Trial"
+    },
+    {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "49",
+      "url": "https://yourdomain.com/signup",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "name": "Pro Plan"
+    }
+  ]
+}
+</script>
