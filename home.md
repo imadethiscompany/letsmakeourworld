@@ -1,61 +1,68 @@
-# Autonomous Workflow Automation with AgentCore
+# Transform Your Business with AgentCore AI Automation
 
-## Supercharge Your Business with AI‑Powered Agents
+## Supercharge Workflow Automation with the Power of AWS AgentCore
 
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://letsmakeourworld-bw81kj49o-vikasvardhanvs-projects.vercel.app/signup" style="background:#0066ff;color:white;padding:15px 30px;border-radius:5px;font-size:1.2em;text-decoration:none;">Start Free 14‑Day Trial</a>
-</div>
-
----
-
-### Features
-
-- **Agent Quality Optimization API** – Continuously improve AI agent performance.
-- **Seamless AWS Integration** – Leverage AgentCore’s native security and scalability.
-- **Real‑time Workflow Automation** – Automate complex B2B processes with zero code.
-- **Scalable Pay‑as‑You‑Go** – Pay only for the calls you use.
-- **Enterprise‑grade Security & Compliance** – SOC‑2, ISO‑27001, GDPR ready.
-
----
-
-### Pricing
-
-| Plan | Monthly | Yearly (Save 20%) | Included Calls | Support |
-|------|---------|-------------------|----------------|----------|
-| **Starter** | **$49** | **$392** | 5,000 API calls | Email support |
-| **Professional** | **$149** | **$1,192** | 25,000 API calls | Priority email & chat |
-| **Enterprise** | Custom | Custom | Unlimited | Dedicated CSM, SLA, On‑prem option |
-
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://letsmakeourworld-bw81kj49o-vikasvardhanvs-projects.vercel.app/signup" style="background:#28a745;color:white;padding:12px 25px;border-radius:5px;font-size:1.1em;text-decoration:none;">Start Free Trial – No Credit Card Required</a>
-</div>
+**[Start Your Free Trial →](/signup)**
 
 ---
 
 ### Why Choose AgentCore SaaS?
 
-- **Built on AWS AgentCore** – Industry‑proven reliability and performance.
-- **Boost Efficiency** – Reduce manual workflow time by up to 80%.
-- **Transparent Pricing** – No hidden fees, clear tier benefits.
-- **24/7 Monitoring & Alerts** – Proactive issue detection.
+- **AI‑Optimized Agents** – Leverage AWS AgentCore’s built‑in quality‑optimization API for flawless task execution.
+- **Plug‑and‑Play Integration** – Connect to any SaaS, CRM, or internal system with a single line of code.
+- **Scalable & Secure** – Enterprise‑grade security, auto‑scaling, and ISO‑27001 compliance.
+- **Real‑Time Monitoring** – Dashboard with performance metrics, error alerts, and cost controls.
 
 ---
 
-### Frequently Asked Questions
+## Key Features
 
-**Q: Do I need a credit card to start the trial?**
-A: No. Sign‑up is instant and free for 14 days.
-
-**Q: How does the Agent Quality Optimization API work?**
-A: It continuously evaluates agent outputs against defined metrics and auto‑tunes prompts for higher accuracy.
-
-**Q: Is my data secure?**
-A: All data is encrypted at rest and in transit, with SOC‑2 and ISO‑27001 compliance.
+| Feature | Benefit |
+|---|---|
+| **Agent Quality Scoring** | Automatic tuning of prompts for higher success rates.
+| **Workflow Builder** | Drag‑and‑drop canvas to orchestrate multi‑step automations.
+| **API‑First** | REST/GraphQL endpoints for any language.
+| **Audit Trail** | Immutable logs for compliance and debugging.
+| **Custom Skill Marketplace** | Publish & consume community‑built agents.
 
 ---
 
-<div style="text-align:center; margin:30px 0;">
-  <a href="https://letsmakeourworld-bw81kj49o-vikasvardhanvs-projects.vercel.app/signup" style="background:#ff6600;color:white;padding:15px 30px;border-radius:5px;font-size:1.2em;text-decoration:none;">Get Started Today</a>
-</div>
+## Pricing Plans
 
-<meta name="description" content="AgentCore SaaS – AI‑powered autonomous workflow automation for B2B. Start a free 14‑day trial, no credit card required.">
+| Plan | Price (per month) | Included Seats | Core Features |
+|---|---|---|---|
+| **Free Trial** | **$0** | 1 seat | All core features, 10,000 agent calls, email support |
+| **Pro** | **$49** | Up to 5 seats | Unlimited agent calls, priority support, advanced analytics |
+| **Enterprise** | **Custom** | Unlimited seats | Dedicated account manager, SLA, on‑prem deployment option |
+
+**Ready to experience AI‑driven automation?**
+
+[**Start Your Free 14‑Day Trial**](/signup) – No credit card required.
+
+---
+
+## Frequently Asked Questions
+
+**Q: Do I need an AWS account?**
+A: No. All AWS resources are managed by us; you only need your own login.
+
+**Q: How does pricing work?**
+A: Free trial gives you 10k agent calls. Pro is flat‑rate; Enterprise is usage‑based with volume discounts.
+
+**Q: Is my data safe?**
+A: We encrypt data at rest and in transit, comply with SOC 2, and offer VPC‑isolated deployments.
+
+---
+
+### Get Started in Minutes
+
+1. **Sign up** – Create your account.
+2. **Connect** – Add your SaaS credentials.
+3. **Build** – Use the visual workflow builder.
+4. **Launch** – Deploy and watch the ROI grow.
+
+[Start Your Free Trial →](/signup)
+
+---
+
+<meta name="description" content="AgentCore SaaS automates B2B workflows with AI‑optimized agents. Free trial, Pro & Enterprise plans. Start automating today!" />
