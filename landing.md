@@ -1,80 +1,47 @@
-# AI‑Powered Accounts Receivable Automation
+# Together Solution
 
-## Transform Your Cash Flow with White‑Label Fazeshift
+## Unified Collaboration for Modern Teams
 
-**Instantly capture, reconcile, and collect invoices with AI that works 24/7.**
+**One platform. One workflow.**
 
----
+### Why Together?
+- **Seamless communication** – chat, video, and file sharing in real‑time.
+- **Integrated task management** – turn conversations into actionable items without switching apps.
+- **AI‑powered insights** – automatic summarization, next‑step suggestions, and performance analytics.
+- **Enterprise‑grade security** – end‑to‑end encryption, SSO, and compliance certifications.
 
-### Why Choose Our AR Automation?
+### Who Benefits?
+- **Start‑ups** that need a lean stack to move fast.
+- **Remote‑first companies** craving a virtual office.
+- **Project managers** who want visibility across cross‑functional teams.
+- **IT & security teams** seeking a single vendor with robust controls.
 
-- **Cut DSO by up to 40%** – AI matches payments to invoices in seconds, eliminating manual chase.
-- **Zero‑error data entry** – Natural‑language parsing extracts line‑items, taxes, and discounts with 99.8% accuracy.
-- **Scalable white‑label** – Brand it as your own service; we handle the infrastructure.
-- **Compliance‑ready** – GDPR, SOC‑2, and PCI‑DSS certified.
+### Transform Your Work
+| Before Together | After Together |
+|---|---|
+| Scattered tools (Slack, Trello, Google Drive) | All‑in‑one hub – chat, tasks, docs, meetings |
+| Hours lost to context‑switching | 30% faster project completion |
+| Manual status updates | AI‑generated meeting notes & action items |
 
----
+### How It Works
+1. **Create a workspace** – invite your team in seconds.
+2. **Collaborate** – chat, video call, share files instantly.
+3. **Turn talk into tasks** – highlight text → create task → assign.
+4. **Leverage AI** – get smart summaries, priority recommendations.
+5. **Measure impact** – dashboards show productivity gains.
 
-### How It Works (4 Simple Steps)
+### Trusted by Leaders
+> "Together transformed how we collaborate – we cut meeting time by 40% and never missed a deadline again." – *CTO, FinTech Scale‑up*
 
-1. **Upload** or sync your accounting system.
-2. **AI extracts** invoice data and validates against contracts.
-3. **Automated reminders** are sent to payers on your brand’s schedule.
-4. **Real‑time dashboard** shows cash‑in forecasts and aging reports.
+> "Our remote teams finally feel like a real office." – *Head of Operations, E‑commerce Brand*
 
----
+### Pricing
+- **Free Starter** – up to 5 users, core features.
+- **Growth Plan** – $12/user/mo, AI insights, unlimited rooms.
+- **Enterprise** – custom pricing, dedicated support, SSO.
 
-## Pricing (Pre‑Order Discounts)
-
-| Plan | Monthly | Features |
-|------|----------|----------|
-| **Starter** | **$199** | Up to $250k invoice volume, email reminders, basic dashboard |
-| **Professional** | **$499** | Up to $1M volume, SMS & WhatsApp reminders, advanced analytics, white‑label UI |
-| **Enterprise** | **Custom** | Unlimited volume, dedicated account manager, API access, custom branding |
-
-**Pre‑order now and lock in 20% off the first 12 months.**
-
----
-
-## Secure Your Spot – Pre‑Order Today
-
-<form action="https://example.com/preorder" method="POST" style="max-width:400px;margin:auto;display:flex;flex-direction:column;gap:8px;">
-  <input type="text" name="company" placeholder="Company Name" required style="padding:8px;" />
-  <input type="email" name="email" placeholder="Contact Email" required style="padding:8px;" />
-  <select name="plan" required style="padding:8px;">
-    <option value="starter">Starter – $199/mo</option>
-    <option value="professional">Professional – $499/mo</option>
-    <option value="enterprise">Enterprise – Contact Sales</option>
-  </select>
-  <button type="submit" style="background:#0066ff;color:#fff;padding:10px;border:none;cursor:pointer;">Reserve My Discount</button>
-</form>
+### Get Started in 2 Minutes
+[Start Free Trial](/signup) | [Book a Demo](/demo)
 
 ---
-
-### Trusted by Finance Teams
-
-> "We reduced our DSO by 35% within the first month. The white‑label version lets us sell it as our own service." – CFO, Mid‑size SaaS
-
-> "Zero‑error invoice capture saved us 20 hours a week in accounting staff time." – Accounting Manager, Retail Chain
-
----
-
-#### FAQ
-
-**Q: Do I need any technical staff?**
-A: No. Our managed service handles hosting, updates, and security.
-
-**Q: Can I integrate with Xero, QuickBooks, NetSuite?**
-A: Yes – native connectors and a robust API.
-
-**Q: How does the white‑label branding work?**
-A: Upload your logo and color palette; the dashboard reflects your brand instantly.
-
----
-
-*Ready to stop chasing payments?* **[Reserve Your Discount](/#)**
-
----
-
-<meta name="title" content="AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift" />
-<meta name="description" content="Accelerate cash flow, cut DSO by 40%, and offer a branded AI AR automation service. Pre‑order now for 20% off the first year." />
+*SEO keywords: collaboration platform, remote team software, AI‑powered workflow, unified communication, task management tool.*
