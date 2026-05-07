@@ -1,89 +1,105 @@
-# AI‑Powered Accounts Receivable Automation
+# AI‑Powered Accounts Receivable Automation (White‑Label Fazeshift)
 
-## Instantly Accelerate Cash Flow with White‑Label Fazeshift
+---
+**meta_title**: "AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift"
+**meta_description**: "Accelerate cash flow, cut DSO, and eliminate manual AR work with our AI‑driven white‑label solution. Pre‑order now for exclusive pricing."
+---
 
-**Headline:** *Get Paid 3× Faster – No Manual Chasing, No Errors.*
+## 🚀 Get Paid Faster with AI‑Driven AR Automation
 
-**Sub‑headline:** Our AI‑driven AR engine automates invoice matching, payment reminders, and dispute resolution for B2B companies, so you can focus on growth instead of collections.
+**Headline:** *"Turn unpaid invoices into cash in days, not weeks – without hiring extra staff."
+
+**Sub‑headline:** Our white‑label AI platform automates every step of the accounts‑receivable process, from invoice matching to payment reminders, so you can focus on growth.
+
+**Primary CTA:** [Pre‑Order Now – Secure Your Spot](/#preorder)
 
 ---
 
-### Why Traditional AR Holds You Back
-- **Manual data entry** wastes up to 20 hrs/week per accountant.
-- **Late payments** cost the average SMB 1.5 % of revenue annually.
-- **Errors & disputes** create costly back‑and‑forth with customers.
+### Why Companies Choose Our Solution
 
-**We solve all three with a single platform** that learns your invoice formats, predicts payment dates, and talks to customers on your behalf.
-
----
-
-### Key Benefits
-1. **Zero‑Touch Invoice Processing** – AI extracts data from PDFs, emails, and ERP exports in seconds.
-2. **Smart Payment Reminders** – Personalized, legally‑compliant nudges sent via email, SMS, or WhatsApp.
-3. **Automated Dispute Resolution** – AI triages issues, suggests fixes, and escalates only when needed.
-4. **Real‑Time Cash‑Flow Dashboard** – See exactly what’s owed, when it’ll arrive, and the impact on your runway.
-5. **White‑Label Ready** – Brand the portal with your logo, domain, and colors – sell it as *your* product.
+| Pain Point | AI‑Powered Benefit |
+|-------------|-------------------|
+| **High Days Sales Outstanding (DSO)** | Reduce DSO by **30‑40%** with predictive reminder scheduling. |
+| **Manual, error‑prone data entry** | Automate invoice matching with **99.9% accuracy**. |
+| **Cash‑flow gaps** | Accelerate collections and improve cash‑flow visibility in real‑time. |
+| **High staffing costs** | Cut AR labor by **up to 80%** – no extra hires needed. |
 
 ---
 
-### How It Works (3 Simple Steps)
-1. **Connect** – Link your accounting/ERP system or upload historic invoices.
-2. **Train** – Our AI learns your formats in minutes; no coding required.
-3. **Launch** – Automated reminders go live, and the dashboard updates in real time.
+### Core Features
+
+- **Smart Invoice Matching** – AI reads PDFs, emails, and ERP data to auto‑match payments.
+- **Predictive Reminder Engine** – Sends personalized, timed reminders that boost response rates.
+- **Real‑Time Dashboards** – Live cash‑flow forecasts and KPI tracking.
+- **White‑Label Branding** – Your logo, colors, and domain – we handle the tech.
+- **Seamless ERP/Accounting Integration** – Connects to NetSuite, QuickBooks, Xero, SAP, and more.
+- **Compliance‑Ready** – GDPR, CCPA, and PCI‑DSS compliant out‑of‑the‑box.
 
 ---
 
-## Pricing Tiers (Pre‑Order Discounts)
-| Plan | Monthly Price* | Features |
-|------|----------------|----------|
-| **Starter** | **$299** | Up to $500K AR, 5 users, email reminders, white‑label splash page |
-| **Growth** | **$799** | Up to $2M AR, 20 users, SMS/WhatsApp, dispute AI, custom branding |
-| **Enterprise** | **$1,999** | Unlimited AR, unlimited users, API access, dedicated account manager, SLA 99.9% |
+## Pricing (Pre‑Order Only – Limited Seats)
 
-*All prices are pre‑order rates – lock in today and we’ll honor this price for the first 12 months.
+| Plan | Monthly Invoice Volume | Price (USD) | What You Get |
+|------|------------------------|------------|--------------|
+| **Starter** | Up to **$50k** | **$399** | All core features, white‑label UI, email support. |
+| **Professional** | $50k – $250k | **$799** | Advanced analytics, phone support, custom integrations. |
+| **Enterprise** | $250k+ | **$1499** | Dedicated account manager, SLA guarantees, on‑premise deployment option. |
+
+> **Early‑bird discount:** Pre‑order before **June 30** and lock in **20% off** the first‑year price.
 
 ---
 
-### Ready to Transform Your Cash Flow?
+## 📋 Pre‑Order Your Spot
 
-<form action="https://example.com/preorder" method="POST" style="max-width:400px; margin:auto; background:#f9f9f9; padding:20px; border-radius:8px;">
+Fill the form below and we’ll contact you with a personalized quote and onboarding timeline.
+
+<div id="preorder">
+<form action="https://example.com/preorder" method="POST" style="max-width:600px; margin:auto; background:#f9f9f9; padding:20px; border-radius:8px;">
   <label for="name" style="display:block; margin-bottom:5px;">Full Name</label>
-  <input type="text" id="name" name="name" required style="width:100%; padding:8px; margin-bottom:10px;">
-  <label for="email" style="display:block; margin-bottom:5px;">Email</label>
-  <input type="email" id="email" name="email" required style="width:100%; padding:8px; margin-bottom:10px;">
-  <label for="company" style="display:block; margin-bottom:5px;">Company</label>
-  <input type="text" id="company" name="company" required style="width:100%; padding:8px; margin-bottom:10px;">
-  <label for="plan" style="display:block; margin-bottom:5px;">Select Plan</label>
-  <select id="plan" name="plan" required style="width:100%; padding:8px; margin-bottom:15px;">
-    <option value="starter">Starter – $299/mo</option>
-    <option value="growth">Growth – $799/mo</option>
-    <option value="enterprise">Enterprise – $1,999/mo</option>
-  </select>
-  <button type="submit" style="width:100%; background:#0066ff; color:#fff; padding:12px; border:none; border-radius:4px; font-size:16px;">Reserve My Spot</button>
-</form>
+  <input type="text" id="name" name="name" required style="width:100%; padding:8px; margin-bottom:15px;">
 
-*No credit card required for the pre‑order. We’ll contact you to finalize the subscription.
+  <label for="email" style="display:block; margin-bottom:5px;">Email Address</label>
+  <input type="email" id="email" name="email" required style="width:100%; padding:8px; margin-bottom:15px;">
+
+  <label for="company" style="display:block; margin-bottom:5px;">Company</label>
+  <input type="text" id="company" name="company" required style="width:100%; padding:8px; margin-bottom:15px;">
+
+  <label for="volume" style="display:block; margin-bottom:5px;">Monthly Invoice Volume</label>
+  <select id="volume" name="volume" required style="width:100%; padding:8px; margin-bottom:15px;">
+    <option value="starter">Up to $50k – Starter</option>
+    <option value="professional">$50k – $250k – Professional</option>
+    <option value="enterprise">$250k+ – Enterprise</option>
+  </select>
+
+  <label for="plan" style="display:block; margin-bottom:5px;">Preferred Plan</label>
+  <select id="plan" name="plan" required style="width:100%; padding:8px; margin-bottom:20px;">
+    <option value="starter">Starter</option>
+    <option value="professional">Professional</option>
+    <option value="enterprise">Enterprise</option>
+  </select>
+
+  <button type="submit" style="background:#0066ff; color:#fff; padding:12px 20px; border:none; border-radius:4px; cursor:pointer; width:100%; font-size:16px;">Pre‑Order Now – Get 20% Off</button>
+</form>
+</div>
 
 ---
 
 ### Frequently Asked Questions
-**Q: Is there a contract?**
-A: No long‑term contracts for pre‑order customers. Cancel anytime with 30‑day notice.
 
-**Q: How quickly can I go live?**
-A: Most clients are live within 48 hours after connecting their ERP.
+**Q: How quickly can I start seeing results?**
+A: Most clients see a **15‑30% reduction in DSO within the first 30 days**.
 
-**Q: Do I get a demo?**
-A: Yes – schedule a live demo during the checkout flow.
+**Q: Do I need technical staff to integrate?**
+A: No. Our onboarding team handles integration with your ERP/ accounting software.
 
----
+**Q: Is my data safe?**
+A: Absolutely. We are ISO‑27001 certified and meet GDPR, CCPA, and PCI‑DSS standards.
 
-#### Boost Your Bottom Line Today – **Reserve Your Spot**
-
-[Reserve My Spot](/#)  *(the button above submits the form)*
+**Q: Can I brand the portal?**
+A: Yes. All user‑facing screens are fully white‑labeled with your logo and colors.
 
 ---
 
-*SEO Meta:* 
-- **Title:** AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift
-- **Description:** Automate invoice processing, payment reminders, and dispute resolution with AI. Pre‑order today for discounted pricing and white‑label your own AR solution.
+#### Ready to transform your cash flow?
+
+**[Pre‑Order Now](/#preorder)** and lock in the best price for the AI‑powered AR automation that scales with your business.
