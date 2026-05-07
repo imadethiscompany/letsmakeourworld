@@ -13,7 +13,7 @@ Lingo.dev Lite is a lightweight assistant that helps you **write**, **refactor**
 - **$99.00 one‑time** for lifetime access.
 - Free tier available with limited credits.
 
-[Buy now]({{payment_link}})
+[Buy now](https://buy.stripe.com/test_00wbITdu31gw5eXergc7A18)
 
 ---
 © 2026 Lingo.dev Lite. All rights reserved.
