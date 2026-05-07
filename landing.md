@@ -1,54 +1,41 @@
 # Together Solution – Unified Collaboration Platform
 
-## Seamlessly collaborate, close deals, and grow your business
+## Streamline Your Team’s Work in One Place
 
-**Headline:** *"Boost team productivity by 40% without juggling endless tools"*
+**One dashboard. One price. Unlimited collaboration.**
 
-**Subheadline:**
-A single, secure workspace that brings chat, video, file sharing, CRM, and task management together—so SMB owners can focus on revenue, not admin.
-
----
+- **Cut project turnaround time by up to 40%** with real‑time task boards, shared docs, and video chat built into a single app.
+- **Never lose a client email again** – automatic email threading and searchable history keep every conversation at your fingertips.
+- **Secure, compliant, and GDPR‑ready** – enterprise‑grade encryption and role‑based permissions.
+- **Transparent pricing – $49/mo for any team up to 25 users**. Add $9 per extra user, no hidden fees.
 
 ### Why SMB owners choose Together Solution
-- **All‑in‑one hub** – Replace Slack, Zoom, Google Drive, and a clunky CRM with one intuitive dashboard.
-- **Cut admin time** – Automate follow‑ups and reporting; teams spend 2‑hours less per week on manual work.
-- **Close deals 30% faster** – Integrated pipelines and real‑time collaboration keep prospects moving.
-- **Secure & compliant** – End‑to‑end encryption, GDPR‑ready, with role‑based access.
-- **Scalable pricing** – Starts at **$49/month** for up to 10 users, no hidden fees.
+> “We reduced our weekly status meetings from 3 hours to 15 minutes.” – *Laura, Founder, CraftCo*.
 
----
-
-### Social Proof
-> *"We switched from three separate tools to Together Solution and saw a 35% lift in sales within the first month.*" – **Laura M., Founder, GreenLeaf Marketing**
-
-> *"Our team loves the unified view; onboarding new hires is now a single‑click process.*" – **James K., CEO, BuildIt Co.**
-
----
+- **All‑in‑one** – No more juggling Slack, Google Docs, Asana, and Zoom.
+- **Instant onboarding** – 5‑minute setup, drag‑and‑drop templates.
+- **Support that talks your language** – Dedicated success manager for the first 30 days.
 
 ### How It Works (3 Simple Steps)
-1. **Sign Up** – Instant access with a 14‑day free trial.
-2. **Connect** – Import contacts, files, and calendar in minutes.
-3. **Collaborate & Convert** – Use built‑in chat, video, and pipeline to close deals faster.
+1. **Sign up** – Instant account with email or SSO.
+2. **Invite your team** – Import contacts from CSV or your existing tools.
+3. **Start collaborating** – Choose a template (Project, Sales, Support) and hit *Go*.
 
----
-
-### Ready to Transform Your Business?
-
-[**Start Your Free Trial**](/signup) – No credit card required.
-
-Or schedule a live demo with our specialists:
-
-[**Book a Demo**](/demo)
+### Ready to Transform Your Workflow?
+[**Start Free 14‑Day Trial**](https://together-solution.com/trial) – No credit card required.
 
 ---
 
 #### Frequently Asked Questions
-**Q:** Can I cancel anytime?
-**A:** Yes, cancel with one click – no penalties.
+**Q:** Is there a contract?
+**A:** No long‑term contracts. Cancel anytime.
 
 **Q:** How secure is my data?
-**A:** We use AES‑256 encryption, SOC‑2 compliance, and regular third‑party audits.
+**A:** End‑to‑end encryption, ISO‑27001 certified data centers.
+
+**Q:** Can I upgrade later?
+**A:** Yes – add users or switch to the Enterprise plan with a single click.
 
 ---
 
-*Together Solution – The only tool you need to collaborate, sell, and scale.*
+**Together Solution** – Collaboration, simplified.
