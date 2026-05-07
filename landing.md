@@ -1,105 +1,80 @@
-# AI‑Powered Accounts Receivable Automation (White‑Label Fazeshift)
+# AI‑Powered Accounts Receivable Automation
 
----
-**meta_title**: "AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift"
-**meta_description**: "Accelerate cash flow, cut DSO, and eliminate manual AR work with our AI‑driven white‑label solution. Pre‑order now for exclusive pricing."
----
+## Instantly Accelerate Cash Flow with White‑Label Fazeshift
 
-## 🚀 Get Paid Faster with AI‑Driven AR Automation
-
-**Headline:** *"Turn unpaid invoices into cash in days, not weeks – without hiring extra staff."
-
-**Sub‑headline:** Our white‑label AI platform automates every step of the accounts‑receivable process, from invoice matching to payment reminders, so you can focus on growth.
-
-**Primary CTA:** [Pre‑Order Now – Secure Your Spot](/#preorder)
+**Headline:** *Get Paid Faster, Reduce Bad Debt, and Free Your Finance Team*  
+**Sub‑headline:** The AI‑driven AR platform that automates invoice tracking, reminders, and collections—ready to brand as your own.
 
 ---
 
-### Why Companies Choose Our Solution
+### Why Your Business Needs AI‑AR Automation
 
-| Pain Point | AI‑Powered Benefit |
-|-------------|-------------------|
-| **High Days Sales Outstanding (DSO)** | Reduce DSO by **30‑40%** with predictive reminder scheduling. |
-| **Manual, error‑prone data entry** | Automate invoice matching with **99.9% accuracy**. |
-| **Cash‑flow gaps** | Accelerate collections and improve cash‑flow visibility in real‑time. |
-| **High staffing costs** | Cut AR labor by **up to 80%** – no extra hires needed. |
+- **Cut collection time by up to 70%** – AI predicts the best outreach strategy for each invoice.
+- **Reduce manual effort** – 80% of routine AR tasks are fully automated.
+- **Lower bad‑debt risk** – Predictive scoring flags high‑risk accounts before they become problems.
+- **White‑label ready** – Seamlessly re‑brand and integrate with your existing ERP/CRM.
 
 ---
 
-### Core Features
+### How It Works (4 Simple Steps)
 
-- **Smart Invoice Matching** – AI reads PDFs, emails, and ERP data to auto‑match payments.
-- **Predictive Reminder Engine** – Sends personalized, timed reminders that boost response rates.
-- **Real‑Time Dashboards** – Live cash‑flow forecasts and KPI tracking.
-- **White‑Label Branding** – Your logo, colors, and domain – we handle the tech.
-- **Seamless ERP/Accounting Integration** – Connects to NetSuite, QuickBooks, Xero, SAP, and more.
-- **Compliance‑Ready** – GDPR, CCPA, and PCI‑DSS compliant out‑of‑the‑box.
+1. **Connect** – Sync your invoicing system via API or CSV.
+2. **Analyze** – AI scores each receivable and schedules optimal reminders.
+3. **Engage** – Automated, personalized emails, SMS, or voice calls.
+4. **Collect** – Real‑time dashboard shows who paid, who’s late, and next actions.
 
 ---
 
-## Pricing (Pre‑Order Only – Limited Seats)
+### Pricing Tiers (Pre‑Order Only)
 
-| Plan | Monthly Invoice Volume | Price (USD) | What You Get |
-|------|------------------------|------------|--------------|
-| **Starter** | Up to **$50k** | **$399** | All core features, white‑label UI, email support. |
-| **Professional** | $50k – $250k | **$799** | Advanced analytics, phone support, custom integrations. |
-| **Enterprise** | $250k+ | **$1499** | Dedicated account manager, SLA guarantees, on‑premise deployment option. |
+| Plan | Monthly Price* | Key Features |
+|------|----------------|--------------|
+| **Starter** | **$199** | Up to $250k AR, 5 users, email reminders, basic dashboard |
+| **Growth** | **$499** | Up to $1M AR, 15 users, SMS + voice, advanced analytics, white‑label logo |
+| **Enterprise** | **$1,299** | Unlimited AR, unlimited users, custom integrations, dedicated success manager |
 
-> **Early‑bird discount:** Pre‑order before **June 30** and lock in **20% off** the first‑year price.
+*All plans include a 14‑day free trial and no long‑term contract. Prices are locked for the first 12 months of the pre‑order period.
 
 ---
 
-## 📋 Pre‑Order Your Spot
+### Pre‑Order Your Spot
 
-Fill the form below and we’ll contact you with a personalized quote and onboarding timeline.
+> **Early‑bird advantage:** Secure a discounted rate and priority onboarding.
 
-<div id="preorder">
-<form action="https://example.com/preorder" method="POST" style="max-width:600px; margin:auto; background:#f9f9f9; padding:20px; border-radius:8px;">
-  <label for="name" style="display:block; margin-bottom:5px;">Full Name</label>
-  <input type="text" id="name" name="name" required style="width:100%; padding:8px; margin-bottom:15px;">
-
-  <label for="email" style="display:block; margin-bottom:5px;">Email Address</label>
-  <input type="email" id="email" name="email" required style="width:100%; padding:8px; margin-bottom:15px;">
-
-  <label for="company" style="display:block; margin-bottom:5px;">Company</label>
-  <input type="text" id="company" name="company" required style="width:100%; padding:8px; margin-bottom:15px;">
-
-  <label for="volume" style="display:block; margin-bottom:5px;">Monthly Invoice Volume</label>
-  <select id="volume" name="volume" required style="width:100%; padding:8px; margin-bottom:15px;">
-    <option value="starter">Up to $50k – Starter</option>
-    <option value="professional">$50k – $250k – Professional</option>
-    <option value="enterprise">$250k+ – Enterprise</option>
-  </select>
-
-  <label for="plan" style="display:block; margin-bottom:5px;">Preferred Plan</label>
-  <select id="plan" name="plan" required style="width:100%; padding:8px; margin-bottom:20px;">
-    <option value="starter">Starter</option>
-    <option value="professional">Professional</option>
-    <option value="enterprise">Enterprise</option>
-  </select>
-
-  <button type="submit" style="background:#0066ff; color:#fff; padding:12px 20px; border:none; border-radius:4px; cursor:pointer; width:100%; font-size:16px;">Pre‑Order Now – Get 20% Off</button>
+<form action="https://formspree.io/f/your-form-id" method="POST" style="max-width:400px; margin:auto;">
+  <label for="email" style="display:block; margin-bottom:4px;">Email (to receive your pre‑order link)</label>
+  <input type="email" name="email" id="email" required placeholder="you@company.com" style="width:100%; padding:8px; margin-bottom:8px; border:1px solid #ccc; border-radius:4px;" />
+  <button type="submit" style="background:#0066ff; color:#fff; padding:10px 20px; border:none; border-radius:4px; cursor:pointer;">Reserve My Discount</button>
 </form>
-</div>
+
+---
+
+### Social Proof
+
+- **"Our DSO dropped from 45 to 22 days in the first month."** – CFO, Mid‑size SaaS
+- **"The white‑label UI made it feel like our own product."** – VP Finance, Retail Chain
 
 ---
 
 ### Frequently Asked Questions
 
-**Q: How quickly can I start seeing results?**
-A: Most clients see a **15‑30% reduction in DSO within the first 30 days**.
+**Q: Do I need technical staff to set it up?**  
+A: No. Our onboarding wizard guides you through API keys or CSV upload in minutes.
 
-**Q: Do I need technical staff to integrate?**
-A: No. Our onboarding team handles integration with your ERP/ accounting software.
+**Q: How secure is my data?**  
+A: End‑to‑end encryption, SOC‑2 compliant, and data residency options.
 
-**Q: Is my data safe?**
-A: Absolutely. We are ISO‑27001 certified and meet GDPR, CCPA, and PCI‑DSS standards.
-
-**Q: Can I brand the portal?**
-A: Yes. All user‑facing screens are fully white‑labeled with your logo and colors.
+**Q: Can I upgrade later?**  
+A: Absolutely – move between plans at any time with a single click.
 
 ---
 
-#### Ready to transform your cash flow?
+#### Ready to transform your AR?
 
-**[Pre‑Order Now](/#preorder)** and lock in the best price for the AI‑powered AR automation that scales with your business.
+**[Reserve Your Discount]** – Fill the form above and we’ll email you the pre‑order link.
+
+---
+
+*SEO Meta*
+- **Title:** AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift
+- **Description:** Accelerate cash flow, cut collection time 70%, and reduce bad debt with our AI‑driven AR automation. Pre‑order now for discounted pricing and priority onboarding.
