@@ -1,46 +1,51 @@
-# AI Agent Development Services
+# FlowMarket Early Access
 
-## Build Custom AI Agents that Automate, Scale, and Grow Your Business
+## Unlock the Future of AI Agent Marketplaces
 
-**Ready to unleash AI-powered automation?**
+**Join the exclusive early‑access program** and be the first to discover, buy, and sell AI agents on a curated marketplace that connects creators with businesses.
 
 ---
 
-### Why Choose Our AI Agent Development?
-- **Turnkey Solutions:** From concept to production‑ready agents in weeks.
-- **Domain Expertise:** Finance, SaaS, e‑commerce, health‑tech – we’ve built agents that close deals, qualify leads, and generate insights.
-- **Scalable Architecture:** Cloud‑native, secure, and cost‑optimized for any workload.
-- **Rapid ROI:** Clients see revenue lift of **30‑70%** within the first month.
+### Why FlowMarket?
+- **Curated Quality** – Every AI agent is vetted for performance and compliance.
+- **Instant Integration** – One‑click deployment into your existing workflow.
+- **Revenue Share** – Earn up to **70%** on every sale you make.
+- **Developer‑Friendly** – Full API, SDKs, and sandbox environment.
+
+---
+
+## Pricing Tiers
+| Tier | Monthly Price | Features |
+|------|---------------|----------|
+| **Starter** | **$0** (Free) | • Access to public agents<br>• 5 agent downloads per month<br>• Community support |
+| **Growth** | **$49** | • Unlimited public agent access<br>• 50 private agent uploads<br>• Priority support<br>• Early‑beta features |
+| **Enterprise** | **$199** | • Unlimited uploads & downloads<br>• Dedicated account manager<br>• Custom branding & SLA<br>• Private marketplace instance |
 
 ---
 
 ### What You Get
-1. **Discovery Workshop** – Define the exact problem and success metrics.
-2. **Custom Agent Blueprint** – Architecture, data flow, and integration plan.
-3. **Full‑Stack Development** – LLM fine‑tuning, tool‑integration, UI/UX.
-4. **Deployment & Monitoring** – CI/CD, observability dashboards, 24/7 support.
-5. **Training & Handoff** – Documentation & team enablement.
+- **Early‑Access Dashboard** – Track downloads, revenue, and analytics.
+- **Beta Community** – Direct line to product team, feature voting, and roadmap influence.
+- **Launch Toolkit** – Marketing assets, integration guides, and best‑practice playbooks.
 
 ---
 
-### Success Stories
-- **FinTech Startup:** Automated loan underwriting → **$120k saved** in manual processing.
-- **E‑Commerce Brand:** AI sales assistant increased conversion **by 45%**.
-- **B2B SaaS:** Lead‑qualifying bot booked **30+ qualified demos** in 2 weeks.
+## Frequently Asked Questions
+**Q: When will the full marketplace launch?**
+A: Our public launch is slated for Q4 2026. Early‑access members get full functionality now.
+
+**Q: Can I list my own AI agents?**
+A: Yes! Growth and Enterprise tiers include private agent uploads and marketplace listings.
+
+**Q: How does revenue sharing work?**
+A: You receive a transparent payout each month via Stripe. No hidden fees.
 
 ---
 
-### Get Started in 3 Simple Steps
-1. **Schedule a Free Call** – 15‑minute strategy session.
-2. **Receive a Custom Proposal** – Tailored scope, timeline, and price.
-3. **Kick‑off Development** – Watch your AI agent go live.
+## Ready to Join?
 
-> **Limited Offer:** First‑time clients receive a **10% discount** on the first project tier.
+<div style="text-align:center; margin-top:20px;">
+  <a href="https://flowmarket.com/early-access" style="background:#0066FF;color:white;padding:15px 30px;border-radius:8px;font-size:18px;text-decoration:none;">Get Early Access Now</a>
+</div>
 
----
-
-## Ready to Accelerate Your Business?
-
-[**Book Your Free Strategy Call →**](https://calendly.com/ai-agent-dev/30min)
-
-*No credit card required. Let’s build the future together.*
+*Limited spots available – secure yours today!*
