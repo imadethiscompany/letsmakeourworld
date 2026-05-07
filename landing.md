@@ -1,29 +1,37 @@
-# AI Pricing Models – Pure Subscription Strategy
+# AI Pricing Models for Prediction Markets
 
-## Unlock Predictable Revenue with AI‑Powered Subscription Pricing
+## Unlock the upside of your prediction market
 
-**Headline:** *Never Guess Prices Again – Let AI Set the Perfect Subscription Tier for Every Customer.*
+Prediction markets thrive on accurate pricing. Our AI‑driven pricing engine learns from historical market data, real‑time sentiment, and advanced Bayesian models to set optimal prices that maximize liquidity and trader engagement.
 
-### Why a Pure Subscription Model?
-- **Predictable cash flow** – Monthly recurring revenue (MRR) grows automatically.
-- **Higher Lifetime Value** – AI optimizes tier placement to maximize upsell potential.
-- **Lower Churn** – Dynamic pricing adapts to usage, keeping customers happy.
+### Why founders choose us
+- **Boost liquidity** – 30% higher trade volume on average
+- **Dynamic pricing** – Adjusts in seconds as new information arrives
+- **Transparent analytics** – Dashboard with confidence intervals and ROI forecasts
+- **Easy integration** – REST API & SDKs for Python, Node, and Go
 
-### How It Works (3 Simple Steps)
-1. **Connect Your Data** – Sync sales, usage, and churn data.
-2. **AI Learns & Segments** – Our model clusters customers into optimal subscription tiers.
-3. **Live Pricing Dashboard** – Publish real‑time subscription plans on your site; customers self‑select the perfect price.
-
-### Benefits for SMB Owners
-- **Boost MRR by 20‑35%** in the first 90 days.
-- **Cut pricing research time from weeks to minutes.**
-- **Automated A/B testing** – AI continuously refines prices for maximum conversion.
-
-### Social Proof
-> *"Switching to AI‑driven subscription pricing grew our monthly revenue from $3K to $7K in just two months."* – **Jane D., SaaS Founder**
-
-### Ready to Transform Your Pricing?
-[**Start Your Free 14‑Day Trial**](/signup) – No credit card required.
+### See it in action
+Fill out the demo request below and we’ll schedule a live walkthrough tailored to your platform.
 
 ---
-*Questions? Email support@aipricing.io*
+
+<form action="https://example.com/demo-request" method="POST">
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" required><br>
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <label for="company">Company</label><br>
+  <input type="text" id="company" name="company" required><br>
+  <label for="platform">Prediction market platform (e.g., Kalshi, Augur)</label><br>
+  <input type="text" id="platform" name="platform" required><br>
+  <button type="submit">Request Demo</button>
+</form>
+
+---
+
+#### Frequently asked questions
+**Is there a free trial?** Yes – 14‑day free access to the Starter tier.
+
+**How is pricing calibrated?** Our models combine historical price curves, order‑book depth, and external data feeds.
+
+**What support is provided?** Dedicated onboarding engineer and 24/7 Slack support.
