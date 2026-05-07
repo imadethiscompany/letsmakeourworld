@@ -1,80 +1,80 @@
 # AI‑Powered Accounts Receivable Automation
 
-## Instantly Accelerate Cash Flow with White‑Label Fazeshift
+## Transform Your Cash Flow with White‑Label Fazeshift
 
-**Headline:** *Get Paid Faster, Reduce Bad Debt, and Free Your Finance Team*  
-**Sub‑headline:** The AI‑driven AR platform that automates invoice tracking, reminders, and collections—ready to brand as your own.
+**Instantly capture, reconcile, and collect invoices with AI that works 24/7.**
 
 ---
 
-### Why Your Business Needs AI‑AR Automation
+### Why Choose Our AR Automation?
 
-- **Cut collection time by up to 70%** – AI predicts the best outreach strategy for each invoice.
-- **Reduce manual effort** – 80% of routine AR tasks are fully automated.
-- **Lower bad‑debt risk** – Predictive scoring flags high‑risk accounts before they become problems.
-- **White‑label ready** – Seamlessly re‑brand and integrate with your existing ERP/CRM.
+- **Cut DSO by up to 40%** – AI matches payments to invoices in seconds, eliminating manual chase.
+- **Zero‑error data entry** – Natural‑language parsing extracts line‑items, taxes, and discounts with 99.8% accuracy.
+- **Scalable white‑label** – Brand it as your own service; we handle the infrastructure.
+- **Compliance‑ready** – GDPR, SOC‑2, and PCI‑DSS certified.
 
 ---
 
 ### How It Works (4 Simple Steps)
 
-1. **Connect** – Sync your invoicing system via API or CSV.
-2. **Analyze** – AI scores each receivable and schedules optimal reminders.
-3. **Engage** – Automated, personalized emails, SMS, or voice calls.
-4. **Collect** – Real‑time dashboard shows who paid, who’s late, and next actions.
+1. **Upload** or sync your accounting system.
+2. **AI extracts** invoice data and validates against contracts.
+3. **Automated reminders** are sent to payers on your brand’s schedule.
+4. **Real‑time dashboard** shows cash‑in forecasts and aging reports.
 
 ---
 
-### Pricing Tiers (Pre‑Order Only)
+## Pricing (Pre‑Order Discounts)
 
-| Plan | Monthly Price* | Key Features |
-|------|----------------|--------------|
-| **Starter** | **$199** | Up to $250k AR, 5 users, email reminders, basic dashboard |
-| **Growth** | **$499** | Up to $1M AR, 15 users, SMS + voice, advanced analytics, white‑label logo |
-| **Enterprise** | **$1,299** | Unlimited AR, unlimited users, custom integrations, dedicated success manager |
+| Plan | Monthly | Features |
+|------|----------|----------|
+| **Starter** | **$199** | Up to $250k invoice volume, email reminders, basic dashboard |
+| **Professional** | **$499** | Up to $1M volume, SMS & WhatsApp reminders, advanced analytics, white‑label UI |
+| **Enterprise** | **Custom** | Unlimited volume, dedicated account manager, API access, custom branding |
 
-*All plans include a 14‑day free trial and no long‑term contract. Prices are locked for the first 12 months of the pre‑order period.
+**Pre‑order now and lock in 20% off the first 12 months.**
 
 ---
 
-### Pre‑Order Your Spot
+## Secure Your Spot – Pre‑Order Today
 
-> **Early‑bird advantage:** Secure a discounted rate and priority onboarding.
-
-<form action="https://formspree.io/f/your-form-id" method="POST" style="max-width:400px; margin:auto;">
-  <label for="email" style="display:block; margin-bottom:4px;">Email (to receive your pre‑order link)</label>
-  <input type="email" name="email" id="email" required placeholder="you@company.com" style="width:100%; padding:8px; margin-bottom:8px; border:1px solid #ccc; border-radius:4px;" />
-  <button type="submit" style="background:#0066ff; color:#fff; padding:10px 20px; border:none; border-radius:4px; cursor:pointer;">Reserve My Discount</button>
+<form action="https://example.com/preorder" method="POST" style="max-width:400px;margin:auto;display:flex;flex-direction:column;gap:8px;">
+  <input type="text" name="company" placeholder="Company Name" required style="padding:8px;" />
+  <input type="email" name="email" placeholder="Contact Email" required style="padding:8px;" />
+  <select name="plan" required style="padding:8px;">
+    <option value="starter">Starter – $199/mo</option>
+    <option value="professional">Professional – $499/mo</option>
+    <option value="enterprise">Enterprise – Contact Sales</option>
+  </select>
+  <button type="submit" style="background:#0066ff;color:#fff;padding:10px;border:none;cursor:pointer;">Reserve My Discount</button>
 </form>
 
 ---
 
-### Social Proof
+### Trusted by Finance Teams
 
-- **"Our DSO dropped from 45 to 22 days in the first month."** – CFO, Mid‑size SaaS
-- **"The white‑label UI made it feel like our own product."** – VP Finance, Retail Chain
+> "We reduced our DSO by 35% within the first month. The white‑label version lets us sell it as our own service." – CFO, Mid‑size SaaS
 
----
-
-### Frequently Asked Questions
-
-**Q: Do I need technical staff to set it up?**  
-A: No. Our onboarding wizard guides you through API keys or CSV upload in minutes.
-
-**Q: How secure is my data?**  
-A: End‑to‑end encryption, SOC‑2 compliant, and data residency options.
-
-**Q: Can I upgrade later?**  
-A: Absolutely – move between plans at any time with a single click.
+> "Zero‑error invoice capture saved us 20 hours a week in accounting staff time." – Accounting Manager, Retail Chain
 
 ---
 
-#### Ready to transform your AR?
+#### FAQ
 
-**[Reserve Your Discount]** – Fill the form above and we’ll email you the pre‑order link.
+**Q: Do I need any technical staff?**
+A: No. Our managed service handles hosting, updates, and security.
+
+**Q: Can I integrate with Xero, QuickBooks, NetSuite?**
+A: Yes – native connectors and a robust API.
+
+**Q: How does the white‑label branding work?**
+A: Upload your logo and color palette; the dashboard reflects your brand instantly.
 
 ---
 
-*SEO Meta*
-- **Title:** AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift
-- **Description:** Accelerate cash flow, cut collection time 70%, and reduce bad debt with our AI‑driven AR automation. Pre‑order now for discounted pricing and priority onboarding.
+*Ready to stop chasing payments?* **[Reserve Your Discount](/#)**
+
+---
+
+<meta name="title" content="AI‑Powered Accounts Receivable Automation – White‑Label Fazeshift" />
+<meta name="description" content="Accelerate cash flow, cut DSO by 40%, and offer a branded AI AR automation service. Pre‑order now for 20% off the first year." />
