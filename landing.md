@@ -1,47 +1,54 @@
-# Together Solution
+# Together Solution – Unified Collaboration Platform
 
-## Unified Collaboration for Modern Teams
+## Seamlessly collaborate, close deals, and grow your business
 
-**One platform. One workflow.**
+**Headline:** *"Boost team productivity by 40% without juggling endless tools"*
 
-### Why Together?
-- **Seamless communication** – chat, video, and file sharing in real‑time.
-- **Integrated task management** – turn conversations into actionable items without switching apps.
-- **AI‑powered insights** – automatic summarization, next‑step suggestions, and performance analytics.
-- **Enterprise‑grade security** – end‑to‑end encryption, SSO, and compliance certifications.
-
-### Who Benefits?
-- **Start‑ups** that need a lean stack to move fast.
-- **Remote‑first companies** craving a virtual office.
-- **Project managers** who want visibility across cross‑functional teams.
-- **IT & security teams** seeking a single vendor with robust controls.
-
-### Transform Your Work
-| Before Together | After Together |
-|---|---|
-| Scattered tools (Slack, Trello, Google Drive) | All‑in‑one hub – chat, tasks, docs, meetings |
-| Hours lost to context‑switching | 30% faster project completion |
-| Manual status updates | AI‑generated meeting notes & action items |
-
-### How It Works
-1. **Create a workspace** – invite your team in seconds.
-2. **Collaborate** – chat, video call, share files instantly.
-3. **Turn talk into tasks** – highlight text → create task → assign.
-4. **Leverage AI** – get smart summaries, priority recommendations.
-5. **Measure impact** – dashboards show productivity gains.
-
-### Trusted by Leaders
-> "Together transformed how we collaborate – we cut meeting time by 40% and never missed a deadline again." – *CTO, FinTech Scale‑up*
-
-> "Our remote teams finally feel like a real office." – *Head of Operations, E‑commerce Brand*
-
-### Pricing
-- **Free Starter** – up to 5 users, core features.
-- **Growth Plan** – $12/user/mo, AI insights, unlimited rooms.
-- **Enterprise** – custom pricing, dedicated support, SSO.
-
-### Get Started in 2 Minutes
-[Start Free Trial](/signup) | [Book a Demo](/demo)
+**Subheadline:**
+A single, secure workspace that brings chat, video, file sharing, CRM, and task management together—so SMB owners can focus on revenue, not admin.
 
 ---
-*SEO keywords: collaboration platform, remote team software, AI‑powered workflow, unified communication, task management tool.*
+
+### Why SMB owners choose Together Solution
+- **All‑in‑one hub** – Replace Slack, Zoom, Google Drive, and a clunky CRM with one intuitive dashboard.
+- **Cut admin time** – Automate follow‑ups and reporting; teams spend 2‑hours less per week on manual work.
+- **Close deals 30% faster** – Integrated pipelines and real‑time collaboration keep prospects moving.
+- **Secure & compliant** – End‑to‑end encryption, GDPR‑ready, with role‑based access.
+- **Scalable pricing** – Starts at **$49/month** for up to 10 users, no hidden fees.
+
+---
+
+### Social Proof
+> *"We switched from three separate tools to Together Solution and saw a 35% lift in sales within the first month.*" – **Laura M., Founder, GreenLeaf Marketing**
+
+> *"Our team loves the unified view; onboarding new hires is now a single‑click process.*" – **James K., CEO, BuildIt Co.**
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Sign Up** – Instant access with a 14‑day free trial.
+2. **Connect** – Import contacts, files, and calendar in minutes.
+3. **Collaborate & Convert** – Use built‑in chat, video, and pipeline to close deals faster.
+
+---
+
+### Ready to Transform Your Business?
+
+[**Start Your Free Trial**](/signup) – No credit card required.
+
+Or schedule a live demo with our specialists:
+
+[**Book a Demo**](/demo)
+
+---
+
+#### Frequently Asked Questions
+**Q:** Can I cancel anytime?
+**A:** Yes, cancel with one click – no penalties.
+
+**Q:** How secure is my data?
+**A:** We use AES‑256 encryption, SOC‑2 compliance, and regular third‑party audits.
+
+---
+
+*Together Solution – The only tool you need to collaborate, sell, and scale.*
