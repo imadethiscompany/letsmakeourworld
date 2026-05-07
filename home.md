@@ -1,60 +1,42 @@
-# AI Market Alert – Ride the AI Rally 🚀
+# AI Pricing
 
-## Headline
-**Never Miss the Next AI Boom. Get Real‑Time Alerts Direct to Your Inbox.**
+## Unlock Revenue Growth with Real‑Time AI‑Driven Pricing
 
----
-
-### Why the AI Rally Matters Right Now
-- **$200B+** in new AI venture funding in the last 12 months.
-- **10x surge** in enterprise AI spend forecasts for 2025.
-- **Regulatory shifts** and policy news that can swing market sentiment overnight.
-
-Investors, founders, and tech execs are scrambling for the signal‑to‑noise ratio. Our AI Market Alert gives you the *signal*.
+**Instantly boost profits** by letting AI set the perfect price for every customer, every moment.
 
 ---
 
-## What You Get – Every Week
-| Feature | Benefit |
-|---|---|
-| **Curated AI‑Sector News** | Only the most market‑moving stories, filtered by impact score. |
-| **Quantitative Alerts** | Price‑action, funding rounds, M&A, and stock moves with data visualizations. |
-| **Expert Commentary** | 150‑word analysis from seasoned AI investors and technologists. |
-| **Actionable Playbooks** | Immediate steps – buy, hold, or watch – with risk grading. |
-| **Exclusive Community** | Private Discord channel for Q&A and deal flow sharing. |
+### Why AI Pricing?
+- **Increase average order value by up to 30%** – AI learns buying patterns and adjusts prices to capture willingness‑to‑pay.
+- **Reduce price‑gaming** – Dynamic rules stop customers from exploiting static discounts.
+- **Save hours of manual work** – No more spreadsheet updates; the AI does it live.
 
 ---
 
-## Pricing
-- **Monthly** – $99 / month (cancel anytime)
-- **Annual** – $999 / year (save $189)
-
-> *“The alerts helped me spot a $2B Series‑C round two weeks before anyone else. I added a position and it’s up 45% today.”* – Jane D., VC Partner
-
----
-
-## How It Works
-1. **Subscribe** – Instant access after checkout.
-2. **Get the Weekly Digest** – Delivered every Monday 8 AM EST.
-3. **Take Action** – Follow the playbook or discuss in the community.
+### How It Works
+1. **Connect your sales data** – Integrate with Shopify, Stripe, or your CSV.
+2. **AI models analyze** – Real‑time demand, competitor pricing, and customer signals.
+3. **Dynamic prices update** – Prices change instantly on your storefront.
 
 ---
 
-## FAQ
-**Q: How is the data sourced?**
-A: We pull from verified APIs (Crunchbase, SEC filings, AI‑research trackers) and cross‑verify with our own AI‑curation engine.
-
-**Q: Is there a free trial?**
-A: Yes – 7‑day money‑back guarantee. No credit card required.
-
-**Q: Who writes the commentary?**
-A: A rotating panel of AI investors, CTOs, and analysts with 20+ years combined experience.
+### Trusted by Industry Leaders
+![Logos](/static/logos.png)
+> "AI Pricing lifted our margins by 22% in the first month." – *Head of Revenue, FastFashion Co.*
 
 ---
 
-## Ready to Ride the AI Rally?
-[**Start Your Free Trial**](#) – No credit card required.
+### FAQ
+**Q:** Does it require a developer?
+**A:** No. Our 5‑minute setup works for non‑technical teams.
+
+**Q:** Is my data safe?
+**A:** All data is encrypted at rest and in transit.
 
 ---
 
-*Powered by ProjectNexus – turning market turbulence into opportunity.*
+## Ready to Maximize Every Sale?
+
+**Start your free 14‑day trial** – No credit card required.
+
+[**Get Started Now**](/signup)
