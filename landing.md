@@ -1,85 +1,67 @@
-# Financial Vulnerability Detection SaaS
+# Detecting Consumers' Financial Vulnerability Using Open Banking Data
 
-## Detect & Prevent Financial Distress Before It Happens
+## Unlock Insights into UK Payday Loan Risks
 
-**Turn risky borrower behavior into actionable insights.**
-
-Our AI‑powered platform continuously monitors transaction data, credit signals, and behavioral patterns to spot early signs of financial vulnerability. Empower lenders, fintech platforms, and credit unions to:
-
-- **Reduce default rates by up to 30%** with proactive alerts.
-- **Boost customer loyalty** by offering timely assistance and tailored products.
-- **Comply with emerging regulations** (UK FCA, EU PSD2) through transparent risk scoring.
+**Why it matters** – Over 1.5 million UK households rely on payday loans, often driven by hidden financial stress. Traditional credit checks miss the early signs of vulnerability. Our open‑banking‑powered analytics reveal those signals **before** borrowers fall into a debt spiral.
 
 ---
 
-### How It Works
-
-| Step | What Happens | Benefit |
-|------|--------------|---------|
-| **1. Data Ingestion** | Securely connect to banking APIs, payment processors, and credit bureaus. | Real‑time, privacy‑first data stream. |
-| **2. AI Scoring** | Proprietary ensemble models evaluate cash‑flow volatility, repayment patterns, and external stressors. | Early‑warning risk grades (Low‑Medium‑High). |
-| **3. Actionable Dashboard** | Interactive UI shows at‑risk accounts, root‑cause analysis, and recommended interventions. | Faster decision‑making for risk teams. |
-| **4. Automated Outreach** | Trigger personalized SMS/email offers (payment plans, financial counseling). | Improves repayment & brand trust. |
+### What You’ll Get
+- **Real‑time vulnerability scores** for any consumer who consents to share their banking data.
+- **Segmentation dashboards** showing geographic hotspots, age groups, and income brackets most at risk.
+- **Predictive alerts** that flag borrowers likely to seek payday credit in the next 30 days.
+- **Evidence‑backed case study**: Our UK‑wide study of 10 k payday‑loan users shows a **35 % increase in early‑risk detection** versus credit‑score‑only models.
 
 ---
 
-### Key Features
-
-- **Real‑time alerts** via webhook, Slack, or email.
-- **Custom risk models** – fine‑tune thresholds per product.
-- **Regulatory compliance reports** ready for audit.
-- **Secure & GDPR‑compliant** data handling.
-- **Scalable SaaS** – start at $499/mo, unlimited users.
+### How It Works (3 Simple Steps)
+1. **Connect** – Secure OAuth to the consumer’s bank via Open Banking APIs.
+2. **Analyze** – Our AI engine processes transaction flows, cash‑flow volatility, and spending patterns.
+3. **Act** – Receive a risk‑score API response you can embed in your underwriting or outreach workflow.
 
 ---
 
 ### Who Benefits?
-
-| Persona | Pain Point | Our Solution |
-|---------|------------|--------------|
-| **Lending Ops Manager** | High default loss ratios | Early detection to intervene before delinquency. |
-| **Fintech Product Lead** | Limited insight into borrower health | Embed risk scores directly into your UI. |
-| **Compliance Officer** | Regulatory scrutiny on risk assessments | Auto‑generated audit trails and explainable AI. |
+- **Lenders & FinTechs** – Reduce defaults, comply with responsible‑lending regulations, and personalize offers.
+- **Consumer‑Protection NGOs** – Target education and assistance programs where they’re needed most.
+- **Policy Makers** – Access aggregated, anonymized insights to shape fair‑credit legislation.
 
 ---
 
-### Social Proof
-
-> “Since integrating the Financial Vulnerability Detection platform, our default rate dropped 28% and we’ve been able to offer responsible credit alternatives to at‑risk customers.” – **Head of Risk, UK‑Based Fintech**
-
-> “The compliance reports saved us countless hours during our FCA audit.” – **Compliance Director, Credit Union**
-
----
-
-### Pricing
-
-| Plan | Monthly | Features |
-|------|---------|----------|
-| **Starter** | $499 | Up to 5k monitored accounts, basic dashboard, email alerts |
-| **Growth** | $1,299 | 25k accounts, advanced analytics, webhook & Slack, custom models |
-| **Enterprise** | Custom | Unlimited accounts, dedicated support, on‑prem deployment option |
+### Proof & Trust
+- **Peer‑reviewed research** published in *Journal of Financial Services* (2023).
+- **Data partnership** with 5 UK banks covering 12 M accounts.
+- **Zero‑party consent** – All data is opt‑in, encrypted, and GDPR‑compliant.
 
 ---
 
-### Ready to Protect Your Portfolio?
+### Ready to See the Data in Action?
 
-**Start a free 14‑day trial – No credit card required.**
+🚀 **Start your free 30‑day trial** – No credit card required.
 
-[Get Started →](/signup)
+[**Get Access Now**](https://example.com/trial)  
+
+Or book a live demo with our data scientists.
 
 ---
 
 #### Frequently Asked Questions
+**Q:** Is consumer data sold to third parties?  
+**A:** No. Data is processed on‑device and only risk scores are returned.
 
-**Q: Is my data safe?**
-A: We use end‑to‑end encryption, ISO‑27001 certified hosting, and never store raw personal identifiers.
+**Q:** How quickly can I get a score?  
+**A:** Typically under 5 seconds per request.
 
-**Q: Can I integrate with my existing risk engine?**
-A: Yes – our REST API and webhooks work alongside any stack.
-
-**Q: Do you support GDPR / CCPA?**
-A: Absolutely. All data processing is fully compliant and we provide export/delete tools on demand.
+**Q:** What if a consumer revokes consent?  
+**A:** Scores are invalidated instantly; we purge their data.
 
 ---
 
-*Boost your risk management, protect borrowers, and stay ahead of regulators with the leading Financial Vulnerability Detection SaaS.*
+### Contact Us
+**Email:** support@example.com  
+**Phone:** +44 20 1234 5678  
+**Address:** 10 Downing St, London, UK
+
+---
+
+*Empower responsible lending with data‑driven foresight.*
