@@ -1,61 +1,47 @@
-# KL‑Divergence Analyzer
+# AI Market
 
-**Instant, AI‑powered visualisation & anomaly detection for any data set**
+## Unlock AI-Powered Growth for Your Small Business
 
----
+**Headline:** *Supercharge Your Business with Turnkey AI Solutions*  
 
-## Why KL‑Divergence?
-* Detect distribution drift in real‑time
-* Quantify how *your* model’s predictions diverge from reality
-* Turn abstract math into actionable insights with one click
+**Subheadline:** Get instant access to ready‑to‑use AI tools that automate marketing, sales, customer support, and operations—no coding required.
 
 ---
 
-### Core Benefits
-- **Fast, interactive charts** – powered by Plotly, no code required
-- **API‑ready** – embed the engine in your pipeline or dashboard
-- **Team collaboration** – share live sessions with secure links
-- **Alerting** – webhook & Slack notifications when divergence exceeds thresholds
+### Why AI Market?
+- **Boost Revenue Fast:** AI‑driven campaigns increase conversions by up to 30%.
+- **Save Time:** Automate repetitive tasks and free up 10+ hours per week.
+- **No Technical Skills Needed:** Plug‑and‑play integrations with your existing tools (Shopify, HubSpot, QuickBooks, etc.).
+- **Predictable Pricing:** $99/mo flat‑fee, unlimited AI tools.
 
 ---
 
-## Pricing Plans
-| Plan | Price / month | Features |
-|------|---------------|----------|
-| **Starter** | $49 | Up to 5 datasets, 10k API calls, basic alerts |
-| **Growth** | $149 | Unlimited datasets, 100k API calls, custom alerts, team sharing (up to 5 users) |
-| **Enterprise** | $499 | Unlimited API, dedicated SLA, on‑prem deployment, premium support |
-
-> **Free 7‑day trial** – no credit card required.
+### How It Works
+1. **Choose Your Plan** – Simple monthly subscription.
+2. **Select AI Tools** – Marketing copy, chatbot, email sequencer, analytics dashboard.
+3. **Launch in Minutes** – Connect your accounts and let AI do the work.
 
 ---
 
-## How It Works (3‑Step Workflow)
-1. **Upload** your probability distributions (CSV, JSON, or direct API)
-2. **Visualise** the KL‑Divergence instantly – interactive heat‑maps & line charts
-3. **Act** – set thresholds, receive alerts, export reports (PDF/CSV)
+### Social Proof
+> *"AI Market cut our ad creation time from hours to minutes and lifted sales by 22% in the first month."* – **Laura G., Boutique Owner**
 
 ---
 
-## Ready to start?
+### Ready to Transform Your Business?
 
-### 👉 **Start Your Free Trial**
-[Get Started →](/signup)
-
-Or book a live demo with our data scientists:
-[Book Demo →](/demo)
+[**Start Your Free 7‑Day Trial**](https://example.com/checkout?product=ai-market)  
+No credit card required. Cancel anytime.
 
 ---
 
-### FAQ
-**Q:** Do I need a data‑science background?
-**A:** No. The UI guides you through every step.
+#### FAQ
+**Q:** Do I need any technical setup?
+**A:** No. Just connect your existing accounts.
 
-**Q:** Is my data secure?
-**A:** All traffic is encrypted (TLS 1.3) and data is stored in regional GDPR‑compliant zones.
+**Q:** Is there a contract?
+**A:** Month‑to‑month, cancel anytime.
 
 ---
 
-*SEO Meta*:
-<title>KL Divergence Analyzer – Real‑Time Distribution Shift Detection</title>
-<meta name="description" content="Visualize, monitor, and act on KL‑Divergence with our AI‑powered SaaS tool. Free trial, tiered pricing, instant alerts.">
+**© 2026 AI Market – All Rights Reserved**
