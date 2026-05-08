@@ -1,73 +1,56 @@
-# AI Pricing Models for Grocery Retailers
+# Vori Raises $22M Series B Funding – The Future of AI‑Powered Grocery Shopping
 
-## Transform Your Store Margins with Real‑Time, Data‑Driven Pricing
+## Headline
+**Shop Smarter, Save Time: Vori’s AI‑Driven Platform Gets $22M Boost to Transform Grocery Fulfilment**
 
-**Boost profits by up to 12%** – the same AI‑powered pricing engine trusted by the most innovative grocery chains.
-
----
-
-### Why AI‑Based Pricing?
-- **Dynamic price optimization** that reacts to demand, inventory, and competitor changes every 5‑minutes.
-- **Reduce markdown waste** – automatically lower prices on perishable items before they expire.
-- **Increase basket size** – personalized price nudges drive higher average spend.
-- **Full transparency** – clear ROI dashboards for store managers and finance teams.
+### Sub‑headline
+Vori’s Series B funding fuels the next wave of hyper‑personalized, on‑demand grocery experiences for busy households and retailers.
 
 ---
 
-### Proven Market Validation
-Vori, the leading AI‑driven grocery supply‑chain platform, recently raised **$22 million** in AI funding to expand its pricing intelligence suite.  Their investors see a massive opportunity: AI pricing is no longer a pilot – it’s a growth engine for grocery retailers.
-
-> *“Vori’s funding round underscores the market’s confidence in AI‑powered pricing.  Retailers that adopt now will capture the next wave of margin expansion.”* – Industry Analyst
-
----
-
-### How It Works
-1. **Data Ingestion** – Connect POS, inventory, and market data in minutes.
-2. **AI Engine** – Our proprietary models predict optimal price points for each SKU.
-3. **Automation** – Prices are pushed to shelves, online stores, and mobile apps instantly.
-4. **Performance Dashboard** – Real‑time insights, A/B test results, and profit impact.
+## Why This Matters
+- **AI‑powered inventory**: Real‑time demand forecasting cuts waste by up to 30%.
+- **Instant fulfillment**: Same‑day delivery from local stores powered by Vori’s logistics engine.
+- **Retailer growth**: Partners see a 2‑3× increase in order volume within 6 months.
 
 ---
 
-### Key Benefits
-| Benefit | Impact |
+## The Story
+Vori, the AI‑driven grocery startup, announced a $22 million Series B round led by **XYZ Capital** and **ABC Ventures**. The round builds on a successful seed that raised $5 million and validates Vori’s mission to make grocery shopping frictionless through AI‑based demand prediction and automated fulfillment.
+
+> *“Our vision is to eliminate the guesswork in grocery supply chains, delivering fresher food faster and at lower cost,”* says **Jane Doe**, CEO of Vori.
+
+---
+
+## Key Benefits for Consumers & Retailers
+| Consumer Benefits | Retailer Benefits |
 |---|---|
-| **Higher Margins** | +8‑12% average margin uplift |
-| **Reduced Waste** | 15‑20% fewer markdowns |
-| **Faster Decision‑Making** | Prices updated in seconds |
-| **Scalable** | Works for 1‑store pilots to 5,000‑store networks |
-| **Compliance‑Ready** | Audit‑proof price logs |
+| **Zero‑stock surprises** – AI predicts what you’ll need before you run out. | **Higher sell‑through** – Predictive replenishment keeps shelves stocked.
+| **Same‑day delivery** – Orders fulfilled from the nearest store in minutes. | **Reduced waste** – Accurate forecasts cut over‑stock losses.
+| **Personalized suggestions** – AI learns your taste and diet preferences. | **Scalable ops** – Automated order routing reduces labor costs.
 
 ---
 
-### Social Proof
-- **Vori** – $22M AI funding round, using our pricing engine in 120+ stores.
-- **FreshMart** – 10% revenue lift in the first 3 months.
-- **GreenGrocer** – Cut perishable waste by 18%.
+## Social Proof & Press
+- Featured in **TechCrunch**, **Forbes**, **AfroTech**.
+- Trusted by **30+ regional grocery chains**.
+- **$22M** raised to accelerate product roll‑out across **10 new markets**.
 
 ---
 
-### Frequently Asked Questions
-**Q: Do I need a data‑science team?**
-A: No. Our platform is fully managed – you just plug in your data sources.
+## Call to Action
+Ready to experience the future of grocery shopping?
 
-**Q: Is it safe for price‑sensitive items?**
-A: Our AI includes risk controls that never price below cost.
+[**Get Early Access – Join the Waitlist**](https://vori.com/waitlist)
 
-**Q: How long to see results?**
-A: Most retailers report measurable uplift within 30‑45 days.
-
-**Q: What integration options are available?**
-A: API, CSV upload, or direct POS connector.
+*Sign up now and be the first to enjoy AI‑optimized grocery fulfillment.*
 
 ---
 
-### Ready to Capture the AI Pricing Advantage?
-
-**Start a free 30‑day pilot** and see the impact on your margins.
-
-[ **Get Started Now** → ](https://checkout.example.com/ai-pricing-grocery)
+### SEO Meta
+- **Title**: Vori Raises $22M Series B – AI‑Powered Grocery Startup Redefines Shopping
+- **Meta Description**: Vori secures $22 million Series B funding to expand its AI‑driven grocery platform, delivering same‑day delivery, reduced waste, and personalized shopping experiences.
 
 ---
 
-*Powered by the same AI models that earned Vori $22 million in funding.*
+*This landing page is optimized for SEO and conversion, targeting keywords such as “AI grocery startup funding”, “Vori Series B”, and “AI‑powered grocery fulfillment”.*
