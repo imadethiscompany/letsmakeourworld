@@ -1,37 +1,60 @@
-# Radiq
+# AI Market: Unlock AI-Powered Growth for Your Business
 
-## Real‑time Product Intelligence for AI‑Driven Teams
+## Transform Your SMB with AI Today
 
-**Unlock actionable insights from your product data instantly.**
-Stop manual reports. Accelerate decisions. Grow revenue.
+**Headline:** *Boost Revenue & Cut Costs with AI‑Driven Marketing & Operations*
 
-### Why Radiq?
+**Subheadline:** Get a ready‑to‑use AI toolkit that automates your ads, personalizes your website, and predicts customer churn – all for less than the cost of a single ad campaign.
 
-- **Cut reporting time from hours to minutes** – our AI parses events and surfaces trends automatically.
-- **Boost conversion by 30%** – identify friction points and optimize the user journey in real‑time.
-- **Scale without engineers** – no code, simple API & ready‑to‑use dashboards.
+---
 
-### How It Works
+### Why AI Market?
+- **Instant ROI:** Clients see a 2‑3× lift in conversion rates within the first month.
+- **Zero Technical Hassle:** No code, no data scientists – just plug‑and‑play AI modules.
+- **All‑In‑One Dashboard:** Manage ad spend, email flows, chatbots, and analytics from one screen.
 
-1. **Connect** – integrate with your data sources (Mixpanel, Segment, Snowflake) in seconds.
-2. **Analyze** – AI‑powered engine extracts key metrics, cohorts, and anomalies.
-3. **Act** – real‑time alerts & embeddable widgets let you iterate instantly.
+---
 
-### Trusted by Leading Brands
+### How It Works (3 Simple Steps)
+1. **Tell Us Your Goal** – Choose from revenue‑boost, lead‑gen, or cost‑reduction.
+2. **Deploy AI Modules** – One‑click activation of AI‑powered ads, email personalization, and sales‑pipeline forecasting.
+3. **Watch Results Grow** – Real‑time KPI dashboard and monthly performance audit.
 
-*“Radiq gave us instant visibility into churn drivers – we reduced churn by 12% in one month.”* – **Head of Growth, Acme Corp**
+---
 
-### Frequently Asked Questions
+### Social Proof
+> “AI Market cut our ad‑spend by 30% and doubled leads in 6 weeks.” – *Maria L., Boutique Retailer*
 
-**Do I need a data engineer?**
-No. Our connector handles the heavy lifting.
+> "The AI chat‑bot handles 80% of support tickets, freeing our team to focus on sales." – *James K., SaaS Founder*
 
-**Is my data secure?**
-All connections use TLS, data is encrypted at rest and never sold.
+---
 
-### Get Started Now
+### Pricing – No Surprises
+- **Starter** – $99/mo (Up to 5k visitors/month)
+- **Growth** – $299/mo (Up to 25k visitors/month, includes premium AI models)
+- **Enterprise** – Custom (Unlimited traffic, dedicated success manager)
 
-[Start Free Trial](/signup) – No credit card required.
+> **30‑Day Money‑Back Guarantee** – Cancel anytime, no questions asked.
 
-*Ready to turn product data into growth?*
-**Join 500+ teams using Radiq to power their AI‑driven decisions.**
+---
+
+## Ready to Supercharge Your Business?
+
+[**Start Your Free 14‑Day Trial**](#)  
+_No credit card required – see results before you pay._
+
+---
+
+**FAQ**
+- **Do I need technical skills?** – No. Our UI is built for non‑technical owners.
+- **Can I cancel anytime?** – Absolutely, with a simple click in your dashboard.
+- **Is my data safe?** – We are GDPR‑compliant and encrypt all data at rest.
+
+---
+
+**Contact Us**
+Email: support@aimarket.io | Phone: +1 (800) 555‑0123
+
+---
+
+*AI Market – Your AI‑powered growth partner.*
