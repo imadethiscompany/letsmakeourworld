@@ -1,56 +1,60 @@
-# iOrchestra – AI‑Powered Hardware Design Generator
-
+---
+title: Smart FAQs - AI-Powered FAQ Generator for SaaS & Websites
+description: Instantly create accurate, SEO‑optimized FAQs with AI. Boost rankings, reduce support tickets, and capture leads. Try free for 14 days.
 ---
 
-## 🚀 Transform Your Hardware Design Workflow
+# Smart FAQs
 
-**iOrchestra** is the world’s first AI‑driven hardware design generator that turns high‑level specifications into production‑ready schematics, PCB layouts, and bill‑of‑materials in seconds.  
+## Turn Customer Questions into SEO Gold
 
-*Design faster, reduce errors, and accelerate time‑to‑market.*
+- **AI‑Generated Answers** in seconds
+- **SEO‑Optimized** for featured snippets
+- **Integrates** with WordPress, Webflow, Shopify, custom sites
+- **Live Updating** as your knowledge base grows
 
----
+[Start your free 14‑day trial →](#)
 
-### 🎯 Why iOrchestra?
+### Why Smart FAQs?
 
-| Challenge | iOrchestra Solution |
-|-----------|---------------------|
-| **Lengthy manual drafting** | Instant AI‑generated schematics from natural‑language specs |
-| **Iterative redesigns** | One‑click regeneration with version control |
-| **Component selection errors** | Smart BOM optimization with cost & availability insights |
-| **Limited engineering resources** | Scales from solo makers to enterprise teams |
+- Increase organic traffic by up to **40%**
+- Reduce support tickets by **30%**
+- Capture leads with built‑in forms
+- No coding required
 
----
+#### Features
 
-## 📦 Pricing Tiers – Get Early Access Today
+- **Smart Question Mining** – pull real user queries from search, tickets, chat
+- **One‑Click Embeds** – add to any page via script or plugin
+- **Analytics Dashboard** – see clicks, rankings, conversions
+- **Multi‑Language** – auto‑translate FAQs
+- **Compliance** – GDPR‑ready, data encrypted
 
-| Plan | Who it’s for | Key Features | Price (monthly) |
-|------|--------------|--------------|----------------|
-| **Free** | Hobbyists & students | • Up to 5 designs per month<br>• Community support<br>• Access to basic component library | **$0** |
-| **Pro** | Start‑ups & small teams | • Unlimited design generation<br>• Advanced component pricing & availability<br>• Export to KiCad, Altium, Eagle<br>• Priority AI model updates | **$49** |
-| **Enterprise** | Large hardware firms | • Dedicated AI model fine‑tuning<br>• Unlimited users & designs<br>• API access & on‑prem deployment<br>• SLA support & custom integrations | **Custom** |
+#### Pricing
 
-> **Early‑Access Bonus:** Sign‑up now and receive **30 % off** the first 3 months of the Pro plan.
+| Plan | Price / month | FAQs | Features |
+|------|---------------|------|----------|
+| Starter | $29 | 500 | Core AI, Embed, Analytics |
+| Growth | $79 | 2,500 | Priority AI, Multi‑Lang, Lead Forms |
+| Enterprise | Custom | Unlimited | Dedicated support, SLA, White‑label |
 
----
+**All plans include 14‑day free trial, cancel anytime.**
 
-## 📣 Get Early Access
+### What Our Customers Say
 
-Ready to prototype at the speed of thought?
+> “Smart FAQs lifted our organic traffic by 35% in just 3 weeks.” – *Marketing Lead, SaaSCo*
+>
+> “Support tickets dropped dramatically – the AI answers are spot‑on.” – *Head of Support, E‑Shopify*
 
-```html
-<a href="https://iorchestra.com/early-access" class="cta-button" style="display:inline-block;background:#0066ff;color:#fff;padding:12px 24px;border-radius:6px;font-weight:bold;text-decoration:none;">Get Early Access</a>
-```
+### Frequently Asked Questions
 
-*No credit card required. Join our private beta and shape the future of hardware design.*
+**Q:** Do I need technical skills?  
+**A:** No. Install with one script or plugin.
 
----
+**Q:** Can I edit the AI‑generated answers?  
+**A:** Yes, edit inline from the dashboard.
 
-### 📚 Resources & FAQs
+**Q:** Is there a free plan?  
+**A:** You get a 14‑day free trial with full features.
 
-- **How does the AI work?**  Our proprietary transformer model has been trained on 10 M+ open‑source schematics.
-- **Can I export designs?**  Yes – industry‑standard formats (KiCad, Altium, Eagle, Gerber).
-- **What support is available?**  Community forum, Slack channel, and dedicated email for Pro & Enterprise users.
-
----
-
-*Keywords: AI hardware design generator, AI‑powered circuit design, automated PCB layout, iOrchestra, early access hardware AI*
+**Ready to supercharge your site?**  
+**Start your free trial now →**
