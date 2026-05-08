@@ -1,82 +1,73 @@
----
-title: Smart FAQs – AI‑Powered FAQ Generator
-description: Instantly create SEO‑optimized, searchable FAQs for any website. Boost traffic, reduce support tickets, and capture leads with AI.
----
+# MarkUp – AI‑Powered Website Editing SaaS
 
-# Smart FAQs – Turn Your Knowledge Base into Traffic‑Driving Gold
+## Transform Your Site in Seconds with AI
 
-**Launch your free trial in seconds →**
-
-## Why Smart FAQs?
-
-- **SEO Super‑charge** – AI writes keyword‑rich answers that rank on Google’s “People Also Ask” and drive 2‑5× more organic traffic.
-- **Support Load Cut** – Automated, accurate answers reduce support tickets by up to **40%**.
-- **Lead Capture** – Inline forms turn FAQ visitors into qualified leads.
-- **Zero‑Code Setup** – Add a one‑line script, watch the AI generate and update FAQs in real‑time.
+**MarkUp** combines cutting‑edge AI with an intuitive visual editor so you can redesign, optimize, and publish pages instantly—no developers needed.
 
 ---
 
-## How It Works (in 3 Simple Steps)
-
-1. **Connect Your Site** – Paste your API key or install the snippet.
-2. **Feed Your Content** – Import existing docs, help‑center articles, or let the AI crawl your site.
-3. **Publish Instantly** – Smart FAQs appear on any page, auto‑update with fresh data, and are indexed by search engines.
-
----
-
-## Features that Convert
-
-| Feature | Benefit |
-|---|---|
-| **AI‑Generated Answers** | Writes SEO‑optimized, human‑like responses in seconds. |
-| **Dynamic Updating** | FAQs stay current as your product or content changes. |
-| **Built‑in Analytics** | Track impressions, clicks, and conversion rates. |
-| **Custom Styling** | Match your brand with CSS variables or ready‑made themes. |
-| **Lead Forms** | Capture email & phone directly from FAQ blocks. |
-| **Multi‑Language** | Auto‑translate FAQs to 12+ languages. |
+### 🚀 Value Propositions
+- **Instant Page Generation** – Describe what you need, and MarkUp creates a fully‑responsive page in seconds.
+- **AI‑Optimized SEO** – Built‑in keyword research, meta tags, and schema generation to boost rankings.
+- **Zero Code, Full Control** – Drag‑and‑drop editor plus natural‑language commands for designers and marketers.
+- **Collaborative Workflow** – Real‑time team editing, version history, and approval gates.
+- **Scalable API** – Integrate the editing engine into any product with our subscription‑based API.
 
 ---
 
-## Social Proof
-
-> “Smart FAQs gave us a **300% increase** in organic FAQ traffic and cut support tickets in half. The integration was literally one line of code.” – *Jane D., Head of Customer Success, FinTechCo*
-
-> “Our SEO rankings for long‑tail queries jumped from page 5 to page 1 within weeks.” – *Mike L., Founder, SaaSify*
-
----
-
-## Pricing – Simple, Scalable
-
-| Plan | Monthly | Features |
-|---|---|---|
-| **Starter** | **$49** | Up to 5,000 FAQs, Basic Analytics, Email Support |
-| **Growth** | **$149** | Unlimited FAQs, Advanced Analytics, Lead Forms, Priority Support |
-| **Enterprise** | **Custom** | Dedicated account, SLA, White‑label, On‑prem deployment |
-
-**Start Free for 14 Days – No Credit Card Required**
+### ✨ Core Features
+| Feature | What It Does |
+| ------- | ------------ |
+| **AI Page Builder** | Turn a simple prompt into a complete HTML/CSS page with SEO‑ready content. |
+| **Live Visual Editor** | WYSIWYG editing with instant preview on desktop, tablet, and mobile. |
+| **Smart SEO Suite** | Auto‑generated title tags, meta descriptions, headings, JSON‑LD schema, and keyword density analysis. |
+| **Template Library** | 200+ industry‑tested templates (e‑commerce, SaaS, blogs, landing pages). |
+| **Version Control & Rollback** | Track changes, compare revisions, and revert with one click. |
+| **Team Permissions** | Role‑based access (Admin, Designer, Marketer, Viewer). |
+| **API Access** | RESTful endpoints to create, edit, and publish pages programmatically. |
+| **A/B Test Engine** | Run split tests on headlines, CTAs, and layouts directly from the dashboard. |
+| **Analytics Dashboard** | Page performance, conversion rates, and SEO health metrics in real time. |
 
 ---
 
-## Frequently Asked Questions
+### 💰 Pricing Plans
+| Plan | Monthly Price | Key Benefits |
+|------|--------------|--------------|
+| **Free Trial** | **$0** (14‑day trial) | Full access to all features, no credit card required. |
+| **Starter** | **$29/mo** | Up to 20 pages, basic API (100 calls/day), email support. |
+| **Growth** | **$79/mo** | Unlimited pages, advanced API (1k calls/day), A/B testing, priority chat support. |
+| **Enterprise** | **Custom** | Dedicated account manager, SLA, white‑label branding, on‑prem deployment optional. |
 
-**Q:** *Do I need any technical skills?*  
-**A:** No. Just add the snippet and let the AI do the rest.
-
-**Q:** *Will the FAQs affect my site speed?*  
-**A:** The script is lightweight (< 5 KB) and loads asynchronously.
-
-**Q:** *Can I edit the AI‑generated answers?*  
-**A:** Yes – edit inline or via the dashboard.
-
-**Q:** *Is my data secure?*  
-**A:** All data is encrypted at rest and in transit, GDPR‑compliant.
+> **Special Launch Offer:** Sign up today and get **20% off** the first three months of any paid plan.
 
 ---
 
-## Ready to Turn Questions into Customers?
+### 📩 Start Your Free Trial
 
-**[Start My Free Trial](/signup) →**
+<div id="signup-form">
+  <form action="https://api.markup.io/v1/trial" method="POST">
+    <label for="email">Work Email</label><br>
+    <input type="email" id="email" name="email" placeholder="you@company.com" required style="width:100%;padding:8px;margin:4px 0;"/>
+    <label for="company">Company</label><br>
+    <input type="text" id="company" name="company" placeholder="Your Company" required style="width:100%;padding:8px;margin:4px 0;"/>
+    <label for="password">Password</label><br>
+    <input type="password" id="password" name="password" required style="width:100%;padding:8px;margin:4px 0;"/>
+    <button type="submit" style="background:#0066ff;color:#fff;padding:12px 24px;border:none;border-radius:4px;margin-top:8px;cursor:pointer;">Start My Free Trial</button>
+  </form>
+</div>
 
 ---
 
-*Smart FAQs is built on GPT‑4, complies with OpenAI use‑case policy, and is trusted by over 2,000 businesses worldwide.*
+### Frequently Asked Questions
+**Q:** Do I need a credit card for the free trial?
+**A:** No. We’ll only ask for payment details when you upgrade.
+
+**Q:** How many pages can I create during the trial?
+**A:** Unlimited – experience the full power of MarkUp.
+
+**Q:** Is my data secure?
+**A:** Yes. We use AES‑256 encryption and SOC‑2 compliant hosting.
+
+---
+
+Ready to **build, edit, and rank** faster than ever? **[Start Your Free Trial Now]** and unleash AI on your website.
