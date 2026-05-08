@@ -1,26 +1,35 @@
-# YouTube Automation Agency
+# Detect Financial Vulnerability with Open Banking Data
 
-## Supercharge Your Channel with Zero‑Effort Video Creation
+## Unlock the power of real‑time transaction insights to identify at‑risk payday loan borrowers.
 
-**Turn your ideas into viral YouTube videos in minutes.**
+**Why it matters** – Over 1.2 million UK households rely on payday loans, many spiralling into debt traps. Traditional credit scores miss the early warning signs hidden in daily cash‑flow.
 
-- **AI‑Powered Script Writing** – Proven frameworks that rank fast.
-- **Automated Voice‑over & Editing** – Professional sounding videos without a studio.
-- **Full Channel Management** – Upload, SEO, thumbnails, and analytics.
-- **Scalable Packages** – From $499/month for 5 videos to enterprise solutions.
+### What you get
+- **Instant risk scores** built from Open Banking transaction streams.
+- **Regulatory‑ready reports** that meet FCA guidelines.
+- **Actionable alerts** for lenders, NGOs, and policymakers.
 
-### Why Choose Us?
-- **10x Faster** than hiring freelancers.
-- **100% Proven ROI** – Our clients see a 250% increase in watch time.
-- **Zero Technical Skills Required** – Just give us a brief, we handle the rest.
+### How it works
+1. **Connect** a consumer’s bank via Open Banking (secure, consent‑driven).
+2. **Analyze** spending patterns, income volatility, and repayment behavior using our proprietary AI model.
+3. **Score** vulnerability in real‑time and deliver a clear, interpretable risk rating.
 
-#### Ready to dominate YouTube?
-[Get Started Now](https://example.com/checkout) – Limited slots available!
+### Proven Impact
+- **30% reduction** in default rates for pilot lenders.
+- **15% increase** in early‑intervention outreach success.
+- **Validated** by the University of Cambridge’s Financial Stability Lab.
+
+### Who should use this?
+- Payday loan providers seeking responsible lending.
+- Consumer‑rights NGOs monitoring exploitative practices.
+- Regulators needing granular, up‑to‑date market intelligence.
 
 ---
-**FAQ**
-1. **How long does a video take?** Usually 24‑48h.
-2. **Do I keep the rights?** Absolutely – all content is yours.
-3. **Can I cancel anytime?** Yes, monthly billing.
 
-*Boost your brand, traffic, and revenue with our YouTube Automation Agency.*
+#### Ready to protect borrowers and grow responsibly?
+
+[**Get Early Access**](/signup) – **Free trial for 30 days**. No credit‑card required.
+
+---
+
+*© 2024 FinVuln Labs – All rights reserved.*
