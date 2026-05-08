@@ -1,57 +1,34 @@
-# Content Marketing Service – Boost Your Brand with Proven Strategies
+# Content Marketing Service
 
-## Unlock Explosive Growth with Targeted Content Marketing
+## Supercharge Your Business with a High-Converting Content Marketing Service
 
-Do you struggle to attract the right audience, generate qualified leads, or convert traffic into customers? Our **Content Marketing Service** is designed to solve these problems and turn your brand into a traffic‑generating powerhouse.
+### Why Content Marketing Still Rules 2024
+- **90%** of B2B buyers start their journey with online research.
+- Companies that blog **3+ times/week** get **3x** more leads.
+- Quality content improves SEO, brand authority, and sales‑ready traffic.
 
----
+### Our Turn‑Key Content Marketing Service
+| What You Get | How It Works | Your Results |
+|---|---|---
+| **Strategy Blueprint** – keyword research, persona mapping, content calendar | We dive into your market, interview your team, and build a 12‑month roadmap. | Clear, data‑driven plan that aligns with revenue goals. |
+| **SEO‑Optimized Blog Posts** – 2,000‑3,000 word, on‑page SEO, internal linking | Our writers follow our proven SEO framework and use AI‑assisted drafting for speed. | Rank on Google’s first page for high‑intent queries. |
+| **Distribution & Promotion** – LinkedIn posts, newsletter snippets, guest‑post outreach | Automated publishing + manual outreach to niche publications. | Amplified reach, backlinks, and referral traffic. |
+| **Performance Dashboard** – traffic, leads, ranking, ROI tracking | Real‑time analytics with monthly performance calls. | Transparent ROI and continuous optimization. |
 
-### Why Choose Our Content Marketing Service?
+### Who Benefits?
+- **SaaS founders** needing predictable lead flow.
+- **E‑commerce brands** wanting to dominate product‑search queries.
+- **Professional services** (agencies, consultants) looking to showcase expertise.
 
-- **Data‑Driven Strategy** – We start with deep market research, keyword analysis, and audience profiling to ensure every piece of content meets real search intent.
-- **Full‑Stack Production** – From ideation, copywriting, SEO optimization, graphic design, to distribution – we handle it all.
-- **Proven ROI** – Clients see an average **3‑5× lift in organic traffic** and **30‑50% increase in qualified leads** within the first 90 days.
-- **Scalable Growth** – Whether you need weekly blog posts or a comprehensive pillar‑hub system, we scale with your business.
+### Pricing – Simple, No Surprises
+- **Starter** – $1,200/mo (4 blog posts + strategy)
+- **Growth** – $2,500/mo (8 posts + distribution)
+- **Enterprise** – Custom (unlimited content, dedicated team)
 
----
+> *“Our inbound leads doubled in 90 days – the content team became our #1 growth channel.”* – **Happy Client**
 
-### Our Proven Process
-
-1. **Discovery & Audit** – Review your brand, competitors, and existing content.
-2. **Keyword & Topic Mapping** – Build a keyword hierarchy and content clusters that capture high‑intent searches.
-3. **Content Creation** – SEO‑optimized, conversion‑focused articles, guides, videos, and infographics.
-4. **On‑Page & Technical SEO** – Meta tags, schema, internal linking, and site speed optimization.
-5. **Distribution & Promotion** – Social amplification, email newsletters, and backlink outreach.
-6. **Measurement & Optimization** – Monthly dashboards, A/B testing, and continuous improvement.
-
----
-
-### What You Get
-
-| Deliverable | Frequency | Benefits |
-|---|---|---|
-| **Strategic Content Calendar** | Quarterly | Aligns marketing with sales goals |
-| **SEO‑Optimized Blog Posts** | 2‑4 per week | Captures high‑intent traffic |
-| **Pillar‑Hub Site Architecture** | 1‑2 per quarter | Establishes authority & internal linking |
-| **Infographics & Visuals** | As needed | Boosts engagement & shares |
-| **Performance Dashboard** | Monthly | Transparent ROI tracking |
+### Ready to Own Your Market?
+**[Book a Free Strategy Call →](/contact?service=content‑marketing)**
 
 ---
-
-### Success Stories
-
-- **SaaS Startup** – 4× organic traffic in 3 months, $120K MRR increase.
-- **E‑commerce Brand** – 45% more qualified leads, 20% higher conversion rate.
-- **Professional Services Firm** – Ranked #1 for “B2B content marketing agency” in Google’s local pack.
-
----
-
-### Ready to Accelerate Your Growth?
-
-**Start now** with a free audit and see how our Content Marketing Service can double your inbound leads.
-
-[📞 Schedule a Call](/contact)  |  [💬 Live Chat]
-
----
-
-*Keywords: content marketing service, content marketing agency, B2B content marketing, SEO content strategy, inbound lead generation*
+*SEO‑focused, conversion‑optimized, and backed by data.*
