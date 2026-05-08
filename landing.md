@@ -1,17 +1,26 @@
-# Unlock the Future of AI: Get Your FREE Preview of the AI Market Insights Report
+# YouTube Automation Agency
 
-## Why This Report Matters
-- **Data‑Driven Forecasts**: Learn where AI investment is heading in 2024‑2025.
-- **Actionable Strategies**: Immediate tactics for founders, investors, and marketers.
-- **Exclusive Charts & Case Studies**: Only available to our email community.
+## Scale Your Business with Hands‑Free YouTube Growth
 
-### Grab Your Free PDF Preview Now
-Enter your email below and we’ll instantly email you the PDF plus future updates on AI market trends.
+Tired of spending countless hours creating videos, editing, and managing uploads? Our **YouTube Automation Agency** does it all for you – from content strategy to full‑funnel video production, SEO, and daily channel management.
 
-<form action="https://example.com/api/lead-capture" method="POST">
-  <input type="email" name="email" placeholder="Your email address" required style="padding:10px; width:80%; max-width:300px; margin:10px 0;"/>
-  <button type="submit" style="padding:10px 20px; background:#0066ff; color:#fff; border:none; cursor:pointer;">Download Preview</button>
-</form>
+### Why SMB Owners Choose Us
+- **Zero Hiring Overhead** – No need to recruit a video team.
+- **Rapid ROI** – Clients see a 3‑5× increase in leads within 60 days.
+- **Full Automation** – AI‑generated scripts, voice‑overs, and editing, published on schedule.
+- **Performance Dashboard** – Real‑time analytics on views, watch‑time, and conversions.
+
+### Our Turnkey Packages
+| Package | Videos / Month | Channels Managed | Price (USD) |
+|---|---|---|---|
+| **Starter** | 4 | 1 | $1,200 |
+| **Growth** | 12 | 2 | $3,500 |
+| **Enterprise** | Unlimited | 5+ | Custom |
+
+### Ready to Automate Your YouTube?
+Click the button below to schedule a free strategy call and get a **personalized growth plan**.
+
+[Schedule Call →](https://calendly.com/youautomation/strategy)
 
 ---
-*We respect your privacy. No spam, unsubscribe anytime.*
+*We only work with businesses ready to invest in growth. No long‑term contracts required.*
