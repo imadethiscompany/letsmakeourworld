@@ -1,35 +1,41 @@
-# Detect Financial Vulnerability with Open Banking Data
+# YouTube Automation Agency – Scale Your Channel Effortlessly
 
-## Unlock the power of real‑time transaction insights to identify at‑risk payday loan borrowers.
+## Unlock Explosive Growth with Zero Manual Work
 
-**Why it matters** – Over 1.2 million UK households rely on payday loans, many spiralling into debt traps. Traditional credit scores miss the early warning signs hidden in daily cash‑flow.
+Are you a brand, creator, or agency struggling to keep up with the relentless demand for fresh, engaging YouTube content? Our **YouTube Automation Agency** handles the entire video production pipeline so you can focus on strategy and revenue.
 
-### What you get
-- **Instant risk scores** built from Open Banking transaction streams.
-- **Regulatory‑ready reports** that meet FCA guidelines.
-- **Actionable alerts** for lenders, NGOs, and policymakers.
+### Why Choose Us?
+- **End‑to‑End Automation** – From script generation to voice‑over, B‑roll, and final editing, all powered by AI.
+- **Data‑Driven Topics** – We mine Reddit, Google Trends, and competitor analytics to deliver viral‑ready ideas.
+- **Fast Turn‑around** – Publish a polished video in **48 hours** or less.
+- **Scalable Packages** – From 5 videos/month to unlimited enterprise solutions.
 
-### How it works
-1. **Connect** a consumer’s bank via Open Banking (secure, consent‑driven).
-2. **Analyze** spending patterns, income volatility, and repayment behavior using our proprietary AI model.
-3. **Score** vulnerability in real‑time and deliver a clear, interpretable risk rating.
+### Our Services
+| Service | What You Get | Benefits |
+|---|---|---|
+| **AI Script Writing** | SEO‑optimized scripts based on high‑search‑volume keywords. | Higher discoverability. |
+| **Synthetic Voice‑over** | Natural‑sounding voiceovers using cutting‑edge TTS. | Consistent brand tone. |
+| **Stock B‑Roll & Graphics** | Curated footage from Pexels + custom motion graphics. | Professional look without the cost. |
+| **Full Video Rendering** | 1080p MP4 ready for upload. | Save hours of editing time. |
+| **Channel Management** | Upload, schedule, and optimize metadata. | Boost algorithmic performance. |
 
-### Proven Impact
-- **30% reduction** in default rates for pilot lenders.
-- **15% increase** in early‑intervention outreach success.
-- **Validated** by the University of Cambridge’s Financial Stability Lab.
+### Pricing Plans (All plans include a free 7‑day trial)
+| Plan | Videos / Month | Price |
+|---|---|---|
+| **Starter** | 5 | $499 |
+| **Growth** | 15 | $1,299 |
+| **Scale** | 30 | $2,399 |
+| **Enterprise** | Unlimited | Custom |
 
-### Who should use this?
-- Payday loan providers seeking responsible lending.
-- Consumer‑rights NGOs monitoring exploitative practices.
-- Regulators needing granular, up‑to‑date market intelligence.
+### Proven Results
+- **+250%** average subscriber growth in the first 3 months.
+- **+180%** average watch‑time increase.
+- **$10K+** revenue boost for e‑commerce clients.
+
+### Ready to Automate Your YouTube Success?
+**Book a free strategy call** or **sign up now** to start your trial.
+
+[Get Started →](/signup?plan=starter)
 
 ---
-
-#### Ready to protect borrowers and grow responsibly?
-
-[**Get Early Access**](/signup) – **Free trial for 30 days**. No credit‑card required.
-
----
-
-*© 2024 FinVuln Labs – All rights reserved.*
+*Questions? Contact us at support@ytautomation.com*
