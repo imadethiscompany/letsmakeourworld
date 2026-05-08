@@ -1,44 +1,47 @@
-# BTC $80,115.00 (+0.3% 24h) – Real‑Time Crypto Alert
+# AI Metrics Dashboard
 
-## 🚀 Ride the Momentum: Secure Your Edge in Bitcoin Trading
-
-**Current price:** **$80,115.00** (up **0.3%** in the last 24 hours)
-
-### Why This Surge Matters
-- **Institutional buying** is accelerating as major funds allocate capital to BTC.
-- **Technical breakout** above the 80‑day EMA signals a short‑term bullish trend.
-- **Market sentiment** on Twitter and Reddit is shifting positive, driving retail inflows.
-
-### What You Get with Our Premium BTC Alert Service
-| Feature | Benefit |
-|---|---|
-| **Instant price‑threshold alerts** (via SMS, Email, Discord) | Never miss a critical move – act within seconds.
-| **AI‑driven probability scores** for each price move | Focus on high‑confidence setups, reduce false signals.
-| **Live trade‑playbooks** with entry, stop‑loss, and target levels | Turn alerts into executable strategies instantly.
-| **Exclusive market commentary** from seasoned crypto analysts | Understand the why behind each alert, boost your decision‑making.
-
-### How It Works (4‑Step Simplicity)
-1. **Subscribe** – Choose the plan that fits your trading style.
-2. **Set your thresholds** – $80,000, $81,000, or any custom level.
-3. **Receive real‑time alerts** – On every device, instantly.
-4. **Execute with confidence** – Follow our playbook or integrate into your bot.
-
-### Trusted by Traders Worldwide
-> "Since joining, my win‑rate on BTC trades jumped from 42% to 68%. The alerts are spot‑on!" – *Crypto trader, London*
-
-### Ready to Capture the Next Move?
-
-[**Start Free Trial – No Credit Card Required**](https://example.com/checkout?product=btc-alert)
+**Turn data into decisions.**
 
 ---
 
-**FAQ**
-- **Do I need to be an expert?** No. Alerts are actionable for all skill levels.
-- **Can I cancel anytime?** Yes, with a single click in your dashboard.
-- **Is my data secure?** We use end‑to‑end encryption and never share your info.
+## Why AI Metrics?
+- **Instant insights:** Get real‑time KPI alerts powered by AI.
+- **Predictive trends:** Forecast sales, churn, and growth with confidence.
+- **Actionable recommendations:** AI suggests the exact next step to boost revenue.
 
 ---
 
-*SEO Meta:* 
-- **Title:** BTC $80,115 (+0.3% 24h) – Real‑Time Crypto Alert & Trading Signals
-- **Description:** Bitcoin spikes to $80,115 (+0.3% 24h). Get instant alerts, AI‑driven probability scores, and live trade playbooks. Start a free trial now!
+### Who Is This For?
+Small‑to‑mid‑size business owners who want to **stop guessing** and start **growing** using data they already have.
+
+---
+
+## What You Get
+1. **Live KPI dashboard** – customizable, mobile‑ready.
+2. **AI‑driven forecasts** – 95%+ accuracy on sales & churn.
+3. **Growth playbook** – daily AI‑generated tasks (e.g., "run a retargeting ad", "email segment X").
+
+---
+
+## See It In Action
+[Book a 15‑minute demo](/demo) and watch your metrics come alive.
+
+---
+
+### Pricing
+- **Starter** – $49/mo – 5 KPIs, basic forecasts.
+- **Growth** – $149/mo – 20 KPIs, advanced forecasts, playbook.
+- **Enterprise** – Custom – Unlimited KPIs, dedicated AI consultant.
+
+---
+
+## FAQ
+**Do I need a data team?** No. Connect your existing tools (Google Analytics, Stripe, HubSpot) in minutes.
+
+**Is my data safe?** End‑to‑end encryption, GDPR‑compliant.
+
+---
+
+### Ready to accelerate growth?
+
+[Start Free Trial](/signup)
