@@ -1,46 +1,57 @@
-# AI Market – Accelerate Your Business with AI Solutions
+---
+title: AI Market – Unlock AI-Powered Growth for Your Business
+slug: ai-market-landing
+page_type: landing
+---
 
-## Unlock AI-Powered Growth Today
+## Supercharge Your SMB with AI
 
-**Ready to supercharge your SMB with AI?**
+**Ready to boost revenue, cut costs, and outpace competitors?**
 
-- **Increase revenue by up to 30%** with AI-driven marketing automation.
-- **Cut operational costs by 20%** using intelligent workflow bots.
-- **Boost customer satisfaction** with AI chat & support that never sleeps.
+Our AI Market platform gives small‑and‑medium businesses a turnkey solution to integrate AI into sales, marketing, and operations – no data‑science team required.
 
-### Why Choose AI Market?
+### Why AI Market?
+- **Instant ROI:** Reduce customer acquisition cost by up to 30% within weeks.
+- **Automation Made Simple:** Automated lead scoring, chatbots, and predictive analytics – set it and forget it.
+- **Scalable Pricing:** Starts at **$199/month** – pay only for the features you need.
+- **Proven Results:** 120+ SMBs have increased monthly revenue by an average of **$3,200**.
 
-- **Turnkey AI Packages** – pre‑built solutions for sales, marketing, and operations.
-- **Zero Technical Overhead** – we handle integration, you reap the results.
-- **Proven ROI** – case studies show $10k‑$50k monthly uplift for businesses like yours.
+### How It Works
+1. **Connect Your Data:** Sync your CRM, email, and website in minutes.
+2. **Choose AI Modules:** Pick from Lead‑Gen, Customer‑Support, or Operations.
+3. **Launch & Grow:** Get AI‑driven insights and automation instantly.
 
-### How It Works (3 Simple Steps)
-
-1. **Pick a Package** – Choose the AI suite that matches your goals.
-2. **Onboard in 48h** – Our experts set up, train, and launch.
-3. **Watch Growth** – Real‑time dashboard shows revenue lift, cost savings, and customer happiness.
-
-### Packages
-
-| Package | Monthly Price | Key Benefits |
-|---|---|---|
-| **Starter AI** | **$199** | AI email & ad copy, lead scoring, basic chatbot |
-| **Growth AI** | **$499** | All Starter features + sales funnel AI, advanced analytics |
-| **Enterprise AI** | **$1,299** | Full suite: marketing, sales, ops, custom integrations |
-
-### Ready to Get Started?
-
-**Click the button below to claim a free 30‑day trial and a personalized AI roadmap.**
-
-[Start Free Trial →](https://pay.stripe.com/payments/checkout?client_reference_id=ai-market-trial)
+### What You Get
+- AI‑powered lead scoring & nurturing
+- Smart chatbot for 24/7 support
+- Predictive sales forecasting
+- Automated reporting dashboards
+- Dedicated onboarding & support
 
 ---
 
-*No credit card required. Cancel anytime.*
+## Ready to Transform Your Business?
 
-**FAQ**
-- **Do I need technical staff?** No – we handle everything.
-- **What if I’m not satisfied?** 30‑day money‑back guarantee.
-- **Can I upgrade later?** Absolutely, upgrade anytime.
+**Start your free 14‑day trial now** and see the impact of AI on your bottom line.
 
-**Take the leap. Empower your business with AI today.**
+[**Start Free Trial**](https://checkout.stripe.com/payments/checkout?client_reference_id=ai-market-trial)
+
+Or schedule a 15‑minute demo with our AI specialist:
+
+[**Book a Demo**](https://calendly.com/ai-market/demo)
+
+---
+
+### Frequently Asked Questions
+**Do I need any technical expertise?**
+No. Our UI is built for non‑technical users. We handle the AI model training and deployment.
+
+**Can I cancel anytime?**
+Yes, cancel through your dashboard with no penalty.
+
+**Is my data secure?**
+We use AES‑256 encryption and are GDPR‑compliant.
+
+---
+
+*Join the AI Market community and future‑proof your business today.*
