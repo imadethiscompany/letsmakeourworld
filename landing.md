@@ -1,48 +1,44 @@
 # AI Coding Impact
 
-## Supercharge Your Development Team with AI‑Powered Code Generation
+## Supercharge Your Development with AI‑Powered Code Generation
 
-**Turn ideas into production‑ready code 3× faster.**
+**Stop wasting hours on repetitive coding tasks.**
 
----
-
-### Why SMBs Choose AI Coding Impact
-- **Cut development costs by up to 40%** – AI writes boilerplate, tests, and documentation so your engineers focus on high‑value work.
-- **Launch features in days, not weeks** – Instant code snippets, auto‑complete, and one‑click deployment.
-- **Reduce bugs by 30%** – AI‑driven static analysis and automated unit‑test generation catches errors before they ship.
-- **Scale without hiring** – Empower a small team to handle projects that previously required a full‑stack squad.
+AI Coding Impact lets developers and small‑business tech teams generate clean, production‑ready code in seconds. Our AI writes, tests, and integrates code snippets tailored to your stack, so you can ship features **3‑5× faster**.
 
 ---
 
-#### How It Works (3 Simple Steps)
-1. **Upload your specs** – Paste a user story, API contract, or design mock.
-2. **AI generates production‑ready code** – Language‑specific, linted, and fully tested.
-3. **Deploy with one click** – Connect to GitHub, Vercel, or your CI pipeline.
+### Why It Works for SMBs
+- **Instant ROI:** Cut development time by up to 80%, freeing resources for growth.
+- **Zero Learning Curve:** Just describe what you need in plain English; the AI handles the rest.
+- **Full Stack Support:** Works with JavaScript, Python, Ruby, Java, Go, and more.
+- **Secure & Compliant:** All code runs in an isolated sandbox with audit logs.
 
 ---
 
-### Real Results
-| Company | Savings | Time‑to‑Market |
-|---|---|---|
-| **TechCo** | $12,000/mo | 4 days → 1 day |
-| **BizBuilder** | $8,500/mo | 3 weeks → 5 days |
-| **LocalShop** | $4,200/mo | 2 weeks → 4 days |
+## Transform Your Workflow
+1. **Describe** the feature or bug you need.
+2. **Generate** production‑ready code instantly.
+3. **Test** with built‑in unit tests.
+4. **Deploy** with one click.
+
+> *"We reduced our sprint cycle from two weeks to three days using AI Coding Impact."* – **CTO, Nordic SaaS startup**
 
 ---
 
-#### Ready to Accelerate Your Code?
+### Ready to Accelerate?
 
-**Start your free 14‑day trial** and see the impact on your next project. No credit card required.
+**Get early access now and double your output.**
 
-[**Start Free Trial**](https://aicodingimpact.com/checkout?plan=trial)
-
----
-
-*Trusted by developers and founders worldwide.*
+[Start Free Trial](/signup)
 
 ---
 
-*FAQ*
-- **Is my code secure?** – All generated code runs through security linting and is stored encrypted.
-- **What languages are supported?** – JavaScript/TypeScript, Python, Ruby, Go, and more.
-- **Can I cancel anytime?** – Yes, with a single click in your dashboard.
+#### FAQ
+- **Is the code safe?** Yes – all generation runs in a sandbox and is fully vetted before delivery.
+- **Do I need a dev team?** No, anyone can use it – from solo founders to seasoned engineers.
+- **Pricing?** Flexible subscription starting at $49/mo.
+
+---
+
+**AI Coding Impact – Code Smarter, Ship Faster.**
