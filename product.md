@@ -1,11 +1,11 @@
 # AI Compliance Blueprint for Aviation
 
-**Ensure your AI systems meet the FAA’s new regulations – fast, reliable, proven.**
+Ensure your AI systems meet the FAA’s new regulations – fast, reliable, proven.
 
 - Regulatory Gap Analysis
 - AI Risk Assessment Framework
 - Implementation Roadmap
-- Compliance Documentation Package
+- Ongoing Compliance Support
 
 **One‑off consulting package: $2,997**
 
