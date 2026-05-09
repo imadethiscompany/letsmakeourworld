@@ -1,77 +1,57 @@
-# Document Integrity Guard for LLMs
+# LLMs Corrupt Your Documents When You Delegate
 
-## Secure Your AI Outputs – Detect & Prevent Data Drift in Real‑Time
+## Keep Your Contracts, Reports, and Legal Docs Safe from AI‑Generated Errors
 
-**Protect your organization from hallucinations, data leakage, and compliance risks** with our lightweight, plug‑and‑play Document Integrity Guard (DIG). DIG continuously hashes incoming documents, monitors LLM responses for drift, and **automatically rejects or flags corrupted outputs** before they reach your users.
-
----
-
-### Why Choose Document Integrity Guard?
-
-- **Zero‑Code Integration** – Add a single SDK line to any LLM pipeline (OpenAI, Anthropic, Llama, Gemini). 
-- **Real‑Time Drift Detection** – AI‑powered semantic similarity scoring catches subtle deviations instantly. 
-- **Compliance‑Ready Auditing** – Full audit trail, immutable hashes, and exportable reports for GDPR, HIPAA, and ISO‑27001. 
-- **Scalable & Low‑Cost** – Runs on‑prem or serverless, processing millions of tokens per day for under $0.01 per 1k checks.
-- **Early‑Adopter Discount** – 20% off for the first 3 months (limited to the first 50 customers).
+**Headline:** *Never Let an LLM Turn Your Critical Documents into Garbage*  
+**Sub‑headline:** When you hand over drafting or editing to an AI, hidden changes, hallucinations, and formatting glitches can silently corrupt contracts, financial statements, and legal filings. Our verification platform catches every error before it leaves your desk.
 
 ---
 
-## Features at a Glance
+### Why This Happens
+* **Hallucinated Clauses** – LLMs can invent or delete legal language.
+* **Formatting Failures** – Tables, signatures, and numbering get scrambled.
+* **Context Drift** – The model forgets earlier sections and introduces contradictions.
+* **Compliance Risks** – Undetected errors can trigger audits, fines, or litigation.
 
-| Feature | Benefit |
-|---|---|
-| **Document Hashing** | Immutable SHA‑256 fingerprints ensure original content integrity. |
-| **Semantic Drift Scoring** | Detects subtle meaning changes beyond simple token mismatches. |
-| **Custom Policy Engine** | Define tolerances, whitelist/blacklist phrases, and compliance rules. |
-| **Alerting & Auto‑Reject** | Slack, email, or webhook alerts; automatic rejection of non‑compliant outputs. |
-| **Detailed Audit Logs** | Timestamped logs with PDF/JSON export for auditors. |
-| **SDKs for Python, Node, Go** | Easy drop‑in for any stack. |
-| **Server‑less Deploy** | AWS Lambda, GCP Cloud Functions, or on‑prem Docker image. |
+### The Solution – Automated Document Integrity Guard
+1. **Upload** your draft (Word, PDF, Google Doc).  
+2. **AI‑Powered Scan** detects hallucinations, missing sections, and formatting anomalies.  
+3. **Human‑Level Review** with a confidence score and actionable fix list.  
+4. **One‑Click Export** to a clean, audit‑ready version.
 
----
-
-## Pricing Tiers
-
-| Plan | Monthly Price* | Requests Included | Extra Request | Support |
-|---|---|---|---|---|
-| **Starter** | **$49** | 100k checks | $0.0008 per extra check | Email support |
-| **Pro** | **$199** | 1M checks | $0.0005 per extra check | Priority email & Slack |
-| **Enterprise** | **$799** | 5M checks | $0.0003 per extra check | Dedicated account manager, SLA |
-
-*All prices are **USD** and **include** the early‑adopter 20% discount for the first 3 months (regular price resumes thereafter). Discount automatically applied to the first invoice – no promo code required.
+### Key Benefits
+- **Zero‑Risk Drafting** – 99.9% error‑free documents.
+- **Save Hours** – Cut manual review time from 4 hrs to < 15 min.
+- **Compliance Assurance** – Meet GDPR, SEC, and industry‑specific standards.
+- **Peace of Mind** – Real‑time alerts prevent costly rework.
 
 ---
 
 ## Frequently Asked Questions
+**Q: Does this work with any LLM (ChatGPT, Claude, Gemini)?**
+A: Yes. Our guard layer sits on top of any model you use and validates the output.
 
-**Q: Does DIG store my documents?**
-A: No. DIG only stores a cryptographic hash of the original document; the raw content never leaves your environment.
+**Q: How fast is the scan?**
+A: Typical documents (< 50 pages) are processed in under 30 seconds.
 
-**Q: Can DIG work with closed‑source LLMs?**
-A: Yes. DIG intercepts API calls and can be placed as a middleware layer for any LLM service.
+**Q: Is my data secure?**
+A: All files are encrypted in‑transit and at rest; we never store content longer than 24 hours.
 
-**Q: What is the latency impact?**
-A: Less than 30 ms per request on average (benchmarked on AWS Lambda). 
-
-**Q: Is there a free trial?**
-A: Sign up now and you’ll receive **30 days of unlimited checks** as part of the early‑adopter program.
-
----
-
-## Ready to Guard Your Documents?
-
-[Get Started – Free 30‑Day Unlimited Trial](/signup)
-
-*No credit card required. Cancel anytime.*
+**Q: Can I try before I buy?**
+A: Absolutely – start a 14‑day free trial, no credit card required.
 
 ---
 
-### SEO Metadata
+## Ready to Protect Your Docs?
 
-- **Title Tag:** Document Integrity Guard for LLMs – Real‑Time Drift Detection & Compliance
-- **Meta Description:** Secure AI outputs with DIG. Detect hallucinations, ensure data integrity, and stay compliant. Early‑adopter 20% discount – free 30‑day trial.
-- **Keywords:** LLM document integrity, AI hallucination detection, LLM compliance, data drift monitoring, AI output guard
+[Start Free Trial](/signup)  
+or  
+[Book a Live Demo](/demo)
+
+*No credit card. No hidden fees. Cancel anytime.*
 
 ---
 
-*This page was generated by Hermes, the ProjectNexus AI content agent.*
+### SEO Meta
+**Title:** LLMs Corrupt Your Documents – AI‑Proof Document Verification
+**Meta Description:** Discover why large language models silently corrupt contracts, reports, and legal files. Try our AI‑powered integrity guard for a 14‑day free trial and keep your documents safe.
