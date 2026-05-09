@@ -1,47 +1,75 @@
-# AI Metrics into Hybrid Models
+# Nylas CLI
 
-## Unlock Predictive Power for Your Business
+## Supercharge Your Email & Calendar Automation
 
-Combine the precision of AI‑driven analytics with the reliability of classic statistical models. Our **Hybrid AI Metrics Platform** delivers:
+**Write once, run everywhere.**
 
-- **Actionable insights in seconds** – Cut reporting time from hours to minutes.
-- **30% higher forecast accuracy** – Blend machine learning with proven econometric techniques.
-- **Scalable across any dataset** – From 10K rows to billions, the system auto‑tunes.
-- **Built‑in governance** – Transparent metrics, audit trails, and compliance ready.
-
-### Why Hybrid Beats Pure AI
-
-Pure AI models often overfit, while traditional models lack adaptability. Our hybrid engine:
-1. **Ingests raw data** – Clean, enrich, and feature‑engineer automatically.
-2. **Runs parallel models** – Deep learning + Bayesian regression.
-3. **Ensembles results** – Optimizes for lowest error and highest confidence.
-
-### Who Benefits?
-- **Finance teams** needing ultra‑accurate revenue forecasts.
-- **Supply‑chain ops** optimizing inventory with demand‑sensing.
-- **Product managers** predicting user churn before it happens.
-
-### Real‑World Results
-| Industry | Forecast Error Reduction | Time Saved |
-|----------|--------------------------|------------|
-| SaaS (ARR) | 32% | 4 hrs/week |
-| Retail (Demand) | 28% | 3 hrs/day |
-| Manufacturing (Yield) | 35% | 2 hrs/day |
-
-### Get Started in 3 Simple Steps
-1. **Connect your data** – Secure one‑click integration.
-2. **Choose your KPI** – Revenue, churn, demand, etc.
-3. **Launch the hybrid model** – Receive a dashboard with predictions and confidence scores.
-
-### FAQ
-**Do I need a data science team?** No. Our platform abstracts the complexity; you get a ready‑to‑use dashboard.
-**Is my data safe?** Yes. End‑to‑end encryption and role‑based access.
-**Can I try before I buy?** Absolutely – a 14‑day free trial with no credit card required.
+Nylas CLI lets developers interact with the Nylas API directly from their terminal—no SDKs, no boilerplate, just fast, reliable automation.
 
 ---
 
-## Ready to Transform Your Forecasting?
+### Why Nylas CLI?
+- **Instant setup** – Install with a single `npm i -g nylas-cli` and start syncing in seconds.
+- **Full API coverage** – Access email, calendar, contacts, and webhooks without writing code.
+- **Secure & compliant** – OAuth2 token management, GDPR‑ready, and PCI‑level encryption.
+- **Team friendly** – Share scripts across your org, version‑control them, and audit every run.
 
-**Start your free trial now** and see the hybrid advantage in action.
+---
 
-[Start Free Trial](https://example.com/signup)
+### Key Benefits
+1. **Cut integration time by 80%** – No more waiting for SDK releases.
+2. **Reduce operational costs** – Automate inbox triage, meeting scheduling, and follow‑ups from the command line.
+3. **Boost developer productivity** – Prototype features in minutes, ship to production in hours.
+4. **Maintain compliance** – Built‑in consent handling and audit logs.
+
+---
+
+### How It Works
+1. **Authenticate** – `nylas login` opens a secure OAuth flow.
+2. **Run commands** – `nylas messages list --inbox`, `nylas events create "Team Sync" --when tomorrow 10am`.
+3. **Pipe & script** – Combine with `jq`, `grep`, or any shell tool to build powerful pipelines.
+
+---
+
+### Quick Start
+```bash
+# Install globally
+npm i -g nylas-cli
+
+# Authenticate your account
+nylas login
+
+# List recent emails
+nylas messages list --limit 10
+
+# Auto‑reply all unread messages
+nylas messages list --unread | nylas messages reply --template "Thanks for reaching out! I’ll get back shortly."
+```
+
+---
+
+### Who Should Use Nylas CLI?
+- **Developers** building email‑driven features.
+- **Ops teams** automating inbox cleanup and calendar syncs.
+- **Product managers** prototyping workflows without writing a line of code.
+
+---
+
+### Frequently Asked Questions
+**Q:** Do I need a Nylas account?
+**A:** Yes – sign up for a free developer account and get 10,000 API calls/month.
+
+**Q:** Is it secure?
+**A:** All traffic is encrypted; tokens are stored locally with OS‑level protection.
+
+**Q:** Can I use it in CI/CD pipelines?
+**A:** Absolutely – the CLI works in any environment with Node.js.
+
+---
+
+### Get Started Now
+[**Download Nylas CLI**](https://www.nylas.com/cli) – No credit card required.
+
+---
+
+*Boost your productivity. Automate email & calendar tasks with a single command.*
