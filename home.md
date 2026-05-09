@@ -1,49 +1,53 @@
-# Transform Your Business with Zero‑Setup Email & Calendar Automation
+# 829 Studios – Your Tech‑Enabled Digital Marketing Partner
 
-## Seamless Sync. Zero Coding. Immediate ROI.
+## Supercharge Growth with Data‑Driven, Automated Marketing
 
-**Instantly connect** your email and calendar, automate repetitive tasks, and boost productivity by up to **300%** – all without a single line of code.
+**Ready to dominate your market without the guesswork?**
 
----
-### Why Choose Our Nylas‑Powered Automation?
-
-| Benefit | Impact |
-|---|---|
-| **Zero‑Setup** – One‑click connection to Gmail, Outlook, Office 365, and iCloud. | Get live in **minutes**, not weeks. |
-| **AI‑Driven Workflows** – Auto‑respond, schedule meetings, create tasks from emails. | Save **5+ hours/week** per employee. |
-| **Enterprise‑Grade Reliability** – 99.9% uptime, GDPR‑compliant, end‑to‑end encryption. | Protect data & maintain trust. |
-| **Scalable Pricing** – Pay per active sync, no hidden fees. | **$49/mo** for up to 5,000 events – ROI in **< 30 days**. |
+At 829 Studios we blend cutting‑edge AI, automation, and proven growth strategies to turn clicks into customers—fast, affordable, and measurable.
 
 ---
-### How It Works (Zero‑Setup in 3 Simple Steps)
-1. **Connect** – Authorize Nylas with your email & calendar provider.
-2. **Configure** – Choose from pre‑built automation templates or drag‑and‑drop your own.
-3. **Automate** – Let the platform run 24/7, syncing data and triggering actions via a secure REST endpoint.
+
+### Why Choose 829 Studios?
+- **AI‑Powered Campaigns** – Real‑time bid adjustments, audience look‑alikes, and copy generation that continuously improve.
+- **Full‑Stack Automation** – From lead capture to nurture sequences, we automate the entire funnel so you can focus on strategy.
+- **Transparent ROI** – Custom dashboards show CPL, CAC, and LTV in real time; you only pay for results.
+- **Scalable for Any Budget** – Packages start at $199/mo and grow with your business.
 
 ---
-### Real Results
-> "We reduced manual data entry by **87%** and increased closed‑deal velocity by **45%** after integrating the automation. The ROI was evident in the first month." – **Operations VP, TechCo**
+
+### Our Proven Process
+1. **Audit & Strategy** – Deep dive into your brand, audience, and competition.
+2. **Tech Setup** – Connect your CRM, ad accounts, and analytics to our AI engine.
+3. **Launch & Optimize** – Automated campaigns go live, AI optimizes daily.
+4. **Scale & Report** – Scale winning ads, receive weekly performance reports.
 
 ---
-### Pricing that Grows with You
-- **Starter** – $49/mo – 5,000 synced events, 3 automation templates.
-- **Growth** – $199/mo – 25,000 events, unlimited templates, priority support.
-- **Enterprise** – Custom – Dedicated account manager, SLA, on‑premise option.
 
-> **Free 14‑day trial – No credit card required**
-
----
-### Get Started Instantly
-[**Start Your Free Trial**](#)  
-or schedule a live demo with our automation specialist.
+### Success Stories
+- **E‑Commerce Store** – 3× ROAS in 45 days, ad spend reduced by 30%.
+- **Local SaaS Startup** – 150% increase in qualified leads, CAC cut from $120 to $45.
+- **Health & Wellness Brand** – 2.5× email open rates after AI‑driven copy.
 
 ---
+
 ### Frequently Asked Questions
-**Q:** Do I need developer resources?  
-**A:** No. Our visual workflow builder lets anyone create automations.
+**Do I need a marketing team?**
+No. Our platform handles strategy, execution, and reporting.
 
-**Q:** Is my data safe?  
-**A:** We use end‑to‑end encryption and are fully GDPR compliant.
+**What if I’m not tech‑savvy?**
+Our onboarding specialist sets everything up and trains you.
+
+**Can I cancel anytime?**
+Yes – month‑to‑month with 30‑day notice.
 
 ---
-#### Boost Your ROI Today – Zero‑Setup, Unlimited Potential.
+
+## Get Started Today
+**Book a free 15‑minute strategy call** and see how AI can double your leads.
+
+[Schedule a Call →](https://calendly.com/829studios/strategy)
+
+---
+
+*Boost your growth with the power of technology. 829 Studios – Marketing, re‑engineered.*
