@@ -1,79 +1,60 @@
 # Content Marketing Service
 
-## Supercharge Your Brand with Data‑Driven Content Marketing
+## Supercharge Your Brand with Data‑Driven Content
 
-**Are you struggling to attract qualified leads, rank on Google, or turn visitors into customers?** Our end‑to‑end **Content Marketing Service** delivers a proven, ROI‑focused strategy that turns your brand into an authority that prospects can’t ignore.
-
----
-
-### Why Choose Our Content Marketing Service?
-
-| Benefit | What It Means for You |
-|---|---|
-| **Higher Search Rankings** | Rank on the first page for high‑intent keywords within 90‑days. |
-| **Qualified Leads** | Generate 2‑5× more marketing‑qualified leads through targeted content. |
-| **Brand Authority** | Position your company as the go‑to expert in your niche. |
-| **Scalable Growth** | Content assets that keep delivering traffic for years. |
-| **Transparent Reporting** | Weekly dashboards showing traffic, leads, and ROI. |
+**Ready to turn traffic into customers?** Our end‑to‑end Content Marketing Service delivers a relentless stream of high‑quality, SEO‑optimized content that drives qualified leads and boosts revenue.
 
 ---
-
-### Our Proven 5‑Step Process
-
-1. **Discovery & Audit** – Deep dive into your business, audience personas, and existing content.
-2. **Keyword & Topic Strategy** – Data‑driven research to capture demand and fill gaps.
-3. **Content Creation** – SEO‑optimized blog posts, guides, case studies, and multimedia.
-4. **Distribution & Promotion** – Amplify via SEO, social, email, and strategic outreach.
-5. **Measure & Optimize** – Ongoing analytics, A/B testing, and content refreshes.
-
-Each step is handled by a dedicated specialist team (strategist, SEO analyst, writer, designer, and outreach manager) to ensure flawless execution.
+### Why Choose Us?
+- **Results‑First Strategy** – We start with a deep audit, keyword research, and buyer‑persona mapping to ensure every piece of content targets a high‑intent search.
+- **Full‑Stack Production** – From blog posts, case studies, and white‑papers to videos and social snippets – we handle research, writing, design, and distribution.
+- **Scalable Hub‑and‑Spoke Model** – Build authority pillars that rank on Google and feed a network of supporting articles to capture long‑tail traffic.
+- **Transparent Reporting** – Monthly dashboards show organic traffic growth, keyword rankings, and lead conversions.
 
 ---
-
-### What You’ll Get
-
-- **Monthly Content Calendar** – 8‑12 high‑quality pieces per month.
-- **Fully Optimized Blog Posts** – 1,200‑2,000 words, on‑page SEO, internal linking.
-- **Lead Magnets & Gated Assets** – E‑books, checklists, templates.
-- **Link‑Building Campaigns** – 5‑10 high‑authority backlinks per month.
-- **Performance Dashboard** – Real‑time traffic, rankings, leads, and revenue impact.
-
----
-
-### Pricing Packages
-
-| Package | Monthly Price | Includes |
-|---|---|---|
-| **Starter** | **$799** | 4 blog posts, keyword research, basic SEO, monthly report |
-| **Growth** | **$1,499** | 8 blog posts, advanced SEO, link building, lead magnet, weekly reporting |
-| **Scale** | **$2,799** | 12+ pieces, full‑funnel content, outreach, conversion optimization, dedicated account manager |
-
-*All packages are contract‑free. Cancel anytime with 30‑day notice.*
+### Our Proven Process
+1. **Discovery & Audit** – Identify gaps, competitor content, and high‑value keywords.
+2. **Content Strategy** – Define pillars, topic clusters, and editorial calendar.
+3. **Creation** – Expert writers + SEO specialists craft compelling, data‑rich pieces.
+4. **Optimization & Publishing** – On‑page SEO, internal linking, schema markup.
+5. **Promotion & Distribution** – Outreach, social amplification, repurposing.
+6. **Performance Tracking** – Real‑time analytics & continuous iteration.
 
 ---
+### What You Get
+| Deliverable | Frequency |
+|-------------|-----------|
+| Blog Posts (1,200‑1,800 words) | 4 per month |
+| Pillar Guides (2,500‑3,500 words) | 1 per quarter |
+| SEO Audits & Keyword Maps | 1 per quarter |
+| Social Snippets & Visuals | 8 per month |
+| Performance Dashboard | Monthly |
 
+---
+### Pricing
+| Plan | Monthly Price | Ideal For |
+|------|--------------|-----------|
+| **Growth** | **$1,200** | Start‑ups & SMBs looking for 10‑15 pieces/month |
+| **Scale** | **$2,500** | Growing brands needing 20+ pieces + outreach |
+| **Enterprise** | **Custom** | Full‑service agency partnership |
+
+> **Free 30‑minute Strategy Call** – No commitment, just actionable insights.
+
+---
 ### Frequently Asked Questions
+**Q:** How fast can we see traffic results?
+**A:** Most clients notice a measurable lift in organic traffic within 6‑8 weeks of publishing the first pillar content.
 
-**Q: How long before I see results?**
-A: Most clients see measurable traffic lift within 4‑6 weeks and lead growth within 8‑12 weeks.
+**Q:** Do you handle keyword research?
+**A:** Absolutely – we use Ahrefs, SEMrush, and proprietary intent analysis to target high‑value terms.
 
-**Q: Do I need to provide topics?**
-A: No. Our research identifies the exact topics your audience is searching for.
-
-**Q: What if I already have a blog?**
-A: We audit your existing content, improve SEO, and fill gaps with new high‑performing pieces.
-
-**Q: Is there a long‑term commitment?**
-A: We recommend a minimum 3‑month engagement to allow SEO to take effect, but there’s no lock‑in.
+**Q:** What if we need more content than the plan?
+**A:** Add‑on packs are available at $150 per extra piece.
 
 ---
+### Ready to Dominate Search?
 
-### Ready to Accelerate Your Growth?
+[**Book Your Free Strategy Call**](/contact?service=content-marketing)  
+Or email us at **sales@yourcompany.com**.
 
-**Book a free strategy call** and discover how our Content Marketing Service can deliver a predictable pipeline of qualified leads.
-
-[**Schedule Your Call →**](https://calendly.com/your-company/30min)
-
----
-
-*Keywords: content marketing service, content marketing agency, B2B content marketing, SEO content writing, lead generation content*
+*Your growth is our mission. Let’s write your success story.*
