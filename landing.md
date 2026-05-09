@@ -1,74 +1,43 @@
-# Nylas CLI
+# GPT-5.5 May Burn Fewer Tokens, But It Always Burns More Cash
 
-## Supercharge Your Development Workflow with Email & Calendar Automation
+## The Real Cost of AI Prompting
 
-**Build, test, and ship email & calendar integrations in seconds—no code, no servers.**
+**Headline:** *You’re saving tokens, but your wallet is bleeding.*
 
----
-
-### Why Nylas CLI?
-- **Instant API access** – Connect to Gmail, Outlook, iCloud, and more with a single command.
-- **Zero infrastructure** – No servers, no webhooks, no OAuth headaches.
-- **Developer‑first** – Designed for engineers, with TypeScript typings, local sandbox, and CI/CD friendly.
-- **Cost‑effective** – Pay‑as‑you‑go pricing, no hidden fees.
+**Sub‑headline:** GPT‑5.5’s token‑efficiency is a myth – every request still costs you real money. Learn how to stop over‑paying for marginal token savings.
 
 ---
 
-### Core Benefits
-1. **Launch in minutes** – Scaffold a full email sync in under 5 minutes.
-2. **Ship faster** – Write less boilerplate, focus on product logic.
-3. **Stay compliant** – Built‑in GDPR, HIPAA, and security controls.
-4. **Scale effortlessly** – From 10 to 10 000 users without code changes.
+### Why Token‑Savings Don’t Equal Dollar‑Savings
+- **Pricing is per‑request, not per‑token** – OpenAI bills by the request, so shaving a few tokens rarely changes the bill.
+- **Hidden overhead** – API latency, compute spikes, and premium model fees add up faster than token counts.
+- **Scale‑up surprise** – When your app scales, token‑efficiency disappears under massive request volume.
 
 ---
 
-### How It Works (4‑Step Flow)
-1. **Install** – `npm i -g nylas-cli`.
-2. **Configure** – Run `nylas login` to connect your mailbox.
-3. **Generate** – `nylas generate inbox --lang=ts` creates typed SDK.
-4. **Deploy** – Use `nylas deploy` to push to the cloud instantly.
+### What You’ll Get From This Page
+1. **Clear cost breakdown** – See exactly how token usage translates to dollars.
+2. **Optimization checklist** – Proven tactics to truly lower your spend, not just your token count.
+3. **ROI calculator** – Plug in your numbers and discover hidden savings.
+4. **Exclusive audit offer** – Get a free 30‑minute cost‑audit call with our AI finance experts.
 
 ---
 
-### Who Is It For?
-- **SaaS founders** building email‑driven products.
-- **Product teams** needing quick prototypes.
-- **DevOps engineers** automating inbox workflows.
-- **Consultants** delivering client integrations.
+### Take Action Now
+- **[Schedule Your Free Audit →](https://example.com/audit)**
+- **[Download the ROI Calculator (PDF)](https://example.com/roi-calculator.pdf)**
+
+*Stop confusing token‑efficiency with cash‑efficiency. Turn insights into real dollars saved today.*
 
 ---
 
-### Social Proof
-> "Nylas CLI cut our integration time from weeks to hours. Our engineers love it!" – *CTO, FinTech Startup*
+#### FAQ
+**Q:** Isn’t fewer tokens always cheaper?
+**A:** Only if you’re billed per‑token. OpenAI’s pricing model means the cost per request dominates.
 
-> "The local sandbox let us test OAuth flows without a server – game changer." – *Lead Engineer, Marketing Automation*
-
----
-
-### Pricing
-- **Free Tier** – 1000 API calls / month.
-- **Pro** – $49/mo for 100k calls, priority support.
-- **Enterprise** – Custom volume & SLA.
-
-[Get Started Free](/signup)  •  [View Docs](/docs)
+**Q:** How can I verify my spend?
+**A:** Use our free audit or the ROI calculator to map usage to dollars.
 
 ---
 
-### FAQs
-**Q:** Do I need to write any server code?
-**A:** No. All heavy lifting runs on Nylas’ managed infrastructure.
-
-**Q:** Which email providers are supported?
-**A:** Gmail, Outlook, iCloud, Yahoo, and any IMAP/SMTP server.
-
----
-
-### SEO Meta
-- **Title:** Nylas CLI – Instant Email & Calendar API for Developers
-- **Description:** Build email & calendar integrations in seconds with Nylas CLI. No servers, no OAuth, just a single command. Free tier available.
-
----
-
-#### Ready to automate?
-
-**[Start Your Free Trial →](/signup)**
+*Ready to stop burning cash for marginal token savings?*
