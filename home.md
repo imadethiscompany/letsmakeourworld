@@ -1,43 +1,33 @@
 # YouTube Automation Agency
 
-## Unlock Explosive Growth on YouTube Without Lifting a Finger
+## Scale Your Channel Without Lifting a Finger
 
-Do you dream of **massive subscriber gains**, **viral videos**, and **steady revenue** from YouTube but hate the endless grind of content planning, editing, SEO, and publishing? Our **YouTube Automation Agency** handles every step for you – from niche research to thumbnail creation, video editing, SEO‑optimized titles, tags, descriptions, and scheduled publishing.  
+**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle:
+- **Content creation** – AI‑generated scripts, voice‑overs, and HD video editing.
+- **Channel growth** – SEO‑optimized titles, tags, thumbnails, and upload scheduling.
+- **Monetization** – AdSense setup, sponsorship outreach, and product funnel integration.
 
-### Why Choose Our Agency?
-
-- **Full‑stack automation**: AI‑driven script writing, voice‑over, video editing, and upload.
-- **Data‑backed growth**: Keyword and trend analysis ensures every video targets high‑intent searches.
-- **Turnkey solution**: You get a ready‑to‑monetize channel with **no technical hassle**.
-- **Scalable pricing**: From **$499/month** for a single channel up to **$4,999/month** for multi‑channel networks.
-
-### Our Proven Process
-
-1. **Niche & Keyword Discovery** – AI scans the web for untapped, high‑volume topics.
-2. **Script & Voiceover Generation** – Natural‑language models create engaging scripts; professional synthetic voice‑overs.
-3. **Video Production** – Automated editing, B‑roll insertion, branding, and subtitles.
-4. **SEO Optimization** – Optimized titles, tags, descriptions, and timestamps.
-5. **Publish & Promote** – Scheduled uploads, community post templates, and thumbnail A/B testing.
-
-### Results You Can Expect
-
-| Metric | Typical Outcome |
-|--------|-----------------|
-| **Subscribers** | +2,000–10,000 per month |
-| **Views** | 100k–1M+ first‑month views |
-| **Revenue** | $500–$5,000+ monthly (AdSense + affiliates) |
+### Why Choose Us?
+- **Zero hiring cost** – Our AI pipeline replaces a full video team.
+- **Fast turnaround** – New video every 48‑72 hours.
+- **Proven results** – Clients see 3‑5× subscriber growth in the first month.
 
 ### Packages
+| Plan | Monthly Videos | Price | Ideal For |
+|------|----------------|-------|-----------|
+| **Starter** | 4 | $799 | Solo creators & coaches |
+| **Growth** | 12 | $2,299 | Growing brands |
+| **Enterprise** | Unlimited | Custom | Agencies & media groups |
 
-- **Starter** – $499/mo: 2 videos/month, basic SEO, thumbnail design.
-- **Growth** – $1,299/mo: 5 videos/month, advanced SEO, A/B thumbnails, community posts.
-- **Scale** – $2,999/mo: 10 videos/month, full channel management, ad‑campaign setup.
-- **Enterprise** – Custom pricing: 20+ videos/month, multi‑channel networks, dedicated account manager.
+### Ready to Automate?
+**Book a free strategy call** and get a custom growth plan.
 
-### Ready to Automate Your YouTube Success?
-
-[**Start Your Free Consultation**](/contact) – Let’s discuss how we can turn your channel into a revenue‑generating machine.
+[**Schedule Your Call →**](https://calendly.com/yt-automation/strategy)
 
 ---
+**FAQ**
+- *Do I need to provide footage?* No – we source royalty‑free B‑roll.
+- *Can I keep my branding?* Absolutely, we use your logos and style guide.
+- *What’s the cancellation policy?* Cancel anytime with 30‑day notice.
 
-*We’re a **Vercel‑hosted** site. Deployments are instant, and our SEO page is fully optimized for Google rankings.*
+**Contact us**: hello@ytautomation.com
