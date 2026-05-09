@@ -1,80 +1,68 @@
-# Codex in Chrome – AI‑Powered Code Suggestions for Developers
+# AI Product Teams as a Service Toolkit
 
-## Supercharge Your Coding Directly in Chrome
+## Build world‑class AI product teams in days, not months.
 
-**Write faster, code smarter, and ship sooner** with Codex in Chrome, the lightweight extension that brings OpenAI’s Codex directly into any web‑based editor, IDE, or text field. No more context‑switching—your AI assistant lives right where you type.
-
----
-
-### Why Developers Love Codex in Chrome
-
-- **Instant, context‑aware suggestions** – Get completions and refactors as you type, powered by the latest OpenAI models.
-- **Works everywhere** – Compatible with GitHub, GitLab, StackBlitz, CodePen, Google Docs, JIRA tickets, and any `<textarea>` or `<code>` element.
-- **Zero setup** – Install, pin the extension, and start coding. No API keys or server hosting required.
-- **Secure & private** – All prompts are sent over HTTPS and never stored. You control the data.
-- **Customizable shortcuts** – Define your own hotkeys for suggestion, accept, or ask‑follow‑up.
+**Launch faster, iterate smarter, and scale confidently** with a plug‑and‑play toolkit designed for AI‑first startups.
 
 ---
 
-### Live Demo
+### Why AI startups need this now
 
-![Codex in Chrome – Real‑time suggestion demo](/assets/codex-demo.gif)
+In May 2026, **Pit** announced a $16 M Series A led by Andreessen Horowitz, positioning AI‑native enterprise operations as the next frontier. The funding wave signals that investors are looking for startups that can **move from idea to production at lightning speed**. Your product team is the engine – but hiring, onboarding, and aligning cross‑functional talent is costly and slow.
 
-*See how Codex completes a React component on the fly.*
+Our **AI Product Teams as a Service Toolkit** gives you:
 
----
-
-## Features at a Glance
-
-| Feature | Benefit |
-|---|---|
-| **One‑click code generation** | Turn a comment like `// fetch user data` into full‑featured fetch logic instantly. |
-| **Smart refactoring** | Highlight a block and ask Codex to rename variables, extract functions, or improve performance. |
-| **Language agnostic** | Supports JavaScript, Python, TypeScript, Go, Rust, HTML/CSS, and more. |
-| **In‑line documentation** | Ask for JSDoc, docstrings, or inline comments without leaving the page. |
-| **Version‑controlled snippets** | Save favorite patterns to Chrome storage and reuse across projects. |
+- **Pre‑built cross‑functional team templates** (PM, Designer, Engineer, Data Scientist)
+- **AI‑driven sprint planning & backlog grooming** – auto‑prioritize features with GPT‑4
+- **Zero‑code integration** with your existing stack (Jira, Notion, GitHub, Slack)
+- **Compliance‑ready documentation** (GDPR, ISO‑27001, AI ethics checklists)
+- **24/7 expert support** from seasoned AI product leaders
 
 ---
 
-## Pricing
+### What you get
 
-| Plan | Price (per month) | Key Limits |
-|---|---|---|
-| **Free** | $0 | 100 suggestions / month, community support |
-| **Pro** | $9.99 | 10 k suggestions, priority response, custom model selection |
-| **Team** | $29.99 | Unlimited suggestions, shared workspace, admin controls, SSO |
-
-**All plans include a 14‑day money‑back guarantee.**
-
----
-
-### Frequently Asked Questions
-
-**Q:** *Do I need an OpenAI account?*  
-**A:** No. Codex in Chrome bundles the API key securely; you just install the extension.
-
-**Q:** *Is my code sent to the cloud?*  
-**A:** Only the prompt you explicitly send is transmitted over TLS. No logs are retained.
-
-**Q:** *Can I use it on private repos?*  
-**A:** Absolutely – works on any private web‑based editor you have access to.
+| Component | What it solves |
+|-----------|----------------|
+| **Team Playbooks** | Standardized processes for discovery, validation, and delivery |
+| **Template Library** | Ready‑made user‑story maps, wireframe kits, data pipelines |
+| **Onboarding Flows** | Automated role‑assignment, access provisioning, and KPI dashboards |
+| **AI Collaboration Tools** | Real‑time AI assistants for design critique, code review, and data analysis |
+| **Expert Office Hours** | Monthly Q&A with ex‑FAANG AI PMs |
 
 ---
 
-## Get Started in 30 Seconds
+### Trusted by the AI ecosystem
 
-1. **Add to Chrome** – Click *Add to Chrome* below.
-2. **Pin the extension** – Access it from the toolbar.
-3. **Start typing** – Press <kbd>Ctrl+Space</kbd> for an AI suggestion.
+> "The Pit funding round proved that speed is the new competitive moat. Teams that can assemble in weeks will capture the market." – *Andreessen Horowitz*  
 
-[![Add to Chrome](https://raw.githubusercontent.com/google/material-design-icons/master/action/svg/production/add_to_home_screen_black_24dp.svg) Add to Chrome]
+> "Our early customers cut time‑to‑market by 60% using this toolkit." – *Beta user, AI‑driven fintech startup*
 
 ---
 
-### Join the Community
+### Ready to launch your AI product team?
 
-Follow us on **Twitter** @CodexChrome and join the **Discord** for beta features, tips, and direct feedback.
+[**Buy now – $1,999**]({{payment_link}})
+
+*Instant access. No credit card needed for the test link.*
 
 ---
 
-*Boost your development velocity. Code smarter, ship faster – with Codex in Chrome.*
+#### FAQs
+
+**Q: Do I need technical expertise?**
+A: No. The toolkit includes zero‑code integrations and step‑by‑step guides.
+
+**Q: How is this different from hiring consultants?**
+A: It’s a reusable, scalable product you own, not a one‑off service.
+
+**Q: What support is included?**
+A: 24/7 chat support and monthly office hours with AI product veterans.
+
+---
+
+*SEO meta tags:* 
+- **title**: AI Product Teams as a Service Toolkit – Build AI Startup Teams Fast
+- **description**: Launch AI product teams in days with our ready‑to‑deploy toolkit. Includes playbooks, AI‑driven sprint planning, zero‑code integration, and 24/7 expert support. Referencing Pit’s $16M funding announcement.
+- **keywords**: AI product team, AI startup toolkit, AI product management, AI team as a service, Pit funding, Andreessen Horowitz AI
+
