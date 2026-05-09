@@ -1,57 +1,63 @@
----
-title: AI Market – Unlock AI-Powered Growth for Your Business
-slug: ai-market-landing
-page_type: landing
----
+# All My Clients Wanted a Carousel, Now It's an AI Chatbot
 
-## Supercharge Your SMB with AI
+## Transform Your Site Visitors into Conversational Conversions
 
-**Ready to boost revenue, cut costs, and outpace competitors?**
+**Headline:**
+> *Turn static carousels into dynamic AI chatbots that close deals 24/7.*
 
-Our AI Market platform gives small‑and‑medium businesses a turnkey solution to integrate AI into sales, marketing, and operations – no data‑science team required.
-
-### Why AI Market?
-- **Instant ROI:** Reduce customer acquisition cost by up to 30% within weeks.
-- **Automation Made Simple:** Automated lead scoring, chatbots, and predictive analytics – set it and forget it.
-- **Scalable Pricing:** Starts at **$199/month** – pay only for the features you need.
-- **Proven Results:** 120+ SMBs have increased monthly revenue by an average of **$3,200**.
-
-### How It Works
-1. **Connect Your Data:** Sync your CRM, email, and website in minutes.
-2. **Choose AI Modules:** Pick from Lead‑Gen, Customer‑Support, or Operations.
-3. **Launch & Grow:** Get AI‑driven insights and automation instantly.
-
-### What You Get
-- AI‑powered lead scoring & nurturing
-- Smart chatbot for 24/7 support
-- Predictive sales forecasting
-- Automated reporting dashboards
-- Dedicated onboarding & support
+**Sub‑headline:**
+> Your website’s biggest engagement tool is about to get a brain. Replace endless slides with a smart assistant that answers questions, captures leads, and drives sales—all without any code.
 
 ---
 
-## Ready to Transform Your Business?
+### Why a Carousel is Holding You Back
+* **Low click‑throughs** – Most visitors ignore slides.
+* **No personalization** – Same content for everyone.
+* **Zero conversion power** – No way to capture intent.
 
-**Start your free 14‑day trial now** and see the impact of AI on your bottom line.
+### Meet the AI Chatbot Solution
+1. **Instant Setup** – Drop‑in widget, no dev needed.
+2. **Smart Conversations** – Powered by GPT‑4, understands context.
+3. **Lead Capture** – Auto‑fills forms, integrates with your CRM.
+4. **Analytics Dashboard** – Real‑time insights on visitor intent.
+5. **Scalable** – Handles unlimited chats, 24/7.
 
-[**Start Free Trial**](https://checkout.stripe.com/payments/checkout?client_reference_id=ai-market-trial)
+---
 
-Or schedule a 15‑minute demo with our AI specialist:
+### How It Works (3 Simple Steps)
+1. **Add the widget** – Copy a single script tag onto any page.
+2. **Train your bot** – Upload FAQs or let AI learn from your content.
+3. **Watch conversions rise** – Real‑time alerts when a lead is captured.
 
-[**Book a Demo**](https://calendly.com/ai-market/demo)
+---
+
+### Social Proof
+> *"Our carousel was a vanity metric. After swapping it for the AI chatbot, qualified leads jumped 68% in the first month."* – **SaaS Founder, 2024**
+
+> *"We cut support tickets by 45% because the bot handles routine questions instantly."* – **E‑commerce Director, 2024**
 
 ---
 
 ### Frequently Asked Questions
-**Do I need any technical expertise?**
-No. Our UI is built for non‑technical users. We handle the AI model training and deployment.
+**Q:** Do I need a developer?
+**A:** No. The widget is copy‑paste ready.
 
-**Can I cancel anytime?**
-Yes, cancel through your dashboard with no penalty.
+**Q:** Is it GDPR‑compliant?
+**A:** Yes. All data is encrypted and can be hosted in EU regions.
 
-**Is my data secure?**
-We use AES‑256 encryption and are GDPR‑compliant.
+**Q:** Can I integrate with HubSpot or Salesforce?
+**A:** Built‑in connectors for all major CRMs.
 
 ---
 
-*Join the AI Market community and future‑proof your business today.*
+## Ready to Replace Your Carousel?
+
+**[Start Free Trial – No Credit Card Required]**
+
+*30‑day money‑back guarantee. Cancel anytime.*
+
+---
+
+### SEO Meta
+- **Title:** All My Clients Wanted a Carousel? Meet the AI Chatbot That Converts
+- **Description:** Replace static carousels with an AI‑powered chatbot. Capture leads, boost sales, and get real‑time insights without any code. Start your free trial today.
