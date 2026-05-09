@@ -8,32 +8,38 @@
 - **24/7 Lead Generation** – Fresh videos attract traffic daily.
 - **Save Time & Money** – No hiring editors, scriptwriters, or voice talent.
 - **Rank Faster** – SEO‑optimized titles, descriptions, and tags.
-- **Consistent Branding** – Every video follows your style guide.
-- **Scalable Growth** – Publish dozens of videos each month on autopilot.
+- **Consistent Branding** – Every video follows your brand guidelines.
 
 ### How It Works
-1. **Strategy Session** – We define your niche, target keywords, and brand voice.
-2. **AI‑Generated Scripts** – GPT‑4 writes engaging, SEO‑rich scripts.
-3. **Voicebox Voiceover** – Human‑like narration using your custom voice.
-4. **Automated Editing** – Stock footage, motion graphics, and subtitles.
-5. **One‑Click Publishing** – Videos go live on YouTube, optimized for discovery.
+1. **Strategy Session** – We define your niche, target keywords, and content pillars.
+2. **AI‑Powered Scriptwriting** – GPT‑4 writes engaging scripts tailored to your audience.
+3. **Voiceover Automation** – High‑quality synthetic voice (or your own) with no studio.
+4. **Video Production** – Automated video editing, stock footage, and branding overlays.
+5. **SEO Optimization** – Optimized titles, thumbnails, tags, and descriptions.
+6. **Publishing & Promotion** – Scheduled uploads, community posts, and analytics.
 
-### Our Proven Results
-| Client | Monthly Views | Leads Generated | ROI |
-|--------|---------------|----------------|-----|
-| SaaS Startup | 250K | 1,200 | **5×** |
-| E‑commerce Brand | 180K | 950 | **4.2×** |
-| Coaching Business | 120K | 600 | **3.8×** |
+### What You Get
+- **Unlimited Videos** – Scale to dozens per week.
+- **Turnkey Funnel** – Each video drives traffic to your offers.
+- **Performance Dashboard** – Real‑time metrics on views, leads, and ROI.
+- **Dedicated Success Manager** – Strategic guidance and optimization.
 
 ### Packages
-- **Starter** – 5 videos/month – $499/mo
-- **Growth** – 15 videos/month – $1,299/mo
-- **Enterprise** – 30+ videos/month – Custom pricing
+| Package | Videos / Month | Price |
+|---|---|---|
+| **Starter** | 5 | $499 |
+| **Growth** | 15 | $1,299 |
+| **Scale** | Unlimited | Custom |
+
+### Social Proof
+> "Our leads doubled in 30 days thanks to automated YouTube videos!" – *SaaS Founder*
+
+> "We saved $10k/month on video production and still got higher engagement." – *E‑commerce CEO*
 
 ### Ready to Automate Your YouTube?
-**Book a free strategy call** and see how we can flood your funnel with qualified leads.
+**Book a free strategy call now** and see how we can turn your brand into a video machine.
 
-[Schedule Your Call Now](https://calendly.com/yt-automation/strategy-call)
+[📅 Schedule Your Call](https://calendly.com/yt-automation/strategy)
 
 ---
-*SEO Keywords: YouTube automation agency, automated YouTube videos, YouTube video marketing, AI video creation, scale YouTube channel*
+*SEO Keywords: YouTube automation agency, automated YouTube videos, YouTube video marketing, AI video production, generate leads with YouTube*
