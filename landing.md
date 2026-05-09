@@ -1,75 +1,74 @@
 # Nylas CLI
 
-## Supercharge Your Email & Calendar Automation
+## Supercharge Your Development Workflow with Email & Calendar Automation
 
-**Write once, run everywhere.**
-
-Nylas CLI lets developers interact with the Nylas API directly from their terminal—no SDKs, no boilerplate, just fast, reliable automation.
+**Build, test, and ship email & calendar integrations in seconds—no code, no servers.**
 
 ---
 
 ### Why Nylas CLI?
-- **Instant setup** – Install with a single `npm i -g nylas-cli` and start syncing in seconds.
-- **Full API coverage** – Access email, calendar, contacts, and webhooks without writing code.
-- **Secure & compliant** – OAuth2 token management, GDPR‑ready, and PCI‑level encryption.
-- **Team friendly** – Share scripts across your org, version‑control them, and audit every run.
+- **Instant API access** – Connect to Gmail, Outlook, iCloud, and more with a single command.
+- **Zero infrastructure** – No servers, no webhooks, no OAuth headaches.
+- **Developer‑first** – Designed for engineers, with TypeScript typings, local sandbox, and CI/CD friendly.
+- **Cost‑effective** – Pay‑as‑you‑go pricing, no hidden fees.
 
 ---
 
-### Key Benefits
-1. **Cut integration time by 80%** – No more waiting for SDK releases.
-2. **Reduce operational costs** – Automate inbox triage, meeting scheduling, and follow‑ups from the command line.
-3. **Boost developer productivity** – Prototype features in minutes, ship to production in hours.
-4. **Maintain compliance** – Built‑in consent handling and audit logs.
+### Core Benefits
+1. **Launch in minutes** – Scaffold a full email sync in under 5 minutes.
+2. **Ship faster** – Write less boilerplate, focus on product logic.
+3. **Stay compliant** – Built‑in GDPR, HIPAA, and security controls.
+4. **Scale effortlessly** – From 10 to 10 000 users without code changes.
 
 ---
 
-### How It Works
-1. **Authenticate** – `nylas login` opens a secure OAuth flow.
-2. **Run commands** – `nylas messages list --inbox`, `nylas events create "Team Sync" --when tomorrow 10am`.
-3. **Pipe & script** – Combine with `jq`, `grep`, or any shell tool to build powerful pipelines.
+### How It Works (4‑Step Flow)
+1. **Install** – `npm i -g nylas-cli`.
+2. **Configure** – Run `nylas login` to connect your mailbox.
+3. **Generate** – `nylas generate inbox --lang=ts` creates typed SDK.
+4. **Deploy** – Use `nylas deploy` to push to the cloud instantly.
 
 ---
 
-### Quick Start
-```bash
-# Install globally
-npm i -g nylas-cli
-
-# Authenticate your account
-nylas login
-
-# List recent emails
-nylas messages list --limit 10
-
-# Auto‑reply all unread messages
-nylas messages list --unread | nylas messages reply --template "Thanks for reaching out! I’ll get back shortly."
-```
+### Who Is It For?
+- **SaaS founders** building email‑driven products.
+- **Product teams** needing quick prototypes.
+- **DevOps engineers** automating inbox workflows.
+- **Consultants** delivering client integrations.
 
 ---
 
-### Who Should Use Nylas CLI?
-- **Developers** building email‑driven features.
-- **Ops teams** automating inbox cleanup and calendar syncs.
-- **Product managers** prototyping workflows without writing a line of code.
+### Social Proof
+> "Nylas CLI cut our integration time from weeks to hours. Our engineers love it!" – *CTO, FinTech Startup*
+
+> "The local sandbox let us test OAuth flows without a server – game changer." – *Lead Engineer, Marketing Automation*
 
 ---
 
-### Frequently Asked Questions
-**Q:** Do I need a Nylas account?
-**A:** Yes – sign up for a free developer account and get 10,000 API calls/month.
+### Pricing
+- **Free Tier** – 1000 API calls / month.
+- **Pro** – $49/mo for 100k calls, priority support.
+- **Enterprise** – Custom volume & SLA.
 
-**Q:** Is it secure?
-**A:** All traffic is encrypted; tokens are stored locally with OS‑level protection.
-
-**Q:** Can I use it in CI/CD pipelines?
-**A:** Absolutely – the CLI works in any environment with Node.js.
+[Get Started Free](/signup)  •  [View Docs](/docs)
 
 ---
 
-### Get Started Now
-[**Download Nylas CLI**](https://www.nylas.com/cli) – No credit card required.
+### FAQs
+**Q:** Do I need to write any server code?
+**A:** No. All heavy lifting runs on Nylas’ managed infrastructure.
+
+**Q:** Which email providers are supported?
+**A:** Gmail, Outlook, iCloud, Yahoo, and any IMAP/SMTP server.
 
 ---
 
-*Boost your productivity. Automate email & calendar tasks with a single command.*
+### SEO Meta
+- **Title:** Nylas CLI – Instant Email & Calendar API for Developers
+- **Description:** Build email & calendar integrations in seconds with Nylas CLI. No servers, no OAuth, just a single command. Free tier available.
+
+---
+
+#### Ready to automate?
+
+**[Start Your Free Trial →](/signup)**
