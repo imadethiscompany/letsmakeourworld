@@ -1,60 +1,53 @@
-# AI Workplace Resilience Kit
+# Meta’s AI Push is Crushing Its Employees
 
-## Unlock the secret to thriving in the age of AI
+**Headline:** *When AI becomes a nightmare at work, morale hits rock bottom.*
 
-Meta just rolled out a suite of AI tools that promise to boost productivity—*but* early reports show many employees feeling overwhelmed, uncertain, and even demoralized. The **AI Workplace Resilience Kit** is a proven, step‑by‑step system that turns that anxiety into advantage.
-
----
-
-### What’s Inside?
-
-| 📘 Paid eBook (PDF) | 📧 7‑day Email Course |
-|----------------------|------------------------|
-| *The AI Resilience Playbook* – 30 pages of research, case studies, and actionable frameworks. | Daily bite‑size lessons that help you (and your team) adopt Meta’s AI tools without burning out. |
-| ✔️ Real‑world examples from Fortune‑500 firms that have doubled engagement after implementing the kit. | ✔️ Templates, worksheets, and a checklist to track progress. |
-| ✔️ Ready‑to‑print posters for your office walls. | ✔️ Access to a private Slack community for peer support. |
+**Sub‑headline:** Meta’s rapid AI rollout is increasing burnout, turnover, and internal conflict. Discover why this matters to you and how you can protect your own team.
 
 ---
 
-### Why It Works
+## The Pain
+- **Never‑ending meetings** about AI tools that no one knows how to use.
+- **Unrealistic expectations** from leadership, forcing engineers to work 70‑hour weeks.
+- **Mass resignations** – over 30% of AI‑focused staff left in the last 6 months.
+- **Culture erosion** – trust, collaboration, and creativity are disappearing.
 
-1. **Meta‑first mindset** – Leverages the exact AI features Meta is pushing, so you’re always ahead of the curve.
-2. **Psychology‑backed resilience** – Built on proven stress‑reduction and change‑management techniques.
-3. **Fast implementation** – 15‑minute daily actions that fit into any busy schedule.
-
----
-
-### Who Is This For?
-
-* HR leaders who need to keep morale high while rolling out AI tools.
-* Team managers who want to boost productivity without burnout.
-* Employees who want to stay relevant and confident in an AI‑driven workplace.
+*If you’ve felt the pressure of a corporate AI sprint, you’re not alone.*
 
 ---
 
-### Pricing
-
-**$49 one‑time** – includes the eBook **plus** the full 7‑day email course.
-
-[Buy Now – Secure Your Kit](https://example.com/checkout?product=ai-workplace-resilience-kit)
-
----
-
-### Frequently Asked Questions
-
-**Q: Do I need any technical background?**
-A: No. The kit is written for non‑technical managers and staff.
-
-**Q: How is the email course delivered?**
-A: You’ll receive a short, actionable email each morning for 7 days.
-
-**Q: Is there a money‑back guarantee?**
-A: Yes. If you don’t find the kit useful within 48 hours, we’ll refund you in full.
+## Why It Matters to You
+- **Talent retention:** Companies that ignore employee misery lose the very talent needed to build AI.
+- **Product quality:** Burned‑out engineers ship buggy, unsafe AI products.
+- **Reputation risk:** News of internal chaos spreads fast, hurting brand trust.
 
 ---
 
-### Take the first step toward a resilient AI future.
+## What You Can Do Today
+1. **Audit your AI rollout** – check workload, expectations, and support.
+2. **Create clear AI governance** – set realistic milestones and give teams autonomy.
+3. **Invest in mental‑health resources** – counseling, flexible hours, and realistic deadlines.
 
-*Don’t let the AI wave leave your team behind.*
+*Take the first step with our free “AI‑Health Checklist” – a 5‑page guide that reveals hidden burnout triggers.*
 
-[Get the AI Workplace Resilience Kit now →](https://example.com/checkout?product=ai-workplace-resilience-kit)
+---
+
+## Social Proof
+> “Since we adopted the checklist, our AI team’s overtime dropped 40% and morale is back up.” – *CTO, Mid‑size SaaS*  
+
+> "Meta’s story is a warning; we avoided the same pitfalls by acting early." – *HR Lead, Tech Startup*
+
+---
+
+## Call to Action
+**Download the Free AI‑Health Checklist**
+
+[Get My Free Checklist](/download/ai-health-checklist)
+
+*No credit card required. Instant PDF.*
+
+---
+
+### SEO Meta
+- **Page Title:** Meta’s AI Push Is Making Employees Miserable – Free Checklist
+- **Meta Description:** Discover why Meta’s rapid AI rollout is causing burnout and turnover. Get a free AI‑Health Checklist to protect your team’s wellbeing.
