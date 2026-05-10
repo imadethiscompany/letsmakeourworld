@@ -1,45 +1,26 @@
-# Transform Your Site: From Carousel to AI Chatbot
+# AI Pricing Models
 
-## Headline
-**Turn endless scrolling into real conversations** – upgrade your carousel to an AI‑powered chatbot that captures leads, answers questions, and boosts sales.
+## Unlock Predictable Revenue with AI‑Driven Pricing
 
-### Subheadline
-Your visitors love slick sliders, but they crave instant help. Replace static images with a smart assistant that works 24/7, learns from each chat, and drives conversions.
+**Stop guessing. Start optimizing.** Our AI Pricing Models analyze your sales data, market trends, and customer behavior to recommend the perfect price for every product and segment.
 
----
+### Why It Works
+- **Revenue boost:** +15‑30% average uplift for SaaS and e‑commerce businesses.
+- **Dynamic pricing:** Real‑time adjustments based on demand signals.
+- **Easy integration:** Plug‑and‑play API, no data science team required.
 
-## Why Switch?
-- **30% faster lead capture** – Chatbots qualify visitors in seconds.
-- **Increase sales by up to 25%** – Personalized recommendations close deals.
-- **Cut support tickets** – Answers common questions automatically.
-- **SEO boost** – Interactive content keeps users on page longer.
+### How It Works
+1. **Connect your data** – CRM, ecommerce, or spreadsheet.
+2. **AI learns** – 30 days of training on your historic sales.
+3. **Get price recommendations** – instantly for each product/customer.
 
----
+### Trusted By
+![Logos of companies](/assets/logos.png)
 
-## How It Works
-1. **Install** – One‑click script adds the chatbot to any site.
-2. **Train** – Feed your FAQs, product details, and tone.
-3. **Engage** – Visitors chat, you get real‑time insights.
+### Ready to Transform Your Pricing?
 
----
-
-## Social Proof
-> *"Our carousel was getting clicks, but the chatbot turned those clicks into paying customers. 40% lift in conversions!"* – **Marketing Director, SaaSCo**
+[**Get a Free 30‑Day Trial**](/signup)  
+Or book a **15‑minute strategy call** to see the impact on your business.
 
 ---
-
-## Ready to Upgrade?
-[**Start Your Free AI Chatbot Trial**](https://example.com/checkout) – No credit card required. Get a live demo in 24 hours.
-
----
-
-### FAQ
-**Q:** Does it work on mobile?
-**A:** Yes – fully responsive and touch‑friendly.
-
-**Q:** Do I need coding skills?
-**A:** No. Our script handles the integration.
-
----
-
-*Boost engagement, capture leads, and close more sales – all without a carousel.*
+*No credit card required. Cancel anytime.*
