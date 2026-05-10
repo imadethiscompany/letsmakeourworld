@@ -1,55 +1,42 @@
-# Pricing Optimization Consulting
+# Crypto Alerts – Real‑time ETH & BTC Price Alerts
 
-## Unlock Maximum Profitability with Data‑Driven Pricing Strategies
+## Never miss a move. Get instant price alerts for Ethereum, Bitcoin and the top crypto pairs.
 
-**Are you leaving money on the table?**
-
-Our **Pricing Optimization Consulting** service helps SaaS, e‑commerce, and B2B companies increase revenue by 5‑30% without acquiring new customers. We combine advanced analytics, AI‑powered price elasticity modeling, and hands‑on implementation to ensure you charge the right price at the right time.
+**Free 7‑day trial** – no credit card required. Choose the plan that fits your trading style.
 
 ---
 
-### Why Pricing Matters
-- **Revenue leakage:** 10‑15% of potential revenue is lost to sub‑optimal pricing.
-- **Competitive pressure:** Dynamic markets demand agile pricing.
-- **Customer perception:** The right price boosts perceived value and loyalty.
+### Choose Your Plan
 
-### Our Proven Process
-1. **Data Audit** – Gather sales, cost, competitor, and demand data.
-2. **Elasticity Modeling** – Use machine‑learning to map price‑demand curves.
-3. **Strategy Design** – Segment customers, define price tiers, and test scenarios.
-4. **Implementation & Monitoring** – Deploy changes, track KPIs, and iterate.
+| Plan | Price / month | Features |
+|------|----------------|----------|
+| **Starter** | **$9.99** | • Real‑time alerts for up to 5 crypto pairs<br>• Email notifications<br>• 7‑day free trial |
+| **Pro** | **$29.99** | • Unlimited crypto pairs<br>• SMS & webhook notifications<br>• Priority email support<br>• 7‑day free trial |
 
-### Key Benefits
-- **Revenue growth**: +5‑30% in the first 3‑6 months.
-- **Higher margins**: Optimize discounting and avoid margin erosion.
-- **Strategic insight**: Actionable dashboards for continuous pricing decisions.
-- **Risk mitigation**: A/B testing framework to validate price changes before rollout.
-
-### Success Stories
-- **SaaS Platform** – $1.2M incremental ARR in 4 months.
-- **E‑commerce Brand** – 12% increase in average order value.
-- **Enterprise Software** – 8% uplift in contract value after tier redesign.
+[Start Free Trial – Starter](/products/crypto-alerts-starter-4d20bf)  |  [Start Free Trial – Pro](/products/crypto-alerts-pro-f4fcf6)
 
 ---
 
-## Ready to Capture Every Dollar?
-
-**Schedule a free pricing audit** and see a custom growth plan in 48 hours.
-
-[Book Your Call Now](#)
+### Why Crypto Alerts?
+- **Instant notifications** – react the second a price hits your target.
+- **Multi‑channel delivery** – email, SMS, webhook.
+- **Low latency** – powered by our ultra‑fast price feed.
+- **No commitment** – cancel anytime during the trial.
 
 ---
 
 ### Frequently Asked Questions
-**Q:** How long does a typical engagement last?
-**A:** 6‑12 weeks for full implementation, with ongoing advisory available.
+**Q: How does the free trial work?**
+A: Sign up, get full access to the chosen plan for 7 days. No credit card needed. After the trial you’ll be billed automatically unless you cancel.
 
-**Q:** Will my pricing changes upset existing customers?
-**A:** We use segmented rollouts and communication plans to protect loyalty.
+**Q: Can I upgrade later?**
+A: Yes, you can upgrade to Pro at any time from your dashboard.
 
-**Q:** What data do I need to provide?
-**A:** Sales history, cost structure, competitor pricing, and any existing pricing rules.
+**Q: What crypto pairs are supported?**
+A: All major pairs on major exchanges – BTC/USD, ETH/USD, and many altcoins.
 
 ---
 
-*Boost your profits without spending on new customers. Let data‑driven pricing work for you.*
+Ready to stay ahead of the market?
+
+[Start Your Free Trial Now](/products/crypto-alerts-starter-4d20bf)
