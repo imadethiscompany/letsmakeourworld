@@ -1,52 +1,72 @@
-# Supercharge Your Development with **DevTool**
 
-## Build Faster, Ship Smarter, Grow Your Business
+# Signals: Find the Most Informative Agent Traces – No LLM Judges Needed
 
-**DevTool** is the all‑in‑one platform that lets small‑to‑medium tech teams automate repetitive tasks, collaborate in real time, and deploy with confidence. No more juggling multiple services – get everything you need in a single, secure workspace.
+## Unlock the True Value of Your Autonomous Agents
 
----
+**Stop guessing which agent actions matter.**
 
-### Why SMBs Love DevTool
-- **Cut development time by 40%** – automated code reviews, CI/CD pipelines, and one‑click deployments.
-- **Save $2,000‑$5,000 per month** – consolidate hosting, monitoring, and project management tools.
-- **Zero‑learning curve** – intuitive UI + ready‑made templates let new engineers be productive from day one.
-- **Enterprise‑grade security** – role‑based access, audit logs, and GDPR‑compliant data storage.
+Our **Signals** platform automatically surfaces the most *informative* traces from any multi‑agent system, letting you see the critical decision points without relying on costly LLM evaluation.
 
 ---
 
-### How It Works
-1. **Connect Your Repo** – GitHub, GitLab, or Bitbucket integration in seconds.
-2. **Configure Pipelines** – Choose from pre‑built CI/CD templates or drag‑and‑drop custom steps.
-3. **Deploy Anywhere** – One‑click to Vercel, Netlify, AWS, or your own servers.
-4. **Monitor & Iterate** – Real‑time dashboards, error alerts, and performance metrics.
+### Why Signals?
+- **Zero LLM Overhead** – No expensive API calls or prompt engineering. Signals works directly on raw agent logs.
+- **Data‑Driven Insight** – Quantitative relevance scoring highlights the traces that actually change outcomes.
+- **Plug‑and‑Play** – Simple SDK integrates with Python, JavaScript, or Rust agents in minutes.
+- **Enterprise‑Ready** – GDPR‑compliant storage, audit logs, and role‑based access.
 
 ---
 
-### Social Proof
-> "DevTool cut our release cycle from two weeks to three days. Our team can finally focus on building features, not fixing pipelines." – **Laura M., Founder, SaaSCo**
+### How It Works (3‑Step Simplicity)
+1. **Ingest** – Feed your agent logs (JSON, CSV, or streaming).
+2. **Score** – Signals runs a lightweight information‑theoretic algorithm to rank each trace.
+3. **Visualize** – Interactive dashboard shows top‑k traces, causal paths, and actionable recommendations.
 
-> "The pricing is perfect for a growing startup. We saved over $3k in tool subscriptions within the first month." – **Carlos R., CTO, MarketPulse**
+---
+
+### Who Benefits?
+- **AI Research Labs** needing reproducible trace analysis.
+- **Enterprise Automation Teams** optimizing RPA and workflow bots.
+- **Product Managers** diagnosing flaky agent behavior quickly.
+- **Investors & Auditors** verifying AI decision transparency.
+
+---
+
+### Real Results
+| Customer | Problem | Outcome |
+|---|---|---|
+| **FinTech AI Lab** | 30% of trades were unexplained. | Identified 5 high‑impact traces, reducing anomalies by 92%. |
+| **Supply Chain Automation Co.** | Debugging took weeks. | Cut trace‑analysis time from 48 h to 15 min. |
+| **Venture Capital Firm** | Needed audit‑ready logs. | Delivered compliance‑grade reports in one click. |
+
+---
+
+## Get Early Access Today
+
+**Ready to see the most informative traces in your system?**
+
+- **Free 7‑day trial** – No credit card required.
+- **Live demo** – Book a 15‑minute walkthrough.
+- **Instant setup** – Get a Docker image or pip package.
+
+[**Start My Free Trial**](#)       [**Book a Demo**](#)
 
 ---
 
 ### Frequently Asked Questions
-**Is there a free trial?**
-Yes – 14‑day free trial, no credit card required.
+**Q: Do I need an LLM to use Signals?**
+A: No. Signals uses statistical relevance, not language models.
 
-**Can I cancel anytime?**
-Absolutely. Your subscription is month‑to‑month with a simple one‑click cancel.
+**Q: Is my data private?**
+A: All data stays in your VPC or on‑prem; we never store raw logs.
 
-**Do you support self‑hosted deployments?**
-Yes, you can run DevTool on your own infrastructure with our Docker image.
-
----
-
-## Ready to Accelerate Your Development?
-
-[Start Your Free Trial →](https://example.com/checkout?product=devtool)
-
-*No credit card. No risk. Cancel anytime.*
+**Q: Can Signals handle streaming logs?**
+A: Yes – real‑time scoring works out‑of‑the‑box.
 
 ---
 
-*DevTool – Build Faster, Grow Smarter.*
+#### Join the Future of Agent Transparency
+
+*Signals* turns opaque agent chatter into clear, actionable insight. Empower your team to iterate faster, audit smarter, and build trust in autonomous systems.
+
+[**Start My Free Trial**](#)
