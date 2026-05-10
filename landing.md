@@ -2,25 +2,33 @@
 
 ## Unlock Predictable Revenue with AI‑Driven Pricing
 
-**Stop guessing. Start optimizing.** Our AI Pricing Models analyze your sales data, market trends, and customer behavior to recommend the perfect price for every product and segment.
+**Instantly generate optimal prices for every product, customer, and market condition.**
 
-### Why It Works
-- **Revenue boost:** +15‑30% average uplift for SaaS and e‑commerce businesses.
-- **Dynamic pricing:** Real‑time adjustments based on demand signals.
-- **Easy integration:** Plug‑and‑play API, no data science team required.
+- **Dynamic price optimization** that reacts to demand, competition, and inventory in real‑time.
+- **Revenue uplift** proven up to **35%** for SaaS and e‑commerce businesses.
+- **No code, easy integration** – drop‑in API or simple spreadsheet upload.
+- **Transparent AI** – see the factors influencing each price decision.
 
 ### How It Works
-1. **Connect your data** – CRM, ecommerce, or spreadsheet.
-2. **AI learns** – 30 days of training on your historic sales.
-3. **Get price recommendations** – instantly for each product/customer.
+1. **Upload your catalog** – CSV, spreadsheet, or connect your store.
+2. **Configure goals** – maximize profit, win‑back churned users, or hit a target margin.
+3. **AI calculates** the optimal price for each SKU and segment.
+4. **Deploy instantly** via API or export ready‑to‑use price tables.
 
-### Trusted By
-![Logos of companies](/assets/logos.png)
+### Why Choose Our AI Pricing Engine?
+- **Proven ROI** – case studies show $10K‑$200K monthly lift for SMBs.
+- **Scalable** – handles thousands of SKUs and millions of pricing decisions.
+- **Secure** – GDPR‑compliant, data encrypted at rest and in transit.
+- **Support** – dedicated success manager for onboarding and optimization.
 
-### Ready to Transform Your Pricing?
+#### Ready to boost your margins?
 
-[**Get a Free 30‑Day Trial**](/signup)  
-Or book a **15‑minute strategy call** to see the impact on your business.
+[**Get Your Free Pricing Audit**](/checkout?product=ai-pricing-models)
+
+*No credit card required. 30‑minute strategy session included.*
 
 ---
-*No credit card required. Cancel anytime.*
+*FAQ*
+- **Do I need data scientists?** No – our UI guides you.
+- **Can I test before committing?** Yes, a 14‑day free trial.
+- **What’s the pricing?** Starts at $199/month, custom enterprise plans available.
