@@ -1,79 +1,67 @@
-# AutoTask AI – Predictable AI Power for Your Business
+# AutoTask AI – Predictable AI Power Every Month
 
-## Never Run Out of AI Power – **AI Actions Per Month Included**
+## Never Run Out of AI Actions – Your Monthly AI Action Quota is Built‑In.
 
-**Headline:** *Unlimited Automation, Fixed AI Action Quota.*
+**Headline:** *Unlimited Automation, Fixed AI Actions per Month.*
 
-**Sub‑headline:** Get the exact number of AI calls your team needs each month, with zero surprise overage fees. Scale confidently, stay within budget, and focus on growth.
-
----
-
-### Why a Fixed AI Action Quota Matters
-- **Predictable Costs:** No hidden fees – you pay a flat monthly price and receive a set number of AI actions.
-- **Budget‑Friendly:** Align your AI spend with your financial planning.
-- **Performance Guarantees:** Your workflows never stall because you hit an unexpected limit.
-- **Scalable Flexibility:** Upgrade or downgrade your quota instantly from your dashboard.
+**Sub‑headline:** Get the exact number of AI calls your team needs each month, with no surprise overage fees. Scale confidently, stay within budget, and focus on growth.
 
 ---
 
-## Core Features
-| Feature | Benefit |
-|---|---|
-| **AI Actions per Month Included** | Predictable, all‑in‑one quota – no overage surprises. |
-| **Unlimited Task Automation** | Create, schedule, and run any number of automations within your quota. |
-| **Real‑Time Monitoring Dashboard** | See usage, remaining actions, and performance metrics at a glance. |
-| **Priority Support** | Dedicated help desk for rapid issue resolution. |
-| **Seamless API Integration** | Plug AutoTask AI into any app, webhook, or platform. |
+### Why "AI Actions per Month" Matters
+- **Predictable Costs:** Fixed quota means no hidden fees.
+- **Budget‑Friendly:** Allocate AI spend upfront in your P&L.
+- **Scalable Automation:** Use the full quota for task automation, data enrichment, content generation, and more.
+- **Performance Guarantees:** SLA‑backed response times for every action.
 
 ---
 
-## How It Works
-1. **Choose Your Plan** – Select the AI‑action tier that matches your workload.
-2. **Connect Your Tools** – Use our simple REST API or Zapier‑style connectors.
-3. **Run Automations** – Every call consumes one AI action; watch your quota refresh each month.
-4. **Scale On‑Demand** – Upgrade instantly when you need more actions.
+### Core Features
+- **Monthly AI Action Quota:** 10,000 actions included – upgrade anytime.
+- **Zero‑Code Workflow Builder:** Drag‑and‑drop automations powered by GPT‑4.
+- **Enterprise‑Grade Security:** End‑to‑end encryption, SOC‑2 compliance.
+- **Real‑Time Usage Dashboard:** Track consumption, set alerts, avoid overage.
+- **24/7 Support & Onboarding:** Dedicated success manager for the first 30 days.
 
 ---
 
-## Pricing
-| Tier | AI Actions / Month | Monthly Price |
-|---|---|---|
-| **Starter** | 10,000 | $49 |
-| **Growth** | 50,000 | $149 |
-| **Enterprise** | 200,000 | $449 |
-
-All plans include:
-- Unlimited users
-- Full API access
-- 24/7 support portal
-- SLA‑backed uptime
+### Who Benefits?
+- **Start‑ups:** Keep AI costs predictable while scaling.
+- **Marketing Teams:** Automate copy, social posts, and lead scoring.
+- **Operations:** Streamline data pipelines, ticket triage, and reporting.
+- **Developers:** Fast‑track AI integration without worrying about rate limits.
 
 ---
 
-## Social Proof
-> *"AutoTask AI gave us predictable AI costs and freed our team to focus on strategy, not budgeting.*" – **CTO, FinTech Startup**
+### Pricing
+| Plan | Monthly AI Actions | Price |
+|------|-------------------|-------|
+| **Starter** | 5,000 | $49 |
+| **Growth** | 10,000 | $99 |
+| **Scale** | 25,000 | $199 |
+| **Enterprise** | Custom | Custom |
 
-> *"The AI actions per month model removed the fear of hidden fees – we can finally scale our automation safely.*" – **Head of Ops, E‑commerce Brand**
+> **All plans include:** Unlimited users, API access, and priority support.
 
 ---
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 **Q: What counts as an AI action?**
-A: Every request to our AI engine—whether a text generation, classification, or data extraction—consumes one action.
+A: Any request to our AI engine – text generation, classification, summarization, or image generation.
 
 **Q: Can I roll over unused actions?**
-A: Unused actions expire at month‑end; we recommend scaling to match your usage patterns.
+A: Unused actions reset each month, encouraging fresh automation cycles.
 
-**Q: How do I monitor my usage?**
-A: The dashboard shows real‑time consumption, and we email you when you’re at 80% of your quota.
-
----
-
-## Ready to Get Predictable AI Power?
-**Start your free 7‑day trial** – no credit card required. Experience the confidence of a fixed AI‑action quota.
-
-[**Start Free Trial →**](https://autotask.ai/signup)
+**Q: What if I exceed my quota?**
+A: You’ll receive a low‑cost overage option ($0.01 per extra action) or can instantly upgrade.
 
 ---
 
-*Meta Description: AutoTask AI subscription offers a predictable monthly AI action quota. No surprise fees, scalable automation, and real‑time monitoring. Start your free trial today.*
+### Ready to Automate?
+
+[**Start Your Free Trial →**](https://autotask.ai/signup)  
+Or schedule a demo with our AI specialist.
+
+---
+
+*Keywords: AI actions per month, AI automation subscription, predictable AI usage, SaaS AI quota, AutoTask AI.*
