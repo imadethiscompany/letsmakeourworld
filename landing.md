@@ -1,56 +1,50 @@
-# AI CapEx Optimizer – Cut LLM Spend by up to 30%
+# Unlock Unlimited AI Power: Your Monthly AI Actions Included
 
-## Hero
-**Stop over‑paying for LLMs.**
+## Supercharge Your Business with Predictable AI Usage
 
-*Turn hidden cloud‑billing noise into actionable savings.*
+Running AI workflows shouldn't be a guessing game. With our **AI actions per month included** plan, you get a set amount of AI calls each month—no surprise overages, no hidden fees.
 
-[Get Started – Free 14‑day Trial]
-
----
-
-### Why LLM Cost Reduction Matters
-- **$1.2 M** average overspend per $10 M AI budget (source: internal audit)
-- **30 %** of that waste is avoidable with real‑time monitoring
-- Reducing spend frees budget for product innovation and faster go‑to‑market
-
-### What AI CapEx Optimizer Does
-| Step | Action | Outcome |
-|------|--------|---------|
-| **1. Connect** | Pull data from AWS, GCP, Azure billing APIs (and major SaaS LLM providers) | Unified cost view across clouds |
-| **2. Analyze** | AI‑powered anomaly detection & cost‑per‑token benchmarking | Spot overspend within minutes |
-| **3. Optimize** | Automated recommendations – model size downgrade, caching, batch‑prompting, spot instances | Save up to **30 %** on LLM spend |
+### Why This Matters
+- **Predictable Costs:** One flat monthly fee covers all your AI workloads up to the limit.
+- **Scale Confidently:** Seamlessly add more actions as you grow—upgrade in seconds.
+- **Focus on Results:** Spend time building, not monitoring usage dashboards.
 
 ---
 
-## Clear Pricing (No hidden fees)
-| Plan | Monthly Price | Included Features |
-|------|--------------|-------------------|
-| **Starter** | **$199** | Up to $250 K monthly spend, 5 alerts, email support |
-| **Growth** | **$499** | Up to $1 M monthly spend, 20 alerts, Slack + email support, custom dashboards |
-| **Enterprise** | **Custom** | Unlimited spend, unlimited alerts, dedicated CSM, on‑premise deployment option |
-
-All plans include a **14‑day free trial** and **no‑credit‑card** sign‑up.
-
----
-
-## Frequently Asked Questions
-**Q: Does the tool add extra cost?**
-A: No. Pricing is a flat monthly fee based on the amount of spend you monitor.
-
-**Q: How quickly will I see savings?**
-A: Most customers report a noticeable reduction in the first billing cycle.
-
-**Q: Is my data secure?**
-A: We use end‑to‑end encryption and never store raw token data.
+## What You Get
+| Feature | Details |
+|---|---|
+| **Monthly AI Actions** | 10,000 AI calls per month (Chat, Vision, Embeddings, etc.) |
+| **Unlimited Users** | Share across your team—no per‑seat fees |
+| **Priority Support** | 24‑hour response, dedicated success manager |
+| **Easy Upgrade** | Add more actions instantly from the dashboard |
 
 ---
 
-### Ready to cut LLM spend by up to 30%?
-[Start Free Trial – No Credit Card Required]
+## How It Works (3 Simple Steps)
+1. **Sign Up** – Create your account in seconds.
+2. **Connect Your Apps** – Link your tools (Zapier, Make, custom APIs).
+3. **Start Using AI** – Your actions are tracked automatically; stay within your monthly quota.
 
 ---
 
-*SEO meta*
-- **Title:** AI CapEx Optimizer – Cut LLM Spend by up to 30% | LLM Cost Reduction
-- **Description:** Reduce your AI infrastructure costs by up to 30% with AI CapEx Optimizer. Real‑time billing insights, anomaly detection, and actionable recommendations for LLM spend.
+### Ready to Automate Without Surprise Bills?
+
+[**Start Your Free Trial →**](https://example.com/checkout?plan=ai-actions-monthly)  
+*No credit card required. Cancel anytime.*
+
+---
+
+#### Frequently Asked Questions
+**Q: What happens if I exceed the monthly limit?**
+A: You’re prompted to upgrade or purchase extra actions at a discounted rate.
+
+**Q: Can I roll over unused actions?**
+A: Unused actions do not roll over; they reset each month to keep pricing simple.
+
+**Q: Is there a contract?**
+A: No long‑term contracts. Month‑to‑month billing.
+
+---
+
+*Boost productivity, cut costs, and stay in control with AI actions included every month.*
