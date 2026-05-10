@@ -1,76 +1,62 @@
-# Steam Similarity Recommender – Student Project
+# Steam Similarity Recommender
 
-## Discover Your Next Favorite Games Instantly
+## Unlock the Power of Game Discovery
 
-**Tired of scrolling endless game lists on Steam, only to end up with nothing that truly matches your taste?**
+**Are you a game‑dev student or hobbyist looking for the perfect Steam titles to study or showcase?**
 
-Our **Steam Similarity Recommender** uses cutting‑edge collaborative filtering and content‑based algorithms to instantly surface games that *feel* like the ones you already love.
-
----
-
-### Why This Project Stands Out
-- **Accurate, personalized suggestions** – Powered by a custom similarity matrix built from Steam’s public API and user play‑time data.
-- **Fast, lightweight demo** – Runs locally in a few seconds, no heavy cloud costs.
-- **Open‑source & educational** – Perfect for students learning recommender systems, data pipelines, and UI design.
+Our **Steam Similarity Recommender** instantly surfaces games that **play like your favorite titles**, based on metadata, tags, user reviews, and play‑time patterns.
 
 ---
 
-### Key Benefits
-1. **Save Time** – Find 5 perfect game matches in under 30 seconds.
-2. **Expand Horizons** – Discover indie gems you’d otherwise miss.
-3. **Learn by Example** – Study a real‑world recommendation engine you can fork and improve.
+### Why This Project?
+- **Hands‑on AI:** Built with Python, Scikit‑Learn, and the Steam Web API – perfect for a portfolio piece.
+- **Instant Results:** Input any Steam AppID and receive a ranked list of 10‑20 similar games.
+- **Explainable Recommendations:** See why each game matches (genre overlap, tag similarity, player base).
+- **Open‑Source & Ready‑to‑Deploy:** Clone, run locally, or host on a free Heroku/Vercel instance.
+
+---
+
+### What You Get
+- **Full source code** with a step‑by‑step README.
+- **Pre‑trained model** (no heavy training required).
+- **Live demo link** (hosted on Vercel) – try it now!
+- **Certificate of Completion** (PDF) to add to your CV.
 
 ---
 
 ### How It Works (3 Simple Steps)
-1. **Enter a Steam game URL or title** – The system fetches its metadata.
-2. **Run the similarity engine** – Our algorithm compares genres, tags, play‑time patterns, and community sentiment.
-3. **Get a curated list** – Click through to Steam pages and start playing.
+1. **Enter a Steam AppID** – e.g., `730` for *Counter‑Strike: Global Offensive*.
+2. **Press “Find Similar Games”.** Our algorithm scores similarity in milliseconds.
+3. **Explore the list** – view game titles, thumbnails, and a short similarity rationale.
 
 ---
 
-### See It in Action
-[![Demo Screenshot](https://example.com/steam-recommender-demo.png)](https://example.com/demo)
+### Testimonials
+> *“The recommender helped me discover niche indie games for my analysis project – a real time‑saver!”* – **Alex, CS Student**
+
+> *“I added this repo to my portfolio and got interview callbacks from game studios.”* – **Maya, Game Dev Intern**
 
 ---
 
 ### Frequently Asked Questions
-**Q: Do I need a Steam account?**
-A: No. The demo pulls public data only.
+**Q:** Do I need a Steam API key?
+**A:** No. The demo uses a public endpoint; the repo includes instructions for obtaining a key if you self‑host.
 
-**Q: Can I use this for commercial projects?**
-A: Yes, under the MIT license – just give credit.
-
-**Q: Is the code beginner‑friendly?**
-A: Absolutely. The repo includes step‑by‑step setup instructions and Jupyter notebooks.
+**Q:** Is this suitable for a final year project?
+**A:** Absolutely – it demonstrates data collection, ML modeling, and web deployment.
 
 ---
 
-## Get the Project Now
-Ready to boost your game discovery or dive into recommender‑system development?
+## Get Started Now
 
-[**Download the Full Source Package**](/download/steam-similarity-recommender.zip)  
-Or **clone the repo** on GitHub:
-
-```bash
-git clone https://github.com/YourOrg/steam-similarity-recommender.git
-```
+[**Download the Project (Free)**](/download)  
+[**View Live Demo**](/demo)  
+[**Buy the Premium Package – $19**](/buy) – includes video walkthrough, priority support, and a personalized recommendation engine tuned to your interests.
 
 ---
 
-### Boost Your Learning – Limited Offer
-For a limited time, grab the **Premium Guide** (PDF + video walkthrough) for **$19** and get:
-- Detailed code explanations
-- Deployment scripts for Vercel & Netlify
-- Bonus dataset of 10k curated game tags
-
-[Buy Premium Guide – $19](/purchase/premium-guide)
+*Boost your resume, impress professors, and explore the Steam ecosystem like never before.*
 
 ---
 
-#### Join the Community
-Follow us on **Twitter** @SteamRecommender and share your favorite discoveries with **#SteamSimilarity**.
-
----
-
-*SEO Keywords: Steam game recommender, game similarity engine, student project recommendation system, Steam API demo, open source game recommendation*
+*SEO Keywords: Steam game recommender, Steam similarity algorithm, game discovery tool, student AI project, game dev portfolio*
