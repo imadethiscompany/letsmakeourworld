@@ -1,62 +1,27 @@
-# Steam Similarity Recommender
+# AI Monetization is Accelerating
 
-## Unlock the Power of Game Discovery
+## Unlock Revenue‑Generating AI in Days, Not Months
 
-**Are you a game‑dev student or hobbyist looking for the perfect Steam titles to study or showcase?**
+Businesses are pouring billions into AI, but most never see the cash flow. Our proven framework turns **any AI model or tool** into a **paying product** in under **14 days**.
 
-Our **Steam Similarity Recommender** instantly surfaces games that **play like your favorite titles**, based on metadata, tags, user reviews, and play‑time patterns.
-
----
-
-### Why This Project?
-- **Hands‑on AI:** Built with Python, Scikit‑Learn, and the Steam Web API – perfect for a portfolio piece.
-- **Instant Results:** Input any Steam AppID and receive a ranked list of 10‑20 similar games.
-- **Explainable Recommendations:** See why each game matches (genre overlap, tag similarity, player base).
-- **Open‑Source & Ready‑to‑Deploy:** Clone, run locally, or host on a free Heroku/Vercel instance.
-
----
+### Why Now?
+- **$300B+** AI market growth in 2024 (forecast)
+- Companies that monetize AI see **3‑5× ROI** vs. internal‑only use
+- Customers demand AI‑powered solutions, not just demos
 
 ### What You Get
-- **Full source code** with a step‑by‑step README.
-- **Pre‑trained model** (no heavy training required).
-- **Live demo link** (hosted on Vercel) – try it now!
-- **Certificate of Completion** (PDF) to add to your CV.
+1. **AI Revenue Blueprint** – Step‑by‑step playbook to identify, package, and price AI services.
+2. **Done‑for‑You Funnel** – High‑converting landing page, email sequence, and checkout.
+3. **Live Coaching Call** – Personal session to map your AI assets to cash.
+
+### Ready to Start Earning?
+Click the button below to claim your **Free AI Monetization Starter Kit** and schedule a 15‑minute strategy call.
+
+[Get My Free Kit →](/checkout?product=ai-monetization-starter)
 
 ---
+#### FAQ
+**Do I need a data‑science team?**  No. The framework works with low‑code AI tools and pre‑trained models.
+**How quickly can I see revenue?**  Most clients launch within 10‑14 days and close their first sale within 30 days.
 
-### How It Works (3 Simple Steps)
-1. **Enter a Steam AppID** – e.g., `730` for *Counter‑Strike: Global Offensive*.
-2. **Press “Find Similar Games”.** Our algorithm scores similarity in milliseconds.
-3. **Explore the list** – view game titles, thumbnails, and a short similarity rationale.
-
----
-
-### Testimonials
-> *“The recommender helped me discover niche indie games for my analysis project – a real time‑saver!”* – **Alex, CS Student**
-
-> *“I added this repo to my portfolio and got interview callbacks from game studios.”* – **Maya, Game Dev Intern**
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need a Steam API key?
-**A:** No. The demo uses a public endpoint; the repo includes instructions for obtaining a key if you self‑host.
-
-**Q:** Is this suitable for a final year project?
-**A:** Absolutely – it demonstrates data collection, ML modeling, and web deployment.
-
----
-
-## Get Started Now
-
-[**Download the Project (Free)**](/download)  
-[**View Live Demo**](/demo)  
-[**Buy the Premium Package – $19**](/buy) – includes video walkthrough, priority support, and a personalized recommendation engine tuned to your interests.
-
----
-
-*Boost your resume, impress professors, and explore the Steam ecosystem like never before.*
-
----
-
-*SEO Keywords: Steam game recommender, Steam similarity algorithm, game discovery tool, student AI project, game dev portfolio*
+*Join 200+ founders who are already turning AI into income.*
