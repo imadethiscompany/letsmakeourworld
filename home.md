@@ -1,20 +1,30 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Scale Your YouTube Channel on Autopilot
 
-**Turn views into revenue** with our end‑to‑end YouTube automation service:
-- **Content Ideation & Scriptwriting** – data‑driven topics that rank.
-- **AI Voiceover & Editing** – professional‑grade videos in minutes.
-- **Thumbnail & SEO Optimization** – get clicks and dominate search.
-- **Channel Management** – posting schedule, community engagement, analytics.
+**Turn views into revenue without lifting a finger.**
+
+- **Full‑service video production** – script, voice‑over, B‑roll, editing.
+- **AI‑driven thumbnail & title optimization** for maximum click‑through.
+- **Channel management** – uploads, scheduling, SEO, community engagement.
+- **Performance analytics** – real‑time dashboards and growth hacks.
 
 ### Why Choose Us?
-- **Proven Results:** 10+ clients see +300% subscriber growth in 3 months.
-- **Zero Up‑front Costs:** Pay only for results – start at $1,999/month.
-- **All‑in‑One Dashboard:** Track performance, ROI, and ROI in real time.
+| Feature | Benefit |
+|---|---|
+| **Zero hiring** | No need to build an in‑house video team. |
+| **Fast turnaround** | First video ready in 48 hours. |
+| **Proven ROI** | Clients see 3‑5× increase in subscriber growth. |
+| **Transparent pricing** | Pay per month, no hidden fees. |
 
-### Ready to Automate?
-[**Get a Free Strategy Call**](https://example.com/strategy-call) – limited slots.
+### Packages (All‑in‑One)
+- **Starter** – 5 videos / month – $1,200
+- **Growth** – 12 videos / month – $2,500
+- **Scale** – 20 videos / month – $4,000
+
+> **Ready to dominate YouTube?**
+
+[**Get Started Now**](https://buy.stripe.com/test_placeholder) – Book a free strategy call and lock in your spot.
 
 ---
-*Fast‑track your YouTube success. Let our automation engine do the heavy lifting while you focus on your business.*
+*We’ve helped SaaS founders, e‑commerce brands, and coaches grow from 0 to 100k+ subscribers in under 6 months.*
