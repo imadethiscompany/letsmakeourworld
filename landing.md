@@ -1,62 +1,48 @@
-# AI‑Powered Fraud Prevention
+# YouTube Automation Agency
 
-## Stop fraud before it happens
+## Scale Your YouTube Channel Without Lifting a Finger
 
-![Fraud detection dashboard](/assets/fraud-dashboard.png)
-
-**Instant, accurate, automated**—our AI engine scores every transaction in real‑time, flags anomalies, and sends webhook alerts to your systems.
+**Turn content ideas into viral videos, grow subscribers, and generate revenue on autopilot.**
 
 ---
 
-### How it works
-1. **Integrate in minutes** – simple REST API, SDKs for Python, Node, Java.
-2. **Score every transaction** – 0‑100 risk score, fraud‑type breakdown.
-3. **Instant alerts** – webhook, Slack, email, or custom callback.
-4. **Continuous learning** – models retrained weekly on global fraud data.
+### Why Choose Us?
+- **Full‑Service Automation** – From script generation to voice‑over, editing, thumbnail creation, and upload scheduling.
+- **AI‑Powered Production** – Leverage GPT‑4 for scripts, Voicebox for natural narration, and Pexels B‑roll for cinematic quality.
+- **Data‑Driven Growth** – Keyword research, SEO‑optimized titles, and thumbnail A/B testing to sky‑rocket views.
+- **Zero Hiring Overhead** – No need for editors, writers, or voice talent. We handle everything.
 
 ---
 
-## Demo
+### Our Packages
+| Package | Monthly Videos | Price (USD) | Ideal For |
+|---|---|---|---|
+| **Starter** | 4 videos | $799 | New creators looking to test the waters |
+| **Growth** | 12 videos | $2,199 | SMBs aiming for 10K+ subs fast |
+| **Dominance** | 30 videos | $4,999 | Brands targeting 100K+ subs & ad revenue |
 
-<video controls width="100%" poster="/assets/fraud-demo-poster.png">
-  <source src="/video-generator/hyperframes_out/tech_1c82493e.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-## Pricing
-
-| Plan | Monthly Price | Features |
-|------|---------------|----------|
-| **Basic** | **$199** | • Real‑time scoring  <br>• 10k transactions/mo  <br>• Webhook alerts  <br>• Email support |
-| **Enterprise** | **$799** | • Unlimited transactions  <br>• Dedicated account manager  <br>• SLA 99.9% uptime  <br>• Custom model training  <br>• Priority support |
-
-[Start Free Trial →](/signup)  
-[Book a Demo →](/contact)
+All packages include:
+- Script writing & SEO optimization
+- Professional voice‑over (custom brand voice)
+- Video editing with B‑roll & motion graphics
+- Thumbnail design & A/B testing
+- Upload & scheduling on your channel
+- Monthly performance report
 
 ---
 
-### Why choose us?
-- **Proven AI** – trained on 100M+ fraud cases.
-- **Compliance ready** – PCI‑DSS, GDPR, CCPA.
-- **Scalable** – cloud‑native, zero‑ops.
-- **Trusted** – used by leading fintechs and e‑commerce platforms.
+### Success Stories
+> "In 3 months our subscriber count jumped from 2K to 25K and ad revenue went from $0 to $3,200/month. The automation agency handled everything!" – *Alex, SaaS Founder*
+
+> "We launched a product line on YouTube without hiring a video team. The ROI was immediate." – *Maria, E‑commerce Owner*
 
 ---
 
-#### FAQ
-**Q:** How quickly can I integrate?
-**A:** < 15 minutes with our SDKs.
+### Ready to Automate Your Growth?
+**Book a free 15‑minute strategy call** or **click below to start your first month risk‑free.**
 
-**Q:** Is there a free tier?
-**A:** 14‑day free trial, no credit‑card required.
-
-**Q:** Do you store transaction data?
-**A:** All data is encrypted at rest and in transit; we never retain raw PII.
+[Start Now →](/checkout?plan=starter)
 
 ---
 
-*Ready to protect your revenue?*
-
-[Get Started Now](/signup)
+*No contracts. Cancel anytime.*
