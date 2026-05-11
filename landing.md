@@ -1,50 +1,62 @@
 # AI‑Powered Fraud Prevention
 
-<div style="text-align:center; margin:20px 0;">
-  <video width="640" height="360" controls>
-    <source src="https://example.com/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Stop fraud before it happens
 
-## Stop Fraud in Its Tracks
+![Fraud detection dashboard](/assets/fraud-dashboard.png)
 
-Detect and block fraudulent transactions in real‑time with our machine‑learning engine. No code, instant integration.
+**Instant, accurate, automated**—our AI engine scores every transaction in real‑time, flags anomalies, and sends webhook alerts to your systems.
 
-### Why Choose Us?
-- **99.9% detection accuracy** – trained on millions of fraud patterns.
-- **Zero‑false‑positive guarantee** – protect legitimate customers.
-- **Scalable API** – handle thousands of requests per second.
-- **Instant alerts** – webhook notifications to Slack, email, or your SIEM.
+---
+
+### How it works
+1. **Integrate in minutes** – simple REST API, SDKs for Python, Node, Java.
+2. **Score every transaction** – 0‑100 risk score, fraud‑type breakdown.
+3. **Instant alerts** – webhook, Slack, email, or custom callback.
+4. **Continuous learning** – models retrained weekly on global fraud data.
+
+---
+
+## Demo
+
+<video controls width="100%" poster="/assets/fraud-demo-poster.png">
+  <source src="/video-generator/hyperframes_out/tech_1c82493e.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ## Pricing
 
-| Plan | Price / month | Features |
+| Plan | Monthly Price | Features |
 |------|---------------|----------|
-| **Basic** | **$199** | • Real‑time scoring API<br>• 10k transactions/mo<br>• Email/webhook alerts<br>• 24/7 email support |
-| **Enterprise** | **$799** | • Unlimited transactions<br>• Dedicated account manager<br>• SLA 99.99% uptime<br>• Custom model training<br>• Priority support (phone & chat) |
+| **Basic** | **$199** | • Real‑time scoring  <br>• 10k transactions/mo  <br>• Webhook alerts  <br>• Email support |
+| **Enterprise** | **$799** | • Unlimited transactions  <br>• Dedicated account manager  <br>• SLA 99.9% uptime  <br>• Custom model training  <br>• Priority support |
 
-<div style="text-align:center; margin:30px 0;">
-  <a href="https://buy.stripe.com/test_123" style="background:#0066ff;color:white;padding:15px 30px;border-radius:5px;text-decoration:none;font-size:1.2em;">Start Free Trial</a>
-</div>
-
----
-
-### Frequently Asked Questions
-**Q:** How does the scoring work?
-**A:** Our API returns a risk score (0‑100) with detailed reason codes.
-
-**Q:** Is there a contract?
-**A:** No long‑term contracts – cancel anytime.
-
-**Q:** Can I integrate with my existing stack?
-**A:** Yes – REST, gRPC, and SDKs for Python, Node, Java.
+[Start Free Trial →](/signup)  
+[Book a Demo →](/contact)
 
 ---
 
-*Ready to protect your revenue?*  
-*Try now – no credit card required.*
+### Why choose us?
+- **Proven AI** – trained on 100M+ fraud cases.
+- **Compliance ready** – PCI‑DSS, GDPR, CCPA.
+- **Scalable** – cloud‑native, zero‑ops.
+- **Trusted** – used by leading fintechs and e‑commerce platforms.
 
-<meta name="description" content="AI‑powered fraud prevention tool with real‑time scoring, webhook alerts, and tiered pricing. Stop fraud today.">
+---
+
+#### FAQ
+**Q:** How quickly can I integrate?
+**A:** < 15 minutes with our SDKs.
+
+**Q:** Is there a free tier?
+**A:** 14‑day free trial, no credit‑card required.
+
+**Q:** Do you store transaction data?
+**A:** All data is encrypted at rest and in transit; we never retain raw PII.
+
+---
+
+*Ready to protect your revenue?*
+
+[Get Started Now](/signup)
