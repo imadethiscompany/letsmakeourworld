@@ -1,72 +1,76 @@
+# Veracity AI – Real‑Time Text Veracity Detection
 
-# Signals: Find the Most Informative Agent Traces – No LLM Judges Needed
+**Headline:** Detect Fake, Misleading, and Low‑Credibility Content Instantly with AI‑Powered Veracity Scoring.
 
-## Unlock the True Value of Your Autonomous Agents
-
-**Stop guessing which agent actions matter.**
-
-Our **Signals** platform automatically surfaces the most *informative* traces from any multi‑agent system, letting you see the critical decision points without relying on costly LLM evaluation.
+**Sub‑headline:** Empower journalists, brands, platforms, and researchers to protect their audiences. Try it free for 30 days – no credit card required.
 
 ---
 
-### Why Signals?
-- **Zero LLM Overhead** – No expensive API calls or prompt engineering. Signals works directly on raw agent logs.
-- **Data‑Driven Insight** – Quantitative relevance scoring highlights the traces that actually change outcomes.
-- **Plug‑and‑Play** – Simple SDK integrates with Python, JavaScript, or Rust agents in minutes.
-- **Enterprise‑Ready** – GDPR‑compliant storage, audit logs, and role‑based access.
+## Why Veracity AI?
+
+- **Boost Trust & Credibility** – Flag deceptive content before it spreads.
+- **Increase Engagement** – Users stay longer on platforms that surface trustworthy information.
+- **Save Time & Money** – Automated scoring replaces manual fact‑checking.
+- **Scalable & Secure** – Cloud‑native API handles millions of requests per day with end‑to‑end encryption.
 
 ---
 
-### How It Works (3‑Step Simplicity)
-1. **Ingest** – Feed your agent logs (JSON, CSV, or streaming).
-2. **Score** – Signals runs a lightweight information‑theoretic algorithm to rank each trace.
-3. **Visualize** – Interactive dashboard shows top‑k traces, causal paths, and actionable recommendations.
+## How It Works
+
+1. **Submit Text** – Send a paragraph, article, or comment via our REST API.
+2. **AI‑Powered Scoring** – Our proprietary transformer model evaluates source reliability, language patterns, and factual consistency.
+3. **Instant Verdict** – Receive a 0‑100 Veracity Score plus a confidence level and actionable insights.
+
+> *“Veracity AI cut our fact‑checking time by 70 % and reduced misinformation spread on our platform.” – Senior Editor, Global News Corp*
 
 ---
 
-### Who Benefits?
-- **AI Research Labs** needing reproducible trace analysis.
-- **Enterprise Automation Teams** optimizing RPA and workflow bots.
-- **Product Managers** diagnosing flaky agent behavior quickly.
-- **Investors & Auditors** verifying AI decision transparency.
+## Pricing Tiers
+
+| Plan | Monthly Price | Requests Included | Overage | Key Features |
+|------|----------------|-------------------|---------|--------------|
+| **Free Trial** | **$0** | 5,000 requests | $0.001 per extra request | Full API access, real‑time dashboard, email support |
+| **Pro** | **$99** | 100,000 requests | $0.0008 per extra request | SLA 99.9 %, webhook alerts, custom branding |
+| **Enterprise** | **Custom** | Unlimited | Negotiated | Dedicated account manager, on‑prem deployment, priority support |
+
+**Limited‑Time Offer:** Sign up now and get **2 ×** the free‑trial quota (10,000 requests) for the first month.
 
 ---
 
-### Real Results
-| Customer | Problem | Outcome |
-|---|---|---|
-| **FinTech AI Lab** | 30% of trades were unexplained. | Identified 5 high‑impact traces, reducing anomalies by 92%. |
-| **Supply Chain Automation Co.** | Debugging took weeks. | Cut trace‑analysis time from 48 h to 15 min. |
-| **Venture Capital Firm** | Needed audit‑ready logs. | Delivered compliance‑grade reports in one click. |
+## Start Your Free Trial Today
+
+<div style="background:#f9f9f9;padding:20px;border-radius:8px;max-width:500px;">
+<form action="https://api.veracity.ai/signup" method="POST">
+  <label for="name">Full Name</label><br>
+  <input type="text" id="name" name="name" required style="width:100%;margin-bottom:10px;"><br>
+  <label for="email">Work Email</label><br>
+  <input type="email" id="email" name="email" required style="width:100%;margin-bottom:10px;"><br>
+  <label for="company">Company</label><br>
+  <input type="text" id="company" name="company" style="width:100%;margin-bottom:10px;"><br>
+  <button type="submit" style="background:#0066ff;color:#fff;padding:10px 20px;border:none;border-radius:4px;cursor:pointer;">Start Free Trial</button>
+</form>
+</div>
 
 ---
 
-## Get Early Access Today
+## Frequently Asked Questions
 
-**Ready to see the most informative traces in your system?**
+**Q:** *Do I need a credit card for the free trial?*  
+**A:** No. The trial is completely free and unlimited for 30 days.
 
-- **Free 7‑day trial** – No credit card required.
-- **Live demo** – Book a 15‑minute walkthrough.
-- **Instant setup** – Get a Docker image or pip package.
+**Q:** *How accurate is the Veracity Score?*  
+**A:** Our model achieves 0.78 AUC on industry‑standard benchmark datasets and continuously improves with human‑in‑the‑loop feedback.
 
-[**Start My Free Trial**](#)       [**Book a Demo**](#)
-
----
-
-### Frequently Asked Questions
-**Q: Do I need an LLM to use Signals?**
-A: No. Signals uses statistical relevance, not language models.
-
-**Q: Is my data private?**
-A: All data stays in your VPC or on‑prem; we never store raw logs.
-
-**Q: Can Signals handle streaming logs?**
-A: Yes – real‑time scoring works out‑of‑the‑box.
+**Q:** *Can I host the model on‑prem?*  
+**A:** Enterprise customers can request a private‑cloud or on‑prem deployment.
 
 ---
 
-#### Join the Future of Agent Transparency
+### Ready to protect your audience?
 
-*Signals* turns opaque agent chatter into clear, actionable insight. Empower your team to iterate faster, audit smarter, and build trust in autonomous systems.
+[**Start Your Free Trial →**](https://veracity.ai/signup)
 
-[**Start My Free Trial**](#)
+---
+
+<meta name="description" content="Veracity AI provides real‑time AI‑driven text veracity scoring. Detect fake, misleading, and low‑credibility content instantly. Free 30‑day trial, no credit card required.">
+<meta name="keywords" content="AI fact checking, text veracity, misinformation detection, fake news detection, content credibility, API">
