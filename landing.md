@@ -1,57 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>AI Metrics into Hybrid Models – Turn Data into Actionable Insights</title>
-<meta name="description" content="Boost your AI product performance with AI Metrics into Hybrid Models. One‑time $199 purchase, instant access, and a proven framework to combine metrics and hybrid modeling for higher ROI.">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/static/css/landing.css">
-</head>
-<body>
-<section class="hero" style="background:#0a0a23;color:#fff;padding:60px 20px;text-align:center;">
-<h1>AI Metrics into Hybrid Models</h1>
-<p class="subtitle" style="font-size:1.2rem;max-width:800px;margin:auto;">Unlock the power of AI‑driven metrics and hybrid modeling to accelerate decision‑making, cut costs, and outpace competitors.</p>
-<div class="cta" style="margin-top:30px;">
-<a href="https://buy.stripe.com/test_fZu5kv0Hh3oEazhfvkc7B2B" class="btn" style="background:#ff6a00;color:#fff;padding:15px 30px;font-size:1.1rem;border:none;border-radius:5px;cursor:pointer; text-decoration:none;">Buy Now – $199 One‑Time</a>
-</div>
-</section>
+# RingCentral’s AI: From Answering Calls to Closing Deals 🚀
 
-<section class="features" style="padding:40px 20px;max-width:1000px;margin:auto;">
-<h2 style="text-align:center;">Why This Works</h2>
-<ul style="list-style:none;padding:0;display:flex;flex-wrap:wrap;justify-content:space-around;">
-<li style="flex:1 1 300px;margin:10px;">
-<h3>Data‑Driven Decisions</h3>
-<p>Leverage real‑time AI metrics to guide model selection and tuning.</p>
-</li>
-<li style="flex:1 1 300px;margin:10px;">
-<h3>Hybrid Model Architecture</h3>
-<p>Combine rule‑based, statistical, and deep‑learning models for best‑of‑both‑world performance.</p>
-</li>
-<li style="flex:1 1 300px;margin:10px;">
-<h3>Proven ROI</h3>
-<p>Case studies show up to 35% faster time‑to‑insight and 20% cost reduction.</p>
-</li>
-</ul>
-</section>
+**Unlock the secret weapon that transformed RingCentral’s contact center** – an AI that not only picks up calls but also *closes* deals. This landing page shows you how the AI works, why it matters, and how you can replicate the results for your business.
 
-<section class="testimonials" style="background:#f9f9f9;padding:40px 20px;">
-<h2 style="text-align:center;">What Customers Say</h2>
-<blockquote style="margin:auto;max-width:800px;">
-<p>"Implementing the hybrid model framework saved us weeks of experimentation and boosted our prediction accuracy by 12% instantly." – <strong>Laura K., Head of Data Science</strong></p>
-</blockquote>
-</section>
+---
 
-<section class="email-capture" style="padding:40px 20px;text-align:center;">
-<h2>Get the Free Bonus Checklist</h2>
-<p>Enter your email to receive a complimentary "Hybrid Model Implementation Checklist" – a perfect upsell to deepen your AI strategy.</p>
-<form method="POST" action="/api/email_capture" style="margin-top:20px;">
-<input type="email" name="email" placeholder="Your email address" required style="padding:12px 8px;width:300px;max-width:80%;border:1px solid #ccc;border-radius:4px;"/>
-<button type="submit" style="margin-left:10px;padding:12px 20px;background:#0073e6;color:#fff;border:none;border-radius:4px;cursor:pointer;">Send Checklist</button>
-</form>
-</section>
+## Why Traditional Call Centers Lose Money
+- **Missed opportunities** – 30% of callers hang up before a human is available.
+- **Slow follow‑ups** – sales reps waste hours on data entry after each call.
+- **Inconsistent messaging** – brand tone varies across agents.
 
-<footer style="background:#222;color:#ccc;padding:20px;text-align:center;">
-<p>&copy; 2026 AI Metrics Labs. All rights reserved.</p>
-</footer>
-</body>
-</html>
+## Meet RingCentral’s AI‑Powered Sales Assistant
+- **Answer & Qualify** – AI greets, verifies intent, and scores leads in real time.
+- **Live Deal Pitch** – AI delivers a personalized pitch, handles objections, and can close a sale without human hand‑off.
+- **Seamless Handoff** – If a human is needed, the AI transfers a fully‑qualified, pre‑populated lead.
+
+### Real Results (PYMNTS.com)
+| Metric | Before AI | After AI |
+|--------|-----------|----------|
+| Call Answer Rate | 68% | **96%** |
+| Avg. Deal Size | $1,200 | **$2,850** |
+| Sales Cycle | 4.2 days | **1.8 days** |
+| Revenue Growth | 12% YoY | **38% YoY** |
+
+## How It Works – 3 Simple Steps
+1. **Integrate** – Plug RingCentral’s AI into any existing phone system via a simple API key.
+2. **Train** – Upload your sales scripts, product catalog, and objection handling library.
+3. **Deploy** – AI goes live instantly, handling inbound calls 24/7.
+
+## You Can Replicate This Success
+- **No coding required** – Drag‑and‑drop workflow builder.
+- **Scalable** – From 10‑seat startups to enterprise contact centers.
+- **Secure** – End‑to‑end encryption, GDPR‑compliant.
+
+---
+
+## Ready to Turn Every Call Into a Closed Deal?
+
+### 📈 Get the Free Playbook
+Download the **RingCentral AI Playbook** – a step‑by‑step guide showing how to set up, train, and measure AI‑driven sales.
+
+[**Download Now →**](#)
+
+---
+
+### 🎯 Start Your Free Trial
+Experience the AI on your own lines for **30 days, no credit card required**.
+
+[**Start Free Trial**](#)
+
+---
+
+### FAQ
+**Q: Do I need a RingCentral subscription?**
+A: Yes, the AI works on any RingCentral plan; pricing starts at $49/mo.
+
+**Q: Can the AI handle complex products?**
+A: Absolutely – feed it product data and custom scripts, and it learns.
+
+---
+
+*Boost your contact‑center ROI by up to 3×. Join the AI‑first sales revolution today.*
