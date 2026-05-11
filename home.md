@@ -1,73 +1,41 @@
-# AI‑Powered Code Review with OpenHuman
+# AI-Powered Code Review with OpenHuman
 
 ## Supercharge Your SaaS Code‑Review Tool
 
-**Instant, AI‑driven feedback** that catches bugs, security flaws, and style issues before they ship. Integrate the OpenHuman widget as a premium add‑on and turn every pull‑request into a high‑quality, low‑risk release.
+**Turn every pull request into a flawless, security‑hardened masterpiece** with the OpenHuman AI review widget.  Plug‑and‑play, powered by state‑of‑the‑art LLMs, it instantly:
 
----
+- **Detect bugs & security flaws** before they ship
+- **Enforce style & architecture guidelines** automatically
+- **Provide actionable suggestions** in natural language
+- **Integrate seamlessly** with GitHub, GitLab, Bitbucket, Azure DevOps, and more
 
-### Why Choose OpenHuman?
-
-- **Deep code understanding** – Built on the latest LLMs, it reads your code contextually, not just line‑by‑line.
-- **Actionable suggestions** – Inline comments, auto‑fix patches, and security recommendations.
-- **Seamless integration** – One‑click embed for GitHub, GitLab, Bitbucket, Azure DevOps, and custom CI pipelines.
-- **Enterprise‑grade security** – All processing runs in‑region, data never leaves your cloud.
-- **Boost developer velocity** – Teams see a 30% reduction in review time and a 45% drop in post‑merge defects.
-
----
-
-### Features
-
-| Feature | Benefit |
+### Why Add‑On OpenHuman?
+| Benefit | Description |
 |---|---|
-| **Real‑time AI review** | Immediate feedback as developers type.
-| **Security & compliance scanner** | Detect OWASP Top 10, secret keys, license violations.
-| **Auto‑fix suggestions** | One‑click patch generation saves hours.
-| **Custom rule engine** | Tailor the reviewer to your coding standards.
-| **Analytics dashboard** | Track review quality, bottlenecks, and team performance.
-| **Multi‑language support** | JavaScript, Python, Go, Java, Rust, and more.
-
----
-
-### Pricing (Add‑on)
-
-| Plan | Monthly Price | Included Reviews |
-|---|---|---|
-| **Starter** | **$49** | Up to 5,000 lines per month |
-| **Growth** | **$199** | Up to 25,000 lines per month |
-| **Enterprise** | **Custom** | Unlimited, SLA, dedicated support |
-
-> **Free trial – 7 days, no credit card required.**
-
----
+| **Higher code quality** | Reduce post‑release defects by up to 45% |
+| **Faster reviews** | Cut review time from days to minutes |
+| **Compliance ready** | Built‑in OWASP, GDPR, and internal policy checks |
+| **Revenue boost** | Offer as a premium add‑on – customers love AI assistance |
 
 ### How It Works
+1. **Install** – Add the widget script to your review UI (one‑line embed).
+2. **Configure** – Choose rule‑sets, language support, and security policies.
+3. **Review** – The widget analyses diffs in real‑time, highlights issues, and suggests fixes.
+4. **Iterate** – Developers apply suggestions, re‑run, and ship with confidence.
 
-1. **Install** – Add the OpenHuman widget to your SaaS product via a single script tag.
-2. **Configure** – Connect your repo, set policies, and enable the AI reviewer.
-3. **Review** – Developers receive AI‑generated comments directly in the PR UI.
-4. **Iterate** – Apply auto‑fixes or refine manually; the AI learns from your feedback.
+### Pricing
+- **Starter** – $49/mo for up to 5,000 PRs
+- **Growth** – $199/mo for up to 25,000 PRs
+- **Enterprise** – Custom pricing, unlimited PRs, dedicated support
 
----
+> **Free 14‑day trial** – No credit card required.
 
-### Trusted by Leading Teams
+### Trusted by
+![Logos of leading SaaS tools](/assets/partner-logos.png)
 
-> "OpenHuman cut our review cycle in half and caught critical security bugs we missed. A must‑have for any serious dev team." – *CTO, FastScale.io*
+### Ready to upgrade your code review?
 
-> "The seamless embed and custom rules let us enforce company standards without slowing developers down." – *Head of Engineering, CodeFlow.ai*
-
----
-
-## Ready to Elevate Your Code Review?
-
-[**Start Your Free Trial**](#)                                                                                                                                                                                                                                                                                                       
-
----
-
-### Got Questions?
-
-Contact us at **sales@openhuman.ai** or book a demo.
+<button onclick="window.location.href='https://checkout.stripe.com/pay/...';" style="padding:12px 24px;background:#ff6600;color:#fff;border:none;border-radius:4px;font-size:16px;cursor:pointer;">Start Free Trial</button>
 
 ---
-
-*OpenHuman – The future of code quality, today.*
+*OpenHuman – AI that writes better code, so you can build faster.*
