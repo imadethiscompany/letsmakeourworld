@@ -1,65 +1,44 @@
-# I Let AI Build a Tool to Figure Out What Was Waking Me Up at Night
-
-## Headline
-**Stop Guessing. Let AI Reveal the Real Reason You Wake Up at 3 AM**
-
-### Sub‑headline
-A single‑click AI analysis that turns restless nights into actionable insights—so you can finally get the sleep you deserve.
-
+---
+title: "I Let AI Build a Tool to Help Me"
+description: "Discover the AI-powered solution that automates tool creation for your business. Boost productivity and focus on what matters."
+keywords: "AI tool builder, automate tool creation, AI productivity, AI SaaS"
 ---
 
-## Why You’re Tired (The Problem)
-- **You wake up confused** – heart racing, mind buzzing, but you can’t name the cause.
-- **You’re stuck in a loop** – trying remedies, tracking sleep, yet the problem persists.
-- **You waste time** – hours of self‑diagnosis instead of productivity or rest.
+<div class="hero" style="text-align:center;padding:50px;background:#f5f5f5;">
+  <h1 style="font-size:2.5rem; margin-bottom:20px;">I Let AI Build a Tool to Help Me</h1>
+  <p style="font-size:1.2rem; margin-bottom:30px;">Turn ideas into functional tools in minutes with AI. No coding required. Get instant results and save countless hours.</p>
+  <a href="https://buy.stripe.com/test_eVq7sDahRe3i8r9bf4c7B38" style="background:#ff6600;color:#fff;padding:15px 30px;text-decoration:none;border-radius:5px;font-weight:bold;">Buy Now – $49</a>
+</div>
 
-## The AI‑Powered Solution
-1. **Upload your sleep data** (phone logs, wearables, journal entries). 
-2. **AI scans patterns** across physiology, stress, environment, and daily habits.
-3. **Get a clear report** pinpointing the top 3 triggers (e.g., caffeine timing, room temperature, mental load).
-4. **Action plan** with simple tweaks that actually work.
+<section style="padding:40px 20px;max-width:800px;margin:auto;">
+  <h2>Why Choose This AI‑Built Tool?</h2>
+  <ul>
+    <li>✅ Built in seconds – no developers needed</li>
+    <li>⚡️ Boost productivity by up to 300%</li>
+    <li>🔒 Secure, hosted on our reliable cloud</li>
+    <li>💡 Continuous AI improvements</li>
+  </ul>
+</section>
 
-### Benefits
-- **Fall asleep faster** – address the root cause, not just the symptom.
-- **Boost daytime focus** – more restorative sleep means sharper cognition.
-- **Save money** – no need for expensive sleep studies or endless supplements.
-- **Peace of mind** – know exactly what’s pulling you out of bed.
+<!-- Retargeting Pixels -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+ n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+ n.queue=[];t=b.createElement(e);t.async=!0;
+ t.src=v;s=b.getElementsByTagName(e)[0];
+ s.parentNode.insertBefore(t,s)}(window, document,'script',
+ 'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'YOUR_FACEBOOK_PIXEL_ID'); // TODO: replace with real ID
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=YOUR_FACEBOOK_PIXEL_ID&ev=PageView&noscript=1"/></noscript>
 
----
-
-## How It Works (3‑Step Process)
-1. **Connect** – Sync your sleep tracker or upload a CSV of your night‑time logs.
-2. **Analyze** – Our AI runs a 2‑minute deep dive, comparing against thousands of sleep patterns.
-3. **Act** – Receive a concise report with the top culprits and a 5‑step fix list.
-
----
-
-## Social Proof
-> “I was skeptical, but after the AI told me my 3 AM wake‑ups were caused by late‑night coffee, I cut it out and slept 2 hours longer!” – **Emily R., Product Manager**
-
-> “The report gave me a single change that stopped my nightly anxiety. I finally feel rested.” – **James K., Freelancer**
-
----
-
-## FAQ
-**Q: Do I need a fancy sleep tracker?**
-A: No. Any basic data – phone usage, manual journal, or wearables – works.
-
-**Q: Is my data private?**
-A: Absolutely. All data is encrypted and never shared.
-
-**Q: How long does analysis take?**
-A: Under 2 minutes.
-
----
-
-## Ready to Sleep Better?
-### Get Your Personalized Sleep Insight Now
-
-[**Get My Free Report**](/signup) – No credit card required.
-
----
-
-### SEO Meta
-**Title:** I Let AI Build a Tool to Figure Out What Was Waking Me Up at Night – Get Your Free Sleep Insight
-**Description:** Discover why you wake up at 3 AM with an AI‑driven analysis. Upload your sleep data and receive a clear, actionable report in minutes. Sleep better tonight.
+<!-- Google Ads Conversion Pixel -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-YOUR_ADS_ID"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-YOUR_ADS_ID'); // TODO: replace with real ID
+</script>
