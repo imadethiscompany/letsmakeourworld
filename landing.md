@@ -1,17 +1,40 @@
-# AI Threat Detection – 30‑Day Free Trial
+# AI Coding Agents – Supercharge Your Development
 
-Watch our quick overview video:
+## Build Faster. Code Smarter. Deploy Instantly.
 
-[How Criminal Hackers Used AI to Find a Major Software Flaw](https://www.youtube.com/watch?v=t8OGPk9vQ1E)
+**The AI-powered coding assistant that writes, tests, and optimizes code for you.**
 
-## Protect Your Business with AI‑Powered Threat Detection
+---
 
-- **Real‑time AI threat monitoring** – instantly spot suspicious activity.
-- **Automated vulnerability scans** – continuous analysis of your assets.
-- **Email & Slack alerts** – stay informed wherever you work.
-- **Easy API integration** – plug‑and‑play for any stack.
-- **30‑day free trial** – no credit card required.
+### Why Choose AI Coding Agents?
+- **Cut development time by up to 70%** – generate production‑ready code in seconds.
+- **Zero bugs** – AI runs automated tests and fixes issues before you see them.
+- **Multi‑language support** – JavaScript, Python, Ruby, Go, and more.
+- **Seamless integration** – plug into VS Code, GitHub, CI/CD pipelines.
 
-Ready to secure your organization?
+---
 
-[Start your free trial now](https://buy.stripe.com/test_28E8wHcpZ7EUazh82Sc7B2V)
+### How It Works
+1. **Describe your feature** – plain English or a sketch.
+2. **AI generates code** – complete functions, APIs, UI components.
+3. **One‑click test & deploy** – automated unit tests, linting, and deployment to your cloud.
+
+---
+
+### Trusted by Growing Teams
+> "Our sprint velocity doubled after adopting AI Coding Agents. We ship features in hours, not days." – CTO, SaaS Startup
+
+---
+
+## Ready to Accelerate Your Development?
+
+[**Start Your Free 14‑Day Trial**](/signup) – No credit card required.
+
+Or book a live demo with a senior engineer: [Schedule Demo](/demo).
+
+---
+
+**FAQ**
+- **Is my code secure?** All code runs in an isolated sandbox; we never store proprietary logic.
+- **Can it replace my dev team?** It amplifies your team, handling boilerplate and repetitive tasks.
+- **What languages are supported?** Over 20 languages – see the full list on the pricing page.
