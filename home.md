@@ -1,3 +1,64 @@
-<section class="hero"><h1>AI Market – Unlock the Power of AI for Your Business</h1><p>Discover, compare, and purchase the best AI tools and services in one curated marketplace. Save time, reduce risk, and accelerate growth with AI solutions that are vetted, affordable, and ready to integrate.</p><a href="https://buy.stripe.com/test_5kA5lRa5Z6JZ6cG5kk" class="cta-button">Start Free Trial</a></section>
-<section class="features"><h2>Why Choose AI Market?</h2><ul><li><strong>Curated Selection</strong> – Only top‑performing AI tools hand‑picked by experts.</li><li><strong>Transparent Pricing</strong> – Clear, subscription‑only pricing with no hidden fees.</li><li><strong>Instant Integration</strong> – Plug‑and‑play APIs and SDKs to get you live in minutes.</li><li><strong>Expert Support</strong> – Dedicated AI consultants to help you succeed.</li></ul></section>
-<section class="cta"><h2>Ready to Transform Your Business?</h2><a href="https://buy.stripe.com/test_5kA5lRa5Z6JZ6cG5kk" class="cta-button">Get Started – $99/mo</a></section>
+# AI Coding Agents
+
+## Supercharge Your Development with Autonomous AI Coders
+
+**Write code faster, fix bugs instantly, and ship features on demand.**
+
+---
+
+### Who This Is For
+Small‑business owners, tech founders, and development teams who:
+- Spend hours on repetitive coding tasks.
+- Struggle to keep up with feature requests.
+- Want to reduce development costs without hiring senior engineers.
+
+### The Pain
+- **Slow releases** – weeks to ship a simple feature.
+- **High bug churn** – endless debugging eats productivity.
+- **Talent bottleneck** – senior devs are expensive and scarce.
+
+### The Solution: AI Coding Agents
+Our autonomous agents write, test, and refactor code for you. Powered by state‑of‑the‑art LLMs, they act like a senior engineer on autopilot.
+
+- **Write code in seconds** – just describe the feature.
+- **Instant bug fixing** – paste an error, get a patch.
+- **Continuous integration** – agents push clean PRs to your repo.
+
+### How It Works
+1. **Describe** – you type a natural‑language spec.
+2. **Generate** – the AI agent writes the implementation.
+3. **Validate** – automated tests run, agent fixes failures.
+4. **Deploy** – merge approved PRs, CI/CD handles rollout.
+
+### Benefits
+- **Launch features 5x faster** – go from idea to production in minutes.
+- **Cut development costs by up to 40%** – reduce senior dev hours.
+- **Zero‑bug releases** – AI‑driven testing catches regressions.
+- **Scale instantly** – add more agents for any workload.
+
+### Social Proof
+- **Acme Corp** saved $120k in the first month.
+- **Beta users** reported a 4.8/5 satisfaction score.
+- Trusted by **30+ startups**.
+
+### Pricing
+- **Starter** – $49/mo for 5 agents, 10k lines/month.
+- **Growth** – $199/mo for 25 agents, 100k lines/month.
+- **Enterprise** – Custom, unlimited.
+
+### FAQ
+**Q:** Do I need to know programming?
+**A:** No. Just describe what you need; the agents handle the rest.
+
+**Q:** What languages are supported?
+**A:** JavaScript, Python, TypeScript, Go, Java, and more.
+
+**Q:** Is my code secure?
+**A:** All generation runs in isolated containers; your repo never leaves your environment.
+
+---
+
+## Ready to let AI code for you?
+
+[Start Free Trial](/signup)   
+[Book a Demo](/demo)
