@@ -1,57 +1,50 @@
-# Unlock Higher Net Dollar Retention for SaaS Leaders
+# Unlock Higher Net Dollar Retention
 
-## The #1 Growth Lever You’re Missing
+## Headline
+**Boost Your SaaS Net Dollar Retention by 15%+ in 90 Days**
 
-**Increase your NDR by 10‑15% in 90 days** – without hiring more salespeople or spending on expensive ad spend.
-
----
-
-### Why NDR Matters
-- **$1M in NDR = $10M ARR** – the math is simple, the impact is massive.
-- Retention beats acquisition: a 5% boost in NDR outperforms a 20% increase in new logos.
-- Investors focus on NDR as a sign of product‑market fit and long‑term viability.
+### Subheadline
+Join the elite group of SaaS leaders who are turning churn into growth with proven strategies and a data‑driven playbook.
 
 ---
 
-### Our Proven System
-1. **Data‑Driven Health Scores** – AI‑powered analytics surface churn risk in real‑time.
-2. **Targeted Expansion Playbooks** – step‑by‑step guides to upsell, cross‑sell, and win‑back.
-3. **Automation Engine** – auto‑triggered campaigns that convert at 3‑5x higher rates.
-
-> *“We lifted NDR from 92% to 108% in 3 months – the fastest growth we’ve ever seen.”* – **VP of Growth, ScaleCo**
+## Why Net Dollar Retention Matters
+- **Revenue Growth Engine** – NDR > 100% means existing customers are buying more, offsetting churn.
+- **Investor Confidence** – Top‑quartile NDR signals product‑market fit to VCs.
+- **Predictable Forecasts** – Stable, expanding revenue reduces reliance on costly acquisition.
 
 ---
 
-### What You Get
-- Full audit of your current NDR drivers.
-- Customized playbook + implementation roadmap.
-- 30‑day hands‑on coaching sprint.
-- Ongoing AI monitoring dashboard.
-
-**All for a single monthly subscription – no hidden fees.**
+## What You Get
+1. **Benchmark Dashboard** – Instantly see where you stand vs. industry leaders.
+2. **Retention Playbook** – Step‑by‑step tactics proven to lift NDR by 10‑20%.
+3. **Customer Success Toolkit** – Scripts, email templates, and upsell frameworks.
+4. **Live Coaching Call** – One‑hour strategy session with a SaaS growth expert.
 
 ---
 
-## Ready to Boost Your NDR?
+## Social Proof
+> “We increased our NDR from 92% to 108% in three months using this system.” – *VP of Growth, ScaleUp.io*
 
-### Choose Your Plan
-- **Starter** – $2,500/mo – audit + playbook.
-- **Growth** – $5,000/mo – audit + playbook + 30‑day sprint.
-- **Enterprise** – Custom – full‑stack integration & dedicated success manager.
-
-[**Start Your Free NDR Assessment**](#)  
+> “The playbook turned our churn‑risk accounts into expansion opportunities.” – *Founder, CloudMetrics*
 
 ---
 
-### FAQs
-**Q:** *Do I need a data team?*  
-**A:** No. Our AI platform does the heavy lifting.
+## Ready to Accelerate Your Growth?
 
-**Q:** *How quickly can I see results?*  
-**A:** Most clients see a 5‑10% lift in the first month.
+**[Schedule Your Free Strategy Call →](#)**
+
+Or grab the **instant PDF guide** below and start implementing today.
 
 ---
 
-#### Join 200+ SaaS leaders who are already scaling profitably.
+### FAQ
+**Q:** *Do I need a large customer base?*  
+**A:** No. The tactics work for $1M‑$50M ARR SaaS companies.
 
-[**Get Started Now**](#)
+**Q:** *Is this a one‑time purchase?*  
+**A:** You get lifetime access to the playbook and updates.
+
+---
+
+*Take the first step toward a 100%+ NDR. Your growth is waiting.*
