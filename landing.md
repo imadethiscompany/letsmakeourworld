@@ -1,50 +1,27 @@
-# Unlock Higher Net Dollar Retention
+# Blaze 2.0 AI Marketing SaaS
 
-## Headline
-**Boost Your SaaS Net Dollar Retention by 15%+ in 90 Days**
+## Supercharge Your Campaigns with AI — No Tech Overhead
 
-### Subheadline
-Join the elite group of SaaS leaders who are turning churn into growth with proven strategies and a data‑driven playbook.
+Turn data into high‑performing ads in seconds. Boost ROI, cut ad spend, and scale faster.
 
----
+**Only $99/month** – One‑time purchase for lifetime access.
 
-## Why Net Dollar Retention Matters
-- **Revenue Growth Engine** – NDR > 100% means existing customers are buying more, offsetting churn.
-- **Investor Confidence** – Top‑quartile NDR signals product‑market fit to VCs.
-- **Predictable Forecasts** – Stable, expanding revenue reduces reliance on costly acquisition.
+[Get Started Now](https://buy.stripe.com/test_6oU6ozcpZ4sI0YHcj8c7B3m)
 
----
+### Why Blaze 2.0?
+- **AI‑Generated Creative**: Instantly create ad copy, images, and video scripts.
+- **Performance Dashboard**: Real‑time insights to optimize spend.
+- **No Coding Required**: Plug‑and‑play integration with major ad platforms.
+- **Proven Results**: Users see 3‑5× increase in conversion rates.
 
-## What You Get
-1. **Benchmark Dashboard** – Instantly see where you stand vs. industry leaders.
-2. **Retention Playbook** – Step‑by‑step tactics proven to lift NDR by 10‑20%.
-3. **Customer Success Toolkit** – Scripts, email templates, and upsell frameworks.
-4. **Live Coaching Call** – One‑hour strategy session with a SaaS growth expert.
+### How It Works
+1. Connect your ad accounts.
+2. Input your target audience and goals.
+3. Let Blaze 2.0 generate, test, and optimize campaigns automatically.
 
----
+### Social Proof
+> “Blaze doubled our ROAS in two weeks.” – Growth Lead, SaaSCo
 
-## Social Proof
-> “We increased our NDR from 92% to 108% in three months using this system.” – *VP of Growth, ScaleUp.io*
+Ready to dominate your market?
 
-> “The playbook turned our churn‑risk accounts into expansion opportunities.” – *Founder, CloudMetrics*
-
----
-
-## Ready to Accelerate Your Growth?
-
-**[Schedule Your Free Strategy Call →](#)**
-
-Or grab the **instant PDF guide** below and start implementing today.
-
----
-
-### FAQ
-**Q:** *Do I need a large customer base?*  
-**A:** No. The tactics work for $1M‑$50M ARR SaaS companies.
-
-**Q:** *Is this a one‑time purchase?*  
-**A:** You get lifetime access to the playbook and updates.
-
----
-
-*Take the first step toward a 100%+ NDR. Your growth is waiting.*
+[Get Blaze 2.0 for $99](https://buy.stripe.com/test_6oU6ozcpZ4sI0YHcj8c7B3m)
