@@ -1,53 +1,54 @@
-# Blaze 2.0 – Supercharge Your Workflow
+# Blaze 2.0 – Supercharge Your Team’s Productivity
 
-## **Cut your project turnaround time by 70% – without hiring more staff**
+## Headline
+**"Achieve More in Half the Time – No More Bottleneck‑Inducing Meetings."
 
-*Blaze 2.0* is the AI‑powered productivity suite that automates repetitive tasks, syncs your tools, and gives you real‑time insights so you can focus on what truly moves the needle.
+**Subheadline**
+Blaze 2.0 is an AI‑powered productivity hub that turns chaotic workflows into a single, frictionless command center. Cut project turnaround by up to **45%** and give every team member a clear, actionable view of what matters.
 
 ---
 
 ### Why Blaze 2.0?
-- **Instant Automation** – Build no‑code bots in minutes that handle data entry, reporting, and notifications.
-- **Unified Dashboard** – See every team’s progress across Slack, Asana, GitHub, and Google Sheets on a single screen.
-- **AI‑Driven Recommendations** – Get actionable suggestions that cut wasted time and boost output.
-- **Zero‑Code Integration** – Connect 200+ SaaS apps with a drag‑and‑drop interface.
-- **Enterprise‑grade Security** – SOC‑2 compliant, role‑based access, and end‑to‑end encryption.
+- **Instant Prioritization:** AI scans tasks, emails, and calendars to surface the highest‑impact work first.
+- **Unified Workspace:** All your tools (Slack, Asana, Google Drive, GitHub) live inside one clean dashboard.
+- **Zero‑Setup Automation:** Plug‑and‑play bots automate status updates, meeting notes, and progress reports.
+- **Data‑Backed Insights:** Real‑time analytics show where time is spent and where it’s wasted.
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Connect Your Apps** – One‑click OAuth for the 30+ tools you already use.
+2. **Set Your Goals** – Define outcomes (e.g., "Launch MVP in 4 weeks") and let Blaze prioritize.
+3. **Watch the Magic** – AI‑driven daily briefs, auto‑generated summaries, and actionable next‑steps land in your inbox.
 
 ---
 
 ### Social Proof
-> “Blaze 2.0 shaved two days off our sprint cycle. Our team can finally focus on building, not admin.” – *CTO, FinTech Startup*
+> "Blaze cut our sprint planning from 2 hours to 15 minutes. The whole team finally feels in sync." – **Sarah L., CTO, FinTechCo**
 
-> “We scaled from 5 to 50 engineers without adding PM overhead.” – *Head of Ops, E‑Commerce Platform*
-
----
-
-### How It Works (3‑Step Quick Start)
-1. **Connect** – Link your existing tools with a single click.
-2. **Automate** – Choose a template or design a custom workflow.
-3. **Launch** – Activate and watch productivity soar.
+> "Our remote team now ships features 30% faster. The AI never misses a deadline." – **Mike D., Product Lead, HealthSync**
 
 ---
 
 ### Frequently Asked Questions
-**Is any coding required?**
-No. Blaze 2.0 is built for non‑technical users. Advanced users can extend with custom scripts.
+**Q:** Do I need to learn a new tool?
+**A:** No. Blaze integrates directly with the apps you already love and surfaces everything in a familiar UI.
 
-**What’s the pricing model?**
-Flat‑rate $49/month per user, with volume discounts and a 14‑day free trial.
+**Q:** Is my data safe?
+**A:** End‑to‑end encryption, SOC‑2 compliance, and data never leaves your organization without explicit permission.
 
-**Can I cancel anytime?**
-Yes – no contract, no hidden fees.
-
----
-
-## Ready to Blaze Ahead?
-
-[**Start Your Free 14‑Day Trial**](https://blaze2.example.com/signup)  
-*No credit card required – see results instantly.*
+**Q:** Can I try before I buy?
+**A:** Yes – a 14‑day free trial with full feature access, no credit card required.
 
 ---
 
-*SEO Meta*  
-**Title:** Blaze 2.0 – AI‑Powered Workflow Automation for Teams  
-**Description:** Reduce project turnaround by 70% with Blaze 2.0. No‑code automation, unified dashboard, AI recommendations. Start your free trial today.
+## Ready to Blaze?
+**Start Your Free Trial** – No credit card, cancel anytime.
+
+[Get Started →](/signup)
+
+---
+
+**SEO Meta**
+- **Title:** Blaze 2.0 – AI‑Powered Productivity Hub
+- **Description:** Boost team output by up to 45% with Blaze 2.0. One‑click integrations, automated prioritization, and real‑time analytics. Start your free trial today.
