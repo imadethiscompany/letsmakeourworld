@@ -1,61 +1,43 @@
-# AI Pricing Models that Supercharge Your Revenue
+# Open Computer Use API
 
-## Turn Data into Dynamic Prices in Minutes
+## Power your apps with real computer actions
 
-**Instantly generate AI‑driven pricing strategies** that adapt to market demand, competitor moves, and customer behavior—without hiring a data science team.
+**Turn any software into an API** – run browsers, desktops, terminals, and more from your code. No VMs, no infra.
 
-### Why AI Pricing?
-- **Boost margins by 10‑30%** – proven with SMBs in retail, SaaS, and services.
-- **Real‑time optimization** – updates every hour based on live signals.
-- **No code required** – simple dashboard, plug‑and‑play integration.
+### Why developers love it
 
----
+- **Instant access** – start using the API in seconds, no setup.
+- **Scalable** – built‑in rate limiting & billing, pay per use.
+- **Secure** – sandboxed sessions, audit logs, fine‑grained permissions.
 
-### How It Works
-1. **Connect your data** – sales, inventory, website traffic, or third‑party feeds.
-2. **AI analyzes** – patterns, price elasticity, competitor pricing, seasonality.
-3. **Dynamic price engine** – auto‑adjusts prices across channels.
-4. **Dashboard & alerts** – monitor impact, override manually if needed.
+### Pricing
 
----
+| Plan | Price | Requests / month | Features |
+|------|-------|----------------|----------|
+| **Free** | $0 | 5,000 | Single‑user, community support, basic rate limit |
+| **Pro** | $49/mo | 100,000 | Multi‑user, priority support, higher rate limits, SLA |
 
-### Key Benefits
-- **Higher profits** – capture willingness‑to‑pay you were missing.
-- **Increased conversions** – optimal price points improve purchase rates.
-- **Time savings** – automate price updates, free your team for growth.
-- **Competitive edge** – stay ahead of rivals who still price manually.
+[Start Free Trial](/products/open-computer-use-api-free-173d37)   [Upgrade to Pro](/products/open-computer-use-api-pro-7540ab)
 
----
+### How it works
 
-### Social Proof
-> "We saw a 22% margin increase in the first month. The AI pricing tool paid for itself twice over." – *Jane D., Founder, UK E‑commerce*
+1. **Get API key** – sign up, receive a token.
+2. **Call endpoints** – send commands, get screenshots, data, or file outputs.
+3. **Integrate** – plug into your web, mobile, or AI app.
 
-> "Our SaaS churn dropped 15% after implementing dynamic pricing based on usage patterns." – *Mark L., CTO, FinTech Startup*
+### Use cases
 
----
+- Automate web scraping without headless browsers.
+- Build AI agents that can interact with real software.
+- Run UI tests remotely via API.
 
-### Ready to Transform Your Pricing?
+### FAQ
 
-[**Start Your Free 14‑Day Trial**](#)  
-No credit card required – see the impact on your revenue risk‑free.
+**Q:** How is my data protected?
+**A:** All sessions run in isolated sandboxes with encrypted logs.
 
----
+**Q:** Can I upgrade later?
+**A:** Yes, upgrade anytime from your dashboard.
 
-#### Frequently Asked Questions
-**Q: Do I need a data scientist?**
-A: No. Our UI guides you through data mapping; the AI handles the heavy lifting.
-
-**Q: Is my data secure?**
-A: We use end‑to‑end encryption and never store raw data beyond processing.
-
-**Q: Can I control price limits?**
-A: Absolutely. Set minimum/maximum thresholds to stay within brand guidelines.
-
----
-
-#### Get In Touch
-If you have questions, email **support@aipricing.io** or schedule a demo.
-
----
-
-*SEO Meta: AI pricing models, dynamic pricing AI, price optimization software, AI-driven price optimization, increase margins with AI pricing*
+**Q:** Do you offer enterprise plans?
+**A:** Contact sales for custom SLAs.
