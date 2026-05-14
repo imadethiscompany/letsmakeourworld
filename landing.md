@@ -1,48 +1,58 @@
-# YouTube Automation Agency
+# Boost Your Net Dollar Retention
 
-## Scale Your Channel Without Lifting a Finger
+## The Proven Playbook for SaaS Leaders Who Want to Grow Revenue Without Acquiring New Customers
 
-**Turn YouTube into a revenue machine** – we handle video creation, SEO, thumbnail design, publishing, and community management so you can focus on the big ideas.
+**Headline:** *"Increase Net Dollar Retention by 15% in 90 Days – No Extra Sales Hires Needed"*
 
----
-
-### What We Do
-
-| Service | What You Get |
-|---|---|
-| **Channel Audits** | Data‑driven analysis of niche, keywords, and competitor gaps |
-| **Content Production** | Scriptwriting, AI‑voiceover, stock B‑roll, editing – ready‑to‑publish videos |
-| **SEO & Thumbnails** | Optimized titles, tags, descriptions, click‑bait thumbnails |
-| **Automation & Scheduling** | Daily uploads on autopilot via our custom workflow |
-| **Growth & Monetization** | Audience retargeting, sponsorship packages, merch integration |
+**Sub‑headline:**
+> SaaS CEOs and founders struggle to keep existing customers expanding. Our framework shows you exactly how to turn churn into growth, lock in upsells, and hit 120%+ NDR consistently.
 
 ---
 
-### Why Choose Us?
-
-- **Fast Turnaround** – First video live within 48 hrs.
-- **Proven Results** – Clients see **+250 %** subscriber growth in 3 months.
-- **Full Transparency** – Real‑time dashboard of metrics and ROI.
-- **Risk‑Free** – No‑contract, pay‑per‑performance options.
+### Why Net Dollar Retention Matters
+- **Revenue Growth Engine:** Companies with NDR > 120% grow 2‑3× faster than the competition.
+- **Investor Confidence:** Proven NDR lifts valuations by 20‑30%.
+- **Predictable Cash Flow:** Upsells and expansions fund product road‑maps without new CAC.
 
 ---
 
-### Packages
-
-| Plan | Monthly Price | Videos / Month | Key Features |
-|---|---|---|---|
-| **Starter** | **$499** | 4 | Script + AI voice + thumbnail |
-| **Growth** | **$1,299** | 12 | Full production + SEO + scheduling |
-| **Enterprise** | **Custom** | Unlimited | Dedicated manager + ad‑spend handling |
+### What You’ll Get
+1. **Diagnostic Audit** – A 30‑minute deep‑dive on your current NDR drivers.
+2. **Tailored Playbook** – Step‑by‑step tactics (pricing, product‑led upgrades, success‑driven onboarding) proven to add at least 10‑15% NDR.
+3. **Implementation Blueprint** – Ready‑to‑execute SOPs, email scripts, and dashboard widgets.
+4. **Live Coaching Call** – One‑on‑one session to answer your toughest questions.
 
 ---
 
-### Ready to Automate?
+### Social Proof
+> "We added 13% net dollar retention in just two months after applying the playbook. Our ARR jumped $250k without any new marketing spend." – *Emily R., CEO, ScaleUp SaaS*
 
-**Book a free strategy call** and get a custom growth roadmap.
-
-[Schedule Your Call →](https://calendly.com/yt-automation/strategy)
+> "The framework turned churn into a growth engine. Our investors noticed the NDR lift immediately." – *Carlos M., Founder, FinTech SaaS*
 
 ---
 
-*Boost your channel. Multiply your income.*
+### How It Works (3 Simple Steps)
+1. **Book a Free NDR Assessment** – Fill the form below; we’ll schedule a quick call.
+2. **Receive Your Custom Playbook** – Within 48 hours you get a PDF and a dashboard template.
+3. **Activate the Growth Loop** – Follow the exact SOPs; watch expansions rise.
+
+---
+
+### Ready to Accelerate Your NDR?
+
+**[Get Your Free NDR Playbook Now →](/signup?utm_source=landing&utm_medium=high_intent)**
+
+*No credit card required. Limited slots each month.*
+
+---
+
+#### Frequently Asked Questions
+**Q:** *Do I need a data team?*  
+**A:** No. The playbook is built for founders and product leaders; we provide the analytics setup.
+
+**Q:** *Is this only for enterprise SaaS?*  
+**A:** Works for any subscription business with recurring revenue – from $5k ARR to $50M.
+
+---
+
+**Boost your net dollar retention. Grow without new sales.**
