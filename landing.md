@@ -1,58 +1,46 @@
 # AI Pricing Models
 
-## Unlock Revenue with Dynamic AI‑Driven Pricing
+## Unlock Revenue with AI‑Driven Pricing
 
-**Headline:** *Stop Guessing Prices – Let AI Optimize Every Transaction*  
-
-**Subheadline:** Instantly boost margins and conversion rates with a pricing engine that learns from your data and market signals.
+**Instantly boost margins** by 15‑30% without guesswork. Our AI pricing engine learns from your sales data, competitor rates, and market demand to deliver optimal prices for every product, service, and customer segment.
 
 ---
 
-### Why Traditional Pricing Fails
-- **Static prices** ignore demand spikes, inventory, and competitor moves.
-- **Manual tweaks** are slow, error‑prone, and costly.
-- **Lost revenue**: most businesses leave up to 15% on the table.
-
-### How Our AI Pricing Models Work
-1. **Data Ingestion** – Connect your sales, inventory, and market feeds.
-2. **Real‑time Optimization** – Machine‑learning models calculate the optimal price for each product, segment, and channel.
-3. **Seamless Integration** – API or plugin for Shopify, WooCommerce, Stripe, and custom back‑ends.
-4. **Continuous Learning** – The model updates every hour, adapting to trends and promotions.
-
-### Key Benefits
-- **+15%‑30% Revenue Growth** – Proven results across e‑commerce, SaaS, and B2B.
-- **Higher Conversion** – Prices that match buyer willingness increase checkout rates.
-- **Reduced Discounting** – Automated optimal pricing cuts unnecessary markdowns.
-- **Time Savings** – No more manual price spreadsheets.
-
-### Social Proof
-> *"Our average order value jumped 22% after deploying the AI pricing engine – with zero extra effort from our team."* – **CEO, Mid‑size SaaS**
-
-> *"We recovered $120k in lost margin in the first month."* – **Founder, Online Retailer**
+### Why AI Pricing?
+- **Data‑backed decisions:** Leverages millions of pricing signals.
+- **Real‑time optimization:** Adjusts prices on the fly as market conditions shift.
+- **No technical expertise needed:** Simple dashboard, seamless integration.
 
 ---
 
-## Get Started in 3 Minutes
-- **Free Demo** – See the AI in action on your own catalog.
-- **No Credit Card Required** – Try the live sandbox.
-
-[**Schedule Your Free Demo →**](https://example.com/ai-pricing-demo)
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need a data scientist?
-**A:** No. Our platform handles model training and monitoring.
-
-**Q:** Is my data secure?
-**A:** We use AES‑256 encryption and SOC‑2 compliance.
-
-**Q:** What pricing plans are available?
-**A:** Starter (up to 5k SKUs) – $199/mo, Growth (up to 50k SKUs) – $499/mo, Enterprise – custom.
+### How It Works
+1. **Connect your sales/ERP data** – 5‑minute setup.
+2. **AI trains on historical transactions** – learns price elasticity.
+3. **Dynamic price recommendations** – push to your store or sales team.
 
 ---
 
-#### Ready to Maximize Every Sale?
-[**Start Your Free Demo Now**](https://example.com/ai-pricing-demo)
+### Benefits for SMB Owners
+- **Increase profit margins** by up to 30%.
+- **Win more deals** with price elasticity insights.
+- **Save time** – no manual spreadsheet analysis.
+- **Stay competitive** – respond to competitor price changes instantly.
 
-*No risk, cancel anytime.*
+---
+
+### Ready to Transform Your Pricing?
+
+[**Get a Free 14‑Day Trial**](/signup?plan=ai-pricing)
+
+Or schedule a 15‑minute call to see a live demo.
+
+---
+
+#### Frequently Asked Questions
+**Do I need a data scientist?** No. Our UI guides you step‑by‑step.
+**Is my data secure?** End‑to‑end encryption and GDPR compliance.
+**Can I cancel anytime?** Yes, with no penalty.
+
+---
+
+*Join the growing list of SMBs who are already seeing higher profits with AI pricing.*
