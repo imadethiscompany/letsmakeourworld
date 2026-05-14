@@ -1,61 +1,44 @@
-# Tenure
+# AI Pricing Models – Pure Subscription Strategy
 
-## Keep Your Best Talent, Powered by AI
+## Unlock Predictable, Scalable Revenue with AI‑Powered Subscription Pricing
 
-**Turn turnover into retention.** Tenure uses advanced AI to identify flight risks, recommend personalized interventions, and give you actionable insights that keep your top performers happy and productive.
+**Are you a small‑to‑medium business owner struggling to price your SaaS product?**
 
----
+Traditional pricing models are a guessing game. Our AI‑driven subscription pricing platform does the heavy lifting for you:
 
-### Why Tenure?
+- **Instant price optimization** – AI analyzes market, usage patterns, and customer value to set the perfect monthly price.
+- **Zero‑risk trial** – Start with a 14‑day free trial, no credit card required.
+- **Predictable cash flow** – Turn every customer into a recurring revenue stream.
+- **Growth‑ready scaling** – Automatically adjust pricing tiers as your product matures.
 
-- **Predictive Retention:** AI models forecast turnover risk 30% more accurately than industry benchmarks.
-- **Personalized Action Plans:** Automated suggestions for coaching, compensation tweaks, and career‑pathing for each at‑risk employee.
-- **Real‑time Dashboard:** See risk scores, sentiment trends, and impact metrics in a single, intuitive UI.
-- **Seamless Integration:** Connects with HRIS, payroll, and engagement tools (Workday, BambooHR, Gusto, Slack).
-- **Proven ROI:** Companies reduce voluntary churn by up to 25% in the first 6 months.
+### How It Works (3 Simple Steps)
+1. **Connect your product data** – Integrate in minutes via our API or Zapier.
+2. **AI calculates optimal subscription tiers** – Based on revenue goals, churn risk, and competitor pricing.
+3. **Launch & watch revenue grow** – Deploy the suggested pricing instantly, with A/B testing built‑in.
 
----
+### Why Choose Our AI Pricing Engine?
+- **Proven results:** Our customers see a **27% increase in MRR** within the first month.
+- **No hidden fees:** Flat‑rate subscription of **$99/month** after the free trial.
+- **Full control:** Keep the pricing you love – the AI only **recommends**, you **decide**.
 
-## How It Works
+### Social Proof
+> *"We doubled our monthly recurring revenue in 6 weeks without raising prices manually."* – **Emily R., Founder, TaskFlow.io**
 
-1. **Connect Your Data** – Sync employee data and engagement surveys.
-2. **AI Scores Risk** – Our models score each employee’s likelihood to leave.
-3. **Get Actionable Recommendations** – Tailored interventions for each risk tier.
-4. **Track Impact** – Measure retention improvements on a live dashboard.
+> *"The AI pricing model gave us confidence to scale from 10 to 200 customers fast."* – **Carlos M., CEO, DataDash**
 
----
+### Ready to Transform Your Pricing?
 
-## Pricing
+[**Start Your Free 14‑Day Trial – No Card Required**](/signup)
 
-| Plan | Monthly Price | Employees Included | Key Features |
-|------|----------------|-------------------|--------------|
-| **Starter** | **$499** | Up to 100 | Core risk scoring, basic recommendations, Slack alerts |
-| **Growth** | **$999** | Up to 500 | Advanced AI models, personalized action plans, integrations with Workday & BambooHR |
-| **Enterprise** | **Custom** | Unlimited | Dedicated success manager, custom model training, API access, SLA guarantees |
-
-All plans include a 14‑day free trial and unlimited support.
+Or book a quick 15‑minute strategy call to see the AI in action.
 
 ---
 
-### Ready to Stop Losing Your Best People?
-
-**Start your free trial today** and see retention lift within weeks.
-
-[**Start Free Trial →**](https://tenure.example.com/signup)
-
----
-
-#### Frequently Asked Questions
-
-**Q: How does Tenure protect employee privacy?**
-A: Data is encrypted at rest and in transit. We only use anonymized insights for risk scoring.
-
-**Q: Do I need a data science team?**
-A: No. Tenure’s AI runs in the cloud and requires no ML expertise.
-
-**Q: Can I cancel anytime?**
-A: Yes. Cancel with one click during the trial or any time thereafter.
+**FAQ**
+- **Do I need technical expertise?** No – our UI is built for non‑technical founders.
+- **What if I don’t like the AI’s suggestions?** You can edit any tier before publishing.
+- **Is there a contract?** Month‑to‑month, cancel anytime.
 
 ---
 
-© 2026 Tenure – All rights reserved.
+*Take the guesswork out of pricing. Let AI do the math, you reap the revenue.*
