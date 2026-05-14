@@ -1,49 +1,60 @@
-# Ace – AI Interview & Sales Call Toolkit
+# ODoH Relay Service – Private, Low‑Latency DNS for Enterprises
 
-## Close Deals Faster with AI‑Powered Interview & Call Automation
+## Secure, Fast, Enterprise‑Grade DNS over HTTPS
 
-**Turn every sales conversation into a data‑driven win.**
-
-Ace records, transcribes, and analyzes every interview and sales call in real‑time, surfacing objections, buying signals, and the perfect next steps. Sales reps close **30% more deals** in **half the time** without extra training.
+**Oblivious DNS over HTTPS (ODoH)** protects your users’ DNS queries from eavesdropping while delivering the speed your business needs. Our global relay network guarantees **sub‑50 ms latency** on every lookup, backed by **enterprise‑level Service Level Agreements** (99.9% uptime, 24/7 support, and dedicated SLA contracts).
 
 ---
 
-### Why Ace?
-- **Instant Play‑by‑Play Insights** – AI highlights key moments while you’re on the call.
-- **Smart Follow‑Up Recommendations** – Get personalized email drafts and next‑action tasks.
-- **Performance Coaching** – Review call scores, sentiment trends, and skill gaps.
-- **Seamless CRM Integration** – Auto‑log notes, recordings, and next steps.
+### Why Choose Our ODoH Relay?
+
+| Feature | Benefit |
+|---------|---------|
+| **Privacy‑First Architecture** | Queries are encrypted end‑to‑end and never logged. |
+| **Ultra‑Low Latency** | Optimized routing and edge caching keep response times under 50 ms worldwide. |
+| **Enterprise SLAs** | 99.9% uptime guarantee, 24/7 priority support, custom contract terms. |
+| **Scalable API** | Simple API key authentication; auto‑scale to millions of QPS. |
+| **Compliance Ready** | GDPR, CCPA, and SOC 2 ready out of the box. |
 
 ---
 
 ### How It Works
-1. **Connect** – Link your phone, Zoom or Teams.
-2. **Record & Transcribe** – AI captures 100% of the conversation.
-3. **Analyze** – Real‑time sentiment, objection detection, and intent scoring.
-4. **Act** – One‑click email templates, task creation, and coaching tips.
+1. **Create an API key** – secure token for every application.
+2. **Point your DNS client** to our relay endpoint.
+3. **Enjoy private, fast lookups** – no logs, no leaks.
 
 ---
 
-### Social Proof
-> "Ace gave my team the confidence to handle every objection. Our close rate jumped from 22% to 31% in just 4 weeks." – **Laura M., VP of Sales**
+## Pricing – Simple Monthly Subscription
 
-> "The AI coaching is like having a senior sales mentor on every call." – **Tom K., SDR Team Lead**
+**$49 / month per API key** – includes 10 M queries per month, unlimited sub‑domains, and full SLA coverage.  Add‑on packages for higher volume are available on request.
 
----
-
-### Ready to Transform Your Sales Calls?
-[Start Free Trial](/signup)  
-No credit card required. Experience the power of AI‑driven selling today.
+<div style="text-align:center; margin: 2rem 0;">
+<a href="https://buy.stripe.com/test_fZufZ9fCb6AQ22L6YOc7B3T" style="background:#6772e5;color:#fff;padding:1rem 2rem;border-radius:5px;font-size:1.2rem;text-decoration:none;">Start Your Private DNS Today →</a>
+</div>
 
 ---
 
-#### Frequently Asked Questions
-**Q:** Does Ace store my call recordings?
-**A:** Recordings are encrypted and stored for 30 days only, unless you choose to save them in your CRM.
+### Frequently Asked Questions
 
-**Q:** Can I use Ace with any video‑conference tool?
-**A:** Yes – Zoom, Teams, Google Meet, and any SIP‑based phone system.
+**Q: What is ODoH?**
+A: Oblivious DNS over HTTPS separates the client’s IP address from the query content, ensuring that no single party can link a user to the sites they visit.
+
+**Q: How does latency stay low?**
+A: Our relay nodes are deployed on major cloud edge locations with intelligent routing and aggressive caching, delivering sub‑50 ms response times.
+
+**Q: What does the SLA cover?**
+A: 99.9% uptime, 1‑hour response time for critical incidents, and a dedicated account manager for enterprise customers.
+
+**Q: Can I integrate with existing DNS infrastructure?**
+A: Yes. Use our simple HTTP API with your API key, or configure any DoH‑compatible resolver to point at our endpoint.
 
 ---
 
-*Boost your pipeline. Close more deals. Let Ace do the heavy lifting.*
+### Ready to Protect Your Users?
+
+Secure your DNS traffic with the most private, fastest ODoH relay on the market. **Sign up in seconds** and start benefiting from enterprise‑grade performance and privacy.
+
+<div style="text-align:center; margin: 2rem 0;">
+<a href="https://buy.stripe.com/test_fZufZ9fCb6AQ22L6YOc7B3T" style="background:#6772e5;color:#fff;padding:1rem 2rem;border-radius:5px;font-size:1.2rem;text-decoration:none;">Get Started – $49/mo →</a>
+</div>
