@@ -1,63 +1,60 @@
-# YouTube Automation Agency
+# EU AI Act Compliance Tool
 
-## Scale Your YouTube Channel Fast – Zero Hassle, Zero Guesswork
+## Stay Ahead of Regulation, Instantly
 
-**Turn your expertise into a revenue machine** – we handle video creation, editing, SEO, thumbnail design, and daily uploads while you focus on your business.
-
----
-
-### Why Choose Us?
-- **Full‑Service Automation** – AI‑generated scripts, voice‑overs, motion graphics, and publishing.
-- **Proven ROI** – Clients see a **3‑5× increase** in subscriber growth and **2‑4× boost** in revenue within 90 days.
-- **Zero Hiring Overhead** – No need to hire editors, designers, or SEO specialists.
-- **Data‑Driven Optimization** – Weekly analytics, A/B tested thumbnails, and SEO‑tuned titles.
-- **White‑Label Ready** – Keep your brand front‑and‑center, we stay behind the scenes.
+The **EU AI Act** is coming. Non‑compliant AI systems face heavy fines, market bans, and reputational damage. Our **EU AI Act Compliance Tool** gives you a step‑by‑step checklist, automated risk scoring, and a downloadable compliance report—**in seconds**.
 
 ---
 
-### Our 5‑Step System
-1. **Strategy Call** – Identify your niche, audience, and revenue goals.
-2. **AI Script & Voice** – ChatGPT‑crafted scripts, LuxTTS voice‑overs.
-3. **Motion Graphics** – Remotion‑powered kinetic typography & 3D cards.
-4. **SEO & Publishing** – Optimized titles, tags, descriptions, and daily upload schedule.
-5. **Growth Dashboard** – Real‑time subscriber, watch‑time, and revenue tracking.
+### Why Choose Our Tool?
+
+- **Instant Checklist Generator** – Answer a few questions, get a full EU AI Act compliance checklist tailored to your product.
+- **Automated PDF Report** – Download a professional‑grade PDF you can share with legal, auditors, and investors.
+- **API Access** – Integrate compliance checks into your CI/CD pipeline for continuous monitoring.
+- **Up‑to‑date Regulations** – Powered by a live EU AI Act knowledge base that updates with every amendment.
+- **No Technical Expertise Required** – Simple UI, plain‑language explanations, and ready‑to‑use templates.
 
 ---
 
-### Packages
-| Plan | Monthly Price | Videos / Month | Features |
-|------|---------------|----------------|----------|
-| **Starter** | $799 | 8 | Basic AI scripts, voice‑over, thumbnail design |
-| **Growth** | $1,499 | 15 | Advanced motion graphics, SEO boost, analytics |
-| **Scale** | $2,799 | 30 | Full white‑label, dedicated account manager, paid ads sync |
+### Pricing
 
-> **Limited Offer:** Sign up this week and get **2 free videos** + a **Free Channel Audit** (value $500).
+| Plan | Price (per month) | Features |
+|------|-------------------|----------|
+| **Starter** | **€49** | Checklist Generator, PDF Download, Email Support |
+| **Growth** | **€149** | Everything in Starter + API Access (100 calls/month), Priority Email Support |
+| **Enterprise** | **Custom** | Unlimited API, Dedicated Account Manager, On‑site Training, SLA guarantees |
 
----
-
-### What Our Clients Say
-> "We went from 0 to 10k subscribers in 2 months. The ROI was insane – $12k in sales from YouTube alone." – *Sarah L., SaaS Founder*
-
-> "The automation saved us 150+ hours of work. We could finally focus on product development." – *Mike D., E‑commerce Owner*
+All plans include a **30‑day money‑back guarantee**.
 
 ---
 
-## Ready to Automate Your Growth?
+### Ready to Get Compliant?
 
-[**Get Your Free Strategy Call →**](https://example.com/strategy-call)
+**Start your free trial** – no credit card required. After the trial, pick the plan that fits your business.
 
----
-
-### FAQ
-**Q:** Do I need any video equipment?
-**A:** No. All videos are AI‑generated and delivered ready‑to‑publish.
-
-**Q:** How fast can you publish?
-**A:** First 3 videos are delivered within 7 days; ongoing schedule thereafter.
-
-**Q:** What if I already have a channel?
-**A:** We integrate with your existing channel and boost its performance.
+<button onclick="window.location.href='https://buy.stripe.com/test_...';" style='background:#0066ff;color:white;padding:12px 24px;border:none;border-radius:4px;font-size:1.1rem;cursor:pointer;'>Start Free Trial</button>
 
 ---
 
-*SEO Keywords: YouTube automation agency, YouTube channel growth, AI video creation, YouTube marketing service, outsource YouTube videos*.
+#### Frequently Asked Questions
+
+**Q:** *Do I need a legal team to use this?*  
+**A:** No. Our tool translates legal language into actionable steps.
+
+**Q:** *Is the PDF accepted by regulators?*  
+**A:** It follows the EU AI Act’s official structure, making it audit‑ready.
+
+**Q:** *Can I integrate it with my CI/CD?*  
+**A:** Yes – our REST API returns a JSON compliance score you can fail builds on.
+
+---
+
+### Join 200+ Companies Already Compliant
+
+> "The EU AI Act Compliance Tool saved us weeks of legal work and gave us confidence to launch our AI product across Europe." – **CTO, FinTech Innovators**
+
+---
+
+**Don’t wait for the regulator to knock.** Secure your AI product today.
+
+<button onclick="window.location.href='https://buy.stripe.com/test_...';" style='background:#28a745;color:white;padding:12px 24px;border:none;border-radius:4px;font-size:1.1rem;cursor:pointer;'>Start Free Trial</button>
