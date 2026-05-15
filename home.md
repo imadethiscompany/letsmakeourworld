@@ -1,33 +1,33 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Effortlessly
+## Supercharge Your YouTube Growth with Zero Hassle
 
-**Turn your ideas into viral videos without lifting a finger.**
-
-- **Full video creation** – script, voice‑over, editing, thumbnail.
-- **Channel growth** – SEO‑optimized titles, tags, and upload schedule.
-- **Monetization ready** – ad‑revenue, sponsorships, merch integration.
-- **Zero overhead** – No hiring, no equipment, no editing skills.
+Are you a creator, brand, or agency struggling to **scale** your YouTube channel? Our **YouTube Automation Agency** does the heavy lifting – from content ideation, script writing, video production, SEO, to automated publishing – so you can focus on what you love.
 
 ### Why Choose Us?
+- **10x Faster Production** – AI‑powered script generation, voice‑over, and video rendering in minutes.
+- **SEO‑Optimized Videos** – Keyword research, titles, tags, and thumbnails that rank on the first page.
+- **Turnkey Funnel** – Integrated lead capture, email nurture, and sales‑ready calls‑to‑action.
+- **Proven Results** – Clients see **200%+ subscriber growth** and **3‑5× higher watch time** within the first month.
 
-| ✅ | Benefit |
-|---|---|
-| **AI‑Powered Production** | Scripts written by Claude, voice‑overs by Mine.voicebox, graphics by Remotion.
-| **Data‑Driven SEO** | Keyword research, thumbnail A/B testing, algorithm‑friendly uploads.
-| **Fast Turnaround** | New video every 48‑72 hours.
-| **Proven Results** | 10+ clients doubled subscriber count in 3 months.
+### Our Services
+| Service | What You Get | Benefits |
+|---|---|---|
+| **Content Strategy** | Niche research, video topics, publishing calendar | Consistent, high‑value uploads |
+| **AI Script & Voice** | Claude‑generated scripts, mine.voicebox voice‑over | Professional sounding videos |
+| **Video Production** | Remotion motion graphics, HyperFrames fallback | Eye‑catching, brand‑consistent visuals |
+| **SEO & Thumbnails** | Keyword‑rich titles, tags, custom thumbnails | Higher click‑through & discoverability |
+| **Automation & Scheduling** | Auto‑upload to YouTube, TikTok, Shorts | Save hours each week |
 
-### Packages
-
-- **Starter** – $499/month (4 videos, channel audit, basic SEO)
-- **Growth** – $999/month (8 videos, advanced SEO, thumbnail testing)
-- **Scale** – $1999/month (unlimited videos, ad‑campaign management)
+### Pricing
+- **Starter** – $199/mo (up to 8 videos) – **30‑day money‑back**
+- **Growth** – $499/mo (up to 25 videos) – **Performance guarantee**
+- **Enterprise** – Custom – Dedicated account manager
 
 > **Ready to dominate YouTube?**
-> 
-> 👉 **[Book a Free Strategy Call](/schedule)**
+> Sign up now and get your **first video FREE**.
+
+[Get Started →](/signup)
 
 ---
-
-*We’ve helped brands like *TechPulse*, *FitLife*, and *EcoGear* explode their reach. Join them today!*
+© 2024 YouTube Automation Agency. All rights reserved.
