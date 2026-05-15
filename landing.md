@@ -1,72 +1,29 @@
-# How Claude Code Works in Large Codebases
+# AI-Powered SaaS Solutions that Scale Your Business
 
-## Transform Your Legacy Projects with AI‑Powered Refactoring
+Unlock the power of AI without the complexity. Our suite of SaaS tools automates sales, support, and operations, letting you focus on growth.
 
-**Instantly understand, refactor, and modernize massive codebases** – from millions of lines to clean, maintainable code, all without manual slog.
+## Why Choose Our AI SaaS?
 
----
+- **Boost Revenue 2x** – AI-driven lead scoring and personalized outreach.
+- **Cut Costs 30%** – Automate repetitive tasks with zero-code integrations.
+- **Launch in Days** – Ready-to-use templates & dashboards.
+- **Secure & Scalable** – Enterprise‑grade security, instant scaling.
 
-### 🚀 Hero Section
-**Headline:** *"Scale AI‑Assisted Refactoring to Any Codebase Size"*
+## How It Works
 
-**Subheadline:** *Claude Code automatically analyzes, suggests, and applies improvements across your entire repository, so you can ship faster and reduce technical debt.*
+1. **Select a Tool** – Choose from AI CRM, AI Helpdesk, AI Analytics.
+2. **Connect Your Data** – Simple OAuth or CSV import.
+3. **Activate AI** – Auto‑tune models to your business.
+4. **Watch Results** – Real‑time dashboards and ROI reports.
 
-**Primary CTA:** *"Start Free Beta Access"* → button linking to signup.
+## Trusted by Growing Companies
 
----
+![Logos](/assets/logos.png)
 
-### 📈 Why It Matters
-| Pain Point | Claude Code Solution |
-|------------|---------------------|
-| **Lost time hunting bugs** | AI scans 100k+ lines in seconds, surfaces hidden defects. |
-| **Inconsistent style & architecture** | Enforces team‑wide standards with one‑click reformatting. |
-| **Risky manual refactors** | Generates safe, test‑covered patches you can review instantly. |
-| **Scaling teams** | New developers onboard by reading AI‑generated architecture docs. |
+> “We grew from $50k to $200k MRR in 3 months using the AI CRM.” – CEO, TechStart
 
----
+## Ready to Transform?
 
-### 🎯 Core Benefits
-1. **Full‑repo comprehension** – Claude builds a semantic graph of every function, class, and dependency.
-2. **One‑click bulk fixes** – Apply linting, type‑annotations, and performance tweaks across the whole project.
-3. **Safety first** – Every change is wrapped in comprehensive unit‑test suites generated on‑the‑fly.
-4. **Speed up releases** – Reduce release cycles by up to **70%** (beta test data).
-5. **Cost reduction** – Cut engineering hours on legacy maintenance by **$150k‑$300k** annually.
+**Start Your Free Trial** – No credit card required.
 
----
-
-### 🛠️ How It Works (3‑Step Flow)
-1. **Upload / Connect Repo** – Connect your GitHub repo or upload a zip.
-2. **AI Analysis** – Claude parses the code, builds a dependency map, and highlights hot‑spots.
-3. **Review & Deploy** – Review suggested PRs, run auto‑generated tests, merge with confidence.
-
----
-
-### 📣 Social Proof
-> *"Claude Code cut our 1‑year legacy migration down to 2 weeks. The AI suggestions were spot‑on and saved us thousands of dev hours."* – **Lead Engineer, FinTech Corp**
-
-> *"We finally have a single source of truth for our architecture. New hires get up‑to‑speed in days, not months."* – **CTO, HealthTech Startup**
-
----
-
-### ❓ Frequently Asked Questions
-**Q:** *Does Claude Code support multiple languages?*\
-**A:** Yes – Python, JavaScript/TypeScript, Java, Go, and more. Add more via plug‑ins.
-
-**Q:** *Is my code secure?*\
-**A:** All analysis runs in an isolated environment; no code leaves your repository unless you approve a PR.
-
-**Q:** *What if I need custom rules?*\
-**A:** Upload your linting/config files; Claude respects them when generating fixes.
-
----
-
-### 📞 Ready to Supercharge Your Codebase?
-**[Start Free Beta Access →]**(https://example.com/signup)
-
-*No credit card required. Get a personal AI‑refactor assistant for your repo today.*
-
----
-
-**Meta Title:** How Claude Code Works in Large Codebases – AI‑Powered Refactoring
-
-**Meta Description:** Discover how Claude Code can automatically analyze, refactor, and modernize massive codebases. Reduce technical debt, speed up releases, and save engineering costs with AI‑assisted code transformation.
+[Get Started →](/signup)
