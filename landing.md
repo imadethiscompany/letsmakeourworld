@@ -1,55 +1,76 @@
-# AgentRail
+# AgentRail: The Control Plane for Your AI Agents
 
-## AI Agent Control Plane – Deploy, Manage, Scale
+## Headline
+**Orchestrate, Monitor, and Scale AI Agents – All From One Dashboard**
 
-**Headline:**
-**"Control Every AI Agent, Instantly, Without Ops Overhead"**
-
-**Sub‑headline:**
-AgentRail gives developers a single dashboard to orchestrate, monitor, and scale unlimited AI agents – from chat‑bots to autonomous workflows – with zero infrastructure headaches.
+### Subheadline
+Take the guesswork out of AI workflow automation. AgentRail gives you real‑time visibility, automated routing, and built‑in safety guards so your agents work faster, cheaper, and without surprises.
 
 ---
 
-### Why AgentRail?
-- **Zero‑Ops Deployment** – Spin up a new agent in seconds, no servers to manage.
-- **Unified Monitoring** – Real‑time logs, health checks, and cost‑control in one view.
-- **Scalable Architecture** – Auto‑scale to thousands of concurrent agents, pay‑as‑you‑go pricing.
-- **Secure & Compliant** – End‑to‑end encryption, role‑based access, audit trails.
+## Why Teams Struggle with AI Agents
+* **Blind deployments** – Agents run in production with no telemetry, leading to costly errors.
+* **Fragmented tooling** – Switching between logs, dashboards, and alert systems wastes time.
+* **Scaling pain** – Adding more agents means more manual wiring and higher failure risk.
+
+**You need a single place to see, control, and grow every AI worker.**
 
 ---
 
-### How It Works (3‑Step Flow)
-1. **Define** – Upload your model or connect an existing API.
-2. **Configure** – Set triggers, rate limits, and fallback logic via a visual builder.
-3. **Launch** – Deploy with one click; AgentRail handles scaling, health‑checks, and billing.
+## AgentRail Solves It
+### 1️⃣ Centralized Dashboard
+All your agents, prompts, and data pipelines appear on a live map. Spot bottlenecks in seconds.
+
+### 2️⃣ Automated Routing & Fail‑over
+Rules‑based routing sends tasks to the best‑fit model. If one agent crashes, another picks up automatically.
+
+### 3️⃣ Cost & Performance Insights
+Real‑time cost tracking per request, latency heatmaps, and usage alerts keep budgets in check.
+
+### 4️⃣ Safety & Compliance
+Built‑in prompt‑guard rails, token limits, and audit logs satisfy GDPR, SOC2, and internal policies.
 
 ---
 
-### Social Proof
-- **100+ Start‑ups** already using AgentRail to cut AI ops costs by **70%**.
-- **Trusted by**: Acme AI, Nova Labs, and the OpenAI Partner Program.
-- **5‑star rating** on G2 with **200+ reviews**.
+## How It Works (4 Simple Steps)
+1. **Connect** – Add your OpenAI, Anthropic, or custom model keys.
+2. **Define** – Create a workflow template (trigger → prompt → action).
+3. **Launch** – Deploy with one click; the control plane starts monitoring instantly.
+4. **Iterate** – Adjust routing rules or add new agents from the UI; changes go live without redeploy.
 
 ---
 
-### Frequently Asked Questions
-**Q:** Do I need DevOps expertise?
-**A:** No. AgentRail abstracts all infrastructure. Just focus on prompts and logic.
+## Real Results
+| Metric | Before AgentRail | After AgentRail |
+|--------|-----------------|----------------|
+| Avg. latency | 3.2 s | **1.1 s** |
+| Cost per 1k calls | $12.40 | **$7.30** |
+| Incident downtime | 4 hrs/mo | **15 min/mo** |
 
-**Q:** How is pricing calculated?
-**A:** Pay per‑run + optional reserve capacity. No hidden fees.
-
-**Q:** Is my data safe?
-**A:** Yes. All traffic is encrypted in‑flight and at rest. Role‑based permissions protect access.
-
----
-
-### Ready to Take Control?
-[Start Free Trial](/signup) – **No credit card required**
-
-Or book a **Live Demo** with our AI Ops engineer.
+> *"AgentRail turned our chaotic AI stack into a single, reliable service. We cut costs 40% and eliminated nightly failures.* – **CTO, FinTech startup**
 
 ---
 
-*SEO Title:* AgentRail – AI Agent Control Plane for Developers
-*Meta Description:* Deploy, monitor, and scale AI agents without infrastructure overhead. Try AgentRail free today and cut AI ops costs by up to 70%.
+## Frequently Asked Questions
+**Q: Does AgentRail replace my existing model code?**
+A: No. It works *on top of* any model you already use – you just add the API keys.
+
+**Q: Is there a free tier?**
+A: Yes – 5,000 agent‑minutes per month, unlimited dashboards.
+
+**Q: How secure is my data?**
+A: All traffic is encrypted TLS 1.3, and audit logs are stored in ISO‑27001‑compliant storage.
+
+---
+
+## Ready to Take Control?
+
+**Start your free trial – no credit card required**
+
+[Get Started →](https://agentrail.com/signup)
+
+---
+
+*SEO Meta*
+- **Title:** AgentRail – Centralized Control Plane for AI Agents
+- **Description:** Monitor, route, and scale AI agents from a single dashboard. Reduce latency, cut costs, and ensure compliance. Free trial available.
