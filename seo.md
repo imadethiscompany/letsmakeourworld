@@ -1,5 +1,67 @@
-<section class="hero"><h1>AI Coding Agents: Supercharge Your Development</h1><p>Turn hours of repetitive coding into minutes. Our AI‑powered coding agents write, debug, refactor, and test code for you—so you can ship faster, reduce bugs, and focus on innovation.</p><a href="/pricing" class="cta-button">Get Started Free</a></section>
-<section class="benefits"><h2>Why AI Coding Agents?</h2><ul><li><strong>Write Code Faster</strong> – Generate production‑ready snippets in seconds.</li><li><strong>Automated Debugging</strong> – Spot and fix bugs before they reach QA.</li><li><strong>Smart Refactoring</strong> – Clean, optimise, and modernise legacy codebases.</li><li><strong>Continuous Testing</strong> – Auto‑generate unit tests that keep your CI green.</li><li><strong>Team Collaboration</strong> – Share agents across IDEs, GitHub, and CI pipelines.</li></ul></section>
-<section class="features"><h2>Key Features</h2><ol><li><strong>Multi‑Language Support</strong> – Python, JavaScript, TypeScript, Java, Go, Rust and more.</li><li><strong>Context‑Aware Suggestions</strong> – Understand your project’s architecture and dependencies.</li><li><strong>One‑Click Integration</strong> – VS Code, JetBrains, GitHub Actions, and CLI plugins.</li><li><strong>Security‑First</strong> – Data never leaves your environment; optional on‑prem deployment.</li><li><strong>Cost‑Effective Pricing</strong> – Pay per token or flat‑rate plans for teams.</li></ol></section>
-<section class="cta"><h2>Ready to Code at Lightning Speed?</h2><p>Join thousands of developers who already boosted productivity by up to <strong>300%</strong>.</p><a href="/signup" class="cta-button-primary">Start Your Free Trial</a></section>
-<section class="faq"><h2>Frequently Asked Questions</h2><dl><dt>Do I need to be an AI expert?</dt><dd>No. Our agents work inside the tools you already use.</dd><dt>Is my code safe?</dt><dd>All processing can run locally or in a private VPC. No code is sent to third‑party servers unless you enable cloud mode.</dd><dt>How does pricing work?</dt><dd>Free tier includes 10,000 generated lines per month. Paid plans start at $19/mo.</dd></dl></section>
+# YouTube Automation Agency
+
+## Scale Your YouTube Channel on Autopilot
+
+**Turn views into revenue without lifting a finger.** Our AI‑powered YouTube Automation Agency handles content creation, SEO, posting, community management, and monetization—all in a single, affordable monthly plan.
+
+---
+
+### Why Choose Our Automation?
+
+- **AI‑Generated Scripts & Voiceovers** – Instantly produce engaging videos in any niche.
+- **Keyword‑Optimized Titles & Descriptions** – Rank on the first page of YouTube search.
+- **Automated Publishing & Scheduling** – Publish at peak times for maximum reach.
+- **Comment & DM Management** – Boost engagement with AI‑driven replies.
+- **Revenue Optimization** – Dynamic ad placement, affiliate linking, and merch integration.
+
+---
+
+### How It Works
+
+1. **Strategy Session** – We define your target audience and content pillars.
+2. **Content Generation** – AI writes scripts, creates voiceovers, and sources B‑roll.
+3. **SEO Boost** – Titles, tags, and thumbnails are optimized for click‑through.
+4. **Automated Upload** – Videos are scheduled or posted instantly to your channel.
+5. **Growth Loop** – Real‑time analytics drive iterative improvements.
+
+---
+
+### Results You Can Expect
+
+| Metric | Typical Increase |
+|--------|------------------|
+| Views per video | **+250%** |
+| Subscriber growth | **+180%** |
+| Revenue (AdSense) | **+120%** |
+| Engagement (likes/comments) | **+300%** |
+
+---
+
+### Pricing
+
+- **Starter** – $299 / month (up to 8 videos)
+- **Growth** – $599 / month (up to 20 videos + premium SEO)
+- **Enterprise** – Custom (unlimited videos, dedicated account manager)
+
+> **Limited Time Offer:** Sign up today and get **30% off** the first 3 months.
+
+---
+
+### Frequently Asked Questions
+
+**Q:** Do I need any video editing skills?
+**A:** No. Our AI does the editing for you.
+
+**Q:** Can I keep my existing branding?
+**A:** Absolutely. We integrate your logo, colors, and style guide.
+
+**Q:** What if I want to cancel?
+**A:** Cancel anytime with a 30‑day notice – no contracts.
+
+---
+
+### Ready to Automate Your Growth?
+
+[**Start Your Free Strategy Call →**](https://example.com/strategy-call)
+
+*Join the dozens of creators who are already scaling to six‑figure revenues on autopilot.*
