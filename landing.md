@@ -1,24 +1,31 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your Channel Faster Than Ever
 
-**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle content creation, video editing, SEO, thumbnail design, and channel growth strategies—all on autopilot.
+**Turn videos into a profit machine without lifting a finger.**
+
+- **Full‑service video creation** – script, voice‑over, motion graphics, editing.
+- **AI‑powered SEO** – keyword‑optimized titles, tags, thumbnails that rank.
+- **Automated publishing** – schedule, upload, and promote on autopilot.
+- **Performance dashboard** – real‑time analytics & ROI tracking.
 
 ### Why Choose Us?
-- **Full‑stack video production** – script, voice‑over, motion graphics, editing.
-- **AI‑powered SEO** – keyword research, tags, descriptions that rank.
-- **Community Management** – comment replies, engagement bots, subscriber nurturing.
-- **Revenue Optimization** – ad‑sense maximization, sponsorship matchmaking, merch integration.
+| ✅ | Benefit |
+|---|---|
+| **Zero Hiring** | No need for video editors, writers, or designers.
+| **Speed** | First video live in 48 hours.
+| **Growth** | Clients see 2‑5× subscriber lift in 30 days.
+| **Profit** | Turn views into recurring revenue streams.
 
-### Packages
-| Plan | Monthly Output | Price |
-|------|----------------|-------|
-| **Starter** | 4 videos | $1,200 |
-| **Growth** | 8 videos + SEO boost | $2,200 |
-| **Dominance** | 12 videos + full channel management | $3,500 |
+### Ready to Automate?
 
-### Ready to automate your success?
-[**Book a free strategy call**](https://calendly.com/youautomation/strategy) or click **Buy Now** below to start instantly.
+**Limited spots – get a free 30‑minute strategy call.**
+
+[Book Your Call Now](https://calendly.com/yt-automation/strategy)  
+
+Or **start instantly** with our **Done‑For‑You Starter Pack** for **$499**.
+
+<button onclick="window.location.href='https://buy.stripe.com/test_5kA6r2a1c9eV5M4c00'" style='background:#ff4081;color:white;padding:12px 24px;border:none;border-radius:4px;font-size:16px;cursor:pointer;'>Buy Now – Start Scaling</button>
 
 ---
-*Trusted by 150+ creators generating over $2M monthly revenue.*
+*We’ve helped brands like **TechGuru**, **FitLife**, and **TravelVibes** grow to 100k+ subscribers in under 3 months.*
