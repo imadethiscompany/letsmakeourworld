@@ -1,59 +1,49 @@
-# Ace – The Ultimate Productivity Platform
+# Ace – Your AI-Powered Personal Assistant
 
-**Meta Title:** Ace – Boost Your Team’s Productivity by 30% | All‑In‑One Work Hub
-**Meta Description:** Transform how your team works with Ace – the all‑in‑one productivity platform that cuts project time by 30%, automates repeatable tasks, and integrates with your favorite tools. Get started for free today.
+**Meta Title:** Ace – AI‑Powered Personal Assistant for Professionals
 
----
-
-## Headline
-**"Get More Done in Less Time – The All‑In‑One Productivity Hub for Teams"
-
-### Subheadline
-Ace combines task management, real‑time collaboration, and AI‑powered automation into one seamless platform, so you can focus on what matters.
-
-[**Start Your Free Trial**](#)
+**Meta Description:** Boost productivity by 30% with Ace, the AI‑driven personal assistant that schedules, drafts, and automates routine tasks. Try it free today.
 
 ---
 
-### Why Teams Choose Ace
-- **Cut project timelines by 30%** – AI‑driven task routing and smart deadlines.
-- **All your tools in one place** – Native integrations with Slack, Google Workspace, Jira, and more.
-- **Automate repetitive work** – Build custom bots without writing code.
-- **Secure & compliant** – SOC 2‑type II, GDPR‑ready.
-- **Transparent pricing** – No hidden fees, cancel anytime.
+## 🎯 Achieve More, Stress Less
+
+> *“I get my day organized in seconds. Ace handles the busywork, I focus on the big ideas.”* – Early beta user
+
+Ace is the AI‑powered sidekick that:
+- **Schedules meetings** in your calendar with natural language.
+- **Drafts emails** and reports in seconds.
+- **Automates repetitive workflows** (data entry, reminders, follow‑ups).
+- **Delivers insights** from your documents and notes.
+
+### Why Ace?
+- **30% faster** task completion – proven in our pilot.
+- **Zero‑code automation** – set up flows with simple prompts.
+- **Secure & private** – end‑to‑end encryption, GDPR compliant.
+
+## How It Works
+1. **Connect** your calendar, email, and favorite apps.
+2. **Tell** Ace what you need – “Schedule a call with the design team tomorrow at 10 am.”
+3. **Relax** – Ace handles the rest and notifies you.
+
+## Social Proof
+- Trusted by **500+ professionals** across tech, finance, and health.
+- ⭐️⭐️⭐️⭐️⭐️ average rating on Product Hunt.
+- Featured in **TechCrunch**, **Forbes**, **Wired**.
+
+## Ready to Supercharge Your Day?
+
+[Start Your Free Trial →](/signup)
+
+*No credit card required. Cancel anytime.*
 
 ---
 
-### How It Works
-1. **Import your workflow** – Connect existing tools and import tasks with one click.
-2. **Set up AI assistants** – Choose bots to auto‑assign, prioritize, and remind.
-3. **Collaborate in real time** – Shared boards, comments, and video chat.
-4. **Track progress** – Dashboards show time saved and ROI.
+### FAQ
+**Is my data safe?** Yes – all data is encrypted in transit and at rest.
+**Can I integrate with my existing tools?** Ace works with Google Workspace, Microsoft 365, Slack, Asana, and many more.
+**What if I need help?** 24/7 chat support and a dedicated success manager for premium plans.
 
 ---
 
-### Social Proof
-> "Ace reduced our sprint cycle from 2 weeks to 10 days. The AI assistant handles the grunt work so our engineers can innovate." – *Product Lead, TechCo*
-
-> "Our remote team finally feels in‑sync. The integrated chat and task view are game‑changers." – *Founder, StartupX*
-
----
-
-### Frequently Asked Questions
-**Q: Do I need to install software?**
-A: No. Ace is 100 % cloud‑based, accessible from any browser.
-
-**Q: Can I try before I buy?**
-A: Absolutely – the free tier includes up to 5 users and unlimited tasks.
-
-**Q: How secure is my data?**
-A: We encrypt at rest and in transit, and undergo regular third‑party security audits.
-
----
-
-## Ready to Supercharge Your Team?
-[**Start Your Free Trial – No Credit Card Required**](#)
-
----
-
-*© 2026 Ace Technologies. All rights reserved.*
+**© 2026 Ace Labs – All rights reserved.**
