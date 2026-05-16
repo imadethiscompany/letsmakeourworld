@@ -1,16 +1,52 @@
-# Steve Jobs Exile: 30‑Minute Summary
+# Steve Jobs in Exile
 
-**Price:** $9.99
+## Discover the untold story of Steve Jobs' daring years at NeXT Computer
 
-## Unlock the hidden chapter of Steve Jobs' life
+**Unlock the secrets of how a visionary turned exile into a tech renaissance.**
 
-- **Concise 30‑minute PDF** that distills the pivotal years when Jobs was ousted from Apple and how it shaped his vision.
-- **Professional audio narration** you can listen to on the go – perfect for commuters and busy founders.
-- **Actionable takeaways** you can apply to your own leadership and product strategy today.
-- **Bonus cheat‑sheet** with 5 lessons from Jobs' exile you can implement immediately.
+---
 
-Ready to transform your approach to innovation?
+### Why This Book Matters
+- **Exclusive insights** from never-before-seen interviews and archives.
+- **Learn the leadership lessons** that shaped the next Apple era.
+- **Understand the product breakthroughs** that defined modern computing.
 
-<a href="https://buy.stripe.com/test_dRmaEP1Ll5wMgXF1Euc7C1O" target="_blank" style="display:inline-block;background:#ff6600;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy Now – $9.99</a>
+### What You’ll Get
+1. **A compelling narrative** that reads like a thriller.
+2. **Actionable takeaways** you can apply to your own career or startup.
+3. **Bonus resources** – a downloadable PDF summary and a private Discord community.
 
-*Instant digital delivery – download the PDF and audio file right after purchase.*
+---
+
+### Who Should Read This?
+- Tech enthusiasts hungry for behind‑the‑scenes stories.
+- Entrepreneurs looking for resilience lessons.
+- Anyone fascinated by Steve Jobs' genius and his comeback.
+
+---
+
+### Limited‑Time Offer
+Grab your copy now for **$29.99** (regular $39.99). Use the button below to purchase instantly via Stripe.
+
+[Buy Now – Secure Checkout](https://buy.stripe.com/test_14AaEPey7bVaazh2Iyc7C1P)
+
+---
+
+#### FAQ
+**Q:** Is this a new biography?
+**A:** It’s a focused deep‑dive on Jobs’ NeXT years, not a full biography.
+
+**Q:** Do I get any extras?
+**A:** Yes – a concise PDF summary and access to a private discussion group.
+
+---
+
+#### SEO Meta
+- **Title:** Steve Jobs in Exile – The Untold NeXT Computer Story
+- **Meta Description:** Discover the hidden chapters of Steve Jobs' exile at NeXT Computer. Get exclusive insights, leadership lessons, and a limited‑time discount. Buy now!
+
+---
+
+*Ready to transform your perspective?* 
+
+[Buy Now – Limited Offer](https://buy.stripe.com/test_14AaEPey7bVaazh2Iyc7C1P)
