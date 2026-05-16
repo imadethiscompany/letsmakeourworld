@@ -1,47 +1,37 @@
 # AI Metrics into Hybrid Models
 
-## Unlock Predictive Power with Integrated AI Metrics
+## Unlock Predictive Power with AI‑Driven Metrics
 
-**Headline:** Turn raw AI data into actionable hybrid model insights.
+**Turn raw data into actionable insights** that blend statistical rigor with cutting‑edge AI. Our hybrid model platform lets you:
 
-**Subheadline:** Combine statistical rigor with AI flexibility to boost decision‑making speed by up to 3×.
-
----
+- **Combine traditional KPI tracking** with machine‑learning forecasts.
+- **Automate metric selection** using AI‑driven feature importance.
+- **Deploy in minutes** – no data‑science team required.
 
 ### Why Hybrid Models?
-- **Speed & Accuracy:** Leverage AI‑generated features while keeping the interpretability of classic models.
-- **Cost Efficiency:** Reduce cloud compute spend by 40% with smarter metric selection.
-- **Scalable Insights:** From 100‑row pilots to millions of records without re‑engineering.
+Traditional analytics give you *what happened*. AI tells you *what will happen*. Together they give you:
 
----
+1. **Higher Accuracy** – 30% reduction in forecast error vs. classic models.
+2. **Speed to Insight** – Deploy new metrics in under 2 hours.
+3. **Scalability** – From 10k rows to 10M+ without re‑training headaches.
 
-### What You Get
-1. **Metric Mapping Toolkit** – Auto‑map raw AI outputs to proven statistical metrics.
-2. **Hybrid Model Builder** – Drag‑and‑drop interface to blend ML and econometric components.
-3. **Performance Dashboard** – Real‑time ROI, latency, and error‑rate tracking.
-4. **Implementation Playbook** – Step‑by‑step guide for data teams and SMB owners.
-
----
+### How It Works
+1. **Connect Your Data** – Secure API or CSV upload.
+2. **Select Base KPIs** – Choose any existing metric.
+3. **Activate AI Layer** – Our engine builds a predictive overlay.
+4. **Monitor & Iterate** – Real‑time dashboards and alerts.
 
 ### Trusted By
-> "Our forecasting accuracy jumped from 78% to 93% after adopting the hybrid approach." – CTO, Mid‑size Retail Co.
+![Logos of leading firms](/static/logos.png)
+
+### Get Started Today
+
+**Free 14‑Day Trial** – No credit card required.
+
+[Start My Free Trial](/signup)
 
 ---
 
-### Ready to Transform Your Data?
-**Get Started Now** – Free 14‑day trial, no credit card required.
-
-[Start Free Trial](/signup?product=ai-metrics-hybrid)
-
----
-
-#### FAQ
-**Q:** Do I need a data science team?
-**A:** No. The platform is built for SMB owners and product managers.
-
-**Q:** How does pricing work?
-**A:** Tiered plans start at $99/month, based on metric volume.
-
----
-
-**Contact us** – <sales@yourcompany.com>
+**SEO Meta**
+- **Title**: AI Metrics into Hybrid Models – Boost Forecast Accuracy
+- **Description**: Discover how hybrid AI‑enhanced metrics can improve forecasting, reduce error, and speed insights. Start your free trial now.
