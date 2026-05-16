@@ -1,74 +1,66 @@
-# Schematic Software: The Ultimate Tool for Rapid Diagramming and Design
+# Schematic Software – The Ultimate Tool for Designing Schematics
 
-## Transform Your Ideas into Clear, Professional Schematics in Minutes
+## Transform Your Design Process in Minutes
 
-**Schematic Software** is a cloud‑based, drag‑and‑drop diagram editor built for engineers, product teams, and anyone who needs to visualise complex systems fast. No coding, no steep learning curve – just an intuitive canvas that turns sketches into production‑ready schematics.
+**Schematic Software** lets engineers, product designers, and hobbyists create professional‑grade schematics faster than ever. No steep learning curve, no expensive licenses – just a clean, intuitive interface that turns ideas into detailed diagrams in seconds.
 
 ---
 
 ### Why Choose Schematic Software?
 
-- **Lightning‑fast creation** – Build a full‑scale circuit, flowchart, or architecture diagram in under 5 minutes.
-- **Collaborative real‑time editing** – Invite teammates, comment inline, and see changes instantly.
-- **Export anywhere** – PNG, SVG, PDF, or embed directly into Confluence, Notion, and GitHub README.
-- **Library of 500+ premium components** – From electronic symbols to UI widgets, all fully searchable.
-- **Secure cloud storage** – Auto‑save, version history, and GDPR‑compliant data protection.
+- **Instant Visualisation** – Drag‑and‑drop components, auto‑wire connections, and generate clean PDFs with one click.
+- **Collaboration Built‑In** – Share live edit links with teammates, comment directly on diagrams, and keep version history.
+- **Export Anywhere** – PNG, SVG, PDF, or JSON for seamless integration into your workflow.
+- **Affordable Pricing** – Only $49/month for unlimited projects and updates.
 
 ---
 
 ### Who Benefits?
 
-| Role | Pain Point | How Schematic Software Solves It |
-|------|-------------|-----------------------------------|
-| **Hardware Engineer** | Manually drawing circuits in PowerPoint wastes weeks. | Drag‑and‑drop parts, auto‑wire, export ready for PCB tools. |
-| **Product Manager** | Communicating feature flows to devs is messy. | Interactive flowcharts with live comments keep everyone aligned. |
-| **Technical Writer** | Keeping documentation up‑to‑date is a nightmare. | One‑click export to Markdown/HTML keeps docs synced. |
-| **Startup Founder** | Need polished visuals for pitch decks fast. | Pre‑made templates turn ideas into investor‑ready diagrams. |
+- **Hardware Engineers** – Quickly map circuit boards and wiring diagrams.
+- **Product Designers** – Draft mechanical schematics and assembly guides.
+- **Educators & Students** – Create teaching materials without costly software.
+- **Start‑ups** – Produce investor‑ready schematics on a budget.
 
 ---
 
-### Real Results
+### Real‑World Results
 
-- **Cut design time by 70 %** – Teams report moving from days to hours.
-- **Increase stakeholder approval** – 4× faster sign‑off on architecture proposals.
-- **Boost pitch success** – Startups using Schematic Software raised 30 % more funding on average.
+| Use‑Case | Time Saved | Outcome |
+|---|---|---|
+| Electrical engineering team | **70%** reduction in drafting time | Faster prototype cycles |
+| Mechanical design firm | **3×** faster client approvals | Increased revenue |
+| University lab | **90%** less software training | More focus on research |
 
 ---
 
 ### How It Works (3 Simple Steps)
 
-1. **Choose a template** – Start from a blank canvas or a ready‑made diagram type.
-2. **Drag, drop, connect** – Add components, link them, and style instantly.
-3. **Share or export** – Invite collaborators or download in your preferred format.
-
----
-
-### Pricing
-
-- **Free Tier** – Unlimited diagrams, 10 MB storage, community templates.
-- **Pro – $49 / month** – Unlimited storage, premium component library, priority support. *(Already live on our site: /products/schematic-software-b7925b)*
+1. **Import or Build** – Start from scratch or import existing CAD files.
+2. **Design & Refine** – Use our smart components library; auto‑align and snap.
+3. **Export & Share** – One‑click export to PDF/SVG and generate a shareable link.
 
 ---
 
 ### Frequently Asked Questions
 
-**Q: Do I need to install anything?**
-A: No. Schematic Software runs entirely in the browser.
+**Q:** Do I need a powerful PC?
+**A:** No. Runs smoothly on any modern laptop or desktop.
 
-**Q: Is my data safe?**
-A: All diagrams are encrypted at rest and in transit.
+**Q:** Is there a free trial?
+**A:** Yes – 14‑day free trial, no credit card required.
 
-**Q: Can I import existing drawings?**
-A: Yes – import SVG, Visio, or simple PNG sketches.
-
----
-
-## Ready to Create Stunning Schematics?
-
-**Start your free trial now** and see how quickly you can turn ideas into polished diagrams.
-
-[Get Started →](/checkout?product=schematic-software)
+**Q:** Can I cancel anytime?
+**A:** Absolutely. No lock‑in contracts.
 
 ---
 
-*Boost productivity, improve communication, and wow your audience with Schematic Software.*
+## Ready to Upgrade Your Design Workflow?
+
+[**Start Your Free Trial**](https://buy.stripe.com/test_9B6dR19dNf7mcHp1Euc7C25) – No credit card needed.
+
+Or learn more about pricing at our [product page](/products/schematic-software-b7925b).
+
+---
+
+*Boost productivity, impress stakeholders, and bring ideas to life faster with **Schematic Software**.*
