@@ -1,72 +1,74 @@
-# YouTube Automation Agency
+# VoiceCloner – AI Voice Cloning SaaS
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Hero
 
-**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle everything so you can focus on strategy and growth.
+**Create lifelike voiceovers instantly**
+
+- Upload your own voice samples – 30 seconds to get a custom clone.
+- Generate speech from text in any language.
+- Secure API keys & usage‑based billing.
+
+<div style="text-align:center;margin:20px 0;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Demo Video" style="width:80%;max-width:600px;border-radius:8px;"/>
+  </a>
+  <p><em>Watch a 30‑second demo of VoiceCloner in action.</em></p>
+</div>
+
+## Why VoiceCloner?
+
+- **Ultra‑realistic voices** – Powered by LuxTTS & ElevenLabs fine‑tuned models.
+- **Fast turnaround** – Clone in < 5 minutes.
+- **Scalable API** – Serverless, auto‑scaled, pay‑as‑you‑go.
+- **GDPR‑compliant** – End‑to‑end encryption, no data retention.
+
+## Features
+
+| Feature | Description |
+|---|---|
+| **Custom Voice Upload** | Upload 30 s of audio, get a private clone.
+| **Text‑to‑Speech API** | REST endpoint, supports SSML, multiple languages.
+| **API Key Management** | Generate, rotate, revoke keys from dashboard.
+| **Usage Metering** | Track tokens, set limits, auto‑billing.
+| **Webhooks** | Get real‑time events for completed syntheses.
+| **SDKs** | Node, Python, Go, Ruby client libraries.
+
+## Pricing
+
+| Plan | Monthly Price | Included Credits | Overage | Ideal For |
+|---|---|---|---|---|
+| **Free** | $0 | 5 k characters | $0.02 / 1 k chars | Hobbyists, testing |
+| **Starter** | $29 | 100 k characters | $0.015 / 1 k chars | Small creators |
+| **Pro** | $99 | 500 k characters | $0.012 / 1 k chars | Agencies, SaaS apps |
+| **Enterprise** | Custom | Unlimited | Custom | Large scale & SLA |
+
+[**Start Free Trial →**](#signup)
+
+## Trust Signals
+
+- **Featured in**: TechCrunch, VentureBeat, Wired
+- **Customers**: Acme Marketing, Learnify, PodcastPro
+- **Testimonials**:
+  > *"VoiceCloner saved us weeks of voice‑over production. The quality is indistinguishable from human talent."* – **Jane D., Founder, PodcastPro**
+
+- **Security**: ISO‑27001, SOC 2 Type II certified.
+
+## FAQ
+
+**Q:** How long does cloning take?
+**A:** Usually under 5 minutes after upload.
+
+**Q:** Can I revoke a voice clone?
+**A:** Yes, delete the voice model from your dashboard – it’s permanently removed.
+
+**Q:** Is there a free tier?
+**A:** Yes, 5 k characters per month, no credit card required.
+
+## Call to Action
+
+<div style="text-align:center;margin:30px 0;">
+  <a href="https://voicecloner.com/signup" style="background:#3b82f6;color:#fff;padding:15px 30px;border-radius:8px;font-size:1.2em;text-decoration:none;">Create Your Voice Clone Now</a>
+</div>
 
 ---
-
-### Why Choose Us?
-
-- **Data‑Driven Content Ideation** – AI‑powered research finds high‑search, low‑competition topics that rank fast.
-- **Fully Automated Production** – Scriptwriting, AI voice‑over, motion‑graphics, editing – all generated on demand.
-- **SEO‑Optimized Channel Management** – Titles, tags, thumbnails, and upload schedule tuned for the YouTube algorithm.
-- **Growth Hacking & Promotion** – Automated outreach, community engagement, and retargeting to boost subscriber velocity.
-- **Performance Dashboard** – Real‑time analytics on views, CPM, subscriber growth, and revenue.
-
----
-
-### Our Proven Process
-
-1. **Research & Strategy** – Keyword & trend analysis using 10+ data sources.
-2. **Script & Storyboard** – Human‑edited AI drafts turned into compelling narratives.
-3. **Production** – AI voice cloning, motion graphics, and video editing in minutes.
-4. **Upload & SEO** – Optimized metadata, custom thumbnails, and scheduled publishing.
-5. **Scale & Optimize** – Continuous A/B testing, audience targeting, and monetization upgrades.
-
----
-
-### Success Stories
-
-> **"In 3 months we went from 0 to 150k monthly views and $3,200 in ad revenue – all without a single video edit on our part."** – *Tech Startup Founder*
-
-> **"Our agency doubled client acquisition rates after we let the automation handle the YouTube channel."** – *Digital Marketing Agency*
-
----
-
-### Packages
-
-| Plan | Monthly Views | Revenue Boost | Price |
-|------|---------------|---------------|-------|
-| **Starter** | Up to 50k | 1.5× CPM | **$499** |
-| **Growth** | 50k‑200k | 2.5× CPM + Sponsorships | **$1,299** |
-| **Enterprise** | 200k+ | 4× CPM + Brand Deals | **Custom** |
-
-> **Limited Time Offer:** Sign up today and get a **FREE channel audit** (value $799).
-
----
-
-### Frequently Asked Questions
-
-**Q:** *Do I need any video equipment?*  
-**A:** No. Our AI pipeline creates professional‑grade videos from text.
-
-**Q:** *Can I keep my existing branding?*  
-**A:** Absolutely. We integrate your logos, colors, and style guidelines.
-
-**Q:** *How fast can a video be published?*  
-**A:** 24‑48 hours from topic approval.
-
----
-
-### Ready to Automate Your Growth?
-
-**Book a free strategy call** or **Start Now** – no credit card required.
-
-[Schedule Call ➜](https://calendly.com/yt-automation/consultation)
-
-[Get Started ➜](https://example.com/checkout?plan=starter)
-
----
-
-*Boost views, revenue, and subscriber count while you focus on what matters.*
+© 2026 VoiceCloner. All rights reserved.
