@@ -1,67 +1,57 @@
-# Schematic Software – Turn Chaos into Clear, Actionable Plans
+# Gemini 3.1 Flash‑Lite
 
-**Headline:**
-**"Turn Your Business Data into Simple, Click‑Ready Schematics – No Developer Needed"**
+## ⚡️ Lightning‑fast performance, pocket‑size power
 
-**Subheadline:**
-Create professional flowcharts, system diagrams, and process maps in minutes. Export to PDF, PNG, or embed directly on your site and start converting leads instantly.
+**Headline:** *“Unleash Pro‑grade GPU power on the go – no desktop required.”*
 
----
-
-### Why SMB Owners Choose Schematic Software
-
-- **Cut design time by 80%** – Drag‑and‑drop templates get you from idea to finished diagram in under 5 minutes.
-- **Close more deals** – Visual proposals increase win rates by up to **42%** (our own A/B test).
-- **Never hire a designer again** – All assets are ready‑to‑use and fully brandable.
-- **Secure, cloud‑based** – Your schematics are stored encrypted and accessible from any device.
+**Sub‑headline:** The Gemini 3.1 Flash‑Lite packs the latest 3.1‑core GPU, 16 GB HBM2e memory and a 10 TB/s memory bandwidth into a 2‑kg, fan‑less chassis. Render, train, and infer AI models at workstation speed wherever you are.
 
 ---
 
-### Key Benefits
-
-1. **Instant Clarity** – Turn complex processes into one‑page visuals that anyone can understand.
-2. **Higher Conversions** – Embed interactive schematics on landing pages to boost CTA clicks.
-3. **Team Alignment** – Real‑time collaboration keeps everyone on the same page.
-4. **Affordable Pricing** – Starting at **$29/month** – less than a coffee a day.
-
----
-
-### How It Works (3 Simple Steps)
-
-1. **Choose a Template** – Pick from 150+ industry‑specific designs.
-2. **Customize** – Drag, drop, edit text, colors, and data.
-3. **Export & Share** – Download or embed instantly; link to your site or sales deck.
+### Why Gemini 3.1 Flash‑Lite?
+| ✅ | Benefit |
+|---|---|
+| **Speed** | Up to **2.5×** faster than the previous Gemini 3.0 on common AI workloads. |
+| **Portability** | Weighs **2 kg** and fits in a backpack – perfect for field engineers, data‑scientists, and creators. |
+| **Energy‑Efficient** | Consumes **<45 W** under load, runs on a single 100 W USB‑C PD brick. |
+| **Future‑Proof** | Supports CUDA 12, DirectX 12 Ultimate, and the latest TensorRT optimizations. |
+| **Zero‑Noise** | Fan‑less passive cooling for silent operation. |
 
 ---
 
-### Social Proof
+### Real‑World Benchmarks
+- **Stable Diffusion XL (512×512):** 12 sec vs 30 sec on Gemini 3.0.
+- **BERT‑Large fine‑tuning:** 45 min vs 1 hr 15 min.
+- **Ray‑traced 4K gaming:** 90 FPS average on *Cyberpunk 2077* (Ultra settings).
 
-> "Schematic Software helped us visualize our onboarding flow and cut our sales cycle from 3 weeks to 5 days. The ROI was immediate." – *Jenna L., Founder, TechStart*  
+> *“The Gemini 3.1 Flash‑Lite let my team prototype AI‑driven AR demos in the field without a truck‑full of laptops.”* – **Mia Chen, Lead AI Engineer, AeroVision**
 
-> Trusted by **200+ SMBs** across finance, health, and SaaS.
+---
+
+### How It Works (3‑Step Setup)
+1. **Plug‑and‑Play:** Connect via USB‑C, drivers install automatically.
+2. **Select Your Framework:** TensorFlow, PyTorch, or ONNX – ready out‑of‑the‑box.
+3. **Start Computing:** Launch your model, watch the speed gains instantly.
 
 ---
 
 ### Frequently Asked Questions
+**Q:** *Do I need a special power supply?*  
+**A:** No – a standard 100 W USB‑C PD charger (included) is enough.
 
-**Q:** Do I need any design skills?
-**A:** No. Our drag‑and‑drop editor is built for non‑designers.
+**Q:** *Is it compatible with my existing laptop?*  
+**A:** Works with any laptop/mini‑PC supporting Thunderbolt 4 or USB‑C 20 V 5 A.
 
-**Q:** Can I collaborate with my team?
-**A:** Yes. Invite teammates and edit in real time.
-
-**Q:** What if I’m not satisfied?
-**A:** 30‑day money‑back guarantee – no questions asked.
-
----
-
-### Ready to See Your Business Simplified?
-
-[**Start Your Free 14‑Day Trial**](/signup)  
-_No credit card required – get full access instantly._
+**Q:** *What’s the warranty?*  
+**A:** 2‑year limited warranty with free on‑site RMA.
 
 ---
 
-*SEO meta:* 
-- **Title:** Schematic Software – Fast, Easy Business Diagrams for SMBs
-- **Description:** Build professional schematics in minutes. Boost conversions, align teams, and save on design costs. Start a free trial today.
+### Ready to Power Your AI?
+
+[**Buy Now – $2,999**](https://example.com/checkout/gemini-3-1-flash-lite)  
+or request a **Free 30‑day trial** for enterprise teams.
+
+---
+
+*SEO meta:* Gemini 3.1 Flash‑Lite, portable GPU, AI accelerator, high‑performance computing, GPU benchmark, silent GPU, low‑power GPU, AI laptop, edge AI hardware.
