@@ -1,35 +1,30 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Supercharge Your YouTube Channel with AI‑Powered Automation
 
-🚀 **Fully Automated Video Production** – From script to upload, we handle everything.
+Our agency delivers end‑to‑end YouTube automation for SaaS founders who want to scale video content without hiring a full production team.
 
-💰 **Increase Revenue 3x** – Boost ad earnings, affiliate sales, and sponsorships with consistent, high‑quality uploads.
-
-⏱️ **Save 20+ Hours/Week** – No editing, no voice‑over, no thumbnail design. Our AI does it all.
-
-### What You Get
-
-- **AI‑Generated Scripts** tailored to your niche (tech, finance, gaming, etc.)
-- **Professional Voice‑Over** using cloned celebrity‑grade voices
-- **Dynamic Motion Graphics** with kinetic typography and 3D cards
-- **SEO‑Optimized Titles, Tags & Descriptions** to rank fast
-- **Automated Publishing** to YouTube, complete with custom thumbnails and end‑screens
-
-### Packages
-
-| Package | Videos/Month | Price |
-|---|---|---|
-| **Starter** | 4 | $499 |
-| **Growth** | 12 | $1,299 |
-| **Enterprise** | Unlimited | Custom |
-
-### Ready to Dominate YouTube?
-
-👉 **[Start Your Free 7‑Day Trial Now](https://example.com/checkout?plan=starter)**
-
-*No credit card required. Cancel anytime.*
+### Why Choose Us?
+- **AI video editing** – turns scripts into polished videos in minutes.
+- **SEO‑optimized uploads** – rank higher, get more organic traffic.
+- **Growth strategy** – proven frameworks that double subscriber rates.
 
 ---
 
-*Questions? Reply to this page or email us at support@ytautomation.com.*
+## Pricing Plans
+
+| Plan | What’s Included | Price | Buy Now |
+|------|----------------|------|---------|
+| **Starter** | Channel audit, content calendar, basic automation scripts | **$99** | [Purchase](${{starter_link}}) |
+| **Growth** | AI video editing, SEO optimization, channel growth strategy | **$299** | [Purchase](${{growth_link}}) |
+
+---
+
+### Ready to Talk?
+Book a free 15‑minute strategy call with our YouTube experts:
+
+[Schedule a Call](${{calendly_link}})
+
+---
+
+*All payments are processed securely via Stripe.*
