@@ -1,58 +1,47 @@
-# Orthrus‑Qwen3 Acceleration Engine 🚀
+# AI Metrics into Hybrid Models
 
-**Headline:** 7.8× More Tokens per Forward on Qwen‑3 – Identical Output Distribution
+## Unlock Predictive Power with Integrated AI Metrics
 
-**Sub‑headline:** Unlock massive throughput without sacrificing quality. Orthrus‑Qwen3 lets you push up to **7.8× the token context** per forward step while preserving the exact same probability distribution as the native Qwen‑3 model.
+**Headline:** Turn raw AI data into actionable hybrid model insights.
 
----
-
-## Why It Matters
-- **Cut inference cost** – Process more text for the same compute budget.
-- **Speed up pipelines** – Reduce latency in LLM‑augmented apps, from chat‑bots to data‑extraction.
-- **Zero‑quality loss** – Identical output distribution guarantees no drift in answers.
-- **Plug‑and‑play** – Drop‑in library works with any existing Qwen‑3 integration.
+**Subheadline:** Combine statistical rigor with AI flexibility to boost decision‑making speed by up to 3×.
 
 ---
 
-## How It Works (3‑Step Simplicity)
-1. **Install** – `pip install orthrus-qwen3`
-2. **Wrap** – Replace your `Qwen3` client with `OrthrusQwen3`.
-3. **Run** – Enjoy up to 7.8× token throughput, no code changes needed.
+### Why Hybrid Models?
+- **Speed & Accuracy:** Leverage AI‑generated features while keeping the interpretability of classic models.
+- **Cost Efficiency:** Reduce cloud compute spend by 40% with smarter metric selection.
+- **Scalable Insights:** From 100‑row pilots to millions of records without re‑engineering.
 
 ---
 
-## Real‑World Impact
-| Use‑case | Tokens/Forward (Native) | Tokens/Forward (Orthrus) | Cost Savings |
-|----------|------------------------|--------------------------|--------------|
-| Customer‑support chat | 2 K | **15.6 K** | ~70% compute reduction |
-| Document summarisation | 5 K | **39 K** | ~65% faster |
-| Code‑assist | 3 K | **23.4 K** | ~60% lower latency |
+### What You Get
+1. **Metric Mapping Toolkit** – Auto‑map raw AI outputs to proven statistical metrics.
+2. **Hybrid Model Builder** – Drag‑and‑drop interface to blend ML and econometric components.
+3. **Performance Dashboard** – Real‑time ROI, latency, and error‑rate tracking.
+4. **Implementation Playbook** – Step‑by‑step guide for data teams and SMB owners.
 
 ---
 
-## FAQ
-**Q: Does the output change?**
-A: No. Orthrus‑Qwen3 reproduces the exact probability distribution of Qwen‑3, so answers remain identical.
-
-**Q: Is it compatible with existing APIs?**
-A: Yes. It works with the official Qwen‑3 SDK and any OpenAI‑compatible wrapper.
-
-**Q: What hardware is required?**
-A: Same as Qwen‑3 – GPUs that already run the model. Orthrus adds only a lightweight token‑re‑mapper.
+### Trusted By
+> "Our forecasting accuracy jumped from 78% to 93% after adopting the hybrid approach." – CTO, Mid‑size Retail Co.
 
 ---
 
-## Get Started Instantly
-[**Start Free Trial →**]({{checkout_url}})
+### Ready to Transform Your Data?
+**Get Started Now** – Free 14‑day trial, no credit card required.
 
-*No credit card required. Deploy in minutes.*
-
----
-
-### SEO Meta
-- **Title:** Orthrus‑Qwen3 – 7.8× Tokens per Forward, Identical Output Distribution
-- **Description:** Accelerate Qwen‑3 inference up to 7.8× token throughput while preserving exact output quality. Plug‑and‑play library, instant free trial.
+[Start Free Trial](/signup?product=ai-metrics-hybrid)
 
 ---
 
-*Built by the Nexus AI team – powering the next generation of LLM‑apps.*
+#### FAQ
+**Q:** Do I need a data science team?
+**A:** No. The platform is built for SMB owners and product managers.
+
+**Q:** How does pricing work?
+**A:** Tiered plans start at $99/month, based on metric volume.
+
+---
+
+**Contact us** – <sales@yourcompany.com>
