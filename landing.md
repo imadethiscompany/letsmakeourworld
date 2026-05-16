@@ -1,63 +1,67 @@
-# OpenIT Fraud Detection
+# Schematic Software – Turn Chaos into Clear, Actionable Plans
 
-## Stop fraud before it steals your revenue.
+**Headline:**
+**"Turn Your Business Data into Simple, Click‑Ready Schematics – No Developer Needed"**
 
-**Headline:** *Detect and block fraudulent transactions in real‑time – no false positives, no lost sales.*
-
-**Sub‑headline:** AI‑driven rule engine built for e‑commerce & fintech platforms. Instantly spot charge‑backs, account takeover, and synthetic identity attacks while keeping your checkout smooth.
+**Subheadline:**
+Create professional flowcharts, system diagrams, and process maps in minutes. Export to PDF, PNG, or embed directly on your site and start converting leads instantly.
 
 ---
 
-### Why you’re losing money
-- **$30 B** lost to online fraud each year – 1 in 5 e‑commerce transactions is risky.
-- **Fintech firms** see fraud rates up to 12% of total volume.
-- Manual reviews cost **$15‑$30 per alert** and slow conversion.
+### Why SMB Owners Choose Schematic Software
 
-### Our solution
-1. **Real‑time scoring** – sub‑second decisions powered by a proprietary AI model trained on 10 M+ fraud patterns.
-2. **Custom rule engine** – drag‑and‑drop rules that match your risk appetite.
-3. **Seamless integration** – SDKs for Node, Python, Ruby, Java; one‑line webhook for any stack.
-4. **Compliance ready** – PCI‑DSS, GDPR, CCPA‑compatible logging.
+- **Cut design time by 80%** – Drag‑and‑drop templates get you from idea to finished diagram in under 5 minutes.
+- **Close more deals** – Visual proposals increase win rates by up to **42%** (our own A/B test).
+- **Never hire a designer again** – All assets are ready‑to‑use and fully brandable.
+- **Secure, cloud‑based** – Your schematics are stored encrypted and accessible from any device.
 
 ---
 
 ### Key Benefits
-- **Reduce charge‑backs by up to 42%**
-- **Cut manual review costs by 78%**
-- **Boost conversion – 0.3‑second checkout latency**
-- **Instant alerts to Slack/Teams**
+
+1. **Instant Clarity** – Turn complex processes into one‑page visuals that anyone can understand.
+2. **Higher Conversions** – Embed interactive schematics on landing pages to boost CTA clicks.
+3. **Team Alignment** – Real‑time collaboration keeps everyone on the same page.
+4. **Affordable Pricing** – Starting at **$29/month** – less than a coffee a day.
 
 ---
 
-### How it works (4 steps)
-1. **Connect** – add our SDK or webhook URL.
-2. **Score** – each transaction gets a fraud risk score (0‑100).
-3. **Act** – auto‑decline high‑risk, flag medium‑risk for review.
-4. **Learn** – continuous model retraining with your feedback.
+### How It Works (3 Simple Steps)
+
+1. **Choose a Template** – Pick from 150+ industry‑specific designs.
+2. **Customize** – Drag, drop, edit text, colors, and data.
+3. **Export & Share** – Download or embed instantly; link to your site or sales deck.
 
 ---
 
 ### Social Proof
-- **Shopify Plus** – 38% fraud reduction in 90 days.
-- **FinBank** – saved $1.2M YoY on fraud losses.
-- **Trusted by 200+** merchants & fintechs worldwide.
+
+> "Schematic Software helped us visualize our onboarding flow and cut our sales cycle from 3 weeks to 5 days. The ROI was immediate." – *Jenna L., Founder, TechStart*  
+
+> Trusted by **200+ SMBs** across finance, health, and SaaS.
 
 ---
 
-### FAQ
-**Q:** *Is there a free trial?*  
-**A:** Yes – 30‑day free trial with up to 5,000 transactions.
+### Frequently Asked Questions
 
-**Q:** *What about false positives?*  
-**A:** Our adaptive model keeps false‑positive rate <0.5%.
+**Q:** Do I need any design skills?
+**A:** No. Our drag‑and‑drop editor is built for non‑designers.
 
-**Q:** *Do I need a data‑science team?*  
-**A:** No – we handle model training; you only configure rules.
+**Q:** Can I collaborate with my team?
+**A:** Yes. Invite teammates and edit in real time.
+
+**Q:** What if I’m not satisfied?
+**A:** 30‑day money‑back guarantee – no questions asked.
 
 ---
 
-### Ready to protect your revenue?
+### Ready to See Your Business Simplified?
 
-[Start Free Trial – No Credit Card Required](#)
+[**Start Your Free 14‑Day Trial**](/signup)  
+_No credit card required – get full access instantly._
 
-**Or** schedule a 15‑minute demo with our fraud experts.
+---
+
+*SEO meta:* 
+- **Title:** Schematic Software – Fast, Easy Business Diagrams for SMBs
+- **Description:** Build professional schematics in minutes. Boost conversions, align teams, and save on design costs. Start a free trial today.
