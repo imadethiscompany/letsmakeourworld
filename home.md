@@ -1,74 +1,57 @@
-# VoiceCloner – AI Voice Cloning SaaS
+# Transform Your Business with AI Products
 
-## Hero
+## Unlock Intelligent Automation
 
-**Create lifelike voiceovers instantly**
-
-- Upload your own voice samples – 30 seconds to get a custom clone.
-- Generate speech from text in any language.
-- Secure API keys & usage‑based billing.
-
-<div style="text-align:center;margin:20px 0;">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Demo Video" style="width:80%;max-width:600px;border-radius:8px;"/>
-  </a>
-  <p><em>Watch a 30‑second demo of VoiceCloner in action.</em></p>
-</div>
-
-## Why VoiceCloner?
-
-- **Ultra‑realistic voices** – Powered by LuxTTS & ElevenLabs fine‑tuned models.
-- **Fast turnaround** – Clone in < 5 minutes.
-- **Scalable API** – Serverless, auto‑scaled, pay‑as‑you‑go.
-- **GDPR‑compliant** – End‑to‑end encryption, no data retention.
-
-## Features
-
-| Feature | Description |
-|---|---|
-| **Custom Voice Upload** | Upload 30 s of audio, get a private clone.
-| **Text‑to‑Speech API** | REST endpoint, supports SSML, multiple languages.
-| **API Key Management** | Generate, rotate, revoke keys from dashboard.
-| **Usage Metering** | Track tokens, set limits, auto‑billing.
-| **Webhooks** | Get real‑time events for completed syntheses.
-| **SDKs** | Node, Python, Go, Ruby client libraries.
-
-## Pricing
-
-| Plan | Monthly Price | Included Credits | Overage | Ideal For |
-|---|---|---|---|---|
-| **Free** | $0 | 5 k characters | $0.02 / 1 k chars | Hobbyists, testing |
-| **Starter** | $29 | 100 k characters | $0.015 / 1 k chars | Small creators |
-| **Pro** | $99 | 500 k characters | $0.012 / 1 k chars | Agencies, SaaS apps |
-| **Enterprise** | Custom | Unlimited | Custom | Large scale & SLA |
-
-[**Start Free Trial →**](#signup)
-
-## Trust Signals
-
-- **Featured in**: TechCrunch, VentureBeat, Wired
-- **Customers**: Acme Marketing, Learnify, PodcastPro
-- **Testimonials**:
-  > *"VoiceCloner saved us weeks of voice‑over production. The quality is indistinguishable from human talent."* – **Jane D., Founder, PodcastPro**
-
-- **Security**: ISO‑27001, SOC 2 Type II certified.
-
-## FAQ
-
-**Q:** How long does cloning take?
-**A:** Usually under 5 minutes after upload.
-
-**Q:** Can I revoke a voice clone?
-**A:** Yes, delete the voice model from your dashboard – it’s permanently removed.
-
-**Q:** Is there a free tier?
-**A:** Yes, 5 k characters per month, no credit card required.
-
-## Call to Action
-
-<div style="text-align:center;margin:30px 0;">
-  <a href="https://voicecloner.com/signup" style="background:#3b82f6;color:#fff;padding:15px 30px;border-radius:8px;font-size:1.2em;text-decoration:none;">Create Your Voice Clone Now</a>
-</div>
+**Headline:** *Supercharge Your Operations with AI‑Powered Solutions*  
+**Subheadline:** Deploy ready‑to‑use AI tools that cut costs, boost revenue, and free your team to focus on growth.
 
 ---
-© 2026 VoiceCloner. All rights reserved.
+
+### Why Choose Our AI Products?
+
+- **Instant Impact:** Reduce manual data entry by up to 80% in days, not months.
+- **Scalable & Secure:** Cloud‑native, GDPR‑compliant, and built to grow with your business.
+- **Zero‑Code Integration:** Connect to your favorite SaaS platforms with a single click.
+- **Proven ROI:** Clients see an average $250k increase in annual profit within 6 months.
+
+---
+
+### Core Solutions
+
+1. **AI‑Driven Analytics** – Turn raw data into actionable insights in seconds.
+2. **Intelligent Automation** – Automate repetitive workflows with custom bots.
+3. **Personalized Customer AI** – Chat‑bots & recommendation engines that convert.
+4. **Predictive Maintenance** – Anticipate failures before they happen.
+
+---
+
+### Social Proof
+
+> "We cut reporting time from 10 hours to 15 minutes. The ROI was immediate." – **CTO, FinTech Startup**
+
+> "Our sales pipeline grew 35% after deploying the AI recommendation engine." – **Head of Growth, E‑commerce Brand**
+
+---
+
+### Frequently Asked Questions
+
+**Q:** *Do I need a data science team?*  
+**A:** No. Our tools are built for non‑technical users with drag‑and‑drop interfaces.
+
+**Q:** *How quickly can I see results?*  
+**A:** Most customers launch a pilot in under a week and see measurable gains within the first month.
+
+**Q:** *What’s the pricing model?*  
+**A:** Flexible subscription plans starting at $49 / month, with enterprise‑grade options available.
+
+---
+
+## Ready to Accelerate Your Business?
+
+**[Start Your Free 14‑Day Trial →](#)**
+
+*No credit card required. Cancel anytime.*
+
+---
+
+*Boost productivity, drive revenue, and stay ahead of the competition with AI products that work for you.*
