@@ -1,44 +1,33 @@
-# Fere AI
 
-## Transform Your Business with AI-Powered Automation
+# Vivago Video Agent
 
-**Headline:** *"Unlock 10x Productivity with AI‑Driven Automation"*
+## Create Professional Videos in Minutes with AI
 
-**Subheadline:**
-Fere AI instantly automates repetitive tasks, gives you real‑time insights, and scales your operations without hiring more staff.
+**Turn ideas into stunning videos instantly** – no editors, no studios, no hassle.
 
----
-
-### Why Choose Fere AI?
-- **Save Hours Every Week:** Automate data entry, reporting, and customer follow‑ups – reclaim up to 20 hrs/month.
-- **Boost Accuracy:** AI eliminates human error, delivering 99.9% data integrity.
-- **Scale Seamlessly:** Deploy new workflows in minutes, not weeks.
-- **Secure & Compliant:** End‑to‑end encryption, GDPR‑ready.
-
----
+### Why Vivago?
+- **AI‑Powered Script & Voice** – Generates a full script, selects the perfect voice (Vikash’s natural tone) and adds background music.
+- **One‑Click Motion Graphics** – Remotion‑driven kinetic typography, 3D cards, particle effects, and glitch‑style intros.
+- **Fast Render** – Get a 1080p MP4 in under 2 minutes.
+- **Full Branding** – Auto‑add your logo, colors, and captions.
 
 ### How It Works
-1. **Connect** your tools (CRM, Sheets, Email, etc.).
-2. **Define** the workflow with our visual builder.
-3. **Activate** and watch AI handle the work 24/7.
+1. **Enter your topic** – e.g. “AI Agents Taking Over Development Jobs”.
+2. **Select a niche** – Tech, Finance, Mystery, Crypto, Health.
+3. **Press Generate** – Our engine writes the script, records voice, builds visuals, and renders.
+4. **Download & Share** – Ready for YouTube, TikTok, Instagram.
+
+### Pricing
+- **$49 / month** – Unlimited video generation, priority rendering, premium voice library.
+- **Free trial** – Create your first video for free, no credit card required.
+
+[Start Your Free Trial]({"url": "https://buy.stripe.com/test_dRmaEPfCb9N236Pbf4c7D00", "label": "Buy Now"})
+
+### Trusted by Creators
+> “Vivago cut my production time from hours to minutes.” – *Tech YouTuber*.
 
 ---
 
-### Ready to Accelerate?
+**Ready to supercharge your video content?**
 
-[**Get Started with a Free 14‑Day Trial**](/signup)
-
-Or **[Book a Demo](/demo)** to see Fere AI in action.
-
----
-
-#### FAQ
-**Q:** Do I need technical expertise?
-**A:** No. Our drag‑and‑drop interface is built for non‑technical users.
-
-**Q:** How is pricing structured?
-**A:** Simple monthly plans starting at $49/mo. No hidden fees.
-
----
-
-© 2026 Fere AI – All rights reserved.
+[Get Started Now]({"url": "https://buy.stripe.com/test_dRmaEPfCb9N236Pbf4c7D00", "label": "Buy Now"})
