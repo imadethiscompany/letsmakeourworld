@@ -1,25 +1,22 @@
-# Recursive AI Startup Hits $4.65B Valuation
+# Recursive: The AI Engine Powering the Future
 
-## Unlock the Future of AI with Recursive
+## Valued at $4.65 B after a $650 M round led by Nvidia & Google
 
-Recursive just secured a **$650M funding round** led by **Nvidia** and **Google**, propelling its valuation to **$4.65 billion**.  This is the biggest AI‑focused raise of the year and a clear signal that the market is hungry for next‑generation, self‑optimizing AI platforms.
+Unlock enterprise‑grade AI infrastructure that scales from research to production. Join the next wave of AI‑enabled businesses.
 
-### Why This Matters for You
-- **Enterprise‑grade performance**: Built on Nvidia’s latest GPU stack, delivering 3× faster inference.
-- **Scalable across industries**: From finance to health‑tech, Recursive’s platform adapts without costly re‑engineering.
-- **Strategic partnership**: Backed by Google Cloud, guaranteeing secure, low‑latency deployment.
+- **Unmatched performance:** 3× faster model training vs leading cloud providers.
+- **Zero‑ops:** Fully managed pipelines, no DevOps overhead.
+- **Enterprise security:** SOC‑2, ISO‑27001 compliant, on‑prem & hybrid.
+- **Proven traction:** Backed by Nvidia, Google, and Fortune 500s.
 
-### What You Get When You Join the Waitlist
-- **Early‑access demo** of Recursive’s core engine.
-- **Exclusive briefing** on how the $650M round will accelerate product road‑map.
-- **Priority support** from the founding AI team.
+**Ready to accelerate your AI roadmap?**  
 
----
+[Get Early Access →](/signup?ref=landing_recursive)
 
-#### Ready to be part of the AI revolution?
+### Why Recursive?
 
-[**Get Early Access Now →**](https://example.com/early-access)
+- **Speed:** Reduce time‑to‑insight from weeks to hours.
+- **Cost:** Cut compute spend by up to 40 %.
+- **Support:** Dedicated AI architects & 24/7 support.
 
----
-
-*Recursive is a UK‑based AI startup transforming how businesses build and deploy intelligent systems. Follow us for updates on the latest breakthroughs.*
+*Trusted by leading brands building the next generation of AI products.*
