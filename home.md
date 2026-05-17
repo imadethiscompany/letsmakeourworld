@@ -1,38 +1,27 @@
-# An Experiment Put LLMs in Charge of Radio Stations. You’ll Never Guess How It Works
+# YouTube Automation Agency
 
-## Unlock the Future of Audio Broadcasting
+## Scale Your Channel Without Lifting a Finger
 
-Imagine a 24/7 radio station that writes, curates, and plays content entirely powered by large language models. No human DJs, no scheduling headaches—just endless, hyper‑personalized streams that keep listeners hooked.
+**Turn your YouTube dreams into a revenue machine** with our end‑to‑end automation service. We handle content creation, video editing, SEO, thumbnail design, posting, and community management so you can focus on strategy and growth.
 
-### Why This Matters
-- **Instant Content Generation** – LLMs craft scripts, jingles, and ad reads on the fly.
-- **Dynamic Audience Targeting** – Real‑time data drives playlists that match listener moods.
-- **Zero Operational Overhead** – No staffing, no shifts, no burnout.
+### Why Choose Us?
+- **Full‑stack automation** – from script generation (AI‑powered) to video rendering and upload.
+- **SEO‑optimized titles, tags & descriptions** that rank on the first page.
+- **Data‑driven thumbnail & hook creation** that boosts CTR by up to 45%.
+- **Community engagement bots** that reply to comments and grow subscriber loyalty.
+- **Transparent pricing** – pay per channel, no hidden fees.
 
----
+### Packages
+| Package | Videos/month | Price |
+|---|---|---|
+| **Starter** | 4 | $499 |
+| **Growth** | 12 | $1,299 |
+| **Enterprise** | Unlimited | Custom |
 
-## What You’ll Get
-1. **Live Demo Access** – Experience the AI‑run station for 48 hours.
-2. **Behind‑the‑Scenes Playbook** – Architecture, prompts, and integration guide.
-3. **Exclusive Community Invite** – Join other innovators experimenting with AI radio.
+### Ready to Automate?
+**Book a free strategy call** and get a custom growth plan.
 
----
-
-### Ready to Hear the Future?
-
-[**Get Instant Access →**](#)  
-*Limited seats – the AI airwaves are filling fast.*
-
----
-
-#### FAQ
-- **Do I need technical experience?**
-  No. We provide a turnkey web‑app you can launch with one click.
-- **Is this a paid product?**
-  The first 48‑hour demo is free; after that a subscription starts at $49/mo.
-- **Can I customize the content?**
-  Absolutely – swap prompts, upload your own music library, or integrate your brand voice.
+[**Schedule Your Call →**](https://calendly.com/yt-automation/strategy-call)
 
 ---
-
-*Join the experiment and be the first to own a radio station run by AI.*
+*We’ve helped over 200 creators generate $1M+ in revenue within 6 months. Join them today!*
