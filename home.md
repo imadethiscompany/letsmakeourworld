@@ -1,46 +1,29 @@
 # Vivago Video Agent
 
-## Transform Your Video Production with AI-Powered Automation
+## Unlock AI-Powered Video Production for Your Business
 
-**Create professional videos in minutes** – no editors, no studios, just results.
+**Create professional videos in minutes** with our all‑in‑one AI video assistant. No editors, no studios – just instant, high‑quality video content that drives leads and sales.
 
 ### Why Choose Vivago?
-- **AI Script + Voice**: Generate scripts and lifelike voiceovers instantly.
-- **Dynamic Motion Graphics**: Remotion‑powered kinetic typography, 3D cards, particle effects.
-- **One‑Click Rendering**: Export ready‑to‑publish MP4 at broadcast quality.
-- **Brand Consistency**: Automatic watermarks, color grading, and captions.
+- **AI Script & Voice** – Generate scripts and lifelike voice‑overs automatically.
+- **Dynamic Motion Graphics** – Stunning Remotion & HyperFrames visuals.
+- **Fast Turnaround** – Publish videos in under 30 seconds.
+- **Scalable** – From single‑product demos to 100+ videos per month.
 
-### Plans Tailored for Every Business
-| Plan | Monthly | Features |
-|------|---------|----------|
-| **Starter** | $49 | 5 videos, basic graphics, standard voice |
-| **Growth** | $149 | 20 videos, premium graphics, custom voice profiles |
-| **Enterprise** | $499 | Unlimited videos, dedicated account manager, API access |
+### Pricing Packages
+| Plan | Videos / month | Features | Price |
+|------|----------------|----------|------|
+| **Starter** | 5 | AI script, voice, basic graphics | **$49/mo** |
+| **Growth** | 20 | Advanced graphics, brand kit, priority support | **$149/mo** |
+| **Enterprise** | Unlimited | Dedicated account manager, custom integrations | **$499/mo** |
 
-**No contracts. Cancel anytime.**
+### Trusted by Brands
+> "Vivago cut our video production costs by 80% and doubled engagement."
+> – **Marketing Director, TechCo**
 
----
-
-### Ready to Supercharge Your Content?
-
-[**Start Free Trial**](https://vivago.com/checkout) – No credit card required.
-
----
-
-#### Trusted by
-- **Digital Agencies**
-- **E‑commerce Brands**
-- **Online Educators**
-
-> *"Vivago cut our video production time from weeks to hours."* – Happy Customer
+### Ready to Transform Your Content?
+[**Start Your Free Trial →**](https://vivago.com/checkout?plan=starter)
 
 ---
 
-**FAQ**
-1. *How fast can I get a video?* – Usually under 10 minutes.
-2. *Do I need any software?* – All cloud‑based, just a browser.
-3. *Can I use my own assets?* – Yes, upload images, logos, and footage.
-
----
-
-**Contact us**: support@vivago.com | +1 (800) 555‑0199
+*No contracts. Cancel anytime. 24/7 support.*
