@@ -1,39 +1,54 @@
-# Content Marketing Service
+# Pricing Optimization Consulting – Maximize Revenue, Minimize Waste
 
-## Unlock Your Brand's Growth with Expert Content Marketing
+## Transform Your Pricing Strategy into a Growth Engine
 
-**Struggling to attract qualified leads?** Our end‑to‑end Content Marketing Service turns your target audience into loyal customers.
+**Headline:** *Boost profits by up to 30% without changing your product.*
 
-### Why Choose Our Service?
-- **Data‑Driven Strategy** – We research your market, keywords, and buyer intent to craft a plan that ranks.
-- **Full‑Funnel Execution** – From blog posts, SEO landing pages, and lead magnets to distribution on social & email.
-- **Conversion‑Focused Copy** – Persuasive, brand‑aligned copy that moves prospects through the funnel.
-- **Performance Reporting** – Monthly dashboards showing traffic, leads, and ROI.
-
-### What You Get
-| Deliverable | Frequency |
-|-------------|-----------|
-| SEO Keyword Research | One‑time + Quarterly Refresh |
-| Blog Posts (800‑1200 words) | 2 per week |
-| Pillar Page + 5 Spokes | One‑time |
-| Content Distribution (LinkedIn, Twitter, Email) | Weekly |
-| Performance Dashboard | Monthly |
-
-### Our Process
-1. **Discovery & Audit** – Deep dive into your brand, audience, and current content.
-2. **Strategy Blueprint** – Keyword map, content calendar, and funnel plan.
-3. **Creation & Optimization** – SEO‑optimized, high‑conversion copy.
-4. **Amplification** – Smart promotion to drive traffic & leads.
-5. **Measure & Iterate** – Data‑backed tweaks for continuous growth.
-
-### Pricing
-- **Starter** – $1,500/month (4 blog posts, basic SEO)
-- **Growth** – $3,000/month (8 blog posts, pillar page, distribution)
-- **Enterprise** – Custom (dedicated strategist, unlimited content)
-
-> **Ready to dominate search and skyrocket leads?**
-
-[Get a Free Content Audit →](/contact?service=content-marketing)
+**Sub‑headline:** Our data‑driven pricing optimization consulting uncovers hidden revenue, aligns prices with market demand, and eliminates costly guesswork.
 
 ---
-*Boost your visibility, authority, and revenue with content that converts.*
+
+### Why Companies Choose Us
+| Challenge | Our Solution | Real Impact |
+|---|---|---|
+| Prices stuck in legacy spreadsheets | AI‑powered price elasticity modeling | **+22% average margin increase** |
+| Frequent price wars & discount fatigue | Competitive price monitoring & dynamic rules | **30% fewer discount incidents** |
+| No clear ROI on pricing changes | A/B test design & statistical validation | **$250k incremental profit** |
+
+---
+
+### Our Proven 4‑Step Process
+1. **Data Audit** – Pull sales, cost, and market data into a unified view.
+2. **Elasticity Modeling** – Quantify how price changes affect demand using machine‑learning.
+3. **Strategy Design** – Build tiered, segment‑specific pricing rules.
+4. **Implementation & Monitoring** – Deploy changes, track KPIs, and iterate weekly.
+
+---
+
+### Benefits You’ll See
+- **Higher Margins:** Optimize each SKU for maximum contribution.
+- **Revenue Growth:** Capture willingness‑to‑pay you’re leaving on the table.
+- **Customer Loyalty:** Transparent, value‑based pricing reduces churn.
+- **Speed & Agility:** Real‑time dashboards let you react to market shifts instantly.
+
+---
+
+### Frequently Asked Questions
+**Q: Do I need a data science team?**
+A: No. We handle the heavy‑lifting and deliver an actionable pricing playbook you can execute.
+
+**Q: How long does the engagement take?**
+A: Typical projects run 6‑8 weeks from kickoff to live pricing changes.
+
+**Q: What’s the risk?**
+A: We start with a pilot on a single product line – no‑risk, measurable results before scaling.
+
+---
+
+### Ready to Unlock Hidden Profit?
+
+**[Schedule a Free 30‑Minute Consultation]** – Let’s audit your current pricing and show you the upside.
+
+---
+
+*Keywords: pricing optimization, pricing consulting, revenue growth, margin improvement, price elasticity analysis*
