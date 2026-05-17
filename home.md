@@ -1,41 +1,38 @@
 # Agentmemory
 
-## Unlock Unlimited AI Agent Memory
+## Unlock Persistent, Context‑Aware AI Agents
 
-**Never lose context again.**
+**Never lose the thread again.** Agentmemory gives your AI agents a reliable, searchable memory that grows with every interaction, so they can recall past conversations, learn from user behavior, and deliver truly personalized experiences.
 
-**What is Agentmemory?**
-A lightweight, persistent memory layer that lets AI agents store, retrieve, and reason over data across sessions. Perfect for autonomous assistants, autonomous research bots, and any workflow that needs continuity.
+### Why Agentmemory?
+- **Instant recall** – Retrieve relevant context in milliseconds, no re‑prompting.
+- **Scalable storage** – From a single user to millions, our vector‑based store grows with you.
+- **Privacy‑first** – End‑to‑end encryption; you own the data.
+- **Seamless integration** – One‑line SDK for LangChain, OpenAI, Anthropic, and more.
 
----
-### Why Choose Agentmemory?
-- **Instant Retrieval:** Query your agent’s memory in milliseconds.
-- **Scalable Storage:** From a few KB to terabytes – grows with your data.
-- **Zero Setup:** Plug‑and‑play API, no infra management.
-- **Privacy‑First:** End‑to‑end encryption, data never leaves your VPC.
-- **Cost‑Effective:** Pay‑as‑you‑go pricing, starts at $0.00 for the first 10k records.
-
----
 ### How It Works
-1. **Add** – Send a JSON payload to `/add` with a unique key.
-2. **Query** – Use natural‑language prompts at `/query`.
-3. **Update** – Modify entries instantly with `/update`.
-4. **Expire** – Set TTLs for auto‑cleanup.
+1. **Capture** – Every interaction is automatically indexed.
+2. **Query** – Use natural‑language prompts to fetch the most relevant memories.
+3. **Learn** – Combine retrieved context with new inputs to improve responses over time.
+
+### Benefits
+- **Boost productivity** – Agents finish tasks 2‑3× faster.
+- **Increase user satisfaction** – 40% higher engagement when agents remember past preferences.
+- **Reduce token costs** – Re‑use stored context instead of re‑sending full histories.
 
 ---
-### Real‑World Impact
-| Use Case | Result |
-|----------|--------|
-| Customer Support Bot | Reduce repeat queries by **73%** |
-| Research Assistant | Cut data‑gathering time from **2 hrs → 5 min** |
-| Personal AI Concierge | Remember preferences across **30 days** |
+
+#### Ready to give your AI agents a memory?
+
+[**Start Free Trial**](https://buy.stripe.com/test_fZu9ALfCb4sIazh5UKc7D08) – No credit card required.
 
 ---
-### Trusted by Leading Teams
-![Logos of tech companies](/assets/logos.png)
+
+**FAQ**
+- **Is my data safe?** Yes, all data is encrypted at rest and in transit.
+- **Can I self‑host?** We offer a private‑cloud option for enterprise.
+- **What languages are supported?** JavaScript, Python, Go, and more.
 
 ---
-#### Ready to supercharge your agents?
-[**Start Free Trial**](https://agentmemory.com/signup) – No credit card required.
 
-*Have questions?* [Contact us](/contact) – we’ll reply within 24 hours.
+*Power your AI with memory. Power your business.*
