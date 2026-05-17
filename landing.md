@@ -1,26 +1,27 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel to 10x Growth Without Lifting a Finger
+## Scale Your Channel Without Lifting a Finger
 
-🚀 **Turn Views into Revenue** – We handle video creation, SEO, thumbnail design, and publishing. You focus on your business.
+**Turn your brand into a profit‑generating YouTube machine** – we handle video creation, editing, SEO, thumbnail design, and daily upload schedules while you focus on your business.
 
 ### Why Choose Us?
-- **Fully Automated Production**: AI‑generated scripts, voice‑overs, and motion graphics.
-- **SEO‑Optimized Uploads**: Keyword‑rich titles, descriptions, and tags that rank.
-- **Data‑Driven Growth**: Weekly analytics dashboard showing subscriber and revenue lift.
-- **Zero Hiring Overhead**: No editors, writers, or designers needed.
+- **Full‑stack automation**: Script writing, AI voice‑over, motion graphics, and publishing.
+- **Data‑driven growth**: Keyword research, SEO‑optimized titles & descriptions, thumbnail A/B testing.
+- **Zero hiring**: No in‑house editors, copywriters, or designers – we deliver ready‑to‑publish videos every week.
+- **Proven ROI**: Clients see 3‑5× subscriber growth and 2‑4× revenue lift within 90 days.
 
-### Packages
-| Package | Monthly Videos | Price |
+### Our Packages
+| Package | Videos/Month | Price |
 |---|---|---|
-| **Starter** | 4 videos | $499 |
-| **Growth** | 12 videos | $1,299 |
-| **Enterprise** | Unlimited + Dedicated Manager | $3,999 |
+| **Starter** | 4 | $2,500 |
+| **Growth** | 8 | $4,500 |
+| **Scale** | 12+ | Custom |
 
-> **Ready to dominate YouTube?**
+> **Limited slots – only 5 new clients per month!**
 
-[**Get Started Now**](https://example.com/checkout)  
-*No credit card required for the first consultation.*
+### Ready to automate your YouTube success?
+
+[**Book a Free Strategy Call**](https://calendly.com/youragency/strategy) – or click **Buy Now** to start instantly.
 
 ---
-*We’ve helped SaaS founders, coaches, and e‑commerce brands generate over $2M in sales through YouTube automation.*
+*All packages include full rights to the videos, analytics dashboard, and ongoing optimization.*
