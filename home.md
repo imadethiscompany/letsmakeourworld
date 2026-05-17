@@ -1,33 +1,41 @@
+# Agentmemory
 
-# Vivago Video Agent
+## Unlock Unlimited AI Agent Memory
 
-## Create Professional Videos in Minutes with AI
+**Never lose context again.**
 
-**Turn ideas into stunning videos instantly** – no editors, no studios, no hassle.
-
-### Why Vivago?
-- **AI‑Powered Script & Voice** – Generates a full script, selects the perfect voice (Vikash’s natural tone) and adds background music.
-- **One‑Click Motion Graphics** – Remotion‑driven kinetic typography, 3D cards, particle effects, and glitch‑style intros.
-- **Fast Render** – Get a 1080p MP4 in under 2 minutes.
-- **Full Branding** – Auto‑add your logo, colors, and captions.
-
-### How It Works
-1. **Enter your topic** – e.g. “AI Agents Taking Over Development Jobs”.
-2. **Select a niche** – Tech, Finance, Mystery, Crypto, Health.
-3. **Press Generate** – Our engine writes the script, records voice, builds visuals, and renders.
-4. **Download & Share** – Ready for YouTube, TikTok, Instagram.
-
-### Pricing
-- **$49 / month** – Unlimited video generation, priority rendering, premium voice library.
-- **Free trial** – Create your first video for free, no credit card required.
-
-[Start Your Free Trial]({"url": "https://buy.stripe.com/test_dRmaEPfCb9N236Pbf4c7D00", "label": "Buy Now"})
-
-### Trusted by Creators
-> “Vivago cut my production time from hours to minutes.” – *Tech YouTuber*.
+**What is Agentmemory?**
+A lightweight, persistent memory layer that lets AI agents store, retrieve, and reason over data across sessions. Perfect for autonomous assistants, autonomous research bots, and any workflow that needs continuity.
 
 ---
+### Why Choose Agentmemory?
+- **Instant Retrieval:** Query your agent’s memory in milliseconds.
+- **Scalable Storage:** From a few KB to terabytes – grows with your data.
+- **Zero Setup:** Plug‑and‑play API, no infra management.
+- **Privacy‑First:** End‑to‑end encryption, data never leaves your VPC.
+- **Cost‑Effective:** Pay‑as‑you‑go pricing, starts at $0.00 for the first 10k records.
 
-**Ready to supercharge your video content?**
+---
+### How It Works
+1. **Add** – Send a JSON payload to `/add` with a unique key.
+2. **Query** – Use natural‑language prompts at `/query`.
+3. **Update** – Modify entries instantly with `/update`.
+4. **Expire** – Set TTLs for auto‑cleanup.
 
-[Get Started Now]({"url": "https://buy.stripe.com/test_dRmaEPfCb9N236Pbf4c7D00", "label": "Buy Now"})
+---
+### Real‑World Impact
+| Use Case | Result |
+|----------|--------|
+| Customer Support Bot | Reduce repeat queries by **73%** |
+| Research Assistant | Cut data‑gathering time from **2 hrs → 5 min** |
+| Personal AI Concierge | Remember preferences across **30 days** |
+
+---
+### Trusted by Leading Teams
+![Logos of tech companies](/assets/logos.png)
+
+---
+#### Ready to supercharge your agents?
+[**Start Free Trial**](https://agentmemory.com/signup) – No credit card required.
+
+*Have questions?* [Contact us](/contact) – we’ll reply within 24 hours.
