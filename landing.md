@@ -1,13 +1,9 @@
-# Raybeam
+# Raybeam Landing Test
 
-## Transform Your Workflow with AI Automation
-
-- **Save hours** with smart task automation
-- **Gain insights** from real‑time data analytics
-- **Integrate instantly** with Slack, Google Workspace, and more
-
-### Limited Offer: 30‑Day Free Trial
-
-Ready to boost efficiency? **Join now** and experience the future of work.
-
-[Start My Free Trial](/signup)
+<script>
+(function(){
+  var variants = ["raybeam-landing-a", "raybeam-landing-b"];
+  var idx = Math.floor(Math.random()*variants.length);
+  window.location.href = '/' + variants[idx];
+})();
+</script>
