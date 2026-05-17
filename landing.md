@@ -1,23 +1,35 @@
-# More tarot readers are turning to AI for advice, another sign of our growing relevance
+# YouTube Automation Agency
 
-## Unlock the Future of Tarot Reading
+## Scale Your Business with Hands‑Free YouTube Growth
 
-Are you a tarot reader looking to supercharge your practice? **AI-powered insights** can help you deliver faster, more accurate readings and attract a modern clientele.
+**Stop wasting time creating videos. Let our AI‑powered automation do the heavy lifting.**
 
-### Why Combine Tarot with AI?
-- **Speed:** Generate detailed card interpretations in seconds.
-- **Depth:** Access vast archives of symbolism and historical meanings.
-- **Personalization:** Tailor readings to each client’s unique situation.
+- **Fully automated video production** – script, voice‑over, editing, thumbnail, and upload.
+- **Channel management** – keyword research, SEO‑optimized titles, tags, and descriptions.
+- **Monetization ready** – AdSense setup, sponsorship pipelines, and product promotion.
+- **Performance dashboard** – real‑time analytics on views, subscriber growth, and ROI.
 
-### What You’ll Get
-- **AI Prompt Library** – Ready-to-use prompts for every tarot spread.
-- **Integration Guide** – Step‑by‑step setup with popular AI tools (ChatGPT, Claude, Gemini).
-- **Client Growth Blueprint** – Proven marketing tactics to attract tech‑savvy seekers.
+### Who Is This For?
+Small‑to‑medium business owners, coaches, and SaaS founders who want YouTube as a lead‑gen engine **without hiring a video team**.
 
-> *"My sessions are now 3× faster, and clients love the modern twist!"* – **Luna, Professional Tarot Reader**
+### Packages
+| Package | Monthly Video Count | Price |
+|---|---|---|
+| **Starter** | 4 videos | $499 |
+| **Growth** | 12 videos | $1,299 |
+| **Scale** | 30 videos | $2,799 |
 
-### Ready to Elevate Your Practice?
-[**Start Your AI‑Enhanced Tarot Journey →**](https://example.com/checkout?product=tarot-ai)
+### Why Choose Us?
+- **AI‑driven quality** – cinematic visuals, natural‑voice narration.
+- **Zero hassle** – we handle everything from concept to publishing.
+- **Proven results** – average 3× subscriber growth in 60 days.
 
 ---
-*Limited time offer: Get 20% off the AI Toolkit for tarot readers. Use code **TAROTAI20** at checkout.*
+
+Ready to dominate YouTube?
+
+[**Book a Free Strategy Call**](https://calendly.com/youragency/strategy)   | [**Buy a Package Now**](#)
+
+---
+
+*Your success on YouTube starts with automation. Let’s make it happen.*
