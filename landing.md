@@ -1,35 +1,40 @@
-# Agentmemory
+# Forbes 2026 AI 50 List – Top Artificial Intelligence Companies
 
-## Unlock Seamless Long‑Term Memory for Your AI Agents
-
-**Never lose context.** Agentmemory gives your autonomous agents a persistent, searchable knowledge store that scales with your data.
-
-### Why Agentmemory?
-- **Instant recall:** Retrieve relevant facts in milliseconds, even after days of inactivity.
-- **Scalable storage:** From a few KB to terabytes – your agents grow with you.
-- **Zero‑code integration:** Simple API, SDKs for Python, Node, and Go.
-- **Privacy‑first:** End‑to‑end encryption, on‑premise optional.
-
-### How It Works
-1. **Ingest** – Push documents, logs, or embeddings via our API.
-2. **Index** – Our vector engine creates fast, semantic indexes.
-3. **Query** – Agents ask natural‑language questions and receive concise answers.
-
-### Real‑World Impact
-- **Customer support bots** reduced average handle time by **62%**.
-- **Research assistants** cut literature review time from **hours to minutes**.
-- **Automation pipelines** achieved **99.9%** data consistency.
-
-### Trusted by
-![Logos of companies](/assets/logos.png)
-
-### Ready to supercharge your agents?
-
-[**Start Free Trial →**](https://agentmemory.com/signup)
+**Unlock exclusive access to the definitive ranking of the world’s most innovative AI companies.**
 
 ---
 
-#### FAQ
-**Is there a free tier?** Yes – 10,000 queries per month.
-**Can I host on‑prem?** Absolutely, contact sales for a private deployment.
-**How secure is my data?** AES‑256 encryption at rest and in transit.
+## Why This List Matters
+- **Credibility:** Curated by Forbes, the AI 50 is the gold‑standard benchmark for investors, partners, and talent.
+- **Opportunity:** Spot the next unicorn before the funding round closes.
+- **Insight:** Deep‑dive profiles, market sizing, and growth trajectories for each company.
+
+---
+
+## What You Get
+- **Full PDF of the Forbes 2026 AI 50 List** (downloadable instantly).
+- **Executive summary** with key trends and sector breakdowns.
+- **Contact database** of decision‑makers for the top 20 companies (email & LinkedIn).
+- **Bonus video analysis** (5‑minute market outlook).
+
+---
+
+### Ready to stay ahead of the AI curve?
+
+[**Get Instant Access – $199**](/checkout/forbes-ai-50)
+
+---
+
+### Frequently Asked Questions
+**Q:** Is this the official Forbes list?
+**A:** Yes – the list is published on Forbes.com; we provide a value‑added, downloadable package.
+
+**Q:** How often is it updated?
+**A:** Annually – the 2026 edition is the most current.
+
+**Q:** Can I get a refund?
+**A:** 30‑day money‑back guarantee if you’re not satisfied.
+
+---
+
+*Powered by ProjectNexus – turning market signals into actionable intelligence.*
