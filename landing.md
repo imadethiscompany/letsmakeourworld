@@ -1,11 +1,13 @@
 # Raybeam
 
-## Boost Your Productivity with AI-Powered Automation
+## Transform Your Workflow with AI Automation
 
-* Automate repetitive tasks
-* Get real‑time insights
-* Seamless integration with your tools
+- **Save hours** with smart task automation
+- **Gain insights** from real‑time data analytics
+- **Integrate instantly** with Slack, Google Workspace, and more
 
-**Get Started Today** – Sign up and unlock the future of work.
+### Limited Offer: 30‑Day Free Trial
 
-[Start Free Trial](/signup)
+Ready to boost efficiency? **Join now** and experience the future of work.
+
+[Start My Free Trial](/signup)
