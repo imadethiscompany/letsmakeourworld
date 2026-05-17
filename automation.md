@@ -1,24 +1,32 @@
-# Cal.com DIY Minimal Automation
+# Minimal Automation Artifact
 
-This page provides a minimal automation artifact for the **Cal.com DIY Toolkit**.
-
-## Simple Python script to send payment link via email
 ```python
+# book_ai_breakdown.py
+"""Minimal automation to send a payment link email for the AI book breakdown product."""
+import os
 import smtplib
-from email.mime.text import MIMEText
+from email.message import EmailMessage
 
-PAYMENT_LINK = "https://buy.stripe.com/test_9B6dR13TtaR64aT82Sc7D0h"
-RECIPIENT = "lead@example.com"
+# Configuration (replace with real values or environment vars)
+SMTP_SERVER = os.getenv('SMTP_SERVER', 'smtp.example.com')
+SMTP_PORT = int(os.getenv('SMTP_PORT', 587))
+SMTP_USER = os.getenv('SMTP_USER', 'user@example.com')
+SMTP_PASS = os.getenv('SMTP_PASS', 'password')
+FROM_EMAIL = os.getenv('FROM_EMAIL', 'sales@example.com')
+PAYMENT_LINK = os.getenv('PAYMENT_LINK', 'https://buy.stripe.com/example')
 
-msg = MIMEText(f"Hi,\n\nCheck out our Cal.com DIY Toolkit here: {PAYMENT_LINK}\n\nBest regards")
-msg["Subject"] = "Cal.com DIY Toolkit – Payment Link"
-msg["From"] = "sales@yourcompany.com"
-msg["To"] = RECIPIENT
+def send_payment_email(to_email, buyer_name):
+    msg = EmailMessage()
+    msg['Subject'] = 'Your Access to "Tried to Write a Book with AI for a Year"'
+    msg['From'] = FROM_EMAIL
+    msg['To'] = to_email
+    msg.set_content(f"Hi {buyer_name},\n\nThank you for your interest! You can complete the purchase here: {PAYMENT_LINK}\n\nBest,\nThe Team")
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+        server.starttls()
+        server.login(SMTP_USER, SMTP_PASS)
+        server.send_message(msg)
 
-with smtplib.SMTP("smtp.example.com", 587) as server:
-    server.starttls()
-    server.login("sales@yourcompany.com", "password")
-    server.send_message(msg)
+if __name__ == '__main__':
+    # Example usage
+    send_payment_email('customer@example.com', 'Customer')
 ```
-
-You can adapt this script to your email provider and run it as part of your outreach automation.
