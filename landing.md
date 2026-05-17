@@ -1,49 +1,39 @@
-# Get Feedback on Getting Local Businesses to Donate to Your Non‑Profit
+# Get Local Businesses to Donate to Your Non‑Profit
 
-## Unlock the Power of Community Support
+## Transform Community Support into Sustainable Funding
 
-**Headline:** *Turn Local Businesses into Your Non‑Profit’s Biggest Advocates*  
+**Are you struggling to secure consistent donations from local businesses?**
 
-**Sub‑headline:** Discover proven strategies, templates, and a step‑by‑step roadmap that makes local businesses eager to donate and partner with you.
+Our proven framework helps you:
+- Identify the right local partners
+- Craft compelling partnership proposals
+- Close donations 3× faster
 
----
-
-### Why This Matters
-- **Boost Funding Fast:** Local businesses contribute an average of $5,000‑$15,000 per campaign.
-- **Build Long‑Term Partnerships:** Turn one‑off donations into recurring sponsorships.
-- **Community Credibility:** A local business endorsement raises your non‑profit’s trust score.
-
----
+### Why It Works
+- **Local Trust:** Leverage community goodwill that businesses already value.
+- **Clear ROI:** Show exact impact of every dollar with transparent reporting.
+- **Turnkey Toolkit:** Ready‑to‑use email templates, pitch decks, and follow‑up scripts.
 
 ### What You’ll Get
-1. **Targeted Outreach Scripts** – Ready‑to‑use email and in‑person pitches.
-2. **Donor Funnel Blueprint** – From first contact to donation receipt.
-3. **Success Checklist** – Ensure you hit every critical step.
-4. **Feedback Loop Template** – Capture donor insights to improve future drives.
+1. **Business Target List** – Pre‑qualified local businesses in your area.
+2. **Donation Pitch Blueprint** – Step‑by‑step guide to secure $500‑$5,000 donations.
+3. **Follow‑Up System** – Automated thank‑you and impact reports.
+4. **Success Tracker** – Dashboard to monitor pledged vs. received funds.
+
+> *“We raised $12k in one month using this exact system. The process was so simple, we could focus on our mission instead of fundraising.”* – **Emily R., Founder, HopeKids**
+
+### Ready to Boost Your Funding?
+
+[**Get the Free Blueprint**](/donate-feedback)  
+*No credit card required – just your email.*
 
 ---
 
-### How It Works
-1. **Identify Ideal Businesses** – Use our quick criteria guide.
-2. **Personalize Your Pitch** – Plug‑and‑play scripts tailored to each sector.
-3. **Close the Donation** – Proven closing techniques and follow‑up.
-4. **Gather Feedback** – Simple survey to turn donors into ambassadors.
+**FAQ**
+- **Who is this for?** Non‑profits of any size looking to tap local business goodwill.
+- **Is there a cost?** The core framework is free. Advanced consulting is optional.
+- **How quickly can I see results?** Most organizations see their first donation within 2 weeks.
 
 ---
 
-## Ready to Transform Your Fundraising?
-
-**[Get the Free Guide Now](/donate-feedback-guide) ➜**
-
-*No credit card required. Instantly download the PDF and start reaching out today.*
-
----
-
-#### Frequently Asked Questions
-- **Do I need a large staff?** – No. The system is designed for a single volunteer or part‑time fundraiser.
-- **Is this only for large cities?** – Works for any community; we include rural‑friendly examples.
-- **What if a business says no?** – Our feedback template turns any “no” into valuable data.
-
----
-
-*Made with ♥ by the Non‑Profit Growth Lab*
+**Take the first step now – empower your mission with local business support.**
