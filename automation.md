@@ -1,27 +1,21 @@
-# OpenHuman Minimal Automation Script
+# Automation Artifact: AI Debt Woes Script
 
-This script demonstrates a minimal automation artifact for the **OpenHuman** product. It publishes the product to Stripe, creates a landing page, and validates the Vercel deployment.
+```python
+import requests
+from bs4 import BeautifulSoup
 
-```bash
-#!/usr/bin/env bash
-# Publish the OpenHuman product (replace values as needed)
-# Note: This uses internal tooling via API calls; adjust for your environment.
+def fetch_article(url):
+    resp = requests.get(url, timeout=10)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    title = soup.find('title').get_text(strip=True)
+    # Simple summary: first 3 paragraphs
+    paragraphs = soup.find_all('p')
+    summary = '\n\n'.join(p.get_text(strip=True) for p in paragraphs[:3])
+    return title, summary
 
-# Publish product
-curl -X POST https://api.internal/publish_product \
-  -H "Content-Type: application/json" \
-  -d '{
-    "name": "OpenHuman",
-    "description": "AI-powered personal assistant",
-    "price_cents": 4900,
-    "category": "automation",
-    "features": ["ChatGPT integration","Personalized responses"]
-  }'
-
-# Deploy landing page (already handled by platform)
-# Check deployment status
-curl -X GET https://api.vercel.com/v12/now/deployments?teamId=YOUR_TEAM_ID \
-  -H "Authorization: Bearer $VERCEL_TOKEN"
+if __name__ == "__main__":
+    url = "https://www.japantimes.co.jp/news/2024/05/15/business/economy/ai-debt-wealthy-nations/"
+    title, summary = fetch_article(url)
+    print(f"Title: {title}\n\nSummary:\n{summary}")
 ```
-
-Save this script as `openhuman_automation.sh`, make it executable (`chmod +x openhuman_automation.sh`), and run it to automate the product launch.
