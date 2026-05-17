@@ -2,28 +2,26 @@
 
 ## Unlock AI-Powered Video Production for Your Business
 
-**Create professional videos in minutes** with our all‑in‑one AI video assistant. No editors, no studios – just instant, high‑quality video content that drives leads and sales.
+**Create professional videos in minutes** – from script to final edit – using AI voice cloning, motion graphics, and automated post‑production.
 
 ### Why Choose Vivago?
-- **AI Script & Voice** – Generate scripts and lifelike voice‑overs automatically.
-- **Dynamic Motion Graphics** – Stunning Remotion & HyperFrames visuals.
-- **Fast Turnaround** – Publish videos in under 30 seconds.
-- **Scalable** – From single‑product demos to 100+ videos per month.
+- **Instant Scripts**: AI‑generated, SEO‑optimized scripts tailored to your niche.
+- **AI Voice‑over**: Mine.voicebox clones your brand voice, no recording needed.
+- **Dynamic Motion Graphics**: Remotion kinetic typography, 3D cards, particle effects.
+- **One‑Click Export**: MP4 ready for YouTube, TikTok, LinkedIn.
+- **Scalable Pricing**: Pay per video or subscribe for unlimited production.
 
-### Pricing Packages
-| Plan | Videos / month | Features | Price |
-|------|----------------|----------|------|
-| **Starter** | 5 | AI script, voice, basic graphics | **$49/mo** |
-| **Growth** | 20 | Advanced graphics, brand kit, priority support | **$149/mo** |
-| **Enterprise** | Unlimited | Dedicated account manager, custom integrations | **$499/mo** |
+### Packages
+| Plan | Videos / Month | Price |
+|------|----------------|-------|
+| **Starter** | 5 | $199 |
+| **Growth** | 20 | $699 |
+| **Enterprise** | Unlimited | Custom |
 
-### Trusted by Brands
-> "Vivago cut our video production costs by 80% and doubled engagement."
-> – **Marketing Director, TechCo**
+### Ready to Supercharge Your Content?
+[Get Started →](https://vivago.com/checkout)
 
-### Ready to Transform Your Content?
-[**Start Your Free Trial →**](https://vivago.com/checkout?plan=starter)
+*No contracts. 30‑day money‑back guarantee.*
 
 ---
-
-*No contracts. Cancel anytime. 24/7 support.*
+© 2026 Vivago. All rights reserved.
