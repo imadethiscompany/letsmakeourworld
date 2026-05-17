@@ -1,49 +1,26 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+**Scale Your Business with Hands‑Free YouTube Channels**
 
-**Turn your YouTube dreams into a profit‑generating machine.**
+🚀 **Turnkey YouTube Channels** – We research niches, create viral videos, and upload daily without you lifting a finger.
 
-- **Hands‑free video creation** – AI‑generated scripts, voice‑overs, and motion graphics.
-- **Full‑funnel growth** – SEO‑optimized titles, thumbnails, and descriptions that rank.
-- **Monetization on autopilot** – Ad‑revenue, sponsorship matchmaking, and digital product sales.
-- **Performance dashboard** – Real‑time analytics, ROI tracking, and AI‑driven optimization.
+💰 **Revenue‑Sharing Model** – No upfront cost. We keep 70% of ad revenue until you hit $5k/month, then split 50/50.
+
+📈 **Proven Framework** – Data‑driven content strategy, AI‑generated scripts, voice‑overs, and automated editing.
+
+🛠️ **All‑In‑One Dashboard** – Real‑time analytics, performance reports, and easy scaling to multiple channels.
 
 ### Why Choose Us?
+- **Zero Content Creation Hassle** – AI scripts, voice‑overs, and editing.
+- **Fast ROI** – First profitable channel in 30‑45 days.
+- **Scalable** – Add new niches for $1,000/month each.
+- **Full Ownership** – You own the channel, we manage it.
 
-| ✅ | Feature |
-|---|---|
-| 🎬 | End‑to‑end video production (script → publish) |
-| 📈 | Proven 3‑x subscriber growth in 90 days |
-| 💰 | Revenue‑share model – you only pay when you earn |
-| 🔧 | Dedicated channel manager & AI‑coach |
+### Get Started Today
+1. **Book a Free Consultation** – [Schedule a 15‑min call](/contact)
+2. **We Build Your Channel** – From concept to launch.
+3. **Watch the Revenue Grow** – Transparent reporting.
 
-### Get Started in 3 Simple Steps
-1. **Book a free strategy call** – We audit your niche.
-2. **Choose a plan** – From $499/month to custom enterprise.
-3. **Watch the automation work** – New videos go live every week.
+**Ready to dominate YouTube?**
 
-> **Ready to dominate YouTube?**
->
-> <a href="https://example.com/checkout?product=youtube-automation" target="_blank" style="display:inline-block;background:#ff0000;color:#fff;padding:12px 24px;border-radius:4px;text-decoration:none;font-weight:bold;">Start Your Free Call</a>
-
----
-
-#### Frequently Asked Questions
-**Q:** *Do I need any video editing skills?*  
-**A:** No. Our AI does the heavy lifting; you just approve.
-
-**Q:** *What if my niche is saturated?*  
-**A:** Our data‑driven research finds low‑competition keywords that rank fast.
-
-**Q:** *Can I cancel anytime?*  
-**A:** Yes, with a 30‑day notice.
-
----
-
-#### Trusted By
-![Company Logos](https://via.placeholder.com/600x100?text=Logos+Here)
-
----
-
-*Accelerate your channel growth. Let the bots do the work while you reap the profits.*
+[Start Now – No Credit Card Required](/signup)
