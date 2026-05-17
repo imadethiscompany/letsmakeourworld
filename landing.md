@@ -1,29 +1,25 @@
 # YouTube Automation Agency
 
-## Scale Your Channel to 10x Growth Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn your YouTube channel into a revenue machine** with our end‑to‑end automation service:
-- **Content Ideation & Script Writing** – AI‑generated scripts that rank.
-- **Batch Video Production** – Voice cloning, motion graphics, and editing at scale.
-- **SEO & Thumbnail Optimization** – Proven formulas for higher click‑through and watch time.
-- **Channel Management** – Upload scheduling, community engagement, and analytics.
+**Turn views into revenue** with our end‑to‑end YouTube automation solution. We handle content creation, upload scheduling, SEO optimization, and audience growth – so you can focus on your business.
 
 ### Why Choose Us?
-- **Zero Hiring Costs** – We handle creators, editors, and SEO experts.
-- **Fast Turnaround** – 5‑minute videos ready in 48h.
-- **Revenue Share Model** – Only pay when you earn.
-- **Proven Results** – Clients see 3‑5x subscriber growth in 30 days.
+- **AI‑Generated Scripts & Voiceovers** – Professional videos in minutes.
+- **Automated Upload & Thumbnail Design** – Consistent branding, zero manual work.
+- **SEO‑Boosted Titles & Tags** – Rank higher, get more organic traffic.
+- **Growth Hacking Funnel** – Lead capture, email list building, and sales funnels built into every video.
+- **Performance Dashboard** – Real‑time analytics on views, watch time, and ROI.
 
 ### Packages
-| Package | Monthly Output | Price |
-|---|---|---|
-| **Starter** | 4 videos | $997 |
-| **Growth** | 12 videos | $2,497 |
-| **Enterprise** | Unlimited videos + dedicated manager | Custom |
+| Plan | Monthly | What You Get |
+|------|---------|--------------|
+| **Starter** | **$499** | 5 videos/month, SEO tags, thumbnail design, analytics. |
+| **Growth** | **$1,299** | 15 videos/month, custom scripts, voiceovers, lead capture, priority support. |
+| **Enterprise** | **$3,999** | Unlimited videos, full funnel integration, dedicated manager, A/B testing. |
 
-> **Ready to dominate YouTube?**
-
-[**Start Your Free Audit →**](https://example.com/checkout?product=youtube-automation)
+### Ready to Automate?
+[**Start Your Free Consultation**](https://example.com/consultation) – No credit card required.
 
 ---
-*No credit card required. Get a 30‑minute strategy call today.*
+*Boost your YouTube channel, generate leads, and scale your business on autopilot.*
