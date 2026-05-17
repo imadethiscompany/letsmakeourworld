@@ -1,36 +1,27 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Scale Your Channel Without Lifting a Finger
 
-**Turn content ideas into viral videos automatically.**
-
-- **Zero editing:** AI writes scripts, records voice‑overs, and creates motion‑graphics.
-- **Full channel management:** Upload, SEO‑optimize titles, tags, thumbnails, and schedule posts.
-- **Fast ROI:** Most clients see a **30% subscriber lift in 30 days**.
-
-### How It Works
-1. **Idea Engine** – Feed us your niche, we generate viral topics.
-2. **AI Production** – Script, voice, video, and thumbnail generated in minutes.
-3. **Launch & Grow** – Automatic upload, SEO, and community engagement.
-
-### Packages
-| Plan | Monthly Price | Videos per Month | Key Features |
-|------|---------------|------------------|--------------|
-| **Starter** | $499 | 4 | Script + Voice + Basic Edits |
-| **Growth** | $999 | 8 | Advanced Motion Graphics, SEO, Analytics |
-| **Enterprise** | $1999 | 20+ | Dedicated Manager, Custom Branding, Ads Boost |
+**Turn your YouTube dreams into predictable revenue** with our end‑to‑end automation service. We handle video creation, SEO, publishing, and community management so you can focus on ideas, not grunt work.
 
 ### Why Choose Us?
-- **Proven Results:** 150+ channels > 10M subscribers total.
-- **AI‑Powered:** Cutting‑edge GPT‑4, Runway, and ElevenLabs tech.
-- **Zero Hassle:** We handle everything from concept to publishing.
+- **AI‑Powered Video Production** – Scripts, voice‑overs, motion graphics generated in minutes.
+- **SEO‑Optimized Uploads** – Keyword‑rich titles, tags, and thumbnails that rank.
+- **Full‑Funnel Growth** – Automated email capture, retargeting ads, and sales funnels.
+- **Revenue Guarantees** – 2×‑3× view growth or we work for free until you hit it.
 
-> *"Our subscriber count exploded from 2K to 20K in just two months!"* – **Tech Startup Founder**
+### Packages
+| Plan | Monthly Price | Videos / Month | Avg. Views/Video | Revenue Potential |
+|------|---------------|----------------|------------------|-------------------|
+| **Starter** | $497 | 4 | 10K | $1‑2K |
+| **Growth** | $997 | 8 | 25K | $3‑7K |
+| **Scale** | $1997 | 12+ | 50K+ | $10K+ |
 
-### Ready to Automate Your Growth?
+### Ready to Automate?
 
-[**Start Your Free Audit →**](https://example.com/yt-automation-audit)  
-Or book a 15‑minute call: **Calendly link**
+[**Start Your Free Audit**](/contact) – Fill a quick form and we’ll audit your channel in 24 hrs.
+
+*No contracts. Cancel anytime.*
 
 ---
-**Contact**: hi@ytautomation.io | **Phone**: +1‑555‑123‑4567
+*Trusted by 200+ creators, agencies, and brands.*
