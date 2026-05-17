@@ -1,27 +1,44 @@
-# Vivago Video Agent
+# Fere AI
 
-## Unlock AI-Powered Video Production for Your Business
+## Transform Your Business with AI-Powered Automation
 
-**Create professional videos in minutes** – from script to final edit – using AI voice cloning, motion graphics, and automated post‑production.
+**Headline:** *"Unlock 10x Productivity with AI‑Driven Automation"*
 
-### Why Choose Vivago?
-- **Instant Scripts**: AI‑generated, SEO‑optimized scripts tailored to your niche.
-- **AI Voice‑over**: Mine.voicebox clones your brand voice, no recording needed.
-- **Dynamic Motion Graphics**: Remotion kinetic typography, 3D cards, particle effects.
-- **One‑Click Export**: MP4 ready for YouTube, TikTok, LinkedIn.
-- **Scalable Pricing**: Pay per video or subscribe for unlimited production.
-
-### Packages
-| Plan | Videos / Month | Price |
-|------|----------------|-------|
-| **Starter** | 5 | $199 |
-| **Growth** | 20 | $699 |
-| **Enterprise** | Unlimited | Custom |
-
-### Ready to Supercharge Your Content?
-[Get Started →](https://vivago.com/checkout)
-
-*No contracts. 30‑day money‑back guarantee.*
+**Subheadline:**
+Fere AI instantly automates repetitive tasks, gives you real‑time insights, and scales your operations without hiring more staff.
 
 ---
-© 2026 Vivago. All rights reserved.
+
+### Why Choose Fere AI?
+- **Save Hours Every Week:** Automate data entry, reporting, and customer follow‑ups – reclaim up to 20 hrs/month.
+- **Boost Accuracy:** AI eliminates human error, delivering 99.9% data integrity.
+- **Scale Seamlessly:** Deploy new workflows in minutes, not weeks.
+- **Secure & Compliant:** End‑to‑end encryption, GDPR‑ready.
+
+---
+
+### How It Works
+1. **Connect** your tools (CRM, Sheets, Email, etc.).
+2. **Define** the workflow with our visual builder.
+3. **Activate** and watch AI handle the work 24/7.
+
+---
+
+### Ready to Accelerate?
+
+[**Get Started with a Free 14‑Day Trial**](/signup)
+
+Or **[Book a Demo](/demo)** to see Fere AI in action.
+
+---
+
+#### FAQ
+**Q:** Do I need technical expertise?
+**A:** No. Our drag‑and‑drop interface is built for non‑technical users.
+
+**Q:** How is pricing structured?
+**A:** Simple monthly plans starting at $49/mo. No hidden fees.
+
+---
+
+© 2026 Fere AI – All rights reserved.
