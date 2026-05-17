@@ -1,28 +1,20 @@
-# AI Job Screeners Prefer AI‑Written Resumes Over Human Ones
+# Bitcoin at $78,120 📈
 
-**Researchers Reveal a Surprising Trend:** 73% of AI‑driven hiring systems rank AI‑generated resumes higher than traditional, human‑written ones.
+**Stay ahead of the market.**
 
----
-
-## Why This Matters to You
-- **Beat the Algorithm:** Tailor your resume to the exact language AI screeners love.
-- **Increase Interview Calls:** Candidates using AI‑crafted resumes see a 2‑3× lift in interview invitations.
-- **Future‑Proof Your Career:** As hiring tools become ubiquitous, staying ahead is essential.
+The price of Bitcoin just slipped 1% in the last 24 hours, hovering at **$78,120**. In a market that moves every second, you can’t afford to miss the next breakout.
 
 ---
 
-## What You’ll Get
-- **AI‑Optimized Resume Template** – Proven structure that aligns with top ATS scoring models.
-- **Custom Prompt Library** – 50+ ready‑to‑use prompts to generate compelling bullet points.
-- **Step‑by‑Step Implementation Guide** – From prompt to polished PDF in under 10 minutes.
-- **Live Demo & Case Studies** – Real‑world results from professionals who landed jobs at FAANG, fintech, and startups.
+### Why you need real‑time Bitcoin alerts
+- **Never miss a swing:** Get push notifications the moment price moves ±0.5%.
+- **Actionable insights:** Each alert includes a concise market snapshot and a recommended trade action.
+- **Zero‑risk trial:** 7‑day free access, no credit card required.
 
 ---
 
-### Ready to Outperform the Machines?
+### Ready to lock in the next move?
 
-[**Get Instant Access**](/checkout?product=ai-resume‑masterclass)
+[**Get Instant Bitcoin Alerts →**](https://example.com/checkout?product=btc-alerts)
 
----
-
-*No credit card required for the first 7‑day trial. Cancel anytime.*
+*No commitment. Cancel anytime.*
