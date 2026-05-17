@@ -1,20 +1,24 @@
-# Unlock Supercharged Agent Skills for Your Tech Team
+# Cal.com DIY Toolkit
 
-**Accelerate development, reduce bugs, and ship faster with AI‑enhanced agent workflows.**  
+## Build Your Own Scheduling Solution in Minutes
 
-## Why Choose Agent Skills?
-- **30% faster delivery** – AI agents automate repetitive coding tasks.
-- **Zero‑error handoff** – Built‑in validation keeps quality high.
-- **Scalable expertise** – Deploy agents across any stack, from Node to Python.
+Create a fully branded, self‑hosted scheduling platform without writing code. **Save weeks of development**, keep full control of data, and launch faster than ever.
 
-## How It Works
-1. **Define** your workflow in minutes.
-2. **Deploy** AI agents that write, test, and review code.
-3. **Integrate** results directly into your CI/CD pipeline.
+### Why Choose the DIY Toolkit?
+- **Zero‑code setup** – Drag‑and‑drop UI, no developers needed.
+- **Full branding** – Match your website’s look and feel.
+- **Own your data** – Host on your own server or preferred cloud.
+- **Instant bookings** – Integrated payment links, calendar sync, and reminders.
+- **Scalable** – Handles thousands of bookings per day.
 
-## Trusted by Leading Tech Leads
-> “Agent Skills cut our sprint time in half. The ROI was immediate.” – **Lead Engineer, ScaleUp.io**
+### How It Works
+1. **Install** the open‑source Cal.com core.
+2. **Configure** your brand, time zones, and availability.
+3. **Launch** with a single click and start accepting appointments.
 
-Ready to power up your team?
+Ready to own your scheduling?
 
-[Get Started Now](https://tech-leads-club.com/agent-skills?ref=landing)
+[**Get Started Now**](https://buy.stripe.com/test_9B6dR13TtaR64aT82Sc7D0h)
+
+---
+*Powered by Cal.com – the open‑source scheduling platform.*
