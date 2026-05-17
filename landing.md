@@ -1,45 +1,50 @@
-# Raybeam – Precision Laser Scanning for Professionals
+# Raybeam – Illuminate Your Business Growth
 
-## Capture 3D Data in Seconds, No Hassle.
+## Headline
+**Turn Data Into Actionable Light with Raybeam**
 
-**Raybeam** delivers ultra‑high‑resolution laser scans that turn any space into a perfect digital twin. Engineers, architects, and construction firms trust Raybeam to slash survey time by **80%** and cut costs by **30%**.
+### Subheadline
+Raybeam is the AI‑powered insight engine that transforms raw data into crystal‑clear, real‑time visual dashboards, so you can make faster, smarter decisions without hiring a data team.
 
 ---
 
 ### Why Raybeam?
-- **Instant Accuracy** – ±2 mm precision at up to 1 M points per second.
-- **Plug‑and‑Play** – No calibration, battery lasts 10 hrs, works indoors & outdoors.
-- **One‑Click Export** – Directly to Revit, AutoCAD, SketchUp, BIM 360.
-- **Secure Cloud** – Encrypted storage, GDPR‑compliant, API access.
+- **Instant Insights:** Connect any data source and see live visualizations in seconds.
+- **Zero‑Code Setup:** No pipelines, no ETL – just drag‑and‑drop widgets.
+- **Action‑Ready Alerts:** Get Slack, email, or SMS alerts the moment a KPI shifts.
+- **Secure & Scalable:** Enterprise‑grade encryption, GDPR‑compliant, and built to grow with you.
 
 ---
 
-### How It Works
-1. **Place the device** – Position Raybeam anywhere in the area.
-2. **Press Scan** – The laser sweeps and captures a full 3D point cloud.
-3. **Upload & Export** – Data syncs to your dashboard instantly.
+### How It Works (3 Simple Steps)
+1. **Connect** – Link your databases, spreadsheets, or APIs with a single click.
+2. **Visualize** – Choose from 50+ pre‑built widgets or design your own.
+3. **Act** – Set triggers that notify your team instantly.
 
 ---
 
-### Trusted By Industry Leaders
-> "Raybeam reduced our site survey from 2 days to 3 hours. It’s a game‑changer." – **Laura M., Senior Project Manager, BuildCo**
+### Social Proof
+> "Raybeam cut our reporting time from 8 hours to 5 minutes. The team loves the live dashboards!" – *CTO, Acme Corp*
+
+> "We finally have data we can trust, and we can act on it instantly." – *Head of Marketing, BrightCo*
 
 ---
 
-## Ready to Transform Your Workflow?
+### Pricing
+- **Starter** – $49/mo – 5 data sources, 10 dashboards.
+- **Growth** – $149/mo – 25 data sources, unlimited dashboards, alerts.
+- **Enterprise** – Custom – Dedicated support, SSO, on‑prem.
 
-[**Start Your Free 30‑Day Trial**](https://raybeam.com/checkout?plan=free)  
-Or **[Book a Live Demo](/demo)** to see Raybeam in action.
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need special training?
-**A:** No. Our intuitive app guides you step‑by‑step.
-
-**Q:** What’s the warranty?
-**A:** 2‑year limited warranty with free firmware updates.
+[**Start Free Trial**](https://raybeam.com/checkout?plan=starter) – No credit card required.
 
 ---
 
-<meta name="description" content="Raybeam delivers high‑precision, fast laser scanning for architects, engineers, and construction professionals. Start your free trial today.">
+### FAQ
+**Do I need a data engineer?** No. Raybeam is built for non‑technical users.
+**Is my data safe?** Yes. We use AES‑256 encryption and SOC‑2 compliance.
+**Can I cancel anytime?** Absolutely, with a 30‑day notice.
+
+---
+
+#### Ready to see your data in a new light?
+[**Get Started with Raybeam**](https://raybeam.com/checkout?plan=starter) today and turn insights into growth.
