@@ -1,22 +1,25 @@
-# Recursive: The AI Engine Powering the Future
+# Billion-Dollar AI Rounds Push April to Third-Highest Startup Funding Month Ever
 
-## Valued at $4.65 B after a $650 M round led by Nvidia & Google
+**Headline:** *$1 B+ in AI funding this April – the biggest month for AI startups since the boom of 2023.*
 
-Unlock enterprise‑grade AI infrastructure that scales from research to production. Join the next wave of AI‑enabled businesses.
+**Subheadline:** Discover why investors are pouring record capital into AI, what the hottest deals are, and how your company can tap into this wave.
 
-- **Unmatched performance:** 3× faster model training vs leading cloud providers.
-- **Zero‑ops:** Fully managed pipelines, no DevOps overhead.
-- **Enterprise security:** SOC‑2, ISO‑27001 compliant, on‑prem & hybrid.
-- **Proven traction:** Backed by Nvidia, Google, and Fortune 500s.
+---
 
-**Ready to accelerate your AI roadmap?**  
+### Why This Matters
+- **$1 trillion+** total AI funding in 2023, now accelerating.
+- **10+** new unicorns created in April alone.
+- **Top investors** like Sequoia, Andreessen Horowitz, and SoftBank leading the charge.
 
-[Get Early Access →](/signup?ref=landing_recursive)
+### What You’ll Get
+- A curated list of the **top 5 AI startups** that just raised **$100M+**.
+- **Insider analysis** of the sectors attracting the most capital (Enterprise AI, Generative AI, AI‑driven biotech).
+- **Actionable playbook** to position your startup for the next funding round.
 
-### Why Recursive?
+---
 
-- **Speed:** Reduce time‑to‑insight from weeks to hours.
-- **Cost:** Cut compute spend by up to 40 %.
-- **Support:** Dedicated AI architects & 24/7 support.
+## Get the Full Report Now
 
-*Trusted by leading brands building the next generation of AI products.*
+[Download the AI Funding April Report](/download/ai-funding-april)
+
+*No credit card required. Instant access.*
