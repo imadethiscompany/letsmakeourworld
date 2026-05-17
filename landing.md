@@ -1,50 +1,45 @@
-# Raybeam
+# Raybeam – Precision Laser Scanning for Professionals
 
-## **AI‑Powered Video Ads That Convert 3× Faster**
+## Capture 3D Data in Seconds, No Hassle.
 
-**Turn raw footage into high‑impact, data‑driven ads in seconds – no editors, no agencies.**
+**Raybeam** delivers ultra‑high‑resolution laser scans that turn any space into a perfect digital twin. Engineers, architects, and construction firms trust Raybeam to slash survey time by **80%** and cut costs by **30%**.
 
 ---
 
 ### Why Raybeam?
-- **Instant Turnaround:** Upload your video, pick a style, and get a ready‑to‑run ad in under 30 seconds.
-- **Performance‑First Templates:** Every template is built on proven click‑through and conversion data.
-- **Zero Technical Skill Required:** No editing software, no copywriters – just click **Generate**.
+- **Instant Accuracy** – ±2 mm precision at up to 1 M points per second.
+- **Plug‑and‑Play** – No calibration, battery lasts 10 hrs, works indoors & outdoors.
+- **One‑Click Export** – Directly to Revit, AutoCAD, SketchUp, BIM 360.
+- **Secure Cloud** – Encrypted storage, GDPR‑compliant, API access.
 
 ---
 
 ### How It Works
-1. **Upload** your raw footage (or choose from our stock library).  
-2. **Select** a goal‑focused template – *Lead Gen, E‑Commerce, Brand Awareness*.
-3. **AI Enhances** the video: adds captions, music, dynamic overlays, and a high‑converting script.
-4. **Export** instantly to Facebook, TikTok, YouTube, or download the MP4.
+1. **Place the device** – Position Raybeam anywhere in the area.
+2. **Press Scan** – The laser sweeps and captures a full 3D point cloud.
+3. **Upload & Export** – Data syncs to your dashboard instantly.
 
 ---
 
-### Social Proof
-> "Our ROAS jumped from 1.8× to 4.2× after switching to Raybeam. The whole team loves the speed." – **Marketing Lead, SaaSCo**
+### Trusted By Industry Leaders
+> "Raybeam reduced our site survey from 2 days to 3 hours. It’s a game‑changer." – **Laura M., Senior Project Manager, BuildCo**
 
-> "We saved 20 hours a week on video production. The AI does the heavy lifting." – **Founder, GreenGear**
+---
+
+## Ready to Transform Your Workflow?
+
+[**Start Your Free 30‑Day Trial**](https://raybeam.com/checkout?plan=free)  
+Or **[Book a Live Demo](/demo)** to see Raybeam in action.
 
 ---
 
 ### Frequently Asked Questions
-**Q:** Do I need any video editing experience?  
-**A:** No. Raybeam’s UI is drag‑and‑drop, and the AI writes the copy for you.
+**Q:** Do I need special training?
+**A:** No. Our intuitive app guides you step‑by‑step.
 
-**Q:** What formats are supported?  
-**A:** MP4, MOV, and direct uploads from Google Drive or Dropbox.
-
-**Q:** Is there a free trial?  
-**A:** Yes – 5 free video generations to see the impact yourself.
+**Q:** What’s the warranty?
+**A:** 2‑year limited warranty with free firmware updates.
 
 ---
 
-### Ready to Supercharge Your Ads?
-
-[**Start My Free Trial**](https://raybeam.com/checkout?plan=free)  
-*(No credit card required – generate your first ad now.)*
-
----
-
-**Raybeam** – AI video ads, done in seconds.
+<meta name="description" content="Raybeam delivers high‑precision, fast laser scanning for architects, engineers, and construction professionals. Start your free trial today.">
