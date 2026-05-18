@@ -1,41 +1,50 @@
-# Automatic Construction of a Legal Citation Graph
+# Mask-Morph Graph U-Net
 
-**Unlock the power of 100 million Ukrainian court decisions**
+## The first general‑purpose mesh‑based surrogate for crashworthiness analysis
 
-## Why it matters
-- **Instant discovery** of precedent across decades of case law.
-- **AI‑ready graph** for research, analytics, and legal tech products.
-- **Fully automated** extraction, cleaning, and linking – no manual tagging.
-
-## What you get
-- A **complete citation graph** (nodes = cases, edges = citations) covering over **100 M Ukrainian rulings**.
-- **Daily updates** as new decisions are published.
-- **Export in Neo4j, GraphQL, and CSV** formats.
-- **Documentation & API** to query the graph programmatically.
-
-## Who should use this
-- Legal researchers & scholars
-- Law firms building precedent‑search tools
-- AI startups needing large‑scale legal knowledge graphs
-- Government & NGOs monitoring judicial trends
-
-## Key benefits
-- **Save thousands of hours** of manual citation tracing.
-- **Increase accuracy** – algorithmic linking eliminates human error.
-- **Accelerate product development** – plug‑and‑play API.
-- **Gain competitive edge** with the most comprehensive Ukrainian legal graph.
-
-## How it works
-1. **Crawl** all publicly available court decision PDFs and HTML.
-2. **OCR & NLP** to extract case identifiers and citation references.
-3. **Graph construction** – nodes and directed edges built automatically.
-4. **Quality validation** using cross‑reference checks and human‑in‑the‑loop verification.
-
-## Pricing & Access
-- **Free trial:** Access a 1‑month snapshot of 1 M citations.
-- **Enterprise license:** Custom volume pricing for full graph and API.
+**Accelerate design cycles by up to 10×** while preserving high‑fidelity structural predictions.
 
 ---
 
-### Ready to revolutionize legal research?
-[**Request a Demo**](/demo) | [**Contact Sales**](/contact)
+### Why it matters
+- **Speed without sacrificing accuracy** – Replace expensive finite‑element simulations with a graph‑U‑Net that runs in seconds.
+- **Mesh‑agnostic** – Works on any vehicle geometry, from passenger cars to racing chassis.
+- **Physically‑informed** – Built on mask‑morph operators that respect mesh topology and material laws.
+- **Ready for production** – Open‑source implementation, pre‑trained models, and a simple Python API.
+
+---
+
+### Who should use it
+- **Automotive engineers** looking to explore thousands of design variants.
+- **Research labs** needing a fast surrogate for crash safety studies.
+- **Simulation consultants** who want to offer rapid‑turnaround services.
+
+---
+
+### Get started in 3 minutes
+1. **Sign up** for a free API key.
+2. **Upload** your mesh (OBJ, STL, or ANSYS format).
+3. **Run** `predict_crashworthiness(mesh)` and receive a detailed safety score.
+
+[Get your free API key now →](https://example.com/api-key)
+
+---
+
+### Technical highlights
+- **Mask‑Morph Graph U‑Net** architecture with adaptive edge‑masking.
+- Trained on **100k+ simulated crash events** covering diverse vehicle classes.
+- **Benchmarks:** MAE ↓ 22%, inference time ↓ 90% vs. FEM.
+- **License:** MIT, with commercial support available.
+
+---
+
+### Interested in a deeper dive?
+Download the full paper, watch the 2‑minute explainer video, or schedule a live demo with our team.
+
+- 📄 [Download PDF](/papers/mask-morph-graph-unet.pdf)
+- 🎥 [Watch Video](/videos/mask-morph-overview.mp4)
+- 📅 [Book a Demo](/contact?subject=Demo%20Request)
+
+---
+
+*Powered by Graph Neural Networks • Trusted by leading OEMs*
