@@ -1,21 +1,27 @@
-# We Let AIs Run Radio Stations
+# Who Will Buy Your Services If You Fire Us All?
 
-## Turn Your Station into a 24/7 AI-Powered Broadcast
+## The Bold Question That Drives Real Results
 
-Imagine a radio station that never sleeps, never misses a beat, and always plays the perfect mix for every listener. Our AI engine curates playlists, generates live DJ commentary, and even creates custom ads on the fly — all without human intervention.
+*Imagine a world where your clients are so convinced of your value they’d keep buying even if you vanished.*
 
-### Why Choose AI Radio?
-- **Fully Automated** – No DJs, no schedulers. AI handles everything from music selection to spoken intros.
-- **Personalized Experience** – Real‑time listener data drives dynamic playlists that match moods and trends.
-- **Cost‑Effective** – Cut staffing costs by up to 80% while boosting engagement.
-- **Scalable** – Run one station or a network of dozens with the same infrastructure.
+### Why This Landing Page Works
+- **High‑Intent Hook** – The provocative question grabs attention from CEOs, founders, and agency owners looking to prove their worth.
+- **Clear Value Proposition** – We show how our service guarantees client loyalty through data‑driven outcomes.
+- **Single Primary CTA** – *“Get My Loyalty Blueprint*” – a short form that captures email and schedules a strategy call.
 
-### How It Works
-1. **Upload Your Library** – Feed your existing tracks or let our AI source royalty‑free music.
-2. **Configure Your Brand** – Choose voice style, tone, and ad templates.
-3. **Launch** – AI goes live instantly, broadcasting 24/7.
+---
 
-### Ready to Hear the Future?
-Click the button below to get a free 30‑day trial and see how AI can transform your airwaves.
+#### What You’ll Get
+1. **Client Retention Playbook** – Proven frameworks to keep revenue flowing.
+2. **Revenue Forecast Model** – See how much you’d earn if you *didn’t* fire your team.
+3. **Live Audit Call** – 30‑minute session with our retention experts.
 
-[Start Free Trial](https://example.com/checkout?product=ai-radio)
+---
+
+**Ready to prove your value?**
+
+[Get My Loyalty Blueprint →](/signup)
+
+---
+
+*No credit card required. Just your ambition.*
