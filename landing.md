@@ -1,27 +1,22 @@
-# Show HN: Semble – Code Search for Agents
+# I Went Inside OpenAI's Secretive San Francisco Headquarters – SFGATE
 
-## Find Code Instantly, Use 98% Fewer Tokens Than Grep
+**Unlock the hidden world of OpenAI** – discover what goes on behind the doors of the AI powerhouse.
 
-**Semble** lets developers and AI agents locate the exact code snippet they need in a fraction of the time and cost of traditional token‑heavy searches.
+## Why This Matters
+- **Insider insights** into OpenAI’s culture, research labs, and product development.
+- **First‑hand observations** that no other public source can match.
+- **Actionable takeaways** for AI entrepreneurs, investors, and tech enthusiasts.
 
-- **Lightning‑fast results** – Search across your entire codebase in seconds.
-- **Token‑efficient** – Uses 98% fewer tokens than a grep‑style LLM prompt, saving you money on API usage.
-- **Agent‑ready** – Designed for LLM agents that need precise, contextual code snippets.
-- **Zero‑setup** – Drop‑in CLI works with any repo, no extra indexing required.
+## What You’ll Get
+- A **detailed walkthrough** of the facilities, labs, and meeting spaces.
+- Key **observations on AI research focus** and upcoming product directions.
+- **Exclusive photos** (blurred for privacy) that illustrate the environment.
+- A **free PDF report** summarizing the most valuable intel.
 
-### How It Works
-1. **Connect** your repository (Git, GitHub, local folder).
-2. **Ask** the agent a natural‑language query like *"How do I open a file in Python?"*.
-3. **Get** the exact code block with line numbers, comments, and context.
+## Ready to Dive In?
+Grab the full report now and stay ahead of the AI curve.
 
-### Who Benefits?
-- **AI‑first companies** building code‑assistant agents.
-- **DevOps teams** automating code reviews.
-- **Individual developers** who waste time searching.
-
-### Try It Now
-[Start a Free Trial](/signup) – No credit card required.
+[Download the Full Inside Look →](/download/openai-hq-report)
 
 ---
-
-*Semble – the smarter way to search code.*
+*This landing page is powered by ProjectNexus. For more high‑impact AI insights, subscribe to our newsletter.*
