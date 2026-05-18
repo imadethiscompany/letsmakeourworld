@@ -1,64 +1,27 @@
-# Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
+# Show HN: Semble – Code Search for Agents
 
-## 🔍 Find code instantly, pay almost nothing in tokens
+## Find Code Instantly, Use 98% Fewer Tokens Than Grep
 
-**Semble** is a next‑gen code‑search engine built for LLM‑powered agents. It returns exact code snippets **using 98 % fewer tokens than a traditional `grep`‑style prompt** – saving you money and latency.
+**Semble** lets developers and AI agents locate the exact code snippet they need in a fraction of the time and cost of traditional token‑heavy searches.
 
----
+- **Lightning‑fast results** – Search across your entire codebase in seconds.
+- **Token‑efficient** – Uses 98% fewer tokens than a grep‑style LLM prompt, saving you money on API usage.
+- **Agent‑ready** – Designed for LLM agents that need precise, contextual code snippets.
+- **Zero‑setup** – Drop‑in CLI works with any repo, no extra indexing required.
 
-### Why Semble beats the competition
+### How It Works
+1. **Connect** your repository (Git, GitHub, local folder).
+2. **Ask** the agent a natural‑language query like *"How do I open a file in Python?"*.
+3. **Get** the exact code block with line numbers, comments, and context.
 
-- **Token‑frugal** – One search costs ~0.02 ¢ versus $1+ for comparable LLM calls.
-- **Agent‑ready** – Simple JSON API, perfect for autonomous tools, CI pipelines, and IDE extensions.
-- **Lightning‑fast** – Indexes millions of files in seconds; results appear in <200 ms.
-- **Zero‑setup** – Drop‑in Docker image or single‑line `pip install`.
+### Who Benefits?
+- **AI‑first companies** building code‑assistant agents.
+- **DevOps teams** automating code reviews.
+- **Individual developers** who waste time searching.
 
----
-
-### How it works (in 3 steps)
-
-1. **Upload** your repo or point to a public Git URL.
-2. **Query** with natural language or regex‑style patterns.
-3. **Receive** a concise, token‑optimized snippet ready for your LLM.
-
----
-
-### Who should use Semble?
-
-- **LLM‑agent developers** building autonomous code‑writing bots.
-- **DevOps teams** that need cheap, fast code look‑ups in CI.
-- **Open‑source maintainers** wanting searchable docs without massive token bills.
+### Try It Now
+[Start a Free Trial](/signup) – No credit card required.
 
 ---
 
-### Get started now
-
-[**Start a free trial**](https://semble.dev/signup) – no credit card required.
-
-Or watch a 2‑minute demo:
-
-[![Semble Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
----
-
-#### Frequently asked questions
-
-**Q:** *Do I need an OpenAI key?*  
-**A:** No. Semble runs on‑prem or via our hosted service.
-
-**Q:** *How much does a token cost?*  
-**A:** Our pricing is based on queries, not tokens – starting at $5/mo.
-
----
-
-### Join the community
-
-- **GitHub:** https://github.com/semblehq/semble
-- **Discord:** https://discord.gg/semble
-- **Twitter:** @SembleAI
-
----
-
-*Ready to slash token spend and boost your agents?*  
-
-[**Start Free Trial →**](https://semble.dev/signup)
+*Semble – the smarter way to search code.*
