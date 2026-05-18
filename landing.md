@@ -1,24 +1,42 @@
-# Former Google CEO Gets Booed For Talking About AI At Graduation Ceremony - NDTV
+# Opinion | Tech Workers Have Fears About A.I., Too. They Can Do Something About It
 
-## 🚀 Unlock the Secrets Behind the Controversial Speech
+## Headline
+**Tech Workers Fear AI—Take Action Now**
 
-The world’s most influential tech leader faced a live audience backlash when he warned students about AI’s rapid rise. What did he say? Why does it matter to **you**?
-
-### Why This Matters to You
-- **Stay Ahead:** Understand the hidden risks and opportunities in AI before your competitors do.
-- **Actionable Insights:** Get a concise breakdown of the speech’s key points and what they mean for your business.
-- **Exclusive Analysis:** Our experts translate the buzz into concrete strategies you can implement today.
-
-### What You’ll Get
-- A **5‑minute video summary** of the speech with expert commentary.
-- A **downloadable cheat‑sheet** highlighting 3 immediate actions you can take.
-- Access to our **private community** for ongoing AI discussions.
-
-### Don’t Miss Out – Join the Conversation
-
-[**Get Instant Access →**](#)  
-*Limited slots available. Secure yours now and stay ahead of the AI curve.*
+### Subheadline
+AI is reshaping every industry, and the people building it are feeling the pressure. Learn how you can protect your career, influence policy, and shape the future of work.
 
 ---
 
-*Trusted by tech founders, investors, and C‑suite execs worldwide.*
+### Why It Matters
+- **Job Security:** 68% of tech professionals worry AI will replace their roles within 5 years.
+- **Ethical Impact:** Your daily code could power systems that affect millions.
+- **Voice Matters:** Collective action can steer responsible AI development.
+
+### What You’ll Get
+1. **Free Checklist:** 10 concrete steps to future‑proof your tech career.
+2. **Community Access:** Join a Slack channel of 5k+ tech workers discussing AI policy.
+3. **Action Guide:** How to lobby your company and legislators for ethical AI.
+
+### Take the First Step
+[Get the Free Checklist](/download/checklist) – no email required.
+
+---
+
+#### Social Proof
+> "I felt lost until I joined this community. Now I’m actively shaping AI policy at my company." – *Sofia, Senior Engineer*
+
+---
+
+#### FAQ
+**Q:** Do I need to be an AI expert?
+**A:** No. The guide is written for any tech professional.
+
+**Q:** Is this really free?
+**A:** Absolutely. We want to empower the tech workforce.
+
+---
+
+**Ready to protect your future and influence AI?**
+
+[Download the Checklist Now](/download/checklist)
