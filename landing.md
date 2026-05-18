@@ -1,24 +1,27 @@
-# We Let AIs Run Radio Stations
+# AI-Powered Radio Stations
 
-## Turn Your Broadcast Into a 24/7 AI‑Powered DJ
+## Let AI Run Your Radio Station 24/7
 
-Imagine a radio station that never sleeps, never needs a human DJ, and always knows the perfect song, ad, or talk‑segment for every listener. Our AI‑DJ platform automates programming, ad insertion, and audience engagement – all while delivering higher ratings and lower costs.
+Imagine a radio station that never sleeps, never needs a DJ, and always plays the perfect mix for your audience. Our AI‑driven platform creates, curates, and schedules music, talk, and ads in real‑time, learning from listener feedback to keep engagement soaring.
 
-### Why Choose Our AI Radio Solution?
-- **Zero Staffing Costs** – No need for DJs, programmers, or schedulers.
-- **Dynamic Playlists** – Real‑time mood, weather, and trend‑based song selection.
-- **Smart Ad Targeting** – AI matches ads to listener profiles for higher CPMs.
-- **Full Compliance** – Automated FCC‑compliant logs and reporting.
-- **Scalable to Any Market** – From campus radio to national networks.
+**Why choose us?**
+- **Zero staffing:** No DJs, no programmers – the AI does it all.
+- **Instant setup:** Launch a fully branded station in minutes.
+- **Dynamic playlists:** AI adapts to trends, moods, and demographics.
+- **Monetize automatically:** Integrated ad‑selling and sponsorship tools.
+- **Analytics dashboard:** Real‑time listeners, revenue, and performance metrics.
 
-### How It Works
-1. **Upload Your Library** – Feed your music, shows, and ads.
-2. **Set Goals** – Define audience, revenue targets, and branding.
-3. **Launch AI‑DJ** – Our models schedule, spin, and monetize 24/7.
-4. **Monitor & Optimize** – Real‑time analytics dashboard.
+### Ready to own the airwaves?
 
-### Ready to Let AI Run Your Station?
-[**Start Your Free Demo**](#) – No credit card required. Experience a live AI‑DJ on your own frequency within minutes.
+[Start Your Free Trial](/signup) – No credit card required.
 
 ---
-*Trusted by emerging broadcasters and media groups worldwide.*
+
+**FAQs**
+- **Do I need technical expertise?** No. Our UI is drag‑and‑drop, and the AI handles the heavy lifting.
+- **Can I use my own branding?** Absolutely – upload logos, jingles, and custom voice‑overs.
+- **How is revenue shared?** Keep 90% of ad revenue; we take a 10% platform fee.
+
+**Join the future of radio.**
+
+[Get Started Now](/signup)
