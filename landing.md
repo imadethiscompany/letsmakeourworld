@@ -1,30 +1,29 @@
 # Drone Attack Starts Fire at UAE Nuclear Power Plant - PBS
 
-## Breaking News
-
-A drone attack has ignited a fire at the United Arab Emirates' nuclear power plant, raising serious safety concerns and geopolitical tensions. Stay informed with real‑time updates, expert analysis, and exclusive footage.
+**Breaking News:** A hostile drone strike ignited a fire at the United Arab Emirates' nuclear power facility, raising critical safety concerns.
 
 ---
 
 ### Why This Matters
-- **National Security:** Potential implications for regional stability.
-- **Energy Infrastructure:** Risks to nuclear safety and power supply.
-- **Global Impact:** How this event could affect markets and international relations.
+- **Global Energy Security:** Potential ripple effects on oil and gas markets.
+- **Investor Impact:** Immediate implications for energy stocks and geopolitical risk assessments.
+- **Public Safety:** Real‑time updates on containment efforts and radiation monitoring.
 
 ---
 
-#### Get Immediate Alerts
+### Get Immediate Alerts & In‑Depth Analysis
+- **Live Updates:** Real‑time push notifications as the story develops.
+- **Expert Commentary:** Insight from nuclear safety engineers and geopolitical analysts.
+- **Actionable Data:** Downloadable briefing PDFs for investors and policy makers.
 
-Never miss a critical update. Subscribe now to receive instant notifications straight to your inbox.
-
-[**Subscribe for Live Alerts**](#subscribe)
-
----
-
-#### Watch the Latest Coverage
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Drone Attack Coverage" frameborder="0" allowfullscreen></iframe>
+[**Subscribe for Instant Alerts**](#)  
+*Stay ahead of the curve with timely, reliable information.*
 
 ---
 
-*Stay ahead of the story with our comprehensive coverage and expert commentary.*
+#### Share This Critical Update
+Spread the word to colleagues, investors, and decision‑makers.
+
+---
+
+*Source: PBS NewsHour*
