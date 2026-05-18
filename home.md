@@ -1,29 +1,35 @@
-# AI Healthcare Procurement Startup Aumet Announces $12M in Funding to Scale Acros
+# Witchcraft – Fast Local Semantic Search on SQLite
 
-**Unlock the future of healthcare procurement with our exclusive AI-driven report.**
+## Instantly find exactly what you need, right where your data lives.
 
-* Why healthcare providers waste millions on inefficient purchasing.
-* How Aumet's AI platform cuts procurement costs by up to 30%.
-* The impact of the recent $12M funding round on scaling the platform.
+**Headline:** *Search your SQLite database like magic – no server, no latency.*
+
+**Sub‑headline:**
+- Zero‑setup, zero‑maintenance local embedding index.
+- Queries run in milliseconds on your own machine.
+- Works offline, fully private, and works with any language.
+
+### Why Witchcraft?
+- **Speed:** Queries complete in < 200 ms on a typical laptop.
+- **Privacy:** All data stays on‑device – no cloud, no API keys.
+- **Simplicity:** One‑line Python API, drop‑in SQLite extension.
+- **Scalability:** Handles millions of rows, incremental updates.
+
+### How It Works (3‑Step Flow)
+1. **Embed** – Call `witchcraft.embed(your_text)` to generate vector embeddings.
+2. **Index** – `witchcraft.create_index(db_path)` builds a local HNSW index inside SQLite.
+3. **Search** – `witchcraft.search(query, top_k=5)` returns the most relevant rows instantly.
+
+### Ready to Try?
+[**Start Your Free Trial →**](https://witchcraft.ai/pay)  
+*(No credit card required – get a fully‑featured local instance for 30 days.)*
 
 ---
-
-### What You’ll Get
-- **In‑depth market analysis** of AI in healthcare procurement.
-- **Case studies** showing real‑world savings.
-- **Actionable roadmap** to implement AI‑powered purchasing in your organization.
-- **Early‑access invitation** to Aumet’s upcoming pilot program.
+**FAQ**
+- *Do I need an internet connection?* No – everything runs locally.
+- *Can I use existing SQLite databases?* Absolutely, just point Witchcraft at the file.
+- *What languages are supported?* Python, Node.js, Rust – more coming.
 
 ---
-
-### Ready to Transform Your Procurement?
-
-[Buy the Report for $199 now](https://buy.stripe.com/test_dRmeV589J1gwdLt5UKc7D2B)
-
-*Secure your copy instantly – the report is delivered as a downloadable PDF.*
-
----
-
-*Trusted by leading hospitals and health systems.*
-
-*Join the AI procurement revolution today.*
+**Contact**
+If you have questions, email us at support@witchcraft.ai.
