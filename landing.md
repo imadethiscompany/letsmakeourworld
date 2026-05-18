@@ -1,55 +1,56 @@
-# YouTube Automation Agency
+# GenCAD – AI‑Powered CAD Automation
 
-## Scale Your Channel to 7‑Figures Without Lifting a Finger
+## Design Faster. Iterate Smarter.
 
-**Turn your YouTube channel into a profit machine** – we handle video creation, SEO, uploading, thumbnail design, and community management while you focus on your business.
-
----
-
-### Why Choose Us?
-- **Full‑stack automation** – From script to publish, every step is AI‑driven.
-- **SEO‑optimized** titles, descriptions, tags that rank on the first page.\n- **High‑Converting Thumbnails** – Proven click‑through rates +10%.
-- **Community Management** – Automated comments, replies, and growth loops.
-- **Transparent Pricing** – No hidden fees, pay per channel growth milestone.
+**GenCAD** turns your concepts into production‑ready 3D models in minutes, not hours. Harness AI‑driven sketch‑to‑CAD conversion, automated dimensioning, and instant design validation.
 
 ---
 
-### Our Proven Process
-1. **Research & Script** – AI‑generated scripts based on trending keywords.
-2. **Voice & Video** – AI voice cloning, motion graphics, and stock B‑roll.
-3. **SEO & Upload** – Optimized metadata, scheduling, and auto‑posting.
-4. **Growth Engine** – Automated outreach, comment boosting, and analytics.
+### Why GenCAD?
+- **Cut design time by 70%** – Upload a sketch or photo and get a fully editable CAD model instantly.
+- **Zero‑learning curve** – Intuitive UI, no CAD expertise required.
+- **Error‑free geometry** – AI checks for overlapping faces, non‑manifold edges, and suggests improvements.
+- **Collaborate in real‑time** – Share links with teammates, comment, and export to any format (STEP, STL, DWG).
 
 ---
 
-### Success Stories
-| Client | Subscribers Gained | Revenue Increase |
-|--------|-------------------|------------------|
-| TechGuru | +120k in 3 months | +$15k/mo |
-| FitnessPro | +80k in 2 months | +$8k/mo |
-| DIY Crafts | +200k in 4 months | +$22k/mo |
+### Core Features
+1. **Sketch‑to‑CAD AI** – Transform hand‑drawn sketches or screenshots into precise 3D models.
+2. **Auto‑Dimensioning** – AI infers dimensions and creates parametric constraints.
+3. **Instant Validation** – Real‑time clash detection and manufacturability analysis.
+4. **One‑Click Export** – Export to over 20 industry‑standard formats.
+5. **Team Workspace** – Version control, comments, and role‑based permissions.
 
 ---
 
-### Packages
-- **Starter** – $499/mo – 1 channel, up to 8 videos/month.
-- **Growth** – $999/mo – 3 channels, up to 20 videos/month, SEO boost.
-- **Enterprise** – Custom – Unlimited, dedicated manager.
+### How It Works
+1. **Upload** your sketch, photo, or PDF.
+2. **AI generates** a clean, editable CAD model.
+3. **Refine** dimensions or add features with drag‑and‑drop tools.
+4. **Export** or share instantly.
 
 ---
 
-### Ready to Automate?
-[**Get Started Now**](https://buy.stripe.com/example) – No credit card required for the first 7‑day trial.
+### Pricing
+- **Free Trial** – 3 models, no credit card required.
+- **Pro – $49/mo** – Unlimited models, team collaboration, priority support.
+- **Enterprise – Custom** – On‑prem deployment, dedicated account manager.
 
 ---
 
-#### FAQ
-**Q:** Do I need any technical skills?
-**A:** Nope. We handle everything.
+### Trusted By
 
-**Q:** How fast can I see results?
-**A:** Most clients see a 30% subscriber boost within the first month.
+![Logos](https://example.com/logos.png)
+
+> *“GenCAD cut our product development cycle from weeks to days.”* – **Alex Rivera, Lead Engineer, AeroTech**
 
 ---
 
-*Boost your YouTube channel with zero effort. Let our AI do the heavy lifting.*
+## Ready to accelerate your designs?
+
+[**Start Free Trial**](https://gen-cad.com/checkout)  
+Or book a live demo: [Schedule Demo](https://gen-cad.com/demo)
+
+---
+
+*SEO Meta*: **GenCAD – AI‑Driven CAD Conversion, Faster 3D Modeling, Free Trial**
