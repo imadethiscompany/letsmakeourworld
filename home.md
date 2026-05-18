@@ -1,32 +1,42 @@
 # YouTube Automation Agency
 
-## Grow Your YouTube Channel on Autopilot
+## Scale Your YouTube Channel on Autopilot
 
-**Turn views into revenue without lifting a finger.**
-
-- **Full video production** – Script, voice‑over, AI‑generated visuals, and editing.
-- **Channel management** – SEO‑optimized titles, tags, thumbnails, and upload scheduling.
-- **Audience growth** – Data‑driven content strategy, community engagement, and retargeting ads.
-- **Monetization** – AdSense optimization, brand deals, merch integration.
-
-### Why Choose Us?
-| Feature | Benefit |
-|---|---|
-| AI‑Powered Production | Cut video creation time by 80% |
-| Proven SOPs | Consistent 10k+ views per video |
-| Dedicated Account Manager | Personalized growth roadmap |
-| Transparent Pricing | Pay only for results |
-
-### Packages
-- **Starter** – $499/month – 4 videos, channel audit, SEO.
-- **Growth** – $1,299/month – 12 videos, ads, community management.
-- **Enterprise** – Custom – Unlimited videos, full‑scale funnel.
-
-> **Ready to dominate YouTube?**
->
-> 👉 **[Book a Free Strategy Call](https://calendly.com/youragency/strategy)**
->
-> 👉 **[Start Now – Pay Securely](https://buy.stripe.com/example)**
+**Unlock massive growth without lifting a finger.** Our AI‑powered automation handles video creation, SEO, publishing, and community management so you can focus on strategy and revenue.
 
 ---
-*Scale fast, scale smart. Let our automation do the heavy lifting while you focus on your brand.*
+
+### Why Choose Us?
+- **Zero‑effort content pipeline** – AI scriptwriting, voice‑over, editing, thumbnail generation.
+- **SEO‑optimized uploads** – keyword research, tags, descriptions, and timestamps.
+- **Audience engagement** – automated comments, replies, and community posts.
+- **Revenue boost** – ad‑sense optimization, sponsorship matchmaking, merch integration.
+
+---
+
+### Our Proven Process
+1. **Idea Generation** – Trending niche research using AI.
+2. **Script & Voice** – Claude‑generated scripts + LuxTTS voice cloning.
+3. **Video Production** – Remotion motion graphics + HyperFrames fallback.
+4. **Upload & Optimize** – Auto‑filled metadata, scheduled publishing.
+5. **Growth Loop** – Automated engagement & analytics reporting.
+
+---
+
+### Packages
+| Plan | Monthly Videos | Price |
+|------|----------------|-------|
+| **Starter** | 4 videos | $799 |
+| **Growth** | 12 videos | $2,299 |
+| **Enterprise** | Unlimited | Custom |
+
+> **Special Offer:** First month **50% OFF** for early sign‑ups. Use code **AUTOMATE50** at checkout.
+
+---
+
+### Ready to dominate YouTube?
+[**Start Your Free Consultation →**](#)
+
+---
+
+*Trusted by brands like TechPulse, GreenFit, and CryptoWave.*
