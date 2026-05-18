@@ -2,56 +2,48 @@
 
 ## Unlock Maximum Profitability with Data‑Driven Pricing Strategies
 
-**Headline:** *Boost Your Margins by Up to 30% Without Losing Customers*  
-**Subheadline:** Our expert consultants combine advanced analytics, AI‑powered price modeling, and industry best practices to transform how you price every product and service.
+**Headline:** *Boost Your Margins by 15‑30% Without Losing Customers*  
+
+**Subheadline:** Our expert consultants combine advanced analytics, AI‑powered price testing, and industry best practices to transform your pricing model into a growth engine.
 
 ---
 
-### Why Pricing Optimization?
-- **Revenue Leakage:** 15‑20% of revenue is lost due to sub‑optimal pricing.
-- **Competitive Edge:** Real‑time price intelligence keeps you ahead of rivals.
-- **Customer Trust:** Transparent, value‑based pricing improves loyalty.
+### Why Choose Our Pricing Optimization Consulting?
+
+- **Proven ROI:** Clients see an average **20% increase** in gross profit within the first 3 months.
+- **Data‑First Approach:** Leverage your own sales data, competitor pricing, and market elasticity models.
+- **Tailored Strategy:** We design a pricing roadmap specific to your product mix, customer segments, and channel structure.
+- **Speed to Market:** Rapid A/B price experiments and automated pricing rules get you results faster.
+- **Risk Mitigation:** Scenario analysis ensures price changes protect volume and brand perception.
 
 ---
 
-### Our Proven 4‑Step Process
-1. **Data Audit:** Deep dive into sales, cost, and market data.
-2. **Price Modeling:** AI simulations to identify optimal price points.
-3. **Implementation Blueprint:** Clear guidelines and tooling for your team.
-4. **Continuous Optimization:** Ongoing monitoring and A/B testing.
+### Our 4‑Step Process
+
+1. **Discovery & Data Audit** – Deep dive into your sales, ERP, and market data.
+2. **Pricing Model & Elasticity Analysis** – Build econometric models to predict demand response.
+3. **Strategy Design & Testing** – Create tiered pricing, dynamic pricing rules, and run controlled experiments.
+4. **Implementation & Ongoing Optimization** – Deploy pricing tools, train your team, and monitor KPIs.
 
 ---
 
-### Key Benefits
-- **Increase Gross Margin** by 10‑30%.
-- **Accelerate Revenue Growth** with price‑elasticity insights.
-- **Reduce Discount Fatigue** and protect brand value.
-- **Empower Teams** with a repeatable pricing framework.
+### Frequently Asked Questions
+
+**Q: How long does a typical engagement last?**
+A: Most projects are 8‑12 weeks, with optional monthly retainer for continuous optimization.
+
+**Q: Will my team need to learn new software?**
+A: We integrate with your existing pricing platforms and provide hands‑on training.
+
+**Q: What if the price changes hurt sales?**
+A: Our controlled experiments limit exposure; we adjust in real‑time based on live data.
 
 ---
 
-### Social Proof
-> "Within 3 months, we saw a 22% lift in profit margins thanks to their pricing roadmap." – *VP of Sales, SaaS Scale‑Up*
+### Ready to Transform Your Pricing?
 
-> "Their data‑driven approach uncovered hidden revenue we didn’t know existed." – *Founder, E‑commerce Brand*
-
----
-
-### Ready to Maximize Your Profit?
-**Start with a Free Pricing Health Check** – No commitment, just actionable insights.
-
-[Get Your Free Audit](/contact?service=pricing-optimization)
+**Call to Action:** [Schedule a Free 30‑Minute Strategy Call](/schedule-call) – No commitment, just a roadmap.
 
 ---
 
-#### FAQ
-**Q:** *Do I need a data science team?*  
-**A:** No. We handle the heavy lifting and deliver a ready‑to‑implement plan.
-
-**Q:** *How quickly can we see results?*  
-**A:** Most clients see margin improvement within 6‑8 weeks of implementation.
-
----
-
-**Meta Title:** Pricing Optimization Consulting – Boost Margins by Up to 30%
-**Meta Description:** Expert pricing optimization consulting using AI and data analytics. Increase margins, grow revenue, and stay competitive. Get a free pricing health check today.
+*Boost your bottom line with science‑backed pricing. Let’s price smarter, not harder.*
