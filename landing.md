@@ -1,27 +1,31 @@
-# Pixserp – AI‑Powered SERP Insights
+# Agentspan
 
-**Unlock the hidden opportunities in search engine results pages (SERPs) with Pixserp.**
+## Unlock the Power of Autonomous AI Agents
 
-- **Instant SERP analysis** – Get real‑time data on rankings, featured snippets, ads, and competitor strategies.
-- **AI‑driven recommendations** – Turn raw SERP data into actionable SEO tactics that boost traffic.
-- **One‑click reports** – Download ready‑to‑share PDFs or integrate via webhook.
+**Agentspan** lets you build, deploy, and manage AI‑driven agents that automate complex workflows in minutes. No code, no infrastructure headaches.
 
-### Why Pixserp?
-Businesses waste hours manually scrapping SERPs. Pixserp automates the whole workflow, giving you more time to create content and outrank competitors.
+### Why Choose Agentspan?
+- **Instant Deployment:** Launch agents with a single click.
+- **Scalable Infrastructure:** Auto‑scale to millions of requests.
+- **Zero‑Code Builder:** Drag‑and‑drop workflows, pre‑built templates.
+- **Secure & Compliant:** End‑to‑end encryption, GDPR ready.
 
-### Features
-1. **Live SERP monitoring** – Track daily changes for any keyword.
-2. **Competitive gap analysis** – See where rivals rank and what they’re missing.
-3. **Keyword opportunity scoring** – Prioritize high‑impact keywords.
-4. **Custom alerts** – Get Slack/Email notifications on rank shifts.
+### How It Works
+1. **Define Your Goal** – What task do you want automated?
+2. **Select a Template** – Choose from sales, support, data‑entry, research, etc.
+3. **Connect Your Apps** – Integrate with CRM, Slack, Google Sheets, APIs.
+4. **Launch & Monitor** – Real‑time analytics and auto‑optimisation.
 
-### Get Started in 30 Seconds
-1. **Enter your keyword**
-2. **Select region & device**
-3. **Click “Generate Insight”**
-4. **Receive an AI‑powered report**
+### Trusted by Leading Brands
+> "Agentspan reduced our manual data‑entry time by 85% and saved $200k per quarter."
+> — *Head of Ops, FinTech Corp*
 
-**Ready to dominate the search results?**
+### Ready to Automate?
+[**Start Your Free Trial**](#) – No credit card required.
 
-[Start Your Free Trial](/signup)  
-[Book a Demo](/demo)
+---
+
+*FAQs*
+- **Do I need to code?** No. Our visual builder handles everything.
+- **What pricing plans are available?** Contact sales for a custom quote.
+- **Can I cancel anytime?** Yes, with a single click.
