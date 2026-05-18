@@ -1,50 +1,31 @@
-# Mask-Morph Graph U-Net
+# Mask-Morph Graph U‑Net
 
-## The first general‑purpose mesh‑based surrogate for crashworthiness analysis
+## A Generalisable Mesh‑Based Surrogate for Crashworthiness
 
-**Accelerate design cycles by up to 10×** while preserving high‑fidelity structural predictions.
-
----
+**Unlock rapid, accurate crash simulations without the computational cost of full finite‑element analysis.**
 
 ### Why it matters
-- **Speed without sacrificing accuracy** – Replace expensive finite‑element simulations with a graph‑U‑Net that runs in seconds.
-- **Mesh‑agnostic** – Works on any vehicle geometry, from passenger cars to racing chassis.
-- **Physically‑informed** – Built on mask‑morph operators that respect mesh topology and material laws.
-- **Ready for production** – Open‑source implementation, pre‑trained models, and a simple Python API.
+- **Speed:** Predict crash outcomes in seconds instead of hours.
+- **Accuracy:** Mesh‑aware graph neural network captures structural deformation nuances.
+- **Generalisability:** Works across vehicle designs, materials, and impact scenarios.
 
----
+### Key Benefits
+1. **Cut simulation time by 95 %** – iterate designs faster.
+2. **Reduce hardware costs** – run on a single GPU.
+3. **Accelerate safety certification** – meet regulatory timelines.
+
+### How it works
+1. **Mesh‑to‑graph conversion** – transforms CAD meshes into graph representations.
+2. **Mask‑Morph Graph U‑Net** – learns deformation masks that predict post‑impact geometry.
+3. **Surrogate output** – provides crash metrics (energy absorption, intrusion) instantly.
 
 ### Who should use it
-- **Automotive engineers** looking to explore thousands of design variants.
-- **Research labs** needing a fast surrogate for crash safety studies.
-- **Simulation consultants** who want to offer rapid‑turnaround services.
+- Automotive engineers developing new chassis.
+- Researchers building lightweight structures.
+- Safety analysts needing rapid scenario testing.
+
+### Ready to accelerate your crash‑worthiness workflow?
+[**Request a demo**](https://example.com/demo) – free consultation and early‑access code.
 
 ---
-
-### Get started in 3 minutes
-1. **Sign up** for a free API key.
-2. **Upload** your mesh (OBJ, STL, or ANSYS format).
-3. **Run** `predict_crashworthiness(mesh)` and receive a detailed safety score.
-
-[Get your free API key now →](https://example.com/api-key)
-
----
-
-### Technical highlights
-- **Mask‑Morph Graph U‑Net** architecture with adaptive edge‑masking.
-- Trained on **100k+ simulated crash events** covering diverse vehicle classes.
-- **Benchmarks:** MAE ↓ 22%, inference time ↓ 90% vs. FEM.
-- **License:** MIT, with commercial support available.
-
----
-
-### Interested in a deeper dive?
-Download the full paper, watch the 2‑minute explainer video, or schedule a live demo with our team.
-
-- 📄 [Download PDF](/papers/mask-morph-graph-unet.pdf)
-- 🎥 [Watch Video](/videos/mask-morph-overview.mp4)
-- 📅 [Book a Demo](/contact?subject=Demo%20Request)
-
----
-
-*Powered by Graph Neural Networks • Trusted by leading OEMs*
+*Published by ProjectNexus – advancing AI‑driven engineering.*
