@@ -1,41 +1,18 @@
 # Kin Health Raises $9M to Build an AI Notetaker for Patients
 
-**Transforming patient care with AI‑powered note‑taking**
+## Transforming Patient Care with AI-Powered Note-Taking
 
----
+Patients spend countless hours trying to remember doctor instructions, medication schedules, and follow‑up steps. **Kin Health's AI Notetaker captures every detail from appointments, turns conversations into structured, actionable notes, and syncs them directly to your health apps.**
 
-## Why Kin Health?
-Patients spend **30% of their visit time** repeating information to clinicians. Kin Health’s AI notetaker captures conversation in real‑time, creates accurate, HIPAA‑compliant notes, and syncs directly to EMRs. Doctors get more time for care, patients get better outcomes.
+- **Never miss a prescription** – Automatic medication extraction.
+- **Stay on track** – Smart reminders for follow‑ups and tests.
+- **Secure & private** – End‑to‑end encryption, HIPAA‑compliant.
+- **Built on $9M funding** – Backed by top health‑tech investors.
 
----
+### Why Kin Health?
+- **Clinician‑grade accuracy** – Trained on thousands of real consultations.
+- **Patient‑first design** – Simple UI, multilingual support.
+- **Proven impact** – Early users report a 40% reduction in missed appointments.
 
-## The $9M Funding Boost
-- **$5M** from leading health‑tech VCs
-- **$3M** strategic corporate partner
-- **$1M** patient‑advocate fund
-
-This capital will accelerate:
-- **Clinical validation** in 20+ health systems
-- **Regulatory compliance** and security hardening
-- **Product launch** for early‑adopter clinics next quarter
-
----
-
-## Key Benefits
-- **Cut documentation time by 70%** – clinicians focus on patients, not paperwork.
-- **Zero‑error notes** – AI‑verified against medical vocabularies.
-- **Seamless EMR integration** – works with Epic, Cerner, and others.
-- **Patient‑owned records** – patients receive a copy instantly.
-
----
-
-## Join the Revolution
-**Healthcare providers**: Sign up for early access and get a free pilot.
-
-**Investors & Partners**: Contact us to explore collaboration.
-
-[**Request a Demo**](#)  |  [**Read the Press Release**](#)
-
----
-
-*Kin Health – Empowering clinicians, improving patient experiences.*
+[**Get Early Access Now**](#)  
+*Join our waitlist and be the first to experience AI‑driven health notes.*
