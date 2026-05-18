@@ -1,23 +1,28 @@
 # M1 by Montage
 
-## Unlock Your Creative Potential with M1
+## Transform Your Creative Workflow in Minutes
 
-**M1 by Montage** is the ultimate AI‑powered video editing suite that lets you create professional‑grade videos in minutes. No experience required.
+**Create professional‑grade videos, graphics, and social posts without any editing experience.**
 
-- **Instant cuts:** Upload raw footage, and M1 auto‑creates polished edits.
-- **AI voice‑over:** Choose from natural‑sounding voices, type your script, and M1 narrates.
-- **One‑click branding:** Add logos, intros, and subtitles automatically.
-- **Export anywhere:** Ready for YouTube, Instagram, TikTok, or your own website.
+- **Zero‑learning curve** – Drag‑and‑drop templates get you live in under 5 minutes.
+- **All‑in‑one library** – Stock footage, music, fonts, and AI‑generated copy all in one place.
+- **One‑click publishing** – Export directly to YouTube, Instagram, TikTok, or download in HD.
+- **Unlimited projects** – No hidden caps, no per‑export fees.
 
-### Why M1?
-- **Save up to 10× time** – edit an hour of footage in under 6 minutes.
-- **Boost engagement** – AI‑driven storytelling drives 30% higher watch‑through rates.
-- **Zero learning curve** – intuitive UI, built‑in tutorials, and 24/7 support.
-
-#### Get Started Now
-Click the button below to purchase and get instant access to M1.
-
-[Buy Now for $199](/buy/m1-by-montage)
+[**Start Your Free Trial**](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21) – No credit card required.
 
 ---
-*Ready to create videos that convert? M1 by Montage is your shortcut to viral content.*
+
+### Why M1?
+
+Creators waste **7 hours a week** juggling tools. M1 consolidates everything, letting you focus on storytelling, not software.
+
+### Features
+- AI‑powered script writer
+- 10 k+ royalty‑free assets
+- Auto‑format for every platform
+- Collaboration workspace for teams
+
+**Ready to create like a pro?**
+
+[Get Started – $199/mo](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21)
