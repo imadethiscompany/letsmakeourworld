@@ -1,38 +1,31 @@
 # YouTube Automation Agency
 
-## Supercharge Your YouTube Channel with AI-Powered Automation
+## Scale Your YouTube Channel on Autopilot
 
-Are you a creator tired of spending countless hours on repetitive tasks? **Our YouTube Automation Agency** does the heavy lifting so you can focus on making great content.
+Are you a busy entrepreneur or SMB owner who wants to dominate YouTube but has no time to create content? Our **YouTube Automation Agency** handles everything:
+
+- **Video Ideation & Scripting** – data‑driven topics that rank.
+- **AI‑Generated Voice‑overs** – professional, brand‑consistent narration.
+- **Fully Edited Videos** – kinetic typography, motion graphics, and on‑brand visuals.
+- **SEO‑Optimized Uploads** – titles, tags, thumbnails, and descriptions that boost discoverability.
+- **Channel Management** – posting schedule, community engagement, and analytics.
 
 ### Why Choose Us?
-- **AI Video Editing** – Automatic cuts, captions, and thumbnail generation.
-- **Content Ideation** – Data‑driven video topics that rank on search.
-- **Upload & SEO** – Optimized titles, descriptions, tags, and scheduling.
-- **Community Management** – Auto‑respond to comments and grow engagement.
-
-### Our Proven Process
-1. **Strategy Session** – We audit your channel and define growth goals.
-2. **AI Production Pipeline** – Script, voice‑over, motion graphics, and final edit – all auto‑generated.
-3. **Launch & Scale** – Optimized publishing, A/B testing thumbnails, and automated outreach.
-4. **Analytics & Optimization** – Weekly performance reports and AI‑driven tweaks.
-
-### Results You Can Expect
-| Metric | Typical Increase |
-|--------|------------------|
-| Views per video | +250% |
-| Subscriber growth | +180% |
-| Revenue (AdSense) | +300% |
-| Time spent on admin | -90% |
+- **Zero Production Hassle** – you provide the niche, we deliver the video.
+- **Fast Turnaround** – 2‑3 days from concept to publish.
+- **Proven ROI** – our clients see a **3‑5× increase** in views within the first month.
+- **Transparent Pricing** – simple monthly packages, no hidden fees.
 
 ### Packages
-- **Starter** – $499/month – 2 videos, basic SEO, comment bot.
-- **Growth** – $999/month – 5 videos, advanced SEO, thumbnail A/B, analytics.
-- **Enterprise** – Custom – Unlimited videos, dedicated AI trainer, full channel management.
+| Package | Monthly Videos | Price |
+|---|---|---|
+| **Starter** | 4 videos | $1,199 |
+| **Growth** | 8 videos | $2,199 |
+| **Scale** | 12 videos | $3,499 |
 
-> **Ready to automate your YouTube success?**
-> 
-> **[Book a Free Strategy Call →](https://calendly.com/youragency/strategy)**
+> **Ready to skyrocket your channel?**
+
+[**Start Now – Book a Free Strategy Call**](https://calendly.com/youragency/strategy-call)
 
 ---
-
-*Boost your channel, multiply your income, and reclaim your time with AI.*
+*No credit card required. Cancel anytime.*
