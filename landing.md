@@ -1,27 +1,33 @@
-# Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
+# Show HN: Semble – Code Search for Agents
 
-## Find the right code instantly, without blowing up your LLM budget
-
-**Semble** lets developers and AI‑agents search through codebases the way grep does—​but with *98 % fewer tokens*.
-
-- **Lightning‑fast results** – Get precise matches in seconds.
-- **Cost‑effective** – Cut your LLM usage dramatically, saving hundreds of dollars per month.
-- **Agent‑ready** – Designed for autonomous AI agents that need cheap, reliable code look‑up.
-
-### Why Semble beats traditional grep + LLM pipelines
-1. **Token‑efficient indexing** – Our algorithm compresses the searchable representation, so a single query costs a fraction of a normal LLM call.
-2. **Zero‑setup** – Drop a single binary into any repo, start indexing, and query via a simple CLI or HTTP API.
-3. **Built for agents** – Structured JSON output, confidence scores, and easy integration with LangChain‑style agents.
-
-### Get started in 3 minutes
-1. `pip install semble`
-2. `semble init /path/to/your/code`
-3. `semble query "function that parses CSV"`
-
-**Ready to slash your token bill?**
-
-[**Start a free trial**](https://semble.ai/trial) – No credit card required.
+**Search your codebase with AI agents using 98% fewer tokens than traditional grep.**
 
 ---
 
-*Semble is open‑source, MIT‑licensed, and backed by a community of AI‑first developers.*
+## Why Semble?
+- **Lightning‑fast token usage** – Cut token consumption by 98% while keeping search precision.
+- **Agent‑first design** – Built for LLM‑powered agents to understand context, not just plain text.
+- **Zero‑setup** – Drop‑in CLI works with any repo, no indexing required.
+
+---
+
+### How It Works
+1. **Run** `semble search "<query>"` – the agent interprets your intent.
+2. **AI‑enhanced matching** – finds relevant snippets across files, imports, and tests.
+3. **Instant results** – get exact locations with confidence scores.
+
+---
+
+## Who Benefits?
+- **Developers** who spend hours grepping through monorepos.
+- **AI‑ops teams** building autonomous agents that need code awareness.
+- **Start‑ups** looking to cut LLM costs while maintaining tooling.
+
+---
+
+### Try It Now
+[Get Early Access →](/semble-early-access)
+
+---
+
+*Semble is open‑source and integrates with any LLM provider.*
