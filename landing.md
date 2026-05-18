@@ -1,31 +1,23 @@
-# Agentspan
+# M1 by Montage
 
-## Unlock the Power of Autonomous AI Agents
+## Unlock Professional-Grade Video Editing for Creators
 
-**Agentspan** lets you build, deploy, and manage AI‑driven agents that automate complex workflows in minutes. No code, no infrastructure headaches.
+**Create stunning videos in minutes, no experience required.**
 
-### Why Choose Agentspan?
-- **Instant Deployment:** Launch agents with a single click.
-- **Scalable Infrastructure:** Auto‑scale to millions of requests.
-- **Zero‑Code Builder:** Drag‑and‑drop workflows, pre‑built templates.
-- **Secure & Compliant:** End‑to‑end encryption, GDPR ready.
+- **AI‑powered editing:** Upload raw footage, let M1 automatically cut, color‑grade, and add captions.
+- **One‑click publishing:** Export to YouTube, Instagram, TikTok, or download in 4K.
+- **Affordable pricing:** Only $199 for lifetime access.
 
-### How It Works
-1. **Define Your Goal** – What task do you want automated?
-2. **Select a Template** – Choose from sales, support, data‑entry, research, etc.
-3. **Connect Your Apps** – Integrate with CRM, Slack, Google Sheets, APIs.
-4. **Launch & Monitor** – Real‑time analytics and auto‑optimisation.
+### Why M1?
+- **Save hours:** Reduce editing time by up to 80%.
+- **Look professional:** Hollywood‑level transitions and effects.
+- **No learning curve:** Intuitive UI designed for creators of all skill levels.
 
-### Trusted by Leading Brands
-> "Agentspan reduced our manual data‑entry time by 85% and saved $200k per quarter."
-> — *Head of Ops, FinTech Corp*
+> *"I cut my video editing time from 5 hours to 30 minutes. M1 is a game‑changer!"* – Alex, YouTube Creator
 
-### Ready to Automate?
-[**Start Your Free Trial**](#) – No credit card required.
+#### Get Started Now
+[Buy Now – $199](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21)
 
 ---
 
-*FAQs*
-- **Do I need to code?** No. Our visual builder handles everything.
-- **What pricing plans are available?** Contact sales for a custom quote.
-- **Can I cancel anytime?** Yes, with a single click.
+*High‑intent landing page for M1 by Montage.*
