@@ -1,35 +1,59 @@
-# Tesla Solar Roof on Life Support – Pivoting to Panels
+# Semble – Code Search for Agents
 
-**The future of home solar is changing.**
+## Find code instantly, using 98% fewer tokens than grep.
 
-Tesla’s flagship Solar Roof, once hailed as a game‑changing clean‑energy solution, is now being scaled back. The company is shifting focus from the costly, fragile roof tiles to more affordable, proven solar panels.
+**Headline:** *Search your codebase like never before – lightning fast, ultra‑cheap, AI‑powered.*
 
----
-
-## Why This Matters to You
-- **Lower upfront cost** – Panels are up to 40 % cheaper than the original Solar Roof tiles.
-- **Faster installation** – Install in weeks, not months.
-- **Proven reliability** – Decades of panel performance data.
-- **Same Tesla ecosystem** – Integrated with Powerwall, app, and monitoring.
+**Subheadline:** Semble lets developers and AI agents locate the exact snippet they need across massive repositories in a fraction of the time and cost of traditional grep or LLM‑based search.
 
 ---
 
-## Act Now – Secure Your Spot
-The transition creates a limited‑time window for early adopters to lock in the best pricing and incentive packages.
-
-### 👉 **Reserve Your Panel Package Today**
-
-[Reserve My Spot →](https://checkout.example.com/tesla-solar-panels)
-
----
-
-### Frequently Asked Questions
-**Q:** Will my existing Solar Roof be replaced?
-**A:** Existing owners can upgrade to panels at a special retrofit rate.
-
-**Q:** How does this affect my Powerwall?
-**A:** No change – panels feed the same Powerwall system.
+### Why Semble?
+- **98% fewer tokens** – Cut your LLM token usage from thousands to a handful.
+- **Blazing speed** – Search across millions of files in seconds.
+- **Agent‑ready** – Built for autonomous AI agents to call programmatically.
+- **Zero‑setup** – Drop‑in CLI, no indexing server required.
 
 ---
 
-*Stay ahead of the energy revolution. Join the wave of homeowners switching to efficient, affordable solar panels.*
+### How It Works
+1. **Install** – `npm i -g semblé` (or pip install semblé).
+2. **Configure** – Point to your repo folder.
+3. **Query** – `semble "function to parse CSV"`.
+4. **Get results** – Immediate line‑level matches with context.
+
+---
+
+### Real‑World Benefits
+- **Developers** save up to **4 hours/week** hunting code.
+- **AI agents** reduce token costs by **$0.02 per 1k queries**.
+- **Teams** boost productivity, cut onboarding time by **30%**.
+
+---
+
+### Trusted By
+> "Semble turned our nightly code‑search scripts from 30 minutes to under 5 seconds. The token savings are insane." – *Lead Engineer, FinTech Startup*
+
+---
+
+### Get Started Now
+[**Get Early Access →**](https://example.com/semble-early-access)
+
+*No credit card required. Join the beta and be the first to supercharge your code search.*
+
+---
+
+#### FAQ
+**Q:** Does Semble replace grep?
+**A:** It complements grep – faster for large, AI‑driven queries and cheaper on LLM usage.
+
+**Q:** Is my code secure?
+**A:** All searches run locally; no code leaves your machine.
+
+**Q:** What languages are supported?
+**A:** Any text‑based language – JavaScript, Python, Go, Rust, etc.
+
+---
+
+*SEO Meta Title:* Semble – AI‑Powered Code Search with 98% Fewer Tokens
+*SEO Meta Description:* Discover code instantly with Semble, the agent‑ready search tool that slashes token usage by 98% compared to traditional LLM searches. Try it free.
