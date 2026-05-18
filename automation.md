@@ -1,23 +1,26 @@
-# Automation Artifact
+# Mask-Morph Graph U-Net Automation Artifact
 
-This minimal automation artifact provides a quick lead generation and email outreach script for the "Americans Are Smashing Flock Cameras" campaign.
+This minimal automation artifact provides a simple CLI to run a placeholder inference for the Mask-Morph Graph U‑Net model.
 
 ```python
-import json
-from utils import find_leads, send_email
+#!/usr/bin/env python3
+import argparse
 
-def run():
-    leads = find_leads(query="camera repair services in USA", limit=5)
-    for lead in leads:
-        send_email(
-            to=lead["email"],
-            subject="Join the Flock Camera Movement",
-            body="Hi {name},\n\nWe noticed your interest in cameras. Check out our initiative...".format(name=lead.get("name", ""))
-        )
-    print("Sent emails to", len(leads))
+def main():
+    parser = argparse.ArgumentParser(description='Run Mask-Morph Graph U-Net placeholder')
+    parser.add_argument('--input', type=str, required=True, help='Path to input mesh file')
+    parser.add_argument('--output', type=str, default='output.txt', help='Path to save results')
+    args = parser.parse_args()
+    # Placeholder logic
+    with open(args.output, 'w') as f:
+        f.write(f"Processed {args.input} with Mask-Morph Graph U-Net (placeholder)\n")
+    print(f"Result written to {args.output}")
 
 if __name__ == "__main__":
-    run()
+    main()
 ```
 
-Deploy this script in your environment to start engaging leads instantly.
+You can clone the repository, navigate to the `automation` folder and run:
+```
+python minimal_artifact.py --input my_mesh.obj
+```
