@@ -1,65 +1,61 @@
-# SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces
+# SkillSmith
 
-## Unlock the Power of Your AI Agents
+## Compile Agent Skills into Boundary‑Guided Runtime Interfaces
 
-**Turn scattered agent capabilities into a single, plug‑and‑play runtime interface.**
+**Turn your AI agents’ capabilities into plug‑and‑play runtime modules—no code, no re‑training.**
 
 ---
 
-### Why SkillSmith?
-- **Seamless Integration** – No more custom glue code. Export any agent skill as a boundary‑guided API that other agents consume instantly.
-- **Speed to Market** – Deploy new capabilities 5× faster – from prototype to production in minutes.
-- **Reliability** – Built‑in validation layers guarantee skill contracts stay intact across updates.
-- **Scalable Collaboration** – Teams can share, version, and compose skills like reusable micro‑services.
+### 🎯 Why SkillSmith?
+- **Instant integration** – Deploy new skills in seconds, not weeks.
+- **Boundary‑guided execution** – Guarantees safe, deterministic behavior at runtime.
+- **Zero‑code compilation** – Write skill specs in plain language; SkillSmith builds the interface.
+
+---
+
+### 🚀 Core Benefits
+1. **Speed to market** – Cut time‑to‑deployment by 80%.
+2. **Reliability** – Runtime guards enforce skill boundaries, eliminating unexpected actions.
+3. **Scalability** – Compile dozens of skills into a single, lightweight service.
+4. **Cost efficiency** – Reduce compute spend by reusing compiled interfaces.
 
 ---
 
 ### How It Works
-1. **Define** – Write a skill in plain Python (or your favorite language).
-2. **Compile** – SkillSmith auto‑generates a type‑safe interface with boundary checks.
-3. **Deploy** – Publish to our runtime hub; any agent can discover and invoke it instantly.
-4. **Iterate** – Update the skill; downstream agents receive hot‑swap updates without downtime.
+1. **Define** – Describe the skill in natural language or JSON schema.
+2. **Compile** – SkillSmith translates the definition into a boundary‑guided runtime interface.
+3. **Deploy** – Push the compiled module to any cloud or edge platform.
+4. **Orchestrate** – Combine multiple modules to build complex agent workflows.
 
 ---
 
-### Who Benefits?
-- **Enterprise AI Teams** building complex multi‑agent workflows.
-- **Product Engineers** who need rapid prototyping of new capabilities.
-- **Consultants** delivering turnkey AI solutions to clients.
+### Trusted By
+![Logos of leading AI labs and enterprises](/assets/partners.png)
+
+> *"SkillSmith let us ship a new negotiation skill from prototype to production in under an hour."* – CTO, FinTech AI
 
 ---
 
-### Real‑World Impact
-| Metric | Before SkillSmith | After SkillSmith |
-|--------|-------------------|------------------|
-| Integration time | 2‑4 weeks | < 2 days |
-| Bugs due to contract drift | 12 per release | 1 per release |
-| Team velocity (features/month) | 3 | 12 |
+### FAQ
+**Q:** Do I need to know any programming?  
+**A:** No. SkillSmith’s compiler handles all code generation.
+
+**Q:** Is it compatible with existing agents?  
+**A:** Yes. It wraps any model‑agnostic skill as a standard API.
+
+**Q:** How is safety ensured?  
+**A:** Boundary guards validate inputs/outputs at runtime, preventing out‑of‑scope actions.
 
 ---
 
-### Get Started in 3 Minutes
-1. **Sign Up** – Free tier, no credit card.
-2. **Upload** – Drag‑and‑drop your skill file.
-3. **Deploy** – Receive a runtime endpoint instantly.
+### Get Started Today
 
-[**Start Free Trial →**](https://skillsmith.example.com/signup)
+[**Start Free Trial**](#) – No credit card required.
 
----
-
-### FAQs
-**Q:** Do I need to learn a new language?
-**A:** No. Use your existing code; SkillSmith works with Python, JavaScript, and Go.
-
-**Q:** Is my data secure?
-**A:** All interfaces run in isolated containers with end‑to‑end encryption.
-
-**Q:** Can I monetize my skills?
-**A:** Yes – publish to the SkillSmith Marketplace and set usage pricing.
+Or book a 15‑minute demo to see SkillSmith in action.
 
 ---
 
-#### Join the AI Agent Revolution
-**SkillSmith** is the missing link that turns isolated AI agents into a cohesive, scalable ecosystem.
-
-[**Create Your First Skill Now**](https://skillsmith.example.com/signup)
+*SEO meta:* 
+- **Title:** SkillSmith – Compile AI Agent Skills into Safe Runtime Interfaces
+- **Description:** Build, compile, and deploy AI agent skills instantly with zero‑code, boundary‑guided runtime interfaces. Accelerate AI development and ensure safety.
