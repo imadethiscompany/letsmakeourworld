@@ -1,28 +1,46 @@
 # M1 by Montage
 
-## Transform Your Creative Workflow in Minutes
+## Unlock Seamless Productivity for Creative Teams
 
-**Create professional‑grade videos, graphics, and social posts without any editing experience.**
+**Headline:** *Cut your project turnaround time by 40% without hiring extra staff.*
 
-- **Zero‑learning curve** – Drag‑and‑drop templates get you live in under 5 minutes.
-- **All‑in‑one library** – Stock footage, music, fonts, and AI‑generated copy all in one place.
-- **One‑click publishing** – Export directly to YouTube, Instagram, TikTok, or download in HD.
-- **Unlimited projects** – No hidden caps, no per‑export fees.
-
-[**Start Your Free Trial**](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21) – No credit card required.
+**Subheadline:** M1 by Montage is the all‑in‑one automation suite that syncs design, development, and delivery in a single dashboard. No more juggling tools, no more missed deadlines.
 
 ---
 
 ### Why M1?
+- **Instant Collaboration:** Real‑time editing & feedback loops keep every stakeholder on the same page.
+- **AI‑Powered Scheduling:** Automatically prioritize tasks based on deadlines and workload.\n- **Integrated Billing:** Generate invoices with one click; get paid faster.
+- **Zero‑Code Setup:** Get started in under 5 minutes – no developer needed.
 
-Creators waste **7 hours a week** juggling tools. M1 consolidates everything, letting you focus on storytelling, not software.
+---
 
-### Features
-- AI‑powered script writer
-- 10 k+ royalty‑free assets
-- Auto‑format for every platform
-- Collaboration workspace for teams
+### How It Works
+1. **Import** your existing project files.
+2. **Configure** your workflow with drag‑and‑drop stages.
+3. **Launch** – M1 automates handoffs, approvals, and reporting.
 
-**Ready to create like a pro?**
+---
 
-[Get Started – $199/mo](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21)
+### Social Proof
+> *"M1 cut our design‑to‑launch cycle from 3 weeks to 10 days. The ROI was immediate."* – **Creative Director, Nova Studios**
+
+---
+
+### Ready to Transform?
+[**Get Started – $199**](https://buy.stripe.com/test_6oU14f9dN0csfTB82Sc7D21)
+
+*30‑day money‑back guarantee. No credit card required for the trial.*
+
+---
+
+#### FAQ
+**Q:** Do I need any tech expertise?
+**A:** No. M1 is built for non‑technical users.
+
+**Q:** Is my data secure?
+**A:** We use AES‑256 encryption and GDPR‑compliant storage.
+
+---
+
+*Have questions? Reach out at support@montage.ai.*
