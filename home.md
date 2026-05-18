@@ -1,35 +1,61 @@
-# Witchcraft – Fast Local Semantic Search on SQLite
+# YouTube Automation Agency
 
-## Instantly find exactly what you need, right where your data lives.
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Headline:** *Search your SQLite database like magic – no server, no latency.*
-
-**Sub‑headline:**
-- Zero‑setup, zero‑maintenance local embedding index.
-- Queries run in milliseconds on your own machine.
-- Works offline, fully private, and works with any language.
-
-### Why Witchcraft?
-- **Speed:** Queries complete in < 200 ms on a typical laptop.
-- **Privacy:** All data stays on‑device – no cloud, no API keys.
-- **Simplicity:** One‑line Python API, drop‑in SQLite extension.
-- **Scalability:** Handles millions of rows, incremental updates.
-
-### How It Works (3‑Step Flow)
-1. **Embed** – Call `witchcraft.embed(your_text)` to generate vector embeddings.
-2. **Index** – `witchcraft.create_index(db_path)` builds a local HNSW index inside SQLite.
-3. **Search** – `witchcraft.search(query, top_k=5)` returns the most relevant rows instantly.
-
-### Ready to Try?
-[**Start Your Free Trial →**](https://witchcraft.ai/pay)  
-*(No credit card required – get a fully‑featured local instance for 30 days.)*
+**Turn views into revenue** with a full‑service YouTube automation agency that handles everything from content ideation to video production, SEO, and channel growth. Our proven system lets you focus on your brand while we do the heavy lifting.
 
 ---
-**FAQ**
-- *Do I need an internet connection?* No – everything runs locally.
-- *Can I use existing SQLite databases?* Absolutely, just point Witchcraft at the file.
-- *What languages are supported?* Python, Node.js, Rust – more coming.
+
+### Why Choose Us?
+
+- **End‑to‑End Automation** – Script writing, AI‑generated voice‑overs, video editing, thumbnail design, and upload schedule automation.
+- **Data‑Driven SEO** – Keyword research, title & description optimization, and A/B tested thumbnails that boost click‑through rates by up to **250%**.
+- **Rapid Scaling** – Publish **3‑5 videos/week** without hiring a full production team.
+- **Revenue Boost** – Monetization strategies (ads, sponsorships, merch) that increase earnings by **30‑50%**.
+- **Transparent Reporting** – Real‑time dashboard with analytics, ROI, and growth forecasts.
 
 ---
-**Contact**
-If you have questions, email us at support@witchcraft.ai.
+
+### Our Proven Process
+
+1. **Discovery Call** – Understand your niche, goals, and brand voice.
+2. **Content Strategy** – Keyword‑rich topics & viral hooks.
+3. **AI Production** – Script → Voice‑over → Motion graphics (Remotion) → Final video.
+4. **Optimization** – SEO‑tuned titles, tags, descriptions, and custom thumbnails.
+5. **Scheduled Publishing** – Automated uploads with community engagement.
+6. **Growth & Monetization** – Audience building, brand deals, and ad revenue scaling.
+
+---
+
+### Success Stories
+
+| Client | Niche | Videos/Month | Revenue ↑ |
+|--------|-------|--------------|-----------|
+| TechGuru | Tech Reviews | 4 | **+42%** |
+| FitLife | Fitness | 5 | **+35%** |
+| TravelNest | Travel Vlogs | 3 | **+28%** |
+
+---
+
+### Get Started Today
+
+**Free 30‑minute strategy session** – No commitment. Fill the form below and we’ll craft a custom growth plan for your channel.
+
+[**Book My Call**](#)  
+
+---
+
+#### Frequently Asked Questions
+
+**Q:** *Do I need to own the channel?*  
+**A:** Yes. We work directly with your existing YouTube channel.
+
+**Q:** *What’s the pricing model?*  
+**A:** Tiered packages starting at **$1,500/month**. Custom enterprise solutions available.
+
+**Q:** *How fast can I see results?*  
+**A:** Most clients notice a **30‑50% increase** in views within the first 30 days.
+
+---
+
+© 2024 YouTube Automation Agency – All rights reserved.
