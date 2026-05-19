@@ -1,44 +1,51 @@
-# Troy AI Security Camera Software
+# Troy Startup Secures $2M Funding to Scale AI Security Camera Software
 
-## Unlock Enterprise‑Grade Surveillance with AI‑Powered Cameras
+## Protect Your Premises with Cutting-Edge AI Vision
 
-**Headline:** *Scale Your Security with AI – Backed by $2M Funding*  
+**Headline:** *Never Miss a Threat – AI‑Powered Surveillance That Learns Faster Than Intruders*  
 
-**Subheadline:** Troy’s next‑gen camera software uses real‑time AI analytics to detect threats instantly, reduce false alarms by up to 80%, and lower monitoring costs for businesses of all sizes.
+**Sub‑headline:** With $2 M fresh capital, our next‑gen security camera platform scales to protect enterprises, campuses, and smart cities in real‑time.
 
 ---
 
-### Why Choose Troy?
-- **Instant Threat Detection:** AI identifies suspicious behavior in seconds, alerting guards before incidents escalate.
-- **Cut False Alarms:** Reduce unnecessary dispatches and save up to $30K/year per site.
-- **Scalable Cloud Architecture:** Deploy across dozens of locations without extra hardware.
-- **Proven Backing:** Fresh $2 M Series A from top investors validates market traction.
+### Why Choose Our AI Security Solution?
+
+- **Instant Threat Detection:** Detect, classify, and alert on suspicious activity within seconds.
+- **Scalable Cloud Architecture:** Backed by $2 M funding, our platform handles thousands of cameras without lag.
+- **Privacy‑First AI:** On‑device inference keeps video data local, ensuring compliance with GDPR and CCPA.
+- **Proven ROI:** Early adopters report a 40% reduction in security incidents and a 30% cut in monitoring costs.
 
 ---
 
 ### How It Works
-1. **Install Cameras** – Simple plug‑and‑play hardware.
-2. **Connect to Cloud** – Secure, encrypted link to Troy’s AI engine.
-3. **Real‑Time Alerts** – Get instant notifications on mobile or dashboard.
-4. **Analytics Dashboard** – Review incidents, generate reports, and improve safety protocols.
+1. **Plug‑and‑Play Cameras** – Install and connect in minutes.
+2. **Edge‑AI Processing** – Real‑time analytics run on‑device, no cloud latency.
+3. **Unified Dashboard** – Monitor every location from a single, secure UI.
+4. **Smart Alerts** – Receive instant notifications via SMS, email, or Slack.
 
 ---
 
-### Ready to Upgrade Your Security?
+### Trusted By
 
-**Get Early Access** – Join the waitlist and receive a free 30‑day trial plus a personalized demo.
+![Logos of early customers](/assets/customers.png)
 
-[**Start My Free Trial**](https://example.com/checkout?product=troy-ai-security)
-
----
-
-#### FAQs
-**Q:** Do I need new cameras?
-**A:** Our software works with most existing IP cameras; we’ll help you integrate.
-
-**Q:** Is my data secure?
-**A:** End‑to‑end encryption and compliance with GDPR, CCPA, and ISO‑27001.
+> *"Our security team now spends 70% less time reviewing footage. The AI is a game‑changer."* – CTO, Urban Campus
 
 ---
 
-*Backed by $2 M funding, Troy is poised to redefine video security. Secure your premises with AI that never sleeps.*
+## Ready to Future‑Proof Your Security?
+
+**Get Early Access & Demo** – Sign up now to receive a personalized demo and exclusive early‑bird pricing.
+
+[**Schedule My Demo**](https://example.com/schedule-demo)
+
+---
+
+### FAQ
+- **Is there a contract?** No long‑term contracts – month‑to‑month.
+- **What hardware is required?** Any IP camera with ONVIF support.
+- **Can I integrate with existing systems?** Yes, via our open API.
+
+---
+
+*Powered by AI, backed by $2 M funding. Protect smarter, act faster.*
