@@ -1,69 +1,41 @@
 # Live Ranking of Every AI Agent & Foundation Model (Open Source)
 
-**Meta Description:** Discover the most up‑to‑date, open‑source ranking of every AI agent and foundation model. Compare performance, costs, and capabilities in real time.
+## Instantly see which AI agents and models are leading the pack — updated in real‑time.
+
+**Why it matters**
+- **Stay ahead**: Know the top‑performing agents before your competitors.
+- **Make data‑driven decisions**: Compare benchmarks, pricing, open‑source licenses, and community adoption.
+- **Zero cost**: Fully open‑source, no hidden fees, no vendor lock‑in.
 
 ---
 
-## 🚀 Instantly Find the Best AI for Your Needs
-
-**Headline:** *Find the Top‑Performing Open‑Source AI Agents & Models – Live, Ranked, Free.*
-
-**Subheadline:** No more endless Googling. Our continuously updated leaderboard shows you performance, licensing, and cost at a glance.
-
-**Primary CTA:** **[Explore the Live Ranking →](#ranking)**
+### How It Works
+1. **Continuous crawling** of GitHub, Hugging Face, and public model registries.
+2. **Live scoring** based on usage, star count, benchmark results, and community sentiment.
+3. **Dynamic ranking dashboard** refreshed every minute, filterable by task, size, and license.
 
 ---
 
-### Why This Ranking Matters
-
-- **Real‑time updates** – New agents added within minutes of release.
-- **Objective metrics** – Benchmarks on speed, accuracy, token cost, and more.
-- **Open‑source focus** – All entries are freely usable or self‑hostable.
-- **Compare side‑by‑side** – Visual tables, charts, and filters let you pick the perfect model for your workload.
-
----
-
-## How It Works
-
-1. **Crawl & Index** – Automated bots scan GitHub, HuggingFace, and model hubs.
-2. **Benchmark** – Run standardized tests (MMLU, HELM, latency, cost).
-3. **Score & Rank** – Combine metrics into a transparent score.
-4. **Display** – Interactive UI with filters for domain, size, and license.
+### Benefits
+- **Save hours of research** – all rankings in one place.
+- **Identify emerging agents** before they hit mainstream.
+- **Choose the right model** for your product, budget, and compliance needs.
+- **Contribute** – open‑source repo lets you add new agents or adjust scoring.
 
 ---
 
-## Who Benefits?
-
-- **Developers** building AI‑powered apps.
-- **Researchers** needing the latest open‑source baselines.
-- **Start‑ups** looking for cost‑effective models.
-- **Enterprises** evaluating alternatives to proprietary APIs.
+### Ready to Explore?
+[**View the Live Ranking →**](https://example.com/ai-ranking)
 
 ---
 
-## Social Proof
+#### Frequently Asked Questions
+**Is the data really live?** Yes – the backend refreshes every 60 seconds.
 
-> *“The live ranking saved us weeks of model hunting. We instantly saw which open‑source model gave us the best ROI.”* – **Jane Doe, CTO, AI‑Boost
+**Can I embed the ranking?** Absolutely – we provide an embeddable widget.
 
----
-
-## Frequently Asked Questions
-
-**Q:** *Is the ranking really free?*  
-**A:** Yes. All data is publicly available and the UI is open‑source.
-
-**Q:** *How often is it updated?*  
-**A:** Every 10 minutes for new releases, hourly for benchmark results.
-
-**Q:** *Can I contribute my own benchmarks?*  
-**A:** Absolutely – submit a PR to our GitHub repo.
+**Is there a paid version?** The core ranking is free. Premium alerts and API access are coming soon.
 
 ---
 
-### Ready to see the best open‑source AI agents?
-
-**[Explore the Live Ranking Now →](#ranking)**
-
----
-
-*Built by the AI‑Community, for the AI‑Community.*
+*Built by the AI community, for the AI community.*
