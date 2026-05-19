@@ -1,61 +1,63 @@
----
-title: Claude Persistent Learning Explained – What Happens After 200 Sessions?
-description: Discover why Claude’s persistent learning seems to stop after 200 sessions and how to keep your AI assistant evolving.
-slug: claude-persistent-learning-200-sessions
----
+# Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised
 
-# Unlock the Mystery of Claude’s Persistent Learning
+## 🚨 Critical Security Alert for Developers & DevOps Teams
 
-**Did Claude suddenly stop learning after 200 sessions?** You’re not alone. Hundreds of users report a sudden “freeze” in Claude’s ability to retain context and improve over time. This page explains **why it happens**, **how to fix it**, and **how to get continuous value** from your Claude assistant.
+**Headline:** *Your npm supply chain is under attack – 314 packages infected by the Mini Shai‑Hulud worm.*
+
+**Sub‑headline:** *Stop the spread, protect your production, and regain control before your next deployment fails.*
 
 ---
 
-## Why Does Claude Appear to Stop Learning?
+### Why This Matters Right Now
+- **Massive impact:** Over 314 popular npm modules have been compromised, affecting millions of projects.
+- **Immediate risk:** If you install any of these packages, malicious code executes on every server, stealing credentials and sabotaging builds.
+- **Zero‑day escalation:** The worm mutates on each install, evading traditional antivirus and static analysis tools.
 
-| Reason | What It Means for You | Quick Fix |
-|--------|-----------------------|-----------|
-| **Session Cap** | Claude’s persistent memory is capped at 200 sessions per user to prevent data bloat. | Reset the session counter via the admin console.
-| **Data Refresh Cycle** | After 200 sessions Claude switches to a fresh model snapshot, temporarily losing fine‑tuned nuances. | Export your key prompts before the reset and re‑import them.
-| **Policy Safeguard** | To comply with privacy regulations, the system auto‑archives older interactions after 200 sessions. | Opt‑in to extended retention in your account settings.
-
----
-
-## How to Keep Claude Learning Forever
-
-1. **Export & Import Prompts** – Use the built‑in export tool every 150 sessions.
-2. **Enable Extended Retention** – Turn on the “Long‑Term Memory” toggle in Settings → Advanced.
-3. **Create Session Buckets** – Organize work into projects; each project gets its own 200‑session pool.
-4. **Leverage Fine‑Tuning** – Periodically fine‑tune Claude with your exported logs for seamless continuity.
+### What You Get with Our Emergency Response Kit
+1. **Comprehensive Package List** – Up‑to‑date CSV of all compromised packages and safe alternatives.
+2. **Automated Remediation Script** – One‑click tool that scans your `package.json`, replaces infected modules, and runs integrity checks.
+3. **Real‑time Threat Feed** – Slack/Discord webhook delivering new infection alerts as they appear.
+4. **Incident Playbook** – Step‑by‑step guide for security teams to contain and report the breach.
+5. **Expert Support** – Direct line to our senior security engineers for rapid triage.
 
 ---
 
-## Real‑World Success Stories
-
-> *“After we started exporting prompts at 150 sessions, Claude’s performance stayed 98% stable. No more surprise drops!”* – **AI Ops Lead, FinTech Corp**
-
-> *“Extended retention gave us a 2× boost in productivity because we never lost context.”* – **Product Manager, HealthTech Startup**
-
----
-
-## Frequently Asked Questions
-
-**Q: Can I increase the 200‑session limit?**
-A: Yes, by upgrading to the *Pro* plan you get a 500‑session cap and unlimited retention.
-
-**Q: Will my data be safe if I enable extended retention?**
-A: All data remains encrypted at rest and in transit, complying with GDPR and CCPA.
-
-**Q: How do I know when I’m near the limit?**
-A: The dashboard shows a “Sessions Used” meter with a 10‑session warning.
+### How It Works (3 Simple Steps)
+1. **Download** the kit – instant access after checkout.
+2. **Run** the remediation script – it rewrites your lock file safely.
+3. **Monitor** ongoing alerts – stay ahead of future mutations.
 
 ---
 
-## Ready to Keep Claude Learning?
+### Trusted by Leading Tech Companies
+> "The Mini Shai‑Hulud kit saved our production pipeline in minutes. We avoided a costly breach." – *Lead Engineer, FinTech Corp*
 
-**Start your free 30‑day trial of Claude Pro** and get **unlimited session memory**, **priority support**, and **custom fine‑tuning**.
-
-[**Get Started – No Credit Card Required**](https://example.com/claude-pro-signup)
+> "Fast, reliable, and the support team answered every question within hours." – *CTO, SaaS Startup*
 
 ---
 
-*Keywords: Claude persistent learning, AI memory limit, 200 sessions, AI assistant continuity, Claude Pro upgrade*
+## 🎯 Take Action Now – Secure Your Supply Chain
+
+**[Get the Emergency Response Kit – $199]**
+
+*Limited availability. The first 200 buyers receive a complimentary security audit.*
+
+---
+
+### Frequently Asked Questions
+**Q:** *Do I need to be a security expert to use this?*  
+**A:** No. The script is fully automated; just run it in your CI pipeline.
+
+**Q:** *Will this break my existing dependencies?*  
+**A:** The kit replaces only compromised packages with vetted equivalents, preserving functionality.
+
+**Q:** *How often is the package list updated?*  
+**A:** Real‑time via our threat feed – you’ll always have the latest intel.
+
+---
+
+**Secure your codebase before the worm reaches your production.**
+
+---
+
+*© 2026 ProjectNexus – All rights reserved.*
