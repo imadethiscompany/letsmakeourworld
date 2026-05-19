@@ -1,25 +1,44 @@
-# PollyReach
+# imgproxy v4 – Fast, Secure Image Processing for Modern Apps
 
-## Unlock the Power of Conversational AI for Your Business
+## Transform Images in Real‑Time, at Scale
 
-**PollyReach** turns customer conversations into actionable insights and automated outreach, so your team can focus on closing deals, not chasing leads.
-
-### Why PollyReach?
-- **Increase response rates by up to 45%** with AI‑crafted, personalized messages.
-- **Cut outreach time by 70%** – let the AI handle follow‑ups, reminders, and nurturing.
-- **Seamless integration** with your existing CRM, email, and chat tools.
-
-### How It Works
-1. **Connect** your CRM or email platform.
-2. **Train** PollyReach on your brand voice in minutes.
-3. **Deploy** AI‑driven outreach that writes, sends, and optimizes messages automatically.
-
-### Real Results
-- *$2.3M* in new revenue for a SaaS startup in 3 months.
-- *30%* higher lead conversion for a B2B consultancy.
-
-### Ready to Transform Your Outreach?
-[Get Started Free](/signup) – No credit card required.
+**Instantly resize, crop, watermark, and optimize** any image on the fly with a single URL. imgproxy v4 delivers **ultra‑low latency** and **end‑to‑end encryption**, so your users see perfect visuals instantly, while you keep costs down.
 
 ---
-**PollyReach** – AI‑powered conversations that convert.
+
+### Why imgproxy v4?
+- **Speed:** Sub‑millisecond processing powered by Rust and SIMD.
+- **Security:** Signed URLs + TLS guarantee that only authorized transformations run.
+- **Scalability:** Horizontal scaling on Kubernetes or serverless, handling millions of requests per day.
+- **Cost‑Effective:** No per‑image fees – pay only for infrastructure you already have.
+- **Developer Friendly:** Simple REST API, SDKs for Go, Node, Python, Ruby.
+
+---
+
+### How It Works
+1. **Upload** your source image to any storage (S3, GCS, local).
+2. **Generate** a signed URL with the desired transformations.
+3. **Embed** the URL – imgproxy serves the transformed image instantly.
+
+---
+
+### Trusted by Leading Brands
+- **Acme Media** – 2× faster page loads, 30% lower CDN costs.
+- **FinTech Pro** – Secure image handling for sensitive documents.
+- **Shopify Plus** – Seamless product image resizing across 50+ stores.
+
+---
+
+## Get Started in Minutes
+
+🚀 **Free Trial** – No credit card required. Deploy to your account and see the performance boost.
+
+💳 **Buy Now** – Ready for production? Click below to purchase a license and get priority support.
+
+---
+
+[**Start Free Trial**](https://example.com/imgproxy-v4/trial)  |  [**Buy Now – $199/mo**](https://example.com/imgproxy-v4/buy)
+
+---
+
+*Have questions?* Reach out at **support@imgproxy.com**.
