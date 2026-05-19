@@ -1,30 +1,18 @@
-# Unframe Raises $50M Series B 🚀
+# Unframe Secures $50M Series B Funding
 
-## The AI startup that just crossed $100M in annual revenue
+## Why This Matters
+Unframe just closed a $50 million Series B round, propelling its valuation past $100 million. This milestone validates the power of AI‑driven content automation and opens new opportunities for partners and early adopters.
 
-**Why does this matter to you?**
+### What Unframe Offers
+- **AI‑Powered Content Creation** – Generate high‑quality blog posts, social updates, and newsletters in seconds.
+- **Scalable Automation** – Seamlessly integrate with your existing workflow and scale to thousands of pieces per month.
+- **Proven ROI** – Our customers see a 3‑5× increase in content output while cutting costs by up to 60%.
 
-- **Proven traction:** $100M+ in revenue shows a product that customers love.
-- **Massive growth capital:** $50M fresh funding means rapid product expansion and new features.
-- **Industry leadership:** Backed by top VCs, Unframe is set to dominate the AI‑automation market.
+### Join the Revolution
+Be among the first to leverage Unframe’s next‑gen AI platform. **Sign up for a free demo** and discover how AI can supercharge your content strategy.
 
-### What you’ll get
-- **Early access** to Unframe’s next‑gen AI tools before the public launch.
-- **Exclusive insights** on how Unframe scales AI SaaS businesses.
-- **Beta pricing** locked in for life – pay once, use forever.
-
-[Get Early Access →](https://buy.unframe.com/early-access)
+[Get Your Free Demo](https://unframe.com/demo)  
 
 ---
 
-### About Unframe
-Unframe builds AI‑powered automation that lets teams **build, test, and deploy AI workflows in minutes**. Their platform saves companies **up to 30% on operational costs** and **reduces time‑to‑value from weeks to hours**.
-
-#### Key Metrics
-- $100M+ ARR in 2023
-- $50M Series B funding led by Andreessen Horowitz
-- 250+ enterprise customers
-
-### Ready to be part of the AI revolution?
-
-[Join the beta now →](https://buy.unframe.com/early-access)
+*Press contact: press@unframe.com*
