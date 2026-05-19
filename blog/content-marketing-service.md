@@ -1,46 +1,48 @@
-# Content Marketing Service – Drive Leads & Authority
+# Content Marketing Service
 
-**Unlock the power of strategic content that attracts, engages, and converts your ideal customers.**
+## Unlock Explosive Growth with Expert Content Marketing
+
+Are you struggling to attract qualified leads, rank on Google, or keep your audience engaged? Our **Content Marketing Service** turns your brand into a traffic‑generating machine.
+
+### Why Content Marketing?
+- **80% of B2B buyers** prefer to learn about a company through articles, videos, and guides before contacting sales.
+- Companies that blog **regularly generate 67% more leads** than those that don’t.
+- High‑quality, SEO‑optimized content **boosts domain authority**, leading to higher rankings and lower paid‑ad costs.
+
+### What We Deliver
+| Feature | Benefits |
+|---|---|
+| **Strategic Content Roadmap** | Aligns topics with buyer intent, ensuring every piece moves prospects through the funnel. |
+| **SEO‑Optimized Blog Posts** | Targeted keywords, on‑page SEO, and internal linking to rank faster. |
+| **Thought‑Leadership Assets** | Whitepapers, case studies, and webinars that position you as an industry authority. |
+| **Distribution & Promotion** | Social amplification, outreach, and backlink acquisition for maximum reach. |
+| **Performance Dashboard** | Real‑time traffic, ranking, and conversion metrics so you see ROI instantly. |
+
+### Our Proven Process
+1. **Discovery & Audit** – Deep dive into your brand, audience, and current content.
+2. **Keyword & Topic Research** – Identify high‑intent, low‑competition keywords.
+3. **Content Creation** – Expert writers craft SEO‑ready, conversion‑focused pieces.
+4. **Optimization & Publishing** – Technical SEO, schema, and fast-loading pages.
+5. **Amplification** – Strategic outreach, social scheduling, and link‑building.
+6. **Measurement & Iteration** – Monthly reporting and roadmap adjustments.
+
+### Success Stories
+- **SaaS Startup**: 3x organic traffic in 4 months, $150k MRR increase.
+- **E‑commerce Brand**: 45% boost in product page conversions via content‑driven FAQs.
+- **Professional Services Firm**: Ranked #1 for "digital transformation consulting" and generated 30+ qualified leads per month.
+
+### Packages
+| Plan | Monthly Price | Includes |
+|---|---|---|
+| **Starter** | $799 | 4 blog posts, SEO audit, basic promotion |
+| **Growth** | $1,599 | 8 blog posts, 2 whitepapers, outreach, dashboard |
+| **Enterprise** | Custom | Unlimited content, dedicated strategist, full‑funnel assets |
+
+### Ready to Dominate Search?
+**Get a free content audit** and see exactly how we can skyrocket your traffic.
+
+[**Schedule a Call**](/contact?service=content-marketing)  
+Or email us at **content@yourcompany.com**.
 
 ---
-
-## Why Content Marketing?
-- **Generate qualified leads** – 70% of B2B buyers consume content before contacting sales.
-- **Build authority** – Rank on Google’s first page and become the go‑to solution in your niche.
-- **Boost ROI** – Content delivers 3x higher ROI than paid ads over 12 months.
-
----
-
-## Our All‑In‑One Service
-| What You Get | How It Works |
-|--------------|--------------|
-| **Strategy Blueprint** – Keyword research, audience personas, content pillars. | We start with a data‑driven audit to uncover high‑intent topics. |
-| **SEO‑Optimized Content** – Blog posts, case studies, landing pages, ebooks. | Our copywriters follow a proven SEO framework (keyword in title, headings, first 100 words). |
-| **Distribution & Promotion** – Social, email newsletters, guest posting. | We amplify your content to the channels your audience lives on. |
-| **Performance Dashboard** – Traffic, leads, rankings, conversion tracking. | Real‑time analytics keep you in control of ROI. |
-
----
-
-## How We Turn Readers into Customers
-1. **Capture Attention** – Magnetic headlines that match search intent.
-2. **Educate & Trust** – In‑depth, data‑backed content that solves pain points.
-3. **Guide the Journey** – Clear CTAs, lead magnets, and gated resources.
-4. **Nurture Leads** – Automated email sequences that move prospects down the funnel.
-
----
-
-## Success Stories
-- **SaaS Startup** – 5x organic traffic, 120 qualified leads in 90 days.
-- **E‑commerce Brand** – 3x increase in conversion rate from blog to product pages.
-- **Professional Services Firm** – Ranked #1 for "B2B content marketing agency" in 4 weeks.
-
----
-
-## Ready to Grow Your Business?
-**Book a free strategy call** and see a custom roadmap for your brand.
-
-[Schedule My Call →](https://calendly.com/yourcompany/strategy-call)
-
----
-
-*Boost your brand, dominate search, and convert traffic into revenue with our proven Content Marketing Service.*
+*Optimized for SEO – targeting keywords: "content marketing service", "content marketing agency", "content marketing for businesses".*
