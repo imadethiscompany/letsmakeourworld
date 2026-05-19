@@ -1,24 +1,25 @@
 # YouTube Automation Agency
 
-## Scale Your Channel, Maximize Revenue
+## Scale Your Channel to 6‑Figures Without Lifting a Finger
 
-**Turn your YouTube channel into a profit‑machine without lifting a finger.**
-
-- **Full video production** – script, AI‑voice, motion graphics, editing.
-- **AI‑driven SEO** – keyword research, thumbnail design, algorithm‑friendly titles.
-- **End‑to‑end automation** – uploads, scheduling, community management.
-- **Performance dashboard** – real‑time analytics, ROI tracking.
+**What we do** – End‑to‑end automation of video creation, uploading, SEO, and community management. From script to thumbnail, we handle it all so you can focus on ideas.
 
 ### Why Choose Us?
-1. **Zero hiring overhead** – we handle creators, editors, marketers.
-2. **Speed to market** – first video live in 48h.
-3. **Predictable pricing** – start at $1,500/mo, scale with revenue share.
-4. **Proven results** – 10× subscriber growth for 30+ clients.
+- **Zero editing time** – AI‑generated scripts, voice‑overs, and motion graphics.
+- **Instant SEO** – Keyword‑rich titles, tags, and descriptions that rank.
+- **Growth Engine** – Automated community engagement, comment replies, and cross‑platform repurposing.
+- **Proven ROI** – Clients see **3‑5×** increase in views & revenue within 30 days.
+
+### Packages
+| Package | Monthly Fee | Videos/Month | Features |
+|---|---|---|---|
+| **Starter** | $499 | 4 | AI script, voice‑over, thumbnail, basic SEO |
+| **Growth** | $999 | 8 | All Starter + custom motion graphics, community bot |
+| **Enterprise** | $1999 | 15 | All Growth + dedicated account manager, full analytics |
 
 ### Ready to Automate?
-👉 **Book a free strategy call** – [Schedule Now](https://calendly.com/yt-automation/strategy)
 
-Or click **Get Started** to sign up instantly and watch your channel explode.
+[**Start Your Free Trial**](https://example.com/checkout?plan=starter) – No credit card required. Get your first video live in 48 hours.
 
 ---
-*© 2024 YouTube Automation Agency – All rights reserved.*
+*Trusted by 200+ creators, agencies, and brands.*
