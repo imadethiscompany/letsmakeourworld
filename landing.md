@@ -1,32 +1,22 @@
-# Transform Banking with AI
+# PollyReach
 
-**Headline:** Cut 7,000+ jobs while boosting profitability with StanChart AI Automation.
+## Unlock Real-Time Audience Engagement with AI
 
-**Subheadline:** Replace repetitive, lower‑value human tasks with intelligent automation that scales, saves costs, and drives growth.
+PollyReach transforms how brands connect with their audience. Harness AI-driven voice calls and SMS to capture leads, gather feedback, and drive conversions—automatically.
 
----
-
-### Why StanChart AI?
-- **Massive Cost Reduction:** Automate routine processes to eliminate over 7,000 low‑value positions.
-- **Revenue Acceleration:** AI‑driven insights unlock new revenue streams and cross‑sell opportunities.
-- **Regulatory Compliance:** Built‑in audit trails keep you compliant while cutting manual effort.
-- **Rapid Deployment:** Get AI up and running in weeks, not months.
-
----
+### Why PollyReach?
+- **Instant Reach**: Call or text thousands of contacts in minutes.
+- **AI-Powered Conversations**: Natural language understanding turns chats into qualified leads.
+- **Boost ROI**: 3x higher response rates vs traditional outreach.
 
 ### How It Works
-1. **Assess & Map** – Our team audits your current workflows.
-2. **Deploy AI Bots** – Replace manual steps with custom‑trained models.
-3. **Monitor & Optimize** – Continuous improvement ensures maximum ROI.
+1. **Upload Your List** – CSV, CRM, or API.
+2. **Design AI Scripts** – No coding, drag‑and‑drop flow.
+3. **Launch Campaign** – PollyReach calls or texts, records, and scores leads.
 
----
+### Trusted By
+*FastFin*, *EcoWear*, *HealthPlus* – delivering 150% lift in engagement.
 
-### Trusted by Industry Leaders
-> "StanChart AI transformed our back‑office, saving us millions and freeing staff for higher‑value work." – CFO, Global Bank
+**Ready to supercharge your outreach?**
 
----
-
-#### Ready to future‑proof your bank?
-
-[**Get a Free Strategy Call**](https://example.com/strategy-call)  
-*No obligations – just a roadmap to AI‑enabled efficiency.*
+[Get Started Free](/signup)
