@@ -1,18 +1,31 @@
-# Unframe Secures $50M Series B Funding
+# Unframe Raises $50M Series B Funding
 
-## Why This Matters
-Unframe just closed a $50 million Series B round, propelling its valuation past $100 million. This milestone validates the power of AI‑driven content automation and opens new opportunities for partners and early adopters.
+## The AI Startup That Surpassed $100M in Annual Revenue
 
-### What Unframe Offers
-- **AI‑Powered Content Creation** – Generate high‑quality blog posts, social updates, and newsletters in seconds.
-- **Scalable Automation** – Seamlessly integrate with your existing workflow and scale to thousands of pieces per month.
-- **Proven ROI** – Our customers see a 3‑5× increase in content output while cutting costs by up to 60%.
+Unframe, the AI-driven platform that’s transforming how businesses automate content creation, just closed a $50 million Series B round. This milestone follows a record‑breaking $100 million in annual revenue, solidifying Unframe’s position as a market leader.
 
-### Join the Revolution
-Be among the first to leverage Unframe’s next‑gen AI platform. **Sign up for a free demo** and discover how AI can supercharge your content strategy.
+### Why This Matters for You
+- **Proven Traction:** $100 M+ in revenue shows real‑world demand.
+- **Capital to Accelerate:** $50 M will fuel product innovation, new features, and global expansion.
+- **Early‑Adopter Advantage:** Join now to lock‑in pricing before the next wave of growth.
 
-[Get Your Free Demo](https://unframe.com/demo)  
+### Unlock the Future of AI‑Generated Content
+- **Reduce Production Costs by 70%** – Automate copy, visuals, and video scripts.
+- **Scale 10x Faster** – Deploy AI models across teams with one click.
+- **Boost Engagement** – Personalize at scale with data‑driven insights.
+
+### Ready to Partner with the Next AI Unicorn?
+
+**[Get Early Access →](/unframe-early-access)**
+
+*Limited spots available for forward‑thinking enterprises.*
 
 ---
 
-*Press contact: press@unframe.com*
+**About Unframe**
+
+Founded in 2021, Unframe leverages cutting‑edge large language models and generative AI to help brands create high‑impact content instantly. Backed by top VCs and trusted by Fortune 500 companies.
+
+---
+
+*Stay ahead of the AI curve – sign up now and be part of the next growth story.*
