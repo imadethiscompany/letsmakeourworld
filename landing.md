@@ -1,19 +1,26 @@
-# The Ultimate Live Ranking of Every AI Agent & Foundation Model (Open Source)
+# OpenAI Adopts Google's SynthID Watermark for AI Images
 
-Discover the most up-to-date, unbiased leaderboard of all open‑source AI agents and foundation models. Compare performance, features, licensing, and community activity in real time.
+## Verify your AI‑generated images instantly
 
-## Why It Matters
-- **Stay Ahead:** Instantly see which models are gaining traction.
-- **Make Informed Choices:** Filter by task, size, license, and benchmarks.
-- **Open‑Source First:** All data sourced from public repos and community metrics.
+OpenAI is now using Google's **SynthID** watermark to embed a hidden, tamper‑proof signature in every AI‑generated image. Our **SynthID Verification Tool** lets you:
 
-## What You Get
-- Live, auto‑updated ranking table
-- Deep dive cards for each model
-- Exportable CSV/JSON data
-- Alerts for new releases
+- **Detect** whether an image was created by AI in seconds.
+- **Validate** the authenticity of the watermark without any extra software.
+- **Protect** your brand by ensuring only verified AI content is published.
 
-## Ready to Unlock the AI Landscape?
-[Get Access Now](/checkout?product=ai-agent-ranking)
+### Why it matters
+- **Combat misinformation** – Stop deep‑fakes before they spread.
+- **Maintain trust** – Show clients that your visuals are responsibly sourced.
+- **Stay ahead** – Leverage the same technology OpenAI trusts.
 
-*No credit card required for the free tier. Premium tier $49/mo for API access and alerts.*
+### How it works
+1. Upload an image.
+2. Our engine scans the hidden SynthID signature.
+3. Get an instant verification report.
+
+### Ready to secure your visual content?
+
+[Get Started →](/signup)
+
+---
+*OpenAI’s adoption of SynthID signals a new standard for AI image provenance. Be the first to offer verification to your users.*
