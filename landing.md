@@ -1,49 +1,40 @@
-# AI Camera Controversy in Schools; Residents Fight Proposed APS Rate Hike – Night
+# AI Camera Controversy in Schools – Residents Fight Proposed APS Rate Hike
 
-## Headline
-**Stop the Surveillance Overreach – Protect Your Kids & Keep Taxes Low**
+**Breaking News – Night Edition**
 
-### Sub‑headline
-Arizona school districts are installing AI‑powered cameras that record every hallway, while the Arizona Public Service (APS) threatens a steep rate hike. Join the community movement that demands privacy, transparency, and affordable energy.
+*Stay informed with the latest developments on school surveillance and the looming APS tax increase that could affect every household.*
 
 ---
 
-### Why This Matters
-- **Privacy at Risk:** AI cameras can identify students, track movements, and store facial data – a breach of constitutional rights.
-- **Higher Bills:** APS’s proposed rate increase could add **$30‑$50** per month to your household.
-- **Community Power:** Parents, teachers, and local leaders are uniting to demand accountability.
+## Why This Matters
+- **Privacy at Risk:** Schools across the district are installing AI‑powered cameras that can track student movements and facial expressions.
+- **Community Backlash:** Parents and local residents are organizing protests, demanding transparency and stricter oversight.
+- **Financial Impact:** The proposed APS (Arizona Public Service) rate hike could add **$120‑$250** to annual utility bills for families already facing school budget cuts.
 
 ---
 
-### What You’ll Get When You Sign Up
-1. **Exclusive Investigation Report** – In‑depth analysis of the AI camera contracts, legal implications, and APS rate proposal.
-2. **Action Kit** – Ready‑to‑use petition templates, phone scripts, and social media graphics.
-3. **Live Updates** – Real‑time alerts on council meetings, court filings, and protest dates.
-4. **Direct Access** – Join a private Slack channel with experts, activists, and journalists.
+## What You’ll Get
+- **In‑Depth Report:** Detailed analysis of the AI camera rollout, legal implications, and privacy safeguards.
+- **Resident Action Guide:** Step‑by‑step instructions on how to join protests, contact school boards, and influence policy.
+- **APS Rate Breakdown:** Clear charts showing how the rate hike will affect different income brackets.
+- **Exclusive Interviews:** Voices from teachers, parents, and experts on AI ethics.
 
 ---
 
-### Social Proof
-> *"I never thought a school could become a surveillance state. This report gave me the facts and the tools to fight back."* – **Maria G., Phoenix parent**
+## Take Action Now
+**Download the free report** and become part of the movement protecting our children’s privacy and your wallet.
 
-> *"APS’s rate hike is a nightmare for renters. The community guide helped us organize a town hall that got the board’s attention."* – **Javier L., Tucson resident**
-
----
-
-### Take Action Now
-**[Get the Full Report & Action Kit – $9.99]**
-
-*One‑time payment. Instant download. No recurring fees.*
+[**Get the Report**](https://letsmakeourworld-a5ixo5cah-vikasvardhanvs-projects.vercel.app/ai-camera-aps-report)
 
 ---
 
-#### FAQs
-**Q:** Is this report free?
-**A:** The investigative research costs money to produce, but the price covers a sustainable activist network that keeps fighting for you.
+### FAQ
+**Q:** Is the report really free?
+**A:** Yes. No credit card required – just your email to receive the PDF.
 
-**Q:** Will my data be safe?
-**A:** All purchases are processed securely via Stripe. We never store credit‑card info.
+**Q:** How can I help stop the APS rate hike?
+**A:** Use the action guide to contact your local representatives and attend community meetings.
 
 ---
 
-*Join the movement. Protect privacy. Stop the rate hike.*
+*Stay tuned for daily updates on this story – Night brings you the facts that matter.*
