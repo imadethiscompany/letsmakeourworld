@@ -1,38 +1,23 @@
-# Google & Blackstone AI Cloud Venture – Invest Now
+# Shutterstock to Pay $35M Over Hard-to-Cancel Subscriptions
 
-## Unlock the Future of Enterprise AI
+## Stop Losing Money on Uncancellable Subscriptions
 
-Google and Blackstone are teaming up to launch a **new AI‑powered cloud platform** that will power the next generation of data‑intensive applications. Backed by two of the world’s most trusted brands, this venture will deliver:
+Are you tired of paying for services you can’t cancel? **Shutterstock** just settled **$35 million** for hard‑to‑cancel subscriptions – a warning sign for every business.
 
-- **Scale at Google‑grade**: Global infrastructure, ultra‑low latency, and unmatched reliability.
-- **Enterprise‑ready security**: End‑to‑end encryption, compliance certifications, and private‑cloud options.
-- **AI‑first services**: Pre‑trained models, custom model training, and seamless integration with Google Workspace.
-- **Accelerated time‑to‑value**: Turnkey solutions that get your AI workloads live in days, not months.
+### Why This Matters for You
+- **Hidden fees** drain cash flow.
+- **Complex cancel processes** keep you locked in.
+- **Regulatory risk** can hit your bottom line.
 
-**Why act now?**
-- Early investors will secure preferential pricing and dedicated support.
-- The market is projected to grow **$1.2 trillion** in AI cloud spend by 2028.
-- Limited seats are available as the partnership finalizes its go‑to‑market strategy.
+### Our Solution
+We help companies audit, cancel, and renegotiate unwanted SaaS contracts before they become a liability.
 
----
+- **Free audit** of your current subscriptions.
+- **Negotiation support** to get better terms or walk away.
+- **Automated cancellation** tools that actually work.
 
-### Ready to be part of the AI cloud revolution?
+### Ready to Protect Your Budget?
 
-[**Reserve Your Spot – Join the Waitlist**](/reserve)  
-*(No credit card required – we’ll follow up with details.)*
+[Get Your Free Subscription Audit Now](#)
 
----
-
-#### FAQ
-**Q:** Who can join?
-**A:** Enterprises, ISVs, and high‑growth startups looking to scale AI workloads.
-
-**Q:** What’s the timeline?
-**A:** Beta launch Q4 2024, full rollout Q2 2025.
-
-**Q:** How is this different from existing cloud AI services?
-**A:** It combines Google’s unmatched infrastructure with Blackstone’s capital‑backed go‑to‑market expertise, delivering a premium, enterprise‑grade AI cloud at a fraction of current costs.
-
----
-
-*This is a high‑intent landing page for investors and enterprise buyers interested in the upcoming Google‑Blackstone AI cloud partnership.*
+*No credit card required. 30‑day money‑back guarantee.*
