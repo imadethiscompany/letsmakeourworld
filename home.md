@@ -1,24 +1,27 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel on Autopilot
+## Scale Your Channel, Automate Your Growth
 
-🚀 **Launch & Grow** – We handle content creation, SEO, thumbnail design, and posting so you can focus on your business.
+**Turn YouTube into a revenue machine without lifting a finger.**
+
+- **Full video production** – AI‑generated scripts, voice‑overs, motion graphics.
+- **Channel management** – SEO‑optimized titles, tags, thumbnails, and posting schedule.
+- **Audience building** – Automated comment engagement, community outreach, and retargeting ads.
+- **Monetization** – Sponsorship matchmaking, merch integration, and ad‑revenue optimization.
 
 ### Why Choose Us?
-- **Full Automation**: AI‑generated scripts, voice‑overs, and video editing.
-- **SEO‑Optimized**: Keyword‑rich titles, tags, and descriptions that rank.
-- **Consistent Uploads**: 2‑5 videos per week, on schedule.
-- **Revenue Boost**: Monetization strategies, sponsorship matchmaking, and ad‑revenue optimization.
+- **Zero hiring** – All content created by AI, saving $5k‑$15k per month.
+- **Fast turnaround** – New video published in 48 hours.
+- **Proven results** – 3X subscriber growth for our clients in 90 days.
 
 ### Packages
-| Plan | Videos/Month | Price |
-|------|--------------|-------|
-| **Starter** | 2 | $499 |
-| **Growth** | 4 | $899 |
-| **Scale** | 8 | $1,599 |
+| Package | Monthly Fee | Videos Included | Key Benefits |
+|---|---|---|---|
+| **Starter** | **$499** | 4 | AI script + voice + thumbnail |
+| **Growth** | **$999** | 8 | Full motion graphics + SEO |
+| **Enterprise** | **$1999** | 12+ | Dedicated strategy + ad spend management |
 
-### Ready to Automate?
-[**Get Started Now**](https://example.com/checkout) – Limited slots available!
+**Ready to dominate YouTube?**
 
----
-*We’ve helped over 150 creators double their subscriber count in 90 days.*
+[Get Started Now](https://example.com/checkout?product=yt-automation)  
+Or book a free 15‑minute strategy call: [Schedule Here](https://calendly.com/yt-automation/15min)
