@@ -1,35 +1,26 @@
-# Unframe Secures $50M Series B Funding
+# Google I/O 2024 – Unlock the Future of AI & Cloud
 
-**Headline:** *Unframe Raises $50M Series B After Surpassing $100M in ARR*  
+## Experience the next wave of innovation
 
-**Subheadline:** Accelerating AI-driven content creation for enterprises. Join the wave of innovators leveraging Unframe’s platform to boost productivity and cut costs.
+Join the world’s leading developers, engineers, and visionaries at **Google I/O 2024**. Get hands‑on access to the latest AI models, Cloud breakthroughs, and product demos that will transform your business.
 
----
+### Why Attend?
+- **Live demos** of Gemini, Bard, and Vertex AI – see real‑world impact.
+- **Exclusive workshops** with Google engineers – walk away with ready‑to‑use code.
+- **Network** with top tech leaders and potential partners.
+- **Early access** to upcoming releases and beta programs.
 
-### Why This Matters
-- **$100M+ ARR Milestone:** Proven revenue traction signals market demand.
-- **$50M Fresh Capital:** Enables rapid product expansion, new integrations, and global sales.
-- **AI‑Powered Automation:** Generate, edit, and localize content 10x faster.
+### Secure Your Spot
 
----
+**Limited seats** – Register now to guarantee your place. By registering you’ll receive:
+- Personalized agenda based on your interests.
+- Early‑bird swag and exclusive digital resources.
+- A direct line to our **AI Partner Program** for post‑event support.
 
-### What You Get
-1. **Enterprise‑grade AI Content Engine** – Create blogs, emails, and social posts in seconds.
-2. **Scalable Collaboration** – Teams work together with version control and approvals.
-3. **Analytics Dashboard** – Track ROI, engagement, and cost savings.
+> *“Google I/O is where the future is announced. Don’t miss the chance to be part of it.”* – Former Google Developer Advocate
 
----
-
-### Ready to Transform Your Content Strategy?
-
-[**Get Early Access**](https://unframe.com/early-access) – Limited spots for forward‑thinking companies.
+[**Register for Free**](/register?event=google-io-2024)
 
 ---
 
-#### Social Proof
-- **"Unframe cut our content creation time from 8 hours to 45 minutes."** – CTO, Fortune 500
-- **"Our SEO traffic grew 42% after switching to Unframe."** – Marketing VP, SaaS startup
-
----
-
-**CTA:** *Join the AI content revolution today.*
+*Powered by Let’s Make Our World – Building high‑intent experiences for tech events.*
