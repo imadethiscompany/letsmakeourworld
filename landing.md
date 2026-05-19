@@ -1,53 +1,24 @@
----
-title: "YouTube Automation Agency – Scale Your Channel Effortlessly"
-slug: "youtube-automation-agency"
-meta:
-  description: "Professional YouTube automation agency that grows your channel, creates viral content, and handles all video production. Get more views, subscribers, and revenue without lifting a finger."
-  keywords: ["YouTube automation", "video outsourcing", "channel growth", "content creation", "AI video automation"]
----
+# YouTube Automation Agency
 
-# 🎬 Grow Your YouTube Channel on Autopilot
+## Scale Your Channel, Maximize Revenue
 
-Are you tired of spending **hours** on video ideas, scripts, editing, and publishing? Our **YouTube Automation Agency** does the heavy lifting for you so you can focus on what matters – **creating your brand** and **monetizing**.
+**Turn your YouTube channel into a profit‑machine without lifting a finger.**
 
-## Why Choose Us?
+- **Full video production** – script, AI‑voice, motion graphics, editing.
+- **AI‑driven SEO** – keyword research, thumbnail design, algorithm‑friendly titles.
+- **End‑to‑end automation** – uploads, scheduling, community management.
+- **Performance dashboard** – real‑time analytics, ROI tracking.
 
-| ✅ | Feature | Benefit |
-|---|---|---|
-| **AI‑Powered Research** | Trend‑spotting, keyword analysis & script generation | Faster content that ranks first on search |
-| **Full‑Service Production** | Script → Voiceover → Motion Graphics → Editing | Professional‑grade videos in 48 h |
-| **Channel Management** | Upload, SEO metadata, thumbnail design, community replies | Higher CTR & watch‑time |
-| **Performance Dashboard** | Real‑time analytics, ROI tracking | Make data‑driven decisions |
-| **Zero Risk** | 30‑day money‑back guarantee | Peace of mind |
+### Why Choose Us?
+1. **Zero hiring overhead** – we handle creators, editors, marketers.
+2. **Speed to market** – first video live in 48h.
+3. **Predictable pricing** – start at $1,500/mo, scale with revenue share.
+4. **Proven results** – 10× subscriber growth for 30+ clients.
 
-## How It Works – 3 Simple Steps
+### Ready to Automate?
+👉 **Book a free strategy call** – [Schedule Now](https://calendly.com/yt-automation/strategy)
 
-1. **Tell us your niche** – You give us a brief, we do the research.
-2. **We create & upload** – AI‑script, voice‑over, custom motion graphics, SEO‑optimized upload.
-3. **Watch the growth** – Dashboard shows views, subs, revenue; we iterate.
-
-### 🎁 Limited Offer: First 5 Videos Free
-Sign up today and get **5 professionally produced videos** on us. No contracts, no hidden fees.
+Or click **Get Started** to sign up instantly and watch your channel explode.
 
 ---
-
-## Frequently Asked Questions
-
-**Q:** *Do I need any equipment?*  
-**A:** No. We handle everything from script to final upload.
-
-**Q:** *Will the videos sound like me?*  
-**A:** We use **AI voice cloning** that matches your tone, or you can provide your own voice‑over.
-
-**Q:** *How fast can I see results?*  
-**A:** Most clients see a **30‑50% lift in views** within the first month.
-
----
-
-## Ready to Automate Your Success?
-
-[**Start Your Free Trial →**](https://example.com/checkout?product=youtube-automation)
-
----
-
-*Optimized for SEO, conversion‑focused, and ready for Vercel deployment.*
+*© 2024 YouTube Automation Agency – All rights reserved.*
