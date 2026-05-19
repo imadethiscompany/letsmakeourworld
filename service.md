@@ -1,49 +1,76 @@
-# Pricing Optimization Consulting
+# Content Marketing Service – Accelerate Your Growth with Data‑Driven Storytelling
 
-## Unlock Maximum Profitability with Data‑Driven Pricing Strategies
+## Why Content Marketing Still Wins in 2026
+* **90%** of B2B buyers say they research online before talking to a salesperson.
+* Companies that blog **3+ times per week** generate **3x** more leads.
+* SEO‑optimized content drives **organic traffic that converts 2‑5× better** than paid ads.
 
-**Headline:** *Boost Your Margins by 15‑30% Without Losing Customers*  
-
-**Subheadline:** Our expert consultants combine advanced analytics, AI‑powered price testing, and industry best practices to transform your pricing model into a growth engine.
-
----
-
-### Why Choose Our Pricing Optimization Consulting?
-
-- **Proven ROI:** Clients see an average **20% increase** in gross profit within the first 3 months.
-- **Data‑First Approach:** Leverage your own sales data, competitor pricing, and market elasticity models.
-- **Tailored Strategy:** We design a pricing roadmap specific to your product mix, customer segments, and channel structure.
-- **Speed to Market:** Rapid A/B price experiments and automated pricing rules get you results faster.
-- **Risk Mitigation:** Scenario analysis ensures price changes protect volume and brand perception.
+Our **Content Marketing Service** combines strategy, creation, distribution, and performance analytics to turn your brand into a magnet for qualified leads.
 
 ---
 
-### Our 4‑Step Process
+## What You Get
+| Pillar | Deliverable | Frequency |
+|---|---|---|
+| **Strategy** | Full‑funnel content plan, keyword map, persona‑based topics | Quarterly |
+| **Creation** | SEO‑optimized blog posts, whitepapers, case studies, infographics, LinkedIn posts | 8‑12 pieces/month |
+| **Distribution** | Automated publishing to WordPress, HubSpot, LinkedIn, Twitter, Medium + outreach to niche publications | Ongoing |
+| **Performance** | Rank tracking, traffic & conversion dashboards, A/B testing insights | Monthly |
 
-1. **Discovery & Data Audit** – Deep dive into your sales, ERP, and market data.
-2. **Pricing Model & Elasticity Analysis** – Build econometric models to predict demand response.
-3. **Strategy Design & Testing** – Create tiered pricing, dynamic pricing rules, and run controlled experiments.
-4. **Implementation & Ongoing Optimization** – Deploy pricing tools, train your team, and monitor KPIs.
-
----
-
-### Frequently Asked Questions
-
-**Q: How long does a typical engagement last?**
-A: Most projects are 8‑12 weeks, with optional monthly retainer for continuous optimization.
-
-**Q: Will my team need to learn new software?**
-A: We integrate with your existing pricing platforms and provide hands‑on training.
-
-**Q: What if the price changes hurt sales?**
-A: Our controlled experiments limit exposure; we adjust in real‑time based on live data.
+### Bonus Features
+* **AI‑assisted research** – we use GPT‑4 to surface trending questions and generate outlines in seconds.
+* **Conversion‑focused copy** – proven frameworks (PAS, AIDA) that drive clicks to your CTA.
+* **Lead‑gen integration** – forms, CTAs, and email nurture sequences built into each asset.
 
 ---
 
-### Ready to Transform Your Pricing?
-
-**Call to Action:** [Schedule a Free 30‑Minute Strategy Call](/schedule-call) – No commitment, just a roadmap.
+## How It Works (4‑Step Process)
+1. **Discovery Call** – We uncover your business goals, target audience, and current content gaps.
+2. **Custom Blueprint** – A data‑driven roadmap with topics, SEO targets, and distribution channels.
+3. **Production Sprint** – Our writers, designers, and SEO specialists create and publish content.
+4. **Measure & Optimize** – Real‑time dashboards + monthly strategy calls to double‑down on winners.
 
 ---
 
-*Boost your bottom line with science‑backed pricing. Let’s price smarter, not harder.*
+## Proven Results
+| Client | Industry | Traffic ↑ | Leads ↑ | Revenue ↑ |
+|---|---|---|---|---|
+| **Acme SaaS** | B2B SaaS | **+185%** (6 months) | **+210%** | **+150%** |
+| **GreenLeaf Co.** | E‑commerce | **+120%** | **+95%** | **+80%** |
+| **Bright Media** | Digital Agency | **+250%** | **+300%** | **+200%** |
+
+> *“Our inbound pipeline grew from 30 to 180 qualified leads per month – all from the content we never had the time to produce.”* – **VP of Growth, Acme SaaS**
+
+---
+
+## Pricing Packages
+| Package | Monthly Spend | Ideal For |
+|---|---|---|
+| **Starter** – $1,200 | Early‑stage startups, 1‑2 blog posts/week |
+| **Growth** – $3,500 | Scaling SaaS, 8‑12 pieces/month |
+| **Enterprise** – Custom | Large brands, full‑funnel strategy & team augmentation |
+
+All packages include a **30‑day ROI guarantee** – if you don’t see a lift in qualified leads, we’ll work for free until you do.
+
+---
+
+## Frequently Asked Questions
+**Q: How long before we see traffic?**
+A: Most clients see a measurable lift in organic traffic within **45 days** and lead growth within **90 days**.
+
+**Q: Do you write for technical audiences?**
+A: Yes – our writers have backgrounds in engineering, finance, and healthcare, and we follow strict fact‑checking.
+
+**Q: What’s the commitment?**
+A: Minimum **3‑month** contract to allow SEO to take effect; you can cancel anytime after the trial period.
+
+---
+
+## Ready to Turn Content into Customers?
+**Schedule your free 30‑minute strategy session now** and get a **custom content audit** worth $500 – on the house.
+
+[📅 Book a Call](https://calendly.com/yourcompany/content-strategy)
+
+---
+
+*SEO‑optimized, conversion‑focused, and backed by data. Let’s grow your business together.*
