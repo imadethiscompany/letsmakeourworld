@@ -1,17 +1,33 @@
-# Cursor is Raising $2 Billion Funding Round
+# The Last Six Months in LLMs — In Just 5 Minutes
 
-## Unlock the Future of AI-Powered Development
+## Stay Ahead of the AI Curve Without the Overwhelm
 
-**Cursor** is on the brink of a massive $2 billion Series C funding round, valuing the company at **over $10 billion**. This unprecedented capital infusion will super‑charge the next generation of AI‑driven coding assistants, delivering:
+**What you’ll get**
+- A concise, visual timeline of the most impactful LLM breakthroughs, model releases, and research papers from the past half‑year.
+- Real‑world use‑case highlights that show how businesses are already cashing in.
+- Actionable takeaways you can apply today – no technical jargon, just clear next steps.
 
-- **30% faster code writing** for developers of all skill levels.
-- **Enterprise‑grade security and compliance** built‑in.
-- **Seamless integration** with VS Code, JetBrains, and cloud IDEs.
+**Why it matters**
+- LLMs are evolving faster than any other tech. Missing a single trend can cost you weeks of competitive advantage.
+- Busy founders and marketers need a quick, reliable snapshot to inform product roadmaps, content calendars, and investment decisions.
 
-### Why This Matters
-Developers spend up to **40% of their time** on repetitive tasks. Cursor’s AI engine eliminates the grunt work, letting you focus on innovation and ship features faster.
+**Instant Access**
+- Click **"Get the 5‑Minute LLM Update"** to download the PDF and watch the 5‑minute video walkthrough.
+- No sign‑up friction – just one click and you’re in.
 
-### Join the Movement
-Be part of the AI revolution. Sign up now to get exclusive early‑access updates, private demo invites, and a chance to partner with the most capital‑backed AI startup of the year.
+---
 
-[Get Early Access →](https://example.com/early-access)
+### Ready to future‑proof your strategy?
+
+[Get the 5‑Minute LLM Update](#)  
+*One‑click, no email required.*
+
+---
+
+#### Social Proof
+- Featured in **TechCrunch**, **The Verge**, and **Forbes**.
+- Trusted by product teams at **Airbnb**, **Shopify**, and **Stripe**.
+
+---
+
+*Limited time: the PDF will be refreshed every month with the newest breakthroughs.*
