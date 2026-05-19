@@ -1,24 +1,37 @@
-# YouTube Automation Agency – Grow Your Channel Without Lifting a Finger
+# YouTube Automation Agency
 
-## Unlock Passive Growth
+## Scale Your Channel Without Lifting a Finger
 
-Tired of spending countless hours editing, uploading, and optimizing videos? Let our **YouTube Automation Agency** handle everything from content creation to channel management so you can focus on your business.
+🚀 **Launch 10 videos/month** on autopilot.
 
-### What We Do
-- **AI‑Generated Scripts & Voice‑overs** – Engaging, SEO‑optimized scripts written by top‑tier AI, narrated with a professional voice clone.
-- **Full‑Service Video Production** – Motion graphics, kinetic typography, and stock footage stitched together in minutes.
-- **Channel Management** – Upload scheduling, thumbnail design, SEO tags, and community engagement.
-- **Performance Analytics** – Weekly reports showing subscriber growth, watch time, and ROI.
+✅ **Done‑for‑you video scripting, voiceover, editing, and upload**.
 
-### Why Choose Us?
-- **Zero Hands‑On Work** – We run the entire pipeline on autopilot.
-- **Rapid Turn‑Around** – Fresh videos delivered in 48‑72 hours.
-- **Scalable Packages** – From $499/month for 4 videos to $2,999/month for 25 videos + dedicated manager.
-- **Proven Results** – Clients see **3‑5×** increase in organic traffic within 30 days.
-
-### Ready to Automate Your Success?
-
-[**Get Started Today**](https://example.com/checkout?plan=starter) – Book a free 15‑minute strategy call and receive a custom growth plan.
+💰 **Cut production costs by 70%** and focus on growth.
 
 ---
-*No credit card required for the call. Limited slots available – act now!*
+
+### Why Choose Us?
+- **AI‑Powered Scripts**: SEO‑optimized, click‑bait titles.
+- **Professional Voiceovers**: Mine.voicebox clones your brand voice.
+- **Killer Motion Graphics**: Remotion + HyperFrames for stunning visuals.
+- **Full Channel Management**: Scheduling, thumbnail creation, SEO tags.
+
+---
+
+### Packages
+| Plan | Videos / Month | Price |
+|------|----------------|-------|
+| **Starter** | 5 | $499 |
+| **Growth** | 10 | $899 |
+| **Scale** | 20 | $1,599 |
+
+> **Limited Offer:** First month 20% off for new clients.
+
+---
+
+### Ready to Automate?
+[**Start Your Free Audit**](https://example.com/yt-automation-audit) – No credit card required.
+
+---
+
+*We’ve helped creators generate over **$2M** in ad revenue in 2023.*
