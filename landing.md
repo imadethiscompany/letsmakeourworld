@@ -1,26 +1,32 @@
-# Miami‑Dade Drivers: New AI‑Powered School Bus Ticketing
+# Miami-Dade Drivers Could Now Be Ticketed by School‑Bus AI Cameras
 
-**Headline:** *Stop getting surprised tickets – learn how AI cameras on school buses are changing traffic enforcement in Miami‑Dade.*
+**Headline:** *Avoid a $200 Ticket – Learn How AI‑Powered School‑Bus Cameras Are Changing Traffic Enforcement in Miami‑Dade.*
+
+**Sub‑headline:**
+The county is rolling out AI‑enabled cameras on school buses that automatically capture violations. If you’re a commuter, rideshare driver, or parent, you need to know how the system works and how to protect yourself.
 
 ---
 
-### Why This Matters to You
-- **Automatic ticketing** – AI cameras can issue citations the moment you cross a bus stop lane.
-- **No more guesswork** – The system records video, plate, and location instantly.
-- **Higher fines** – Violations are processed faster, so penalties can increase.
+### Why This Matters
+- **$200‑plus fines** for running a red light or illegal turn.
+- **Automatic detection** – no officer on the scene, no chance to argue on the spot.
+- **Real‑time alerts** – violations are sent directly to your license plate registry.
 
 ### What You’ll Get
-1. **Free 2‑page cheat‑sheet** showing the exact rules and how to avoid a ticket.
-2. **Step‑by‑step guide** to contest a citation if you believe it’s wrong.
-3. **Live alerts** – Sign‑up for SMS updates when new AI‑camera zones go live.
+1. **Quick‑Read Guide** – 3‑page PDF breaking down the new AI enforcement rules.
+2. **Checklist** – 5 things to do today to avoid a ticket.
+3. **Legal FAQ** – Answers from traffic‑law experts on contesting AI‑generated citations.
+
+### How It Works (In 30 Seconds)
+1. **Camera installed on school bus** captures video of every intersection.
+2. **AI algorithm** analyzes frames for red‑light runs, illegal turns, and speed violations.
+3. **License‑plate match** triggers an electronic ticket sent to the registered owner.
 
 ---
 
-#### Take Action Now
-Stay ahead of the law and protect your wallet. **Download the free guide** and get real‑time alerts for Miami‑Dade school‑bus AI zones.
-
-[**Get My Free Guide**](https://example.com/miami-dade-ai-guide){: .btn-primary }
+### Ready to Stay Ticket‑Free?
+[**Download the Free Guide Now**](/download/miami-dade-school-bus-ai-guide) – No email, no signup, just instant access.
 
 ---
 
-*Powered by ProjectNexus – turning breaking news into actionable insight.*
+*Stay ahead of the curve. Protect your wallet. Understand the AI enforcement before it catches you.*
