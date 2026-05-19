@@ -1,33 +1,40 @@
-# The Last Six Months in LLMs — In Just 5 Minutes
+# The Last Six Months in LLMs – 5‑Minute Crash Course
 
-## Stay Ahead of the AI Curve Without the Overwhelm
+## Stay ahead of the AI curve without the overwhelm.
 
-**What you’ll get**
-- A concise, visual timeline of the most impactful LLM breakthroughs, model releases, and research papers from the past half‑year.
-- Real‑world use‑case highlights that show how businesses are already cashing in.
-- Actionable takeaways you can apply today – no technical jargon, just clear next steps.
-
-**Why it matters**
-- LLMs are evolving faster than any other tech. Missing a single trend can cost you weeks of competitive advantage.
-- Busy founders and marketers need a quick, reliable snapshot to inform product roadmaps, content calendars, and investment decisions.
-
-**Instant Access**
-- Click **"Get the 5‑Minute LLM Update"** to download the PDF and watch the 5‑minute video walkthrough.
-- No sign‑up friction – just one click and you’re in.
+In just **five minutes**, get the most critical breakthroughs, product launches, and research highlights from the past half‑year of large language models. Perfect for busy founders, product teams, and investors who need the signal, not the noise.
 
 ---
 
-### Ready to future‑proof your strategy?
-
-[Get the 5‑Minute LLM Update](#)  
-*One‑click, no email required.*
-
----
-
-#### Social Proof
-- Featured in **TechCrunch**, **The Verge**, and **Forbes**.
-- Trusted by product teams at **Airbnb**, **Shopify**, and **Stripe**.
+### What You’ll Learn
+- **Top 3 model releases** and why they matter.
+- **Breakthrough research** that’s reshaping prompting and alignment.
+- **Real‑world product integrations** that are already generating revenue.
+- **Emerging risks & ethical considerations** you must account for now.
 
 ---
 
-*Limited time: the PDF will be refreshed every month with the newest breakthroughs.*
+### Why This Is Different
+- **Curated by AI experts** – no fluff, only actionable insights.
+- **Designed for speed** – 5‑minute read + downloadable cheat‑sheet.
+- **Instant applicability** – ready-to‑use prompts & integration tips.
+
+---
+
+#### Ready to get up to speed?
+
+[**Get Instant Access →**](https://example.com/pay)  
+*One‑time $49 payment. No subscription.*
+
+---
+
+#### FAQ
+**Q:** How is this different from a newsletter?
+**A:** This is a *single, focused summary* you can consume in minutes, not a weekly inbox.
+
+**Q:** What format is the cheat‑sheet?
+**A:** PDF, compatible with all devices.
+
+---
+
+*No credit card required for the first 5‑minute preview.*
