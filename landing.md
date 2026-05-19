@@ -1,42 +1,25 @@
-# imgproxy v4 – Fast, Secure Image Processing
+# imgproxy v4
 
-## Transform images on the fly – No code, no servers.
+## Transform Your Images at Lightning Speed
 
-**Instantly resize, crop, watermark, convert formats, and optimize** your images with a single URL. imgproxy v4 delivers **ultra‑low latency**, **AES‑256 encryption**, and **automatic CDN caching**.
-
----
+**Instant, high‑quality image processing** – resize, crop, watermark, and optimize on the fly without any server‑side hassle. imgproxy v4 delivers **up to 3× faster transformations**, built‑in security, and **zero‑quality loss**.
 
 ### Why imgproxy v4?
-- **Speed:** < 20 ms per image at scale.
-- **Security:** End‑to‑end encryption, signed URLs.
-- **Cost‑effective:** Runs on cheap cloud VMs, pay‑as‑you‑go.
-- **Zero maintenance:** Fully managed, auto‑updates.
-- **Developer friendly:** Simple REST API, SDKs for Go, Node, Python, Ruby.
+- **Blazing performance** – Powered by Rust and SIMD, serving thousands of requests per second.
+- **Secure URLs** – Signed URLs prevent abuse and guarantee image integrity.
+- **Automatic optimization** – WebP, AVIF, and lossless compression with a single query.
+- **Scalable** – Runs on any cloud, Kubernetes, or edge platform.
+- **Open‑source friendly** – Full documentation, self‑hosted, and enterprise support.
 
----
+### How It Works
+1. **Upload** your source image to any storage (S3, GCS, local).
+2. **Build** a URL with the desired parameters (size, format, watermark).
+3. **imgproxy** fetches, processes, and serves the optimized image instantly.
 
-### Get Started in 3 Minutes
-1. **Sign up** for a free trial.
-2. **Create a signed URL** with your API key.
-3. **Replace image src** with the imgproxy URL.
-
-[Start Free Trial →](https://example.com/imgproxy-v4/trial)
-
----
-
-### Trusted by Leading Brands
+### Trusted By
 ![Logos of companies](/static/logos.png)
 
----
+### Get Started
+Ready to accelerate your media pipeline? **Start a free trial** or **contact sales** for a custom plan.
 
-#### FAQ
-**Q:** Do I need to host my own servers?  
-**A:** No. imgproxy v4 is fully managed.
-
-**Q:** How does pricing work?  
-**A:** Pay per processed image, volume discounts available.
-
----
-
-*Ready to accelerate your media pipeline?*  
-**[Create Your First Image Proxy Now](/imgproxy-v4/signup)**
+[Get Started Free](/signup) | [Book a Demo](/demo)
