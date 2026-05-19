@@ -1,53 +1,49 @@
-# Jury Hands Victory to Sam Altman & OpenAI in Battle with Elon Musk
+# AI Camera Controversy in Schools; Residents Fight Proposed APS Rate Hike – Night
 
-## The Landmark Verdict That Could Shape the Future of AI
+## Headline
+**Stop the Surveillance Overreach – Protect Your Kids & Keep Taxes Low**
 
-**Why this matters:** A federal jury has ruled in favor of OpenAI, delivering a decisive win for Sam Altman and the company against Elon Musk’s lawsuit. This decision not only protects OpenAI’s groundbreaking technology but also sets a powerful precedent for the AI industry.
-
----
-
-### Who Should Care?
-- **Tech investors** looking for stable AI opportunities.
-- **AI startups** seeking clarity on legal risk.
-- **Enterprise leaders** evaluating AI vendors.
-- **Media & analysts** covering the AI sector.
+### Sub‑headline
+Arizona school districts are installing AI‑powered cameras that record every hallway, while the Arizona Public Service (APS) threatens a steep rate hike. Join the community movement that demands privacy, transparency, and affordable energy.
 
 ---
 
-### What You’ll Get
-- **Exclusive PDF analysis** of the verdict and its implications (download below).
-- **Live webinar** with AI legal experts (register now).
-- **Weekly AI market brief** delivered to your inbox.
-- **Premium report**: "AI Legal Landscape 2024" – limited time $49.
+### Why This Matters
+- **Privacy at Risk:** AI cameras can identify students, track movements, and store facial data – a breach of constitutional rights.
+- **Higher Bills:** APS’s proposed rate increase could add **$30‑$50** per month to your household.
+- **Community Power:** Parents, teachers, and local leaders are uniting to demand accountability.
+
+---
+
+### What You’ll Get When You Sign Up
+1. **Exclusive Investigation Report** – In‑depth analysis of the AI camera contracts, legal implications, and APS rate proposal.
+2. **Action Kit** – Ready‑to‑use petition templates, phone scripts, and social media graphics.
+3. **Live Updates** – Real‑time alerts on council meetings, court filings, and protest dates.
+4. **Direct Access** – Join a private Slack channel with experts, activists, and journalists.
+
+---
+
+### Social Proof
+> *"I never thought a school could become a surveillance state. This report gave me the facts and the tools to fight back."* – **Maria G., Phoenix parent**
+
+> *"APS’s rate hike is a nightmare for renters. The community guide helped us organize a town hall that got the board’s attention."* – **Javier L., Tucson resident**
 
 ---
 
 ### Take Action Now
-- **[Download Verdict Analysis (PDF)](#)**
-- **[Register for the Live Webinar](/webinar-registration)**
-- **[Get the Premium Report – Only $49](/buy-report)**
+**[Get the Full Report & Action Kit – $9.99]**
+
+*One‑time payment. Instant download. No recurring fees.*
 
 ---
 
-#### Social Proof
-> "The jury’s decision is a game‑changer for AI innovation. OpenAI can now focus on building, not defending." – *TechCrunch*
+#### FAQs
+**Q:** Is this report free?
+**A:** The investigative research costs money to produce, but the price covers a sustainable activist network that keeps fighting for you.
+
+**Q:** Will my data be safe?
+**A:** All purchases are processed securely via Stripe. We never store credit‑card info.
 
 ---
 
-#### Frequently Asked Questions
-**Q:** Does this affect OpenAI’s partnership with Microsoft?
-**A:** The ruling strengthens OpenAI’s position, ensuring existing partnerships remain secure.
-
-**Q:** Will this impact other AI lawsuits?
-**A:** It establishes a strong legal precedent that may deter similar claims.
-
----
-
-### Ready to Stay Ahead?
-**Click the button below to secure your AI advantage today.**
-
-[**Get the Premium AI Legal Landscape Report**](/buy-report)
-
----
-
-*Stay informed. Stay ahead.*
+*Join the movement. Protect privacy. Stop the rate hike.*
