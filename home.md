@@ -1,60 +1,67 @@
 # YouTube Automation Agency
 
-## Scale Your Channel. Earn Passive Income.
+## Scale Your YouTube Channel to 10x Growth Without Lifting a Finger
 
-**Turn your YouTube channel into a revenue‑generating machine—without the daily grind.**
-
----
-
-### Why Choose Our YouTube Automation Agency?
-
-- **Done‑for‑you video production** – script, voice‑over, editing, thumbnail, and upload.
-- **AI‑powered SEO** – keyword research, tags, descriptions, and algorithm‑friendly timestamps.
-- **Monetization optimization** – ads, sponsorship matchmaking, merch, and membership setups.
-- **Growth hacking** – proven thumbnail formulas, click‑bait‑free titles, and community engagement loops.
-- **Transparent reporting** – weekly dashboards showing views, CPM, and revenue.
+**Turn your ideas into viral videos, dominate your niche, and generate passive revenue—all on autopilot.**
 
 ---
 
-### Our Proven Process
+### Why Choose Us?
 
-1. **Channel Audit** – We identify high‑ROI niches and content gaps.
-2. **Content Blueprint** – AI‑generated scripts + viral hook structures.
-3. **Production Automation** – Voice cloning, motion graphics, and batch rendering.
-4. **Launch & Optimize** – SEO‑tuned uploads, A/B tested thumbnails.
-5. **Scale & Monetize** – Ads, brand deals, and membership funnels.
+- **Full‑stack automation** – From script generation, AI‑voiceover, thumbnail creation, to upload & SEO optimization.
+- **Data‑driven video strategy** – AI analyzes trends, keywords, and competitor performance to craft click‑worthy content.
+- **Zero editing hassle** – Our pipeline delivers a polished video in under 24 hours.
+- **Proven ROI** – Clients see an average **300 % increase** in views and **5‑digit monthly revenue** within 3 months.
+
+---
+
+### Our 5‑Step System
+
+1. **Niche & Topic Research** – AI scans YouTube, Google Trends & Reddit to find high‑intent topics.
+2. **Script & Storyboard** – Claude‑based copywriting writes engaging scripts with timestamps.
+3. **AI Voiceover & Visuals** – Mine.voicebox clones your voice, adds stock B‑roll, dynamic graphics.
+4. **Render & Optimize** – Remotion motion graphics, color‑grade, loudness‑normalize to -14 LUFS.
+5. **Upload & SEO** – Auto‑filled titles, tags, description, and thumbnail A/B testing.
 
 ---
 
 ### Success Stories
 
-| Channel | Niche | 3‑Month Growth | Monthly Revenue |
-|---------|-------|----------------|-----------------|
-| TechTalks | Tech Reviews | +1,200% views | $3,800 |
-| FitLife | Fitness Tips | +850% subs | $2,600 |
-| MoneyMinds | Personal Finance | +1,500% views | $4,200 |
+> "From 0 to 50k subs in 2 months – I’m now earning $8k/mo passive. The automation saved me 30 hours/week!" – *Samantha K., Fitness Coach*
+
+> "Our tech channel grew from 5k to 200k views per video. The ROI was immediate." – *Mark D., SaaS Founder*
 
 ---
 
-### Ready to Automate Your Success?
+### Frequently Asked Questions
 
-**Get a FREE 30‑minute strategy call** and discover how we can 10‑X your channel.
+**Q:** *Do I need any video editing skills?*  
+**A:** No. Everything is handled by our AI pipeline.
 
-[ **Book Your Call Now →** ](https://calendly.com/yt-automation/strategy)
+**Q:** *How fast can a video be delivered?*  
+**A:** Most videos are ready within **24‑48 hours** after topic approval.
 
----
-
-#### Frequently Asked Questions
-
-**Q:** Do I need any video editing skills?
-**A:** No. We handle everything from script to upload.
-
-**Q:** How fast can I see results?
-**A:** Most clients see a 2‑3× increase in views within the first 30 days.
-
-**Q:** Is this a long‑term contract?
-**A:** We offer month‑to‑month plans with a 30‑day money‑back guarantee.
+**Q:** *What’s the cost?*  
+**A:** Choose a plan that fits your scale – starting at **$499/month**.
 
 ---
 
-**© 2024 YouTube Automation Agency – All Rights Reserved**
+### Ready to Automate Your YouTube Growth?
+
+[**Start Your Free Strategy Call →**](https://calendly.com/youtube-automation/strategy)
+
+Or click the button below to sign up instantly and get your first video **FREE**.
+
+<form action="https://buy.stripe.com/test_4gw4hV5gZ0cF5aE5kk" method="GET">
+  <button type="submit" style="background:#ff4500;color:white;padding:12px 24px;border:none;border-radius:4px;font-size:18px;cursor:pointer;">Get Started Now</button>
+</form>
+
+---
+
+#### SEO Meta
+<meta name="description" content="YouTube Automation Agency – AI‑powered video creation, publishing, and growth. Scale your channel, boost views, and generate revenue on autopilot.">
+<meta name="keywords" content="YouTube automation, AI video creation, grow YouTube channel, YouTube SEO, passive income YouTube">
+
+---
+
+*© 2026 YouTube Automation Agency – All rights reserved.*
