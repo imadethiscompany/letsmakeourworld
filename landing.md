@@ -1,31 +1,35 @@
-# Unframe Raises $50M Series B Funding
+# Unframe Secures $50M Series B Funding
 
-## The AI Startup That Surpassed $100M in Annual Revenue
+**Headline:** *Unframe Raises $50M Series B After Surpassing $100M in ARR*  
 
-Unframe, the AI-driven platform that’s transforming how businesses automate content creation, just closed a $50 million Series B round. This milestone follows a record‑breaking $100 million in annual revenue, solidifying Unframe’s position as a market leader.
-
-### Why This Matters for You
-- **Proven Traction:** $100 M+ in revenue shows real‑world demand.
-- **Capital to Accelerate:** $50 M will fuel product innovation, new features, and global expansion.
-- **Early‑Adopter Advantage:** Join now to lock‑in pricing before the next wave of growth.
-
-### Unlock the Future of AI‑Generated Content
-- **Reduce Production Costs by 70%** – Automate copy, visuals, and video scripts.
-- **Scale 10x Faster** – Deploy AI models across teams with one click.
-- **Boost Engagement** – Personalize at scale with data‑driven insights.
-
-### Ready to Partner with the Next AI Unicorn?
-
-**[Get Early Access →](/unframe-early-access)**
-
-*Limited spots available for forward‑thinking enterprises.*
+**Subheadline:** Accelerating AI-driven content creation for enterprises. Join the wave of innovators leveraging Unframe’s platform to boost productivity and cut costs.
 
 ---
 
-**About Unframe**
-
-Founded in 2021, Unframe leverages cutting‑edge large language models and generative AI to help brands create high‑impact content instantly. Backed by top VCs and trusted by Fortune 500 companies.
+### Why This Matters
+- **$100M+ ARR Milestone:** Proven revenue traction signals market demand.
+- **$50M Fresh Capital:** Enables rapid product expansion, new integrations, and global sales.
+- **AI‑Powered Automation:** Generate, edit, and localize content 10x faster.
 
 ---
 
-*Stay ahead of the AI curve – sign up now and be part of the next growth story.*
+### What You Get
+1. **Enterprise‑grade AI Content Engine** – Create blogs, emails, and social posts in seconds.
+2. **Scalable Collaboration** – Teams work together with version control and approvals.
+3. **Analytics Dashboard** – Track ROI, engagement, and cost savings.
+
+---
+
+### Ready to Transform Your Content Strategy?
+
+[**Get Early Access**](https://unframe.com/early-access) – Limited spots for forward‑thinking companies.
+
+---
+
+#### Social Proof
+- **"Unframe cut our content creation time from 8 hours to 45 minutes."** – CTO, Fortune 500
+- **"Our SEO traffic grew 42% after switching to Unframe."** – Marketing VP, SaaS startup
+
+---
+
+**CTA:** *Join the AI content revolution today.*
