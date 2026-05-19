@@ -1,48 +1,30 @@
-# Unframe Secures $50M Series B Funding After Crossing $100M Milestone
+# Unframe Raises $50M Series B 🚀
 
-## Headline
-**Unframe raises $50M Series B as it surpasses $100M in annual recurring revenue.**
+## The AI startup that just crossed $100M in annual revenue
 
-## Subheadline
-Join the future of AI‑driven content creation. Discover how Unframe’s platform is reshaping media production and why top investors are backing its growth.
+**Why does this matter to you?**
 
----
+- **Proven traction:** $100M+ in revenue shows a product that customers love.
+- **Massive growth capital:** $50M fresh funding means rapid product expansion and new features.
+- **Industry leadership:** Backed by top VCs, Unframe is set to dominate the AI‑automation market.
 
-### Why This Matters
-- **$50M Series B** led by leading AI venture funds, positioning Unframe for global expansion.
-- **$100M+ ARR** achieved in just 18 months – a rare growth curve in the AI space.
-- **Enterprise‑grade AI tools** that cut content creation costs by up to 70%.
+### What you’ll get
+- **Early access** to Unframe’s next‑gen AI tools before the public launch.
+- **Exclusive insights** on how Unframe scales AI SaaS businesses.
+- **Beta pricing** locked in for life – pay once, use forever.
 
-### Who Benefits?
-- **Marketers** looking to scale personalized video at lightning speed.
-- **Brands** needing consistent, on‑brand creative assets.
-- **Investors** seeking high‑growth AI opportunities.
-
-### Key Features
-1. **AI‑Generated Video & Audio** – From script to final edit in minutes.
-2. **Dynamic Asset Library** – Unlimited templates, AI‑enhanced visuals.
-3. **Real‑time Collaboration** – Teams edit together, anywhere.
-4. **Performance Analytics** – Measure engagement, ROI, and conversion.
-
-### Call to Action
-Ready to see Unframe in action?
-
-[**Watch the Demo**](https://unframe.com/demo)  
-[**Request a Private Demo**](https://unframe.com/request-demo)  
-[**Investors: Get the Deck**](https://unframe.com/investor-deck)
+[Get Early Access →](https://buy.unframe.com/early-access)
 
 ---
 
-#### Social Proof
-> "Unframe's AI platform cut our video production time from weeks to hours. The Series B funding is a testament to its market impact." – *CTO, Global Media Corp*
+### About Unframe
+Unframe builds AI‑powered automation that lets teams **build, test, and deploy AI workflows in minutes**. Their platform saves companies **up to 30% on operational costs** and **reduces time‑to‑value from weeks to hours**.
 
----
+#### Key Metrics
+- $100M+ ARR in 2023
+- $50M Series B funding led by Andreessen Horowitz
+- 250+ enterprise customers
 
-#### Press Coverage
-- TechCrunch
-- VentureBeat
-- Forbes AI
+### Ready to be part of the AI revolution?
 
----
-
-*Stay ahead of the AI curve. Explore Unframe’s breakthrough technology today.*
+[Join the beta now →](https://buy.unframe.com/early-access)
