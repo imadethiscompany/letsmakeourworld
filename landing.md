@@ -1,22 +1,31 @@
-# Troy AI Security Camera – $2M Funding Boost
+# Nvidia-Backed AI Infrastructure Solutions
 
-**Unlock next‑gen security with AI‑powered video analytics**
+## Unlock Enterprise‑Grade AI Performance in Minutes
 
-Troy’s cutting‑edge AI software turns any security camera into a proactive guard. Detect intrusions, suspicious behavior, and safety hazards in real‑time—no extra hardware required.
+**The problem:** Building, scaling, and maintaining AI infrastructure is costly, complex, and slows product launches.
 
-### Why Choose Troy?
-- **Fast Deployment:** Install in minutes, no rewiring.
-- **AI Accuracy:** 95%+ detection rate, continuously learning.
-- **Scalable:** From a single storefront to city‑wide networks.
-- **Trusted Backing:** Fresh $2M Series A from top VCs, proven traction.
+**Our solution:** A fully managed, Nvidia‑backed platform that provisions GPU clusters, optimizes workloads, and guarantees 99.9% uptime—all with a single click.
 
-### Transform Your Security Operations
-- Reduce false alarms by 80%.
-- Cut monitoring costs by up to 50%.
-- Respond to incidents 3× faster.
+### Why Choose Us?
+- **Instant provisioning** – Spin up GPU instances in seconds, no DevOps overhead.
+- **Enterprise security** – End‑to‑end encryption, isolated VPCs, compliance ready.
+- **Cost‑effective scaling** – Pay‑as‑you‑go pricing, auto‑scale to zero when idle.
+- **Nvidia partnership** – Direct access to the latest H100, A100, and RTX GPUs.
+- **Zero lock‑in** – Export your models and data anytime.
 
-### Ready to Future‑Proof Your Surveillance?
-[**Get Early Access**](https://example.com/early-access) – Secure a spot and receive a free pilot.
+### How It Works
+1. **Select your workload** – Choose from pre‑built AI stacks (LLM, computer vision, diffusion).
+2. **Configure resources** – Pick GPU type, region, and budget.
+3. **Deploy** – One‑click launch, auto‑optimizations applied.
+4. **Monitor & scale** – Real‑time dashboard, auto‑scale policies, alerts.
+
+### Trusted by Leaders
+> "Our AI pipeline cut from weeks to hours thanks to this platform. The Nvidia partnership is a game‑changer." – CTO, Fortune 500
+
+### Ready to Accelerate Your AI?
+
+[Start Free Trial](/signup) – No credit card required.
 
 ---
-*Featured in Crain’s Chicago Business – "Troy startup secures $2M funding to scale up AI security camera software".*
+
+*Powered by Nvidia. Built for innovators.*
