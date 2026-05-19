@@ -1,34 +1,69 @@
-# YouTube Automation Agency
+# ShioriCode
 
-## Unlock Passive Revenue on YouTube Without Lifting a Finger
+## Headline
+**Write Code Faster, Deploy Smarter – All in One AI-Powered IDE**
 
-**Are you a small‑business owner struggling to keep a consistent YouTube presence?**
-
-We run a full‑stack YouTube automation service that:
-
-- **Creates viral‑ready videos** with AI‑generated scripts, voice‑overs, and motion graphics.
-- **Handles channel management** – uploading, SEO‑optimized titles, tags, thumbnails, and community engagement.
-- **Optimizes monetization** – ad placement, sponsorship matchmaking, and affiliate integration.
-
-### Why Choose Us?
-| Feature | Benefit |
-|---|---|
-| **AI‑Powered Production** | Publish 3‑5 videos/week in under 2 hours of setup. |
-| **Full Channel Management** | We handle uploads, playlists, comments, and analytics. |
-| **Revenue‑First Strategy** | Proven 3‑5× ROI on ad revenue & sponsorships within 90 days. |
-| **No Technical Skills Required** | You focus on your business, we handle the tech. |
-
-### Packages (All‑Inclusive)
-- **Starter** – $2,500/mo – 4 videos + channel setup.
-- **Growth** – $5,000/mo – 8 videos + SEO + ad‑revenue tracking.
-- **Enterprise** – Custom – Unlimited videos + full‑funnel integration.
-
-> **Limited Offer:** First 5 clients get a **free channel audit** valued at $1,200.
-
-### Ready to Automate Your YouTube Growth?
-
-[**Book a Free Strategy Call**](https://calendly.com/youautomation/strategy) – or click **Buy Now** below to start instantly.
+### Subheadline
+ShioriCode combines intelligent code completion, automated testing, and one‑click cloud deployment so developers spend less time on setup and more time building.
 
 ---
 
-*We’re backed by a 4‑year track record of scaling YouTube channels from 0 to 1M+ views/month for SaaS, e‑commerce, and local businesses.*
+## Why developers struggle today
+* **Context switching** – jumping between editor, terminal, CI, and cloud console.
+* **Debugging delays** – finding the root cause takes hours.
+* **Deployment friction** – mis‑configured pipelines break releases.
+
+You know the feeling of staring at a stack trace while a deadline looms.
+
+---
+
+## ShioriCode solves it
+1. **AI‑assisted coding** – real‑time suggestions that understand your project structure.
+2. **Instant test generation** – auto‑create unit tests as you code, catching bugs before they ship.
+3. **One‑click cloud deploy** – push to Vercel, Netlify, or AWS with a single button.
+4. **Integrated docs & snippets** – searchable knowledge base right inside the IDE.
+
+> *“ShioriCode cut my weekly reporting script from 4 hours to 10 minutes.”* – Alex, Senior Engineer
+
+---
+
+## How it works (3 simple steps)
+1. **Connect your repo** – GitHub, GitLab, or Bitbucket.
+2. **Code with AI** – type, accept suggestions, watch tests appear.
+3. **Deploy instantly** – select environment, click Deploy, and your app is live.
+
+---
+
+## Features at a glance
+- **Context‑aware autocomplete** for 30+ languages
+- **Live linting & refactoring** powered by LLMs
+- **Auto‑generated unit & integration tests**
+- **One‑click CI/CD** to Vercel, Netlify, AWS, GCP
+- **Collaborative workspaces** for pair‑programming
+- **Built‑in markdown docs & code snippets**
+
+---
+
+## FAQ
+**Q: Do I need an existing CI pipeline?**
+A: No. ShioriCode provisions a secure pipeline for you.
+
+**Q: Is my code private?**
+A: All code stays in your repository; AI processing is end‑to‑end encrypted.
+
+**Q: What languages are supported?**
+A: JavaScript/TypeScript, Python, Go, Ruby, Java, Rust, and more.
+
+---
+
+## Ready to supercharge your development?
+
+[**Start Free Trial – No Credit Card Required**]
+
+*30‑day money‑back guarantee. Cancel anytime.*
+
+---
+
+### SEO Meta
+**Title:** ShioriCode – AI‑Powered IDE for Faster Coding & One‑Click Deploy
+**Description:** Accelerate development with AI code completion, auto‑generated tests, and one‑click cloud deployment. Try ShioriCode free for 30 days.
