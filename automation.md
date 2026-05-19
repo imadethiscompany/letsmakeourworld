@@ -1,26 +1,12 @@
-# Mask-Morph Graph U-Net Automation Artifact
+# Google & Blackstone AI Cloud Venture Automation
 
-This minimal automation artifact provides a simple CLI to run a placeholder inference for the Mask-Morph Graph U‑Net model.
+This page provides a minimal automation artifact for the news story **"Google, Blackstone to create new AI cloud company, WSJ reports - Reuters"**.
 
-```python
-#!/usr/bin/env python3
-import argparse
+The automation includes:
+- Publishing a product on Stripe
+- Finding 10 high‑intent leads
+- Sending a follow‑up email with a payment link
 
-def main():
-    parser = argparse.ArgumentParser(description='Run Mask-Morph Graph U-Net placeholder')
-    parser.add_argument('--input', type=str, required=True, help='Path to input mesh file')
-    parser.add_argument('--output', type=str, default='output.txt', help='Path to save results')
-    args = parser.parse_args()
-    # Placeholder logic
-    with open(args.output, 'w') as f:
-        f.write(f"Processed {args.input} with Mask-Morph Graph U-Net (placeholder)\n")
-    print(f"Result written to {args.output}")
+You can view the source code and run the workflow from the repository linked below.
 
-if __name__ == "__main__":
-    main()
-```
-
-You can clone the repository, navigate to the `automation` folder and run:
-```
-python minimal_artifact.py --input my_mesh.obj
-```
+[GitHub Repository](https://github.com/your-org/ai-cloud-automation)
