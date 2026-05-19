@@ -1,24 +1,10 @@
-# Llama.cpp Minimal Automation Artifact
+# imgproxy v4 Minimal Automation
 
-This script automates the download, build, and a simple benchmark run for the **ggml-org/llama.cpp** repository.
+This page demonstrates a minimal automation using **imgproxy v4**. It provides a simple API endpoint that resizes an image.
 
 ```bash
-#!/usr/bin/env bash
-# Minimal automation for llama.cpp
-set -e
-
-# Clone repository
-git clone https://github.com/ggml-org/llama.cpp.git
-cd llama.cpp
-
-# Build the project (requires make and a C++ compiler)
-make
-
-# Run a quick benchmark (generates a short text)
-./main -m models/7B/ggml-model-q4_0.bin -n 128 -p "Once upon a time"
+# Example usage with curl
+curl "https://example.com/_/rs:fill:200:200/plain/https://images.unsplash.com/photo-1602524819042-3a9d8a5f2c8b"
 ```
 
-Save this script as `run_llama.sh`, make it executable (`chmod +x run_llama.sh`), and execute it to see llama.cpp in action.
-
----
-*Automation artifact for internal use.*
+Deploy this page to see the automation in action.
