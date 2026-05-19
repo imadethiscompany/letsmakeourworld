@@ -1,26 +1,27 @@
 # OpenAI Adopts Google's SynthID Watermark for AI Images
 
-## Verify your AI‑generated images instantly
+**Verify every AI‑generated image instantly**
 
-OpenAI is now using Google's **SynthID** watermark to embed a hidden, tamper‑proof signature in every AI‑generated image. Our **SynthID Verification Tool** lets you:
-
-- **Detect** whether an image was created by AI in seconds.
-- **Validate** the authenticity of the watermark without any extra software.
-- **Protect** your brand by ensuring only verified AI content is published.
+OpenAI has integrated Google's **SynthID** watermark into its image generation pipeline. Now creators, brands, and platforms can **prove authenticity** of AI‑generated visuals with a simple verification tool.
 
 ### Why it matters
-- **Combat misinformation** – Stop deep‑fakes before they spread.
-- **Maintain trust** – Show clients that your visuals are responsibly sourced.
-- **Stay ahead** – Leverage the same technology OpenAI trusts.
+- **Combat misinformation** – Distinguish real photos from AI fakes.
+- **Build trust** – Show clients that your visuals are transparently AI‑generated.
+- **Easy verification** – One‑click scan reveals the hidden watermark and metadata.
 
 ### How it works
-1. Upload an image.
-2. Our engine scans the hidden SynthID signature.
-3. Get an instant verification report.
+1. **Generate** an image with OpenAI’s API.
+2. **Embed** the invisible SynthID watermark automatically.
+3. **Verify** the image using our free online tool – no software install needed.
 
-### Ready to secure your visual content?
-
-[Get Started →](/signup)
+### Get started now
+- **Try the verification tool** – upload any image and see the hidden signature.
+- **Read the integration guide** – step‑by‑step setup for developers.
+- **Contact our sales team** for enterprise‑grade watermarking solutions.
 
 ---
-*OpenAI’s adoption of SynthID signals a new standard for AI image provenance. Be the first to offer verification to your users.*
+
+**Ready to protect your brand’s visual integrity?**
+
+[**Use the Verification Tool**](/verify)  
+[**Download the Integration Guide**](/guide.pdf)
