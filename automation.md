@@ -1,21 +1,33 @@
-# Miami-Dade School Bus AI Ticketing Automation
+# Automation Artifact: Refresh AI Ranking
 
-This minimal automation artifact demonstrates a simple Python script that fetches the USA Today article and extracts key details.
+This minimal script fetches a list of open‑source AI agents and foundation models from a public API and updates the ranking JSON used by the live ranking page.
 
 ```python
-import requests
-from bs4 import BeautifulSoup
+import json, requests
 
-url = "https://www.usatoday.com/story/news/nation/2024/05/19/miami-dade-school-bus-ai-cameras-ticketing/"
-resp = requests.get(url)
-resp.raise_for_status()
+API_URL = "https://huggingface.co/api/models"
 
-soup = BeautifulSoup(resp.text, "html.parser")
-# Extract article title and first paragraph
-title = soup.find('h1').get_text(strip=True)
-first_para = soup.find('p').get_text(strip=True)
-print('Title:', title)
-print('Summary:', first_para)
+def fetch_models():
+    resp = requests.get(API_URL)
+    resp.raise_for_status()
+    data = resp.json()
+    # Filter for open‑source models only (example condition)
+    open_models = [m for m in data if not m.get('private', True)]
+    # Simplify fields
+    ranking = [{
+        "id": m["id"],
+        "downloads": m.get("downloads", 0),
+        "likes": m.get("likes", 0)
+    } for m in open_models]
+    # Sort by downloads descending
+    ranking.sort(key=lambda x: x["downloads"], reverse=True)
+    return ranking
+
+if __name__ == "__main__":
+    ranking = fetch_models()
+    with open("data/ranking.json", "w") as f:
+        json.dump(ranking, f, indent=2)
+    print("Ranking updated,", len(ranking), "models")
 ```
 
-Run this script locally to pull the latest article details.
+Add this script to `automation/refresh_ranking.py` in the repo and set up a scheduled Vercel build to run it before each deployment.
