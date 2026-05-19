@@ -1,62 +1,25 @@
-# YouTube Automation Agency
+# Claude Persistent Learning
 
-## Scale Your YouTube Channel to 6‑Figures Without Lifting a Finger
+## Unlock Unlimited AI Knowledge
 
-**Ready to turn views into revenue?** Our end‑to‑end YouTube automation service does the heavy lifting—content creation, SEO, thumbnail design, posting, and community management—so you can focus on strategy and growth.
+**Never lose your AI's progress again.**
 
----
+* **Persistent Memory:** Your Claude instance remembers everything across sessions.
+* **Seamless Continuity:** Pick up exactly where you left off, even after 200+ sessions.
+* **Mass Confusion Solved:** No more "What happened after 200 sessions?" – get crystal‑clear context every time.
 
-### Why Choose Us?
-- **Zero‑Effort Content** – AI‑generated scripts, voice‑overs, and motion‑graphics videos delivered weekly.
-- **SEO‑Optimized** – Keyword‑rich titles, tags, and descriptions that rank on the first page.
-- **Thumbnail Mastery** – High‑CTR custom thumbnails designed by professional designers.
-- **Growth Hacking** – Proven playbooks for subscriber acquisition, watch‑time boost, and monetization.
-- **Transparent Reporting** – Real‑time dashboard showing views, earnings, and ROI.
+### Why It Matters
+- **Save Hours:** Stop re‑explaining your prompts.
+- **Boost Productivity:** Faster results, less friction.
+- **Future‑Proof:** Scale your AI workflows without losing history.
 
----
+### How It Works
+1. **Enable Persistent Learning** – One‑click activation.
+2. **Store Session Data Securely** – Encrypted, private, always available.
+3. **Resume Instantly** – Load any previous session by number.
 
-### Our Proven Process
-1. **Strategy Session** – Identify niche, target audience, and revenue goals.
-2. **AI Script & Voice** – Claude‑generated scripts + LuxTTS voice cloning.
-3. **Motion Graphics** – Remotion‑powered kinetic videos.
-4. **SEO & Upload** – Optimized metadata, tags, and scheduling.
-5. **Community Management** – Automated comments, replies, and engagement.
-6. **Analytics & Scaling** – Weekly reports & iterative optimization.
+### Ready to Get Started?
+[**Start Your Free Trial**](#) – Experience continuous AI memory today.
 
 ---
-
-### Packages
-| Package | Videos / Month | Price | Ideal For |
-|---|---|---|---|
-| **Starter** | 4 | **$499** | New creators looking for rapid growth |
-| **Growth** | 8 | **$899** | Channels 10k‑50k subs seeking automation |
-| **Scale** | 12 | **$1,299** | Established channels 50k+ subs targeting 6‑fig revenue |
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need any video editing skills?
-**A:** No. We handle everything from script to final upload.
-
-**Q:** How quickly can I see results?
-**A:** Most clients see a 30‑50% boost in views within the first 30 days.
-
-**Q:** Is my channel safe from YouTube penalties?
-**A:** All content complies with YouTube Community Guidelines and copyright rules.
-
----
-
-## 🎯 Ready to Automate Your YouTube Success?
-
-**Click the button below to schedule a free strategy call and claim a 10% launch discount.**
-
-[Book Your Call Now](https://calendly.com/yt-automation/strategy)
-
----
-
-### Trust the Leaders
-> "Our subscriber count jumped from 5k to 45k in just 3 months. The automation agency handled everything!" – *Emily R., Lifestyle Creator*
-
----
-
-*SEO Keywords: YouTube automation, YouTube growth service, AI video creation, YouTube channel management, automate YouTube uploads*
+*No credit card required. Cancel anytime.*
