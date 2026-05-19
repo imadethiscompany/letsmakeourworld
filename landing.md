@@ -1,30 +1,17 @@
-# AI Startup Cursor – Massive Funding Round
+# Cursor is Raising $2 Billion Funding Round
 
 ## Unlock the Future of AI-Powered Development
 
-**Cursor** is on the brink of a **$2 billion** funding round, valuing the company at **over $10 billion**. Join the investors, partners, and early adopters who are ready to ride the next wave of AI-driven coding assistance.
+**Cursor** is on the brink of a massive $2 billion Series C funding round, valuing the company at **over $10 billion**. This unprecedented capital infusion will super‑charge the next generation of AI‑driven coding assistants, delivering:
 
----
+- **30% faster code writing** for developers of all skill levels.
+- **Enterprise‑grade security and compliance** built‑in.
+- **Seamless integration** with VS Code, JetBrains, and cloud IDEs.
 
-### Why Cursor?
-- **AI that writes code for you** – from boilerplate to complex algorithms, instantly.
-- **Productivity boost** – cut development time by **70%** (early beta data).
-- **Enterprise‑grade security** – on‑premise and zero‑data‑leak guarantees.
-- **Scalable architecture** – built on the latest LLMs, ready for global teams.
+### Why This Matters
+Developers spend up to **40% of their time** on repetitive tasks. Cursor’s AI engine eliminates the grunt work, letting you focus on innovation and ship features faster.
 
----
+### Join the Movement
+Be part of the AI revolution. Sign up now to get exclusive early‑access updates, private demo invites, and a chance to partner with the most capital‑backed AI startup of the year.
 
-### Be Part of the Revolution
-- **Investors:** Secure a stake in a unicorn‑scale AI platform.
-- **Partners:** Early integration opportunities with our API.
-- **Developers:** Early‑access to the next‑gen AI IDE.
-
----
-
-#### Ready to Join?
-[**Get Early Access & Investment Info**](https://example.com/interest)  
-*Click the button to schedule a call with our fundraising team.*
-
----
-
-*Cursor – Code smarter, not harder.*
+[Get Early Access →](https://example.com/early-access)
