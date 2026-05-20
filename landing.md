@@ -1,70 +1,43 @@
-# Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production
+# Ask YouTube – AI‑Powered Conversational Search Adds Gemini Omni
 
-## Unlock Enterprise‑grade Document Understanding at Scale
-
-**Turn unstructured PDFs, scans, and images into searchable, actionable data without engineering headaches.**
+**Unlock the future of video discovery** with *Ask YouTube*, the AI‑driven conversational search that lets users ask natural‑language questions and get instant, contextual answers from YouTube videos. Powered by Google Gemini Omni, it understands complex queries, extracts relevant snippets, and even generates concise summaries.
 
 ---
 
-### Why Traditional Document AI Fails
-- **Monolithic code** slows iteration and makes scaling costly.
-- **Brittle OCR pipelines** break on new document layouts.
-- **LLM integration** requires custom glue code for each use‑case.
-
-Our **microservice architecture** decouples each stage—**ingestion → OCR → preprocessing → LLM inference → post‑processing**—so you can upgrade, scale, and experiment independently.
-
----
-
-### Core Benefits
-1. **99.9% uptime** with container‑orchestrated services.
-2. **30% faster processing** vs. monolithic pipelines (benchmarks on 10k+ invoices).
-3. **Plug‑and‑play LLM adapters** for Claude, GPT‑4, Llama 2.
-4. **Cost‑effective OCR** using Tesseract or Azure Computer Vision per‑document pricing.
-5. **Zero‑downtime deployments** via Kubernetes rolling updates.
+## Why Ask YouTube?
+- **Conversational UI** – Type or speak a question just like you would with ChatGPT.
+- **Deep video understanding** – Gemini Omni parses visual and audio cues for accurate answers.
+- **Instant answers** – No more endless scrolling; get the exact moment in the video.
+- **Seamless integration** – Embed the widget on any site or launch as a standalone web app.
 
 ---
 
-### How It Works (4‑Step Flow)
-1. **Upload API** – Secure S3 bucket triggers a Lambda that queues the document.
-2. **OCR Service** – Stateless Docker container runs Tesseract or Azure OCR, stores text.
-3. **LLM Service** – Dedicated FastAPI microservice calls your LLM provider, extracts entities, tables, and summaries.
-4. **Results Store** – Post‑processed JSON is written to a searchable Elastic index and sent back via webhook.
+## Key Features
+- **Multi‑modal retrieval** – Combines transcript, visual frames, and audio.
+- **Real‑time summarization** – Generates bullet‑point takeaways.
+- **Customizable branding** – Match your product’s look and feel.
+- **Analytics dashboard** – Track user queries and engagement.
 
 ---
 
-### Tech Stack Snapshot
-| Layer | Tech |
-|-------|------|
-| Orchestration | Kubernetes (EKS) |
-| Queue | Amazon SQS |
-| OCR | Tesseract 4, Azure Computer Vision |
-| LLM | OpenAI GPT‑4, Anthropic Claude, Llama 2 |
-| API Gateway | AWS API Gateway |
-| Storage | S3 + ElasticSearch |
-| Monitoring | Prometheus + Grafana |
+## Get Started Now
+Ready to transform how users find video content?
+
+[**Start Free Trial →**](https://example.com/ask-youtube-signup)
+
+Or book a live demo:
+
+[**Book Demo**](https://example.com/ask-youtube-demo)
 
 ---
 
-### Real‑World Impact
-> **Acme Finance** reduced manual data entry from 30 hrs/week to < 2 hrs/week and cut processing costs by 40% after migrating to our microservice stack.
+### FAQ
+**Q:** Do I need a Google Cloud account?
+**A:** Only for the Gemini Omni API key – we’ll guide you through setup.
+
+**Q:** Can I use Ask YouTube on mobile?
+**A:** Yes – the UI is fully responsive.
 
 ---
 
-### Ready to Operationalize Document AI?
-
-**Start a free 14‑day trial** of our reference implementation, complete with Terraform scripts and Docker images.
-
-[**Get Started →**](https://example.com/signup)
-
----
-
-#### FAQ
-**Q:** Do I need an existing Kubernetes cluster?
-**A:** No. We provide a single‑click Helm chart that creates a sandbox cluster on any cloud.
-
-**Q:** Can I use my own LLM?
-**A:** Absolutely. Our LLM adapter is configurable via environment variables.
-
----
-
-*SEO Keywords: Document AI, OCR microservice, LLM pipeline, production-ready AI, scalable document processing* 
+*Powered by Gemini Omni – the most advanced multimodal AI model.*
