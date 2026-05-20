@@ -1,41 +1,38 @@
-# Live Ranking of Every AI Agent & Foundation Model (Open Source)
+# Zyphra AI Lab – $500M Funding to Challenge Nvidia's Dominance
 
-## Instantly see which AI agents and models are leading the pack — updated in real‑time.
+## Headline
+**Revolutionizing AI Infrastructure: Zyphra Raises $500 Million to Compete with Nvidia**
 
-**Why it matters**
-- **Stay ahead**: Know the top‑performing agents before your competitors.
-- **Make data‑driven decisions**: Compare benchmarks, pricing, open‑source licenses, and community adoption.
-- **Zero cost**: Fully open‑source, no hidden fees, no vendor lock‑in.
+## Sub‑headline
+Join the next wave of GPU‑free, high‑throughput AI computing. Backed by top‑tier investors, Zyphra’s breakthrough hardware promises 3× performance at a fraction of the cost.
 
----
+## Why It Matters
+- **Cost‑Effective:** Cut AI compute spend by up to 70%.
+- **Scalable:** Seamlessly scale from startups to hyperscale data centers.
+- **Future‑Proof:** Open‑source architecture, no vendor lock‑in.
 
-### How It Works
-1. **Continuous crawling** of GitHub, Hugging Face, and public model registries.
-2. **Live scoring** based on usage, star count, benchmark results, and community sentiment.
-3. **Dynamic ranking dashboard** refreshed every minute, filterable by task, size, and license.
+## What You Get
+- **Early‑Access Demo:** Request a private demo of Zyphra’s prototype.
+- **Investor Deck:** Download the full funding announcement and roadmap.
+- **Partner Program:** Join our ecosystem to co‑develop next‑gen AI models.
 
----
-
-### Benefits
-- **Save hours of research** – all rankings in one place.
-- **Identify emerging agents** before they hit mainstream.
-- **Choose the right model** for your product, budget, and compliance needs.
-- **Contribute** – open‑source repo lets you add new agents or adjust scoring.
+## Call‑to‑Action
+[**Request Demo & Download Deck**](#)  
+*Limited slots – secure yours now.*
 
 ---
-
-### Ready to Explore?
-[**View the Live Ranking →**](https://example.com/ai-ranking)
-
----
-
-#### Frequently Asked Questions
-**Is the data really live?** Yes – the backend refreshes every 60 seconds.
-
-**Can I embed the ranking?** Absolutely – we provide an embeddable widget.
-
-**Is there a paid version?** The core ranking is free. Premium alerts and API access are coming soon.
+### Social Proof
+- Backed by **SoftBank**, **Sequoia**, and **Andreessen Horowitz**.
+- Featured in **TechCrunch**, **WIRED**, and **The Verge**.
 
 ---
+### FAQ
+**Q:** Is Zyphra hardware compatible with existing AI frameworks?
+**A:** Yes – supports TensorFlow, PyTorch, JAX via our open‑source SDK.
 
-*Built by the AI community, for the AI community.*
+**Q:** When will the product be generally available?
+**A:** Q4 2024 for early adopters, full launch 2025.
+
+---
+### Footer
+© 2024 Zyphra AI Lab – All rights reserved.
