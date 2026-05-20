@@ -1,61 +1,24 @@
-# Airbnb Gets Into Hotels & Supercharges Host Experience with AI
+# Exclusive: Circle Cofounder Raises $30M for Series A ‘AI‑Native Bank’ Cat
 
-## Unlock New Revenue Streams with Hotel Partnerships
+## Unlock Early Access to the AI‑Native Banking Revolution
 
-Airbnb is now offering **hotel‑style listings** on its platform, giving owners a turn‑key solution to tap into the booming short‑stay market.  Combine the trusted Airbnb brand with the operational efficiency of hotels.
+**Be the first to experience Cat – the AI‑powered bank built for founders, fintech innovators, and forward‑thinking investors.**
 
-### Why This Matters for You
-- **Higher Occupancy:** Hotels already have demand pipelines; Airbnb brings a global traveler base.
-- **Instant Credibility:** Leverage Airbnb’s brand trust to attract premium guests.
-- **Dynamic Pricing:** AI‑driven rate optimization maximizes RevP per night.
+- **$30 M Series A backed by top VCs** – proof of market confidence.
+- **AI‑native core** – automated compliance, real‑time risk analytics, and personalized financial products.
+- **Early‑bird benefits** – discounted fees, priority support, and invitation to private beta.
 
----
+### Why Cat?
+Traditional banks are legacy‑heavy and slow. Cat leverages generative AI to **cut onboarding time from weeks to minutes**, **optimize cash flow with predictive insights**, and **provide instant regulatory compliance**. Join the future of banking before it becomes mainstream.
 
-## AI‑Powered Host Onboarding & Support
+### Get Started
+1. **Enter your email** – we’ll send you an exclusive invitation.
+2. **Schedule a demo** – see Cat in action.
+3. **Secure your spot** – limited beta seats available.
 
-Getting your property online used to be a headache.  Our new AI assistant does the heavy lifting:
-
-1. **Smart Listing Builder** – Upload photos, and the AI writes SEO‑optimized titles, descriptions, and amenities in seconds.
-2. **Dynamic Pricing Engine** – Real‑time market analysis adjusts rates to boost revenue.
-3. **24/7 AI Support** – Instant answers for guests and hosts, reducing response time by 80%.
-
-> *“Our new AI onboarding cut setup time from 3 days to under an hour.” – Early Adopter Host*
+[**Request Early Access**](https://example.com/early-access)  
+*No credit card required. Your data stays private.*
 
 ---
-
-## Ready to List Your Hotel on Airbnb?
-
-### Get Early Access
-
-[**Start My Free Demo**](#) – No credit card required.  See how AI can fill your rooms faster.
-
-### Want a Personal Walk‑through?
-
-Schedule a one‑on‑one call with our partnership team:
-
-- **Name:** __________________
-- **Email:** __________________
-- **Phone:** __________________
-
-[**Book a Call**](#)
-
----
-
-### Frequently Asked Questions
-
-**Q:** Do I need to be an existing Airbnb host?
-**A:** No. Hotel owners can join directly through the partnership portal.
-
-**Q:** How does AI pricing work?
-**A:** It analyzes local events, competitor rates, and historical demand to set optimal nightly rates.
-
-**Q:** What support is included?
-**A:** 24/7 AI chat, plus access to a dedicated human support team for complex issues.
-
----
-
-## Join the Future of Hospitality
-
-Airbnb’s hotel expansion + AI host tools = **more bookings, higher revenue, happier guests**.
-
-[**Get Started Today**](#)
+**Press Contact:** press@example.com  
+**Investor Relations:** ir@example.com
