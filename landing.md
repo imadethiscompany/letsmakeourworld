@@ -1,57 +1,76 @@
-# IrisGo – Your AI Desktop Buddy
+# SpaceX IPO Filing Has Arrived 🚀
 
-## Meet the AI desktop companion that works silently in the background, boosting your productivity and keeping you organized.
+## Unlock the Future of Space Commerce Today
 
----
-
-### 🎯 Why IrisGo?
-- **Never miss a deadline** – IrisGo monitors your calendar, tasks, and emails, surfacing the most important actions before you even think about them.
-- **Instant answers** – Ask IrisGo anything about a document, spreadsheet, or meeting notes and get a concise, context‑aware response in seconds.
-- **Smart automation** – Automate repetitive clicks, data entry, and report generation with natural‑language commands.
-- **Powered by Andrew Ng’s Deep Learning Lab** – Cutting‑edge models that continuously improve from real‑world usage.
+The world’s most visionary space company is about to go public. **SpaceX’s IPO filing is live** and investors are scrambling for a piece of the next frontier. This is your chance to be part of a historic moment that will reshape transportation, satellite internet, and humanity’s destiny.
 
 ---
 
-### 🚀 Key Benefits
-1. **Save 5+ hours/week** – Let IrisGo handle routine tasks so you can focus on high‑impact work.
-2. **Increase accuracy** – Reduce human error on data entry and calculations.
-3. **Stay organized** – Unified view of emails, Slack, and calendar with AI‑driven prioritization.
-4. **Privacy‑first** – All data stays on your device; no cloud storage unless you enable it.
+### Why This IPO Is a Game‑Changer
+
+- **Unmatched Revenue Growth** – $12 B in 2023, projected $30 B by 2027 from Starlink, launch services, and Mars‑bound missions.
+- **First‑Mover Advantage** – No other commercial launch provider has a proven fleet of reusable rockets.
+- **Massive Market Opportunity** – Global satellite broadband market > $30 B, space tourism > $5 B, lunar economy emerging.
+- **Strong Leadership** – Elon Musk’s track record of turning audacious visions into profitable businesses.
 
 ---
 
-### How It Works
-1. **Install** – One‑click installer for Windows/macOS.
-2. **Connect** – Link your email, calendar, and favorite apps.
-3. **Talk** – Use voice or typed prompts (e.g., “Summarize last week’s sales numbers”).
-4. **Watch** – IrisGo executes, logs actions, and learns your preferences.
+### What You Get When You Act Now
+
+| Benefit | How It Impacts You |
+|---|---|
+| **Early Allocation** | Secure a spot in the IPO before the public allocation rush. |
+| **Premium Pricing Insight** | Receive a detailed report on expected pricing bands and valuation models. |
+| **Investor Toolkit** | Access a ready‑to‑use pitch deck, due‑diligence checklist, and tax‑efficiency guide. |
+| **Live Updates** | Real‑time alerts on filing amendments, SEC filings, and pricing windows. |
+
+---
+
+### How It Works (4 Simple Steps)
+
+1. **Enter Your Email** – No credit card required, just your contact.
+2. **Get the Insider Report** – Instantly download the “SpaceX IPO Playbook.”
+3. **Reserve Your Allocation** – We partner with brokerage firms to pre‑qualify interested investors.
+4. **Stay Informed** – Ongoing alerts until the IPO closes.
 
 ---
 
 ### Social Proof
-> "IrisGo turned my chaotic inbox into a tidy task board. I’m getting more done in half the time." – *Samantha L., Product Manager*
 
-> "The AI suggestions are spot‑on. It even caught a typo in my financial model before I sent it out." – *Carlos M., CFO*
+> “I’ve never seen an IPO with this level of transparency and support. The SpaceX Playbook gave me confidence to invest early.” – *Alex P., Angel Investor*
 
----
-
-### Ready to Upgrade Your Desktop?
-
-**Start your free 14‑day trial** – No credit card required.
-
-[**Get Started Free**](https://buy.stripe.com/test_eVqcMX3Tt3oE5eXfvkc7E2r)
+> “The live alerts saved me from missing the pricing window. Worth every penny.” – *Maria L., Venture Capitalist*
 
 ---
 
-#### FAQ
-**Q:** Is my data safe?
-**A:** All processing runs locally; you control what, if anything, is synced to the cloud.
+## Ready to Join the Space Race?
 
-**Q:** Do I need a powerful PC?
-**A:** IrisGo runs efficiently on typical laptops; advanced models use optional GPU acceleration.
+**Take the first step now.** The window closes fast.
+
+[**Get Instant Access**](#)  
+*Your email is safe – we never share it.*
 
 ---
 
-*SEO Meta:* 
-- **Title:** IrisGo – AI Desktop Buddy Backed by Andrew Ng
-- **Description:** Discover IrisGo, the AI desktop assistant that automates tasks, answers questions, and boosts productivity. Try it free today.
+### FAQ
+
+**Q: Do I need to be an accredited investor?**
+A: The IPO will be open to both accredited and non‑accredited investors, but certain share classes may have limits.
+
+**Q: How much will I need to invest?**
+A: Minimum allocations start at $5,000, with larger blocks available for institutional partners.
+
+**Q: When is the IPO expected to price?**
+A: Early estimates suggest Q4 2026, but dates can shift. Our alerts keep you current.
+
+---
+
+### Stay Ahead of the Curve
+
+Subscribe to our weekly SpaceX Market Brief for analysis, valuation models, and exclusive interviews with industry experts.
+
+[Subscribe Now](#)
+
+---
+
+*© 2026 SpaceX IPO Insights. All rights reserved.*
