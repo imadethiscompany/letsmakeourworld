@@ -1,35 +1,28 @@
-# Invenio – Empower Your Data Workflow
+# YouTube Automation Agency 🚀
 
-## Unlock Seamless Data Integration and Automation
+**Scale Your Channel, Multiply Your Revenue**
 
-**Headline:** *Turn fragmented data into actionable insights without writing code.*
+Are you a small‑business owner or brand looking to dominate YouTube without spending countless hours on video production, editing, and SEO? Our **YouTube Automation Agency** does the heavy lifting for you.
 
-**Subheadline:** Invenio connects all your tools, syncs data in real‑time, and automates repetitive tasks so you can focus on decision‑making.
+## Why Choose Us?
+- **Turnkey Video Production** – From script to final upload, we handle everything.
+- **AI‑Powered Editing & Voice‑overs** – Faster, cheaper, and high‑quality.
+- **Growth‑Focused SEO** – Keyword‑rich titles, tags, and thumbnails that rank.
+- **Turnkey Funnel Integration** – Direct viewers to your offers, booking pages, or e‑commerce store.
+- **Performance Dashboard** – Real‑time analytics on views, leads, and ROI.
 
----
+## Our Packages
+| Package | Monthly Videos | Price | Ideal For |
+|--------|----------------|-------|-----------|
+| **Starter** | 4 | $499 | New channels, <$5k revenue |
+| **Growth** | 12 | $1,299 | Established brands, $5‑15k revenue |
+| **Scale** | Unlimited | $2,999 | Enterprises, aggressive scaling |
 
-### Why Invenio?
-- **Zero‑code pipelines:** Drag‑and‑drop connectors for databases, SaaS apps, and APIs.
-- **Real‑time sync:** Updates instantly across systems, eliminating stale data.
-- **Built‑in automations:** Trigger alerts, reports, and workflows with simple rules.
-- **Enterprise‑grade security:** SOC‑2 compliant, encrypted at rest and in transit.
+> **Limited Offer:** Sign up this week and get **2 free videos** + a **custom thumbnail pack**.
 
----
+### Ready to Automate Your YouTube?
 
-### How It Works
-1. **Connect** – Choose from 200+ native integrations or use a custom webhook.
-2. **Map** – Visually map source fields to destination fields.
-3. **Automate** – Define triggers (e.g., new record, threshold breach) and actions (email, Slack, webhook).
-
----
-
-### Social Proof
-> *"Invenio cut our data onboarding time from weeks to minutes. The UI is intuitive and the support team is fantastic."* – **CTO, FinTech Startup**
+<a href="https://buy.stripe.com/test_5kAaI6b3V0eVfWc5kk" target="_blank" style="display:inline-block;background:#ff4500;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Start Growing Now</a>
 
 ---
-
-### Ready to Transform Your Data?
-[Start Free Trial →](/signup)
-
-Or book a live demo with our specialists:
-[Schedule a Demo](https://calendly.com/invenio-demo)
+*We’ve helped dozens of SMBs generate $10k‑$50k/mo from YouTube. Let’s add you to the list.*
