@@ -1,25 +1,12 @@
-# Repaint AI Image Generation
+# Ask YouTube – AI‑Powered Conversational Search with Gemini Omni
 
-**Turn any photo into a masterpiece with a single click.**
+**What it is**: A new YouTube experience where users can ask natural‑language questions and get AI‑generated answers directly from video content, powered by Google Gemini Omni.
 
-Repaint leverages state‑of‑the‑art diffusion models to intelligently retouch, recolor, and restyle images based on natural language prompts. Perfect for marketers, designers, and developers who need instant visual upgrades.
+**Key benefits**
+- Instantly find exact moments in any video.
+- Get concise, conversational summaries.
+- Boost watch‑time and engagement.
 
-## Features
-- **AI‑driven retouching**: Remove backgrounds, enhance lighting, and adjust colors.
-- **Style transfer**: Apply artistic styles (cinematic, vintage, modern) instantly.
-- **Batch processing**: Upload up to 20 images for bulk transformation.
-- **API access**: Integrate Repaint into your own apps and workflows.
+**Try it now** – Click the button below to start a free trial.
 
-## Pricing
-- **$49/month** – Unlimited generations, priority support, and API keys.
-
-[Buy Now](https://buy.stripe.com/test_fZu4gr4Xx7EU22L4QGc7C0S)  |  [Start Free Trial](https://buy.stripe.com/test_fZu4gr4Xx7EU22L4QGc7C0S)
-
----
-
-### Why Repaint?
-- Save hours on manual editing.
-- Consistent branding across assets.
-- Boost conversion with high‑quality visuals.
-
-Ready to transform your images? **Try Repaint today!**
+[Buy Now](https://buy.stripe.com/test_product_link)
