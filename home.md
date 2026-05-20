@@ -1,63 +1,33 @@
-# Chert – The Smart Data Hub for Modern Teams
+# UCCI: Calibrated Uncertainty for Cost‑Optimal LLM Cascade Routing
 
-## Unlock Your Data Potential in Seconds
+## Unlock Predictable Performance and Minimum Cost for Your LLM Stack
 
-**Headline:** *Turn raw data into actionable insights without writing a line of code.*
+**Cut your LLM spend by up to 40% while guaranteeing response latency and accuracy.**
 
-**Sub‑headline:** Chert consolidates every spreadsheet, API, and database into a single, searchable dashboard. Teams get instant answers, automate reports, and make decisions faster.
-
----
-
-### Why Chert?
-
-- **Zero‑Code Integration** – Connect Google Sheets, MySQL, Salesforce, and 50+ SaaS sources with a click.
-- **Live Collaboration** – Share live views with teammates; edits update in real‑time.
-- **AI‑Powered Insights** – Ask natural‑language questions (e.g., “What was our MRR last month?”) and get instant charts.
-- **Secure & Compliant** – End‑to‑end encryption, SOC‑2, GDPR ready.
-
----
+### Why UCCI?
+- **Calibrated Uncertainty:** Quantify confidence for each LLM output – no more guesswork.
+- **Cost‑Optimal Routing:** Automatically route queries to the cheapest model that meets the required confidence threshold.
+- **Scalable Cascade:** Seamlessly chain multiple LLMs (open‑source, hosted, proprietary) in a single API call.
+- **Enterprise‑Ready:** SLA‑grade monitoring, audit logs, and compliance‑first data handling.
 
 ### How It Works
+1. **Input Query** – Send any prompt to the UCCI endpoint.
+2. **Confidence Scoring** – Our uncertainty engine returns a calibrated score.
+3. **Dynamic Routing** – The system selects the most cost‑effective model that satisfies the confidence target.
+4. **Unified Response** – You receive the final answer with a confidence label.
 
-1. **Connect** – Choose your data sources from the Chert library.
-2. **Transform** – Map fields, set refresh schedules, and let AI clean the data.
-3. **Explore** – Use the drag‑and‑drop canvas or type a question to get visual answers.
-4. **Act** – Export reports, trigger Slack alerts, or sync back to your tools.
+### Benefits
+- **Predictable Budgets:** Pay only for the model you need.
+- **Higher ROI:** Reduce over‑provisioned LLM usage.
+- **Risk Management:** Confidence scores let you fallback or flag uncertain answers.
+- **Fast Integration:** Drop‑in SDK for Python, Node, and REST.
 
----
-
-### Social Proof
-
-> “Chert cut our weekly reporting time from 4 hours to 10 minutes.” – *Product Ops, Acme Corp*
-
-> “Our sales team now has a live pipeline view without pulling data manually.” – *VP of Sales, NovaTech*
-
----
-
-### Pricing
-
-- **Free** – Up to 3 data sources, basic dashboards.
-- **Pro** – $49 /mo per user – Unlimited sources, AI insights, export.
-- **Enterprise** – Custom – SSO, dedicated support, on‑prem option.
-
-*All plans include a 14‑day money‑back guarantee.*
+### Trusted By
+> *"UCCI saved us $120k in the first month while improving answer reliability."* – Lead Engineer, FinTech Corp.
 
 ---
 
-### Ready to Experience the Future of Data?
+**Ready to slash costs and boost reliability?**
 
-[**Start Your Free Trial**](https://app.chert.io/signup) – No credit card required.
-
----
-
-#### FAQ
-
-**Q:** Do I need to be a data engineer?
-**A:** No. Chert is built for anyone who works with data.
-
-**Q:** Is my data safe?
-**A:** Yes. We encrypt at rest and in transit and meet SOC‑2 standards.
-
----
-
-*© 2026 Chert Inc. All rights reserved.*
+[Get Started Free](/signup)  
+[Book a Demo](/demo)
