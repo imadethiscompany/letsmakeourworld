@@ -1,8 +1,12 @@
-# Automation Artifact
+# UCCI Automation Artifact
 
-This is a minimal automation artifact for the topic **"If AI didn't threaten our jobs, would most people feel differently about it?"**.
+## Calibrated Uncertainty for Cost-Optimal LLM Cascade Routing
 
-- It demonstrates a simple automated page.
-- You can integrate this with your workflows.
+This minimal automation artifact demonstrates a simple Python script that calculates calibrated uncertainty scores for LLM routing decisions.
 
-[Buy the product](https://buy.stripe.com/test_8x2dR1gGf3oE22Ldncc7E1i)
+**How to use:**
+```bash
+python ucci_calibrator.py --model gpt-4 --input "Your prompt here"
+```
+
+[Buy the full solution](https://example.com/payment) 
