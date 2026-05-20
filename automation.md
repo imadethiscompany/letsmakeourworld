@@ -1,12 +1,17 @@
-# UCCI Automation Artifact
+# Owlish Minimal Automation Artifact
 
-## Calibrated Uncertainty for Cost-Optimal LLM Cascade Routing
+This is a minimal Python script that fetches 5 business leads for Owlish and prints them.
 
-This minimal automation artifact demonstrates a simple Python script that calculates calibrated uncertainty scores for LLM routing decisions.
+```python
+import json
+from functions import find_leads
 
-**How to use:**
-```bash
-python ucci_calibrator.py --model gpt-4 --input "Your prompt here"
+def main():
+    leads = find_leads(query="businesses interested in AI tools", limit=5)
+    print(json.dumps(leads, indent=2))
+
+if __name__ == "__main__":
+    main()
 ```
 
-[Buy the full solution](https://example.com/payment) 
+Deploy this script as part of the Owlish automation suite.
