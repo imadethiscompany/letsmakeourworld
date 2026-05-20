@@ -1,25 +1,26 @@
-# Ask YouTube – AI‑Powered Conversational Search for Video
+# Ask YouTube – AI‑Powered Conversational Search
 
-**Turn YouTube into a real‑time, conversational assistant.**
+## Discover video answers instantly with natural language
 
-- **Instant answers** – Ask any question and get a concise response pulled from relevant video segments.
-- **Gemini Omni integration** – Leverages Google’s Gemini Omni LLM for deep context and multi‑modal understanding.
-- **Seamless UI** – Natural‑language chat embedded directly on the video page.
-- **Boost engagement** – Keep viewers watching longer and increase click‑through rates.
+**Ask YouTube** brings Google Gemini Omni’s multimodal intelligence directly to YouTube.  Users type or speak a question and get a real‑time, conversational summary of the most relevant video clips, timestamps, and key take‑aways.
 
-## Why It Matters
-- **Higher retention:** Viewers get the exact info they need without scrubbing.
-- **SEO advantage:** Search engines surface conversational snippets, driving more traffic.
-- **Monetization:** New ad formats and premium "Ask‑the‑Video" subscriptions.
+### Why it matters
+- **Fast, accurate answers** – No more scrolling through endless video lists.
+- **Conversational UI** – Chat‑style interaction feels like talking to a personal assistant.
+- **Gemini Omni power** – Multimodal reasoning across text, audio, and visuals for deeper insights.
+- **Enterprise ready** – API, analytics, and brand‑able UI for SaaS products.
 
-## Features
-- Real‑time transcription & indexing.
-- Multi‑language support.
-- Context‑aware follow‑up questions.
-- Exportable summary & timestamps.
-
-## Get Early Access
-[**Join the waitlist**](https://example.com/ask-youtube-waitlist) – Be the first to embed conversational search on your channel.
+### Features
+- Instant video summarization
+- Click‑to‑jump timestamps
+- Context‑aware follow‑up questions
+- Private, on‑device inference option
 
 ---
-*Powered by Gemini Omni & next‑gen LLMs.*
+
+#### Ready to try?
+[Get early access now →](https://example.com/ask-youtube-early-access)
+
+---
+
+*Stay ahead of the AI video search revolution.*
