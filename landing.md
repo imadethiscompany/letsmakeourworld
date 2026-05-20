@@ -1,47 +1,30 @@
-# Owlish
+# StoreClaw
 
-## 📬 Transform Your Email Experience
+## Capture Every Lost Sale
 
-**Headline:** *Never Miss a Critical Email Again – Let Owlish Summarize, Prioritize, and Respond in Seconds.*
+**Never lose another checkout again.** StoreClaw automatically recovers abandoned carts, boosts conversion rates, and grows revenue for e‑commerce brands.
 
-**Sub‑headline:** Owlish uses AI to scan your inbox, highlight the most important messages, draft concise replies, and surface actionable insights—all while keeping your tone personal.
-
----
-
-### Why Owlish?
-- **Cut email time by 70%** – AI‑generated summaries let you skim 10‑minute emails in 30 seconds.
-- **Never overlook a deal** – Real‑time priority alerts for sales, support, and investor messages.
-- **Stay on brand** – Custom tone settings match your company voice for every automated reply.
-- **Zero‑setup** – Connect your Gmail/Outlook in one click, no servers to manage.
-
----
+### Why StoreClaw?
+- **Increase revenue by up to 15%** – proven results for Shopify & WooCommerce stores.
+- **Zero‑code setup** – install in minutes, no developer required.
+- **Real‑time alerts** – get instant SMS/Email notifications when a cart is abandoned.
+- **Smart recovery flows** – personalized emails, push, and SMS that turn browsers into buyers.
 
 ### How It Works
-1. **Connect** – Secure OAuth link to your email provider.
-2. **Analyze** – Owlish scans incoming mail with a privacy‑first LLM.
-3. **Summarize & Suggest** – Get a TL;DR and draft reply options.
-4. **Approve or Edit** – One‑click send or tweak to perfection.
+1. **Connect your store** – one‑click integration.
+2. **Track carts** – our script monitors checkout activity.
+3. **Automated outreach** – tailored messages sent automatically.
+4. **Analytics dashboard** – see revenue recovered, A/B test performance, and more.
 
----
+Ready to stop leaving money on the table?
 
-### Social Proof
-> *"Owlish saved my team hours every week. Our response time dropped from hours to minutes."* – **Alex P., SaaS Founder**
-
-> *"I finally read every investor email without the noise."* – **Maria L., VC Analyst**
-
----
-
-### Ready to Reclaim Your Inbox?
-
-[**Start Your Free 14‑Day Trial**](#) – No credit card required.
+[**Start Free Trial – No Credit Card Required**](https://storeclaw.com/signup)
 
 ---
 
 **FAQ**
-- **Is my data safe?** All processing happens on encrypted servers; we never store raw email content.
-- **Which email providers are supported?** Gmail, Outlook, and any IMAP‑compatible service.
-- **Can I cancel anytime?** Yes, with a single click in your dashboard.
+- **Is there a contract?** No, cancel anytime.
+- **What platforms are supported?** Shopify, WooCommerce, BigCommerce.
+- **How quickly can I see results?** Most users see a lift within the first week.
 
----
-
-*Owlish – Your inbox, supercharged.*
+*Join 2,500+ brands already growing with StoreClaw.*
