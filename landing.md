@@ -1,47 +1,25 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn your YouTube channel into a profit‑generating machine** with our end‑to‑end automation service. From content ideation, script writing, AI‑voiceover, video creation, SEO‑optimized titles, thumbnails, and daily uploads – we handle it all.
-
----
+🚀 **Turn Views into Revenue** – We handle video creation, SEO, thumbnail design, publishing, and community management so you can focus on your business.
 
 ### Why Choose Us?
-- **Zero Production Hassle** – AI‑generated scripts, voiceovers, and motion graphics.
-- **Rapid Turnaround** – 1‑video per day, ready to publish in under 24h.
-- **Growth‑Focused SEO** – Keyword‑rich titles, tags, and descriptions that rank.
-- **Data‑Driven Optimization** – Weekly analytics & A/B tested thumbnails.
-- **Revenue‑Sharing Model** – Only pay for results, no upfront fees.
-
----
+- **AI‑Powered Video Production** – Script, voice‑over, motion graphics, and editing in under 2 hours per video.
+- **Full Funnel Automation** – Upload, schedule, optimize titles/tags, and auto‑reply comments.
+- **Proven ROI** – Clients see a **3‑5× increase** in subscriber growth and **2‑4× higher ad revenue** within the first month.
 
 ### Packages
 | Package | Videos/Month | Price | Ideal For |
 |---|---|---|---|
-| **Starter** | 8 | $499 | New creators, test the waters |
-| **Growth** | 20 | $1,199 | Growing channels, need scale |
-| **Enterprise** | 50+ | $2,999 | Established brands, full automation |
-
-> **Limited Time Offer:** Sign up today and get **10% off** your first month!
-
----
+| **Starter** | 4 | $499 | New creators & SMBs |
+| **Growth** | 12 | $1,299 | Fast‑growing channels |
+| **Enterprise** | Unlimited | $3,999 | Brands & agencies |
 
 ### Ready to Automate?
+**Book a free strategy call** and get a custom plan in 24 hours.
 
-[**Get Started Now**](https://letsmakeourworld-jtawji0ty-vikasvardhanvs-projects.vercel.app/checkout?product=youtube-automation) – Fill the short form, and we’ll schedule your onboarding call.
-
----
-
-#### Frequently Asked Questions
-**Q:** Do I need any equipment?
-**A:** No. All videos are produced in the cloud.
-
-**Q:** How long does it take to see growth?
-**A:** Most clients see a 20‑30% increase in views within the first 30 days.
-
-**Q:** Can I customize the style?
-**A:** Absolutely – choose from our library of motion‑graphics templates.
+[**Schedule Your Call →**](https://calendly.com/youtube-automation/strategy)
 
 ---
-
-*Join 200+ creators who are already scaling with AI. Your channel, automated.*
+*No contracts. Cancel anytime.*
