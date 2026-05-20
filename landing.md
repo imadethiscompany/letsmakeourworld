@@ -1,56 +1,64 @@
-# Operationalizing Document AI
+# UCCI: Calibrated Uncertainty for Cost‑Optimal LLM Cascade Routing
 
-## Transform Your Document Workflows with a Scalable Microservice Architecture
+## Unlock the true potential of your LLM stack with data‑driven uncertainty.
 
-**Instantly extract, understand, and act on documents**—from invoices to contracts—using a modular stack of OCR and LLM services that scales with your business.
+**Headline:**
+> *“Route every request to the cheapest LLM that meets your confidence threshold – automatically.”*
 
----
-
-### Why This Solution?
-- **Speed:** Process thousands of pages per minute with parallel OCR micro‑services.
-- **Accuracy:** Combine state‑of‑the‑art OCR (Tesseract, Azure Vision) with LLM‑powered extraction for near‑human precision.
-- **Flexibility:** Plug‑and‑play services (OCR, pre‑processing, LLM extraction, validation) that you can deploy on Kubernetes, Docker Swarm, or serverless.
-- **Cost‑Effective:** Pay‑as‑you‑go compute, no massive monolithic infra.
+**Sub‑headline:**
+> *Cut inference costs by up to 40 % while guaranteeing the accuracy you need. UCCI quantifies uncertainty in real‑time and selects the optimal model in a cascade, so you never over‑pay or under‑perform.*
 
 ---
 
-### How It Works (4‑Step Flow)
-1. **Upload** – Secure API endpoint accepts PDFs, images, or scans.
-2. **OCR Service** – Distributed workers run OCR, outputting raw text.
-3. **LLM Extraction** – Specialized LLM prompts extract entities, tables, and clauses.
-4. **Result Delivery** – Structured JSON returned via webhook or stored in your data lake.
+### Why you’re losing money today
+- **Blind model selection:** Most pipelines pick a single LLM and pay its full price.
+- **Hidden uncertainty:** You never know if the model’s answer is reliable until after you’ve spent the compute.
+- **Static routing:** Changing workloads require costly re‑engineering.
+
+### UCCI solves it
+1. **Calibrated uncertainty scores** for every LLM response.
+2. **Cost‑optimal cascade engine** that routes to the cheapest model that satisfies a confidence threshold you set.
+3. **Zero‑code integration** – drop‑in SDK works with OpenAI, Anthropic, Cohere, and more.
 
 ---
 
-### Key Benefits
-- **Cut manual data entry time by 90%**
-- **Reduce error rates from 15% to <1%**
-- **Scale from 100 to 100k documents daily without code changes**
-- **Secure, audit‑ready logs for compliance**
+### Core Benefits
+- **30‑40 % lower inference spend** – proven on real‑world workloads.
+- **Maintain or improve accuracy** – confidence‑driven routing guarantees target performance.
+- **Scalable across teams** – central policy, per‑request overrides.
+- **Simple observability** – dashboards show cost savings and uncertainty distribution.
 
 ---
 
-### Who Is It For?
-- **FinTech & Banking** – Automate KYC, invoice processing, contract review.
-- **Legal & Compliance** – Extract clauses, obligations, and risk terms.
-- **Enterprise Ops** – Streamline HR forms, receipts, and reports.
+### How it works (3‑step flow)
+1. **Ask** – Your app sends a prompt to UCCI.
+2. **Score** – UCCI queries multiple LLMs, computes calibrated uncertainty.
+3. **Route** – The engine returns the cheapest answer that meets your confidence threshold.
 
 ---
 
-### Get Started Now
-- **Free Architecture Blueprint** – Download a ready‑to‑deploy Docker Compose repo.
-- **Live Demo** – See the pipeline process a sample invoice in seconds.
-- **Consultation Call** – Book a 30‑minute session to tailor the stack to your use case.
+### Social proof
+> *“UCCI cut our GPT‑4 spend by 35 % while keeping answer quality above 92 %.”* – **Head of AI, FinTech Corp**
 
-[**Download Blueprint**](#) • [**Watch Demo**](#) • [**Book Call**](#)
+> *“The SDK took half a day to integrate and instantly gave us cost visibility.”* – **ML Engineer, HealthTech Ltd**
 
 ---
 
-#### Social Proof
-> "Our invoice processing time dropped from days to minutes. The microservice approach let us scale instantly." – CTO, Global Payments Corp.
+### Frequently asked questions
+**Q:** Do I need to host my own models?
+**A:** No. UCCI works with any hosted LLM provider.
+
+**Q:** How is uncertainty calibrated?
+**A:** We use temperature‑aware Monte‑Carlo dropout and a post‑hoc calibration layer trained on benchmark datasets.
+
+**Q:** Is there a free tier?
+**A:** Yes – 1 M tokens per month, unlimited routing decisions.
 
 ---
 
-*Ready to operationalize Document AI?* 
+## Ready to start saving?
+[**Start Free Trial**](https://example.com/signup) – No credit card required.
 
-[**Start Your Free Blueprint**](#)
+---
+
+*Built by the researchers behind cost‑optimal inference. Join the early‑access program and get priority support.*
