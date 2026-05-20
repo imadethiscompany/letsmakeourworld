@@ -1,54 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Product Suite – Transform Your Business with Cutting‑Edge AI</title>
-  <meta name="description" content="Unlock the power of next‑gen AI tools. Boost productivity, cut costs, and stay ahead of the competition with our AI Product Suite. Try it free today!" />
-  <style>
-    body{font-family:Arial,sans-serif;margin:0;padding:0;color:#333;background:#f9f9f9;}
-    .hero{background:#0d47a1;color:#fff;padding:80px 20px;text-align:center;}
-    .hero h1{font-size:2.8rem;margin-bottom:20px;}
-    .hero p{font-size:1.2rem;margin-bottom:30px;}
-    .cta{background:#ff9800;color:#fff;border:none;padding:15px 30px;font-size:1rem;cursor:pointer;border-radius:5px;}
-    .section{padding:60px 20px;max-width:1000px;margin:auto;}
-    .features{display:flex;flex-wrap:wrap;gap:20px;justify-content:center;}
-    .feature{flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1);}
-    .footer{text-align:center;padding:20px;font-size:.9rem;color:#777;}
-  </style>
+<meta charset="UTF-8">
+<title>AI Product Suite – Transform Your Business with Cutting‑Edge AI</title>
+<meta name="description" content="Unlock the power of next‑gen AI tools. Boost productivity, cut costs, and outpace competitors with our all‑in‑one AI Product Suite.">
+<meta name="keywords" content="AI tools, artificial intelligence, AI automation, AI SaaS, AI for business">
+<link rel="stylesheet" href="/static/css/main.css">
 </head>
 <body>
-  <section class="hero">
-    <h1>AI Product Suite – Power Your Business with the Latest Generative AI</h1>
-    <p>Cut reporting time by 80%, generate marketing copy in seconds, and automate repetitive tasks with a single, easy‑to‑use platform.</p>
-    <button class="cta" onclick="window.location.href='https://buy.stripe.com/test_9B6dR14Xx2kA22L1Euc7E1l'">Start Free Trial – No Credit Card</button>
-  </section>
+<section class="hero" style="padding:80px 20px;text-align:center;background:#0d0d0d;color:#fff;">
+  <h1 style="font-size:3rem;margin-bottom:20px;">Supercharge Your Business with the AI Product Suite</h1>
+  <p style="font-size:1.25rem;margin-bottom:30px;max-width:800px;margin:auto;">A ready‑to‑use collection of AI‑powered tools that automate marketing, sales, support, and data analytics – no coding required.</p>
+  <a href="https://buy.stripe.com/test_9B6dR14Xx2kA22L1Euc7E1l" style="background:#ff6600;color:#fff;padding:15px 30px;border-radius:5px;text-decoration:none;font-weight:bold;">Get the AI Suite for $199</a>
+</section>
 
-  <section class="section">
-    <h2>Why Choose Our AI Suite?</h2>
-    <p>Our AI tools are built on the newest large‑language models and the Zhenwu AI chip, delivering enterprise‑grade speed and accuracy at a SMB‑friendly price.</p>
-    <div class="features">
-      <div class="feature"><strong>Instant Content Generation</strong><br/>Create blog posts, ad copy, and product descriptions 10× faster.</div>
-      <div class="feature"><strong>Data‑Driven Insights</strong><br/>Turn raw data into actionable dashboards in seconds.</div>
-      <div class="feature"><strong>Automation Workflows</strong><br/>Automate email, CRM, and reporting tasks without code.</div>
-      <div class="feature"><strong>Scalable & Secure</strong><br/>Enterprise‑grade security, GDPR‑compliant, and ready to scale.</div>
+<section class="benefits" style="padding:60px 20px;background:#f9f9f9;">
+  <h2 style="text-align:center;font-size:2.5rem;margin-bottom:40px;">What You’ll Get</h2>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:30px;">
+    <div style="flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>AI‑Powered Marketing</h3>
+      <p>Generate high‑converting copy, social posts, and email sequences in seconds.</p>
     </div>
-  </section>
+    <div style="flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>Smart Sales Assistant</h3>
+      <p>Automate lead qualification, follow‑ups, and CRM updates with a conversational AI.</p>
+    </div>
+    <div style="flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>Data Insights Engine</h3>
+      <p>Turn raw data into actionable dashboards and predictive forecasts.</p>
+    </div>
+    <div style="flex:1 1 250px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>24/7 AI Support Bot</h3>
+      <p>Handle customer queries instantly, reduce ticket volume by up to 70%.</p>
+    </div>
+  </div>
+</section>
 
-  <section class="section" style="background:#eef;">
-    <h2>Success Stories</h2>
-    <p>“We reduced monthly reporting from 8 hours to 15 minutes.” – <em>Acme Marketing</em></p>
-    <p>“Our ad spend ROI jumped 45% after using AI‑generated copy.” – <em>Beta Retail</em></p>
-  </section>
+<section class="social-proof" style="padding:60px 20px;text-align:center;">
+  <h2 style="font-size:2rem;margin-bottom:30px;">Trusted by Fast‑Growing Companies</h2>
+  <p style="font-size:1.1rem;max-width:800px;margin:auto;">“The AI Suite cut our marketing production time from 20 hours to 45 minutes. Revenue grew 32% in the first month.” – <strong>CEO, CloudStart</strong></p>
+  <img src="/static/images/logos.png" alt="Customer logos" style="margin-top:30px;width:80%;max-width:600px;">
+</section>
 
-  <section class="section">
-    <h2>Ready to Transform?</h2>
-    <p>Join 1,200+ businesses already boosting productivity with AI.</p>
-    <button class="cta" onclick="window.location.href='https://buy.stripe.com/test_9B6dR14Xx2kA22L1Euc7E1l'">Start Free Trial Now</button>
-  </section>
+<section class="cta" style="padding:80px 20px;background:#0d0d0d;color:#fff;text-align:center;">
+  <h2 style="font-size:2.5rem;margin-bottom:20px;">Ready to Transform Your Business?</h2>
+  <p style="font-size:1.2rem;margin-bottom:30px;">Get instant access to all four AI tools for a one‑time payment of $199.</p>
+  <a href="https://buy.stripe.com/test_9B6dR14Xx2kA22L1Euc7E1l" style="background:#ff6600;color:#fff;padding:15px 30px;border-radius:5px;text-decoration:none;font-weight:bold;">Buy Now – Start Today</a>
+</section>
 
-  <footer class="footer">
-    © 2026 AI Product Suite – All rights reserved.
-  </footer>
+<footer style="padding:30px 20px;background:#222;color:#aaa;text-align:center;">
+  <p>&copy; 2026 AI Product Suite. All rights reserved.</p>
+</footer>
 </body>
 </html>
