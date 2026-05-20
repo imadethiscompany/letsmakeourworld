@@ -1,69 +1,36 @@
-# YouTube Automation Agency – Scale Your Business with Hands‑Free Video Growth
+# YouTube Automation Agency
 
-## 🎬 Turn YouTube into a 24/7 Sales Machine
+## Scale Your YouTube Channel Without Lifting a Finger
 
-You’re a busy SMB owner. You know video **drives leads**, but you don’t have time to film, edit, optimize, and manage a channel. Our **YouTube Automation Agency** does the heavy lifting for you – from content creation to SEO‑optimized publishing – so you can focus on closing sales.
+**Turn video ideas into viral content automatically.**
 
----
+- **Zero Editing:** AI writes scripts, records voiceovers, and creates motion‑graphics.
+- **Full Funnel Integration:** Optimized titles, tags, thumbnails, and SEO‑rich descriptions.
+- **Unlimited Scale:** Publish 5‑10 videos per week on autopilot.
+- **Performance Dashboard:** Real‑time analytics, ROI tracking, and growth recommendations.
+
+### How It Works
+1. **Strategy Session** – We define your niche, target keywords, and content pillars.
+2. **AI Production** – Our proprietary engine generates scripts, voice‑overs, and video assets.
+3. **Automation** – Videos are uploaded, scheduled, and promoted across platforms.
+4. **Growth Loop** – Continuous A/B testing and optimization for maximum CPM.
 
 ### Why Choose Us?
-- **Zero‑Hands Production** – We script, film (AI‑generated), edit, and upload videos on autopilot.
-- **AI‑Powered SEO** – Keyword‑rich titles, tags, and thumbnails that rank on the first page.
-- **Conversion‑Focused Funnel** – Every video includes a custom call‑to‑action driving traffic to your website or booking page.
-- **Scalable Packages** – From 4 videos/month to 20+ videos/month – grow with your budget.
-- **Transparent Reporting** – Real‑time dashboard of views, watch‑time, leads, and ROI.
+- **Proven Results:** Clients see 3‑5× subscriber growth in 30 days.
+- **Turnkey Solution:** From concept to published video – no hiring, no software.
+- **Transparent Pricing:** Pay per video or monthly retainers – no hidden fees.
+
+### Packages
+| Package | Videos / Month | Price |
+|---------|----------------|-------|
+| **Starter** | 4 | $799 |
+| **Growth** | 8 | $1499 |
+| **Scale** | 12+ | $2299 |
+
+> **Ready to dominate YouTube?**
+> 
+> **[Book a Free Strategy Call →](https://calendly.com/yt-automation/strategy)**
 
 ---
 
-## How It Works (3 Simple Steps)
-1. **Discovery Call** – We learn your brand, target audience, and offers.
-2. **Content Blueprint** – Our AI drafts scripts and storyboards aligned with your messaging.
-3. **Automated Production & Publishing** – Videos are produced, optimized, and posted on schedule. You receive weekly performance reports.
-
----
-
-## Packages (All‑Inclusive, No Hidden Fees)
-| Package | Videos / Month | Included Services | Price (USD) |
-|---|---|---|---|
-| **Starter** | 4 | Script, AI‑voice, Stock B‑roll, SEO tags, Thumbnail, Monthly Report | **$499** |
-| **Growth** | 8 | Everything in Starter + Custom Branding, CTA Buttons, Bi‑weekly Strategy Call | **$899** |
-| **Scale** | 12+ | Everything in Growth + Dedicated Account Manager, Lead‑Gen Funnel Integration, Priority Support | **$1,499** |
-
-*Custom enterprise plans available – contact us for a quote.*
-
----
-
-## Success Stories
-> **"Our leads doubled in 30 days after launching the first 4 videos. The ROI was immediate and the process was completely hands‑free."** – *Emily R., SaaS Founder*
-
-> **"We went from 0 to 10k subscribers in 2 months, and our sales pipeline filled up with qualified prospects."** – *Mike L., E‑commerce Owner*
-
----
-
-## Frequently Asked Questions
-**Q:** *Do I need any video equipment?*  
-**A:** No. All videos are AI‑generated or sourced from royalty‑free stock.
-
-**Q:** *How long does it take to see results?*  
-**A:** Most clients see measurable traffic and leads within the first 2‑3 videos.
-
-**Q:** *Can you target specific keywords?*  
-**A:** Absolutely. We perform keyword research for every niche and embed them in titles, tags, and descriptions.
-
----
-
-## Ready to Automate Your YouTube Growth?
-
-👉 **[Book a Free Strategy Call](https://calendly.com/youragency/30min)**
-
-Or click below to purchase a package instantly and start scaling:
-
-- **Starter – $499/mo** – [Buy Now](/buy?plan=starter)
-- **Growth – $899/mo** – [Buy Now](/buy?plan=growth)
-- **Scale – $1,499/mo** – [Buy Now](/buy?plan=scale)
-
-*No long‑term contracts. Cancel anytime.*
-
----
-
-*Your success is our automation.*
+*SEO Keywords: YouTube automation, AI video production, hands‑free YouTube channel, YouTube growth agency, automated video creation.*
