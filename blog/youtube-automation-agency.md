@@ -1,66 +1,40 @@
-# YouTube Automation Agency – Scale Your Channel Effortlessly
+# YouTube Automation Agency – Scale Your Channel with Zero Effort
 
-## Unlock Unlimited Growth with Fully Automated YouTube Management
+## Unlock Passive Revenue with Fully Automated YouTube Growth
 
-**Are you a creator, agency, or brand tired of spending countless hours on video production, SEO, and audience engagement?**
+Do you dream of a thriving YouTube channel that generates consistent income **while you sleep**? Our **YouTube Automation Agency** does the heavy lifting for you – from content ideation, script writing, AI‑powered voice‑overs, and video production, to SEO‑optimized titles, tags, and thumbnail design. All you need to do is **approve** and **watch the revenue roll in**.
 
-Our **YouTube Automation Agency** handles everything from content ideation, script writing, AI‑powered voice‑overs, kinetic motion graphics, to SEO‑optimized publishing and community management.  You focus on strategy, we handle the grind.
+### Why Choose Our Agency?
+- **Zero Manual Editing** – AI writes scripts, generates visuals, and edits videos in minutes.
+- **Data‑Driven SEO** – Keyword research, thumbnail A/B tests, and algorithm‑friendly publishing schedule.
+- **Scalable Packages** – From 5 videos/month ($499) to 30 videos/month ($2,799). Custom enterprise solutions available.
+- **Performance Dashboard** – Real‑time analytics on views, watch‑time, subscriber growth, and earnings.
 
----
+### How It Works
+1. **Strategy Call** – We uncover your niche, target audience, and brand voice.
+2. **AI Content Engine** – Generates scripts, voice‑overs, and visual assets.
+3. **Production & Optimization** – Videos are edited, SEO‑tuned, and scheduled.
+4. **Launch & Grow** – Publish on your channel, monitor performance, iterate.
 
-### Why Choose Our Automation Agency?
-
-| ✅ | Feature | Benefit |
-|---|---|---|
-| **AI‑Generated Scripts** | Market‑research‑backed outlines written by Claude/ChatGPT | Zero writer’s block, topics that rank instantly |
-| **Voice‑Cloning** | Mine.voicebox & ElevenLabs natural‑sounding narration | Professional voice without hiring talent |
-| **Remotion Motion Graphics** | Kinetic typography, 3‑D cards, particle fields, glitch effects | Eye‑catching videos that boost watch‑time |
-| **SEO‑Ready Publishing** | Auto‑generated titles, tags, hashtags, transcripts, captions | Higher discoverability on YouTube & Google |
-| **Community Bot** | Automated comment replies, poll creation, lead‑magnet prompts | Keeps engagement high, grows subscriber base |
-| **Performance Dashboard** | Real‑time analytics, A/B testing, ROI tracking | Data‑driven decisions for scaling |
-
----
-
-### Our Proven Process
-
-1. **Research & Ideation** – AI scans trends, competitor gaps, and keyword volume.
-2. **Script & Storyboard** – Structured, bullet‑point script ready for voice‑over.
-3. **Voice‑over Production** – Mine.voicebox clones your brand voice instantly.
-4. **Motion‑Graphics Rendering** – Remotion creates a cinematic video in under 30 min.
-5. **SEO & Publish** – Optimized metadata, automatic subtitles, scheduled launch.
-6. **Growth Automation** – Auto‑comment, community polls, email capture, lead funnel.
-
----
-
-### Pricing Packages (All Include Full Automation & Reporting)
-
-| Plan | Monthly Price | Videos / Month | Key Inclusions |
-|---|---|---|---|
-| **Starter** | **$499** | 4 | Script + Voice + Basic Motion + SEO |
-| **Growth** | **$1,299** | 12 | Advanced Motion, Community Bot, A/B Tests |
-| **Enterprise** | **$3,499** | 30+ | Dedicated strategist, custom branding, priority support |
-
-> **Special Offer:** Sign up this week and get **2 free videos** on any plan.
-
----
+### Results You Can Expect
+| Metric | 5‑Video Package | 15‑Video Package | 30‑Video Package |
+|--------|----------------|------------------|------------------|
+| Avg. Views/Video | 5,000+ | 12,000+ | 25,000+ |
+| Subscriber Gain/Month | 200+ | 600+ | 1,200+ |
+| Estimated Revenue/Month | $300–$800 | $1,200–$2,500 | $3,500–$7,000 |
 
 ### Frequently Asked Questions
+**Q:** *Do I need any video editing skills?*  
+**A:** No. Our AI handles 100% of the editing.
 
-**Q:** *Do I need any video equipment?*\
-**A:** No. All videos are generated AI‑first; you only need a brand logo and style guide.
+**Q:** *Can I keep my channel’s existing style?*  
+**A:** Absolutely. Provide brand guidelines and we match the look.
 
-**Q:** *How fast can I get a video?*\
-**A:** Typical turnaround is **24‑48 hours** from brief to published video.
-
-**Q:** *Can I keep my existing channel voice?*\
-**A:** Absolutely. Upload a sample and we’ll clone it with Mine.voicebox.
-
----
+**Q:** *What’s the turnaround time?*  
+**A:** First video delivered within 48‑72 hours after strategy call.
 
 ### Ready to Automate Your YouTube Success?
-
-**[Book a Free Strategy Call](/contact)** – Let us audit your channel and show you the revenue lift you can expect.
+[**Book a Free Strategy Call**](https://calendly.com/youragency/strategy) – **Limited slots available**.
 
 ---
-
-*SEO Keywords: YouTube automation agency, AI video production, automated YouTube growth, YouTube SEO automation, AI voice over for YouTube, Remotion video automation*
+*Boost your channel, dominate your niche, and generate passive income without lifting a finger.*
