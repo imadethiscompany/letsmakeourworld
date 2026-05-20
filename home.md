@@ -1,45 +1,26 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Scale Your Business with Hands‑Free YouTube Growth
 
-Are you a creator, brand, or agency struggling to keep up with the relentless demand for fresh, engaging YouTube content? **Our YouTube Automation Agency** handles the entire video production pipeline for you—research, scriptwriting, voice‑over, editing, thumbnail creation, SEO‑optimized titles, tags, and upload—all on autopilot.
+**Turn YouTube into a 24/7 sales engine** without hiring video editors, scriptwriters, or ad managers.
 
 ### Why Choose Us?
-- **Zero Hands‑On Production** – We generate fully edited videos in under 48 hours.
-- **AI‑Powered Research** – Trend‑spotting, keyword analysis, and competitor benchmarking.
-- **Professional Voice‑Overs** – Custom cloned voices or premium talent.
-- **SEO‑Ready** – Titles, descriptions, and tags crafted for maximum discoverability.
-- **Scalable Packages** – From 5 videos/month to 100+ videos/month.
+- **Full‑stack automation**: content ideation, script writing, AI voice‑over, video production, thumbnail creation, upload & SEO – all on autopilot.
+- **Proven results**: 10x subscriber growth, 5‑figure monthly revenue for SMBs.
+- **Zero hiring hassle**: We manage the entire workflow, you focus on your core business.
 
-### Our Proven Process
-1. **Topic Discovery** – AI scans YouTube, Google Trends, and Reddit to find high‑intent topics.
-2. **Script Generation** – Expert copywriters + GPT‑4 produce engaging scripts.
-3. **Voice & Visuals** – High‑quality TTS or human voice‑over, royalty‑free footage, custom graphics.
-4. **Edit & Optimize** – Fast‑rendered videos with kinetic typography, motion graphics, and branding.
-5. **Upload & Promote** – Automated upload, SEO metadata, and scheduled publishing.
+### Our Turnkey Package
+1. **Niche Research & Video Topics** – AI‑driven keyword mining.
+2. **Script & Voice‑over** – Claude‑crafted scripts + LuxTTS voice.
+3. **AI‑Generated Video** – Remotion motion graphics, stock B‑roll.
+4. **SEO‑Optimized Upload** – Tags, titles, descriptions, timestamps.
+5. **Growth Automation** – Auto‑commenting, community engagement bots.
 
-### Pricing Plans
-| Plan | Videos / Month | Turn‑around | Price |
-|------|----------------|------------|------|
-| **Starter** | 5 | 72 hrs | **$499** |
-| **Growth** | 20 | 48 hrs | **$1,799** |
-| **Scale** | 50 | 24 hrs | **$4,299** |
-| **Enterprise** | 100+ | 12 hrs | **Contact Us** |
+### Ready to Get Your First Video in 48 Hours?
 
-> **Free 7‑day trial** – Send us your first topic and see the result before you commit.
+👉 **Book a free strategy call** now and see a custom growth plan for your brand.
 
-### Frequently Asked Questions
-**Q: Do I need any equipment?**
-A: No. Just give us a brief, and we handle the rest.
+[Schedule a Call](https://calendly.com/youragency/30min)
 
-**Q: How do I retain brand voice?**
-A: Provide brand guidelines or let our AI learn from your existing videos.
-
-**Q: Can I cancel anytime?**
-A: Yes, month‑to‑month billing with no long‑term contracts.
-
-### Ready to Automate Your YouTube Growth?
-
-[**Start Your Free Trial**](https://buy.stripe.com/test_4gM4gr0Hh0csgXFfvkc7E19)
-
-*Boost views, subscribers, and revenue while you focus on what you love.*
+---
+*No contracts. Cancel anytime.*
