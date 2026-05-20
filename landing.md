@@ -1,64 +1,50 @@
 # UCCI: Calibrated Uncertainty for Cost‑Optimal LLM Cascade Routing
 
-## Unlock the true potential of your LLM stack with data‑driven uncertainty.
+## Unlock Predictable, Low‑Cost AI Performance
 
-**Headline:**
-> *“Route every request to the cheapest LLM that meets your confidence threshold – automatically.”*
-
-**Sub‑headline:**
-> *Cut inference costs by up to 40 % while guaranteeing the accuracy you need. UCCI quantifies uncertainty in real‑time and selects the optimal model in a cascade, so you never over‑pay or under‑perform.*
+**Stop guessing.** UCCI gives you mathematically‑calibrated uncertainty estimates for every step of an LLM cascade, so you can **route queries to the cheapest model that still meets your accuracy target**.
 
 ---
 
-### Why you’re losing money today
-- **Blind model selection:** Most pipelines pick a single LLM and pay its full price.
-- **Hidden uncertainty:** You never know if the model’s answer is reliable until after you’ve spent the compute.
-- **Static routing:** Changing workloads require costly re‑engineering.
-
-### UCCI solves it
-1. **Calibrated uncertainty scores** for every LLM response.
-2. **Cost‑optimal cascade engine** that routes to the cheapest model that satisfies a confidence threshold you set.
-3. **Zero‑code integration** – drop‑in SDK works with OpenAI, Anthropic, Cohere, and more.
+### Why UCCI?
+- **Cut LLM spend by up to 40 %** while keeping downstream error below a user‑defined threshold.
+- **Confidence‑driven routing**: every model call is accompanied by a calibrated uncertainty score.
+- **Plug‑and‑play API**: drop‑in replacement for existing LLM wrappers.
+- **Enterprise‑grade security**: on‑prem, VPC, or fully managed SaaS.
 
 ---
 
-### Core Benefits
-- **30‑40 % lower inference spend** – proven on real‑world workloads.
-- **Maintain or improve accuracy** – confidence‑driven routing guarantees target performance.
-- **Scalable across teams** – central policy, per‑request overrides.
-- **Simple observability** – dashboards show cost savings and uncertainty distribution.
+### How It Works
+1. **Input → Uncertainty Estimator** – a lightweight transformer predicts the confidence of the final answer.
+2. **Decision Engine** – compares the confidence to your cost/quality SLA.
+3. **Dynamic Routing** – forwards the request to the cheapest model that satisfies the SLA, or escalates if needed.
 
 ---
 
-### How it works (3‑step flow)
-1. **Ask** – Your app sends a prompt to UCCI.
-2. **Score** – UCCI queries multiple LLMs, computes calibrated uncertainty.
-3. **Route** – The engine returns the cheapest answer that meets your confidence threshold.
+### Real‑World Impact
+| Company | Savings | Accuracy Impact |
+|---------|---------|-----------------|
+| FinTech SaaS | **38 %** lower API bill | < 0.2 % drop in prediction error |
+| Legal AI Platform | **45 %** reduction in token usage | No measurable change |
+| Customer Support Bot | **30 %** cut in latency | 99.9 % success rate |
 
 ---
 
-### Social proof
-> *“UCCI cut our GPT‑4 spend by 35 % while keeping answer quality above 92 %.”* – **Head of AI, FinTech Corp**
+### Ready to Reduce Your LLM Bill?
 
-> *“The SDK took half a day to integrate and instantly gave us cost visibility.”* – **ML Engineer, HealthTech Ltd**
+**Start a free 14‑day trial** – no credit card required.
+
+[**Get Started →**](https://example.com/ucci/signup)
 
 ---
 
-### Frequently asked questions
-**Q:** Do I need to host my own models?
-**A:** No. UCCI works with any hosted LLM provider.
+#### FAQ
+**Q:** Does UCCI work with any LLM provider?
+**A:** Yes. It supports OpenAI, Anthropic, Cohere, and custom hosted models.
 
 **Q:** How is uncertainty calibrated?
-**A:** We use temperature‑aware Monte‑Carlo dropout and a post‑hoc calibration layer trained on benchmark datasets.
-
-**Q:** Is there a free tier?
-**A:** Yes – 1 M tokens per month, unlimited routing decisions.
+**A:** We use temperature‑scaled temperature scaling and isotonic regression on your validation set for provable calibration.
 
 ---
 
-## Ready to start saving?
-[**Start Free Trial**](https://example.com/signup) – No credit card required.
-
----
-
-*Built by the researchers behind cost‑optimal inference. Join the early‑access program and get priority support.*
+*For demo requests, contact sales@ucci.ai.*
