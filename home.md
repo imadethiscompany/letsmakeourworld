@@ -1,60 +1,45 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Unlock the power of AI‑driven video creation, uploading, and growth.** Our end‑to‑end YouTube Automation Agency handles everything from script generation to thumbnail design, SEO‑optimized titles, and daily publishing—so you can focus on strategy and revenue.
-
----
+Are you a creator, brand, or agency struggling to keep up with the relentless demand for fresh, engaging YouTube content? **Our YouTube Automation Agency** handles the entire video production pipeline for you—research, scriptwriting, voice‑over, editing, thumbnail creation, SEO‑optimized titles, tags, and upload—all on autopilot.
 
 ### Why Choose Us?
+- **Zero Hands‑On Production** – We generate fully edited videos in under 48 hours.
+- **AI‑Powered Research** – Trend‑spotting, keyword analysis, and competitor benchmarking.
+- **Professional Voice‑Overs** – Custom cloned voices or premium talent.
+- **SEO‑Ready** – Titles, descriptions, and tags crafted for maximum discoverability.
+- **Scalable Packages** – From 5 videos/month to 100+ videos/month.
 
-- **AI‑Generated Scripts & Voiceovers** – Claude‑crafted scripts, mine.voicebox‑cloned voice, no extra cost.
-- **Unlimited Video Production** – Up to 30 videos/month, fully edited with Remotion motion graphics.
-- **SEO‑Optimized Metadata** – Titles, tags, hashtags, and descriptions tuned for maximum discoverability.
-- **Automated Upload & Scheduling** – Direct YouTube API integration, auto‑publish at peak times.
-- **Growth Hacks** – Automated comment engagement, playlist building, and thumbnail A/B testing.
-- **Transparent Reporting** – Real‑time dashboard with views, subscriber growth, and ROI.
+### Our Proven Process
+1. **Topic Discovery** – AI scans YouTube, Google Trends, and Reddit to find high‑intent topics.
+2. **Script Generation** – Expert copywriters + GPT‑4 produce engaging scripts.
+3. **Voice & Visuals** – High‑quality TTS or human voice‑over, royalty‑free footage, custom graphics.
+4. **Edit & Optimize** – Fast‑rendered videos with kinetic typography, motion graphics, and branding.
+5. **Upload & Promote** – Automated upload, SEO metadata, and scheduled publishing.
 
----
+### Pricing Plans
+| Plan | Videos / Month | Turn‑around | Price |
+|------|----------------|------------|------|
+| **Starter** | 5 | 72 hrs | **$499** |
+| **Growth** | 20 | 48 hrs | **$1,799** |
+| **Scale** | 50 | 24 hrs | **$4,299** |
+| **Enterprise** | 100+ | 12 hrs | **Contact Us** |
 
-### Packages
+> **Free 7‑day trial** – Send us your first topic and see the result before you commit.
 
-| Package | Videos / Month | Price (USD) | Key Features |
-|---|---|---|---|
-| **Starter** | 5 | **$499** | Script + Voice, Basic Editing, SEO metadata |
-| **Growth** | 15 | **$1,299** | Full Motion Graphics, Thumbnail A/B, Scheduling |
-| **Scale** | 30+ | **$2,499** | Dedicated Account Manager, Custom Branding, Advanced Analytics |
+### Frequently Asked Questions
+**Q: Do I need any equipment?**
+A: No. Just give us a brief, and we handle the rest.
 
----
+**Q: How do I retain brand voice?**
+A: Provide brand guidelines or let our AI learn from your existing videos.
 
-### How It Works
+**Q: Can I cancel anytime?**
+A: Yes, month‑to‑month billing with no long‑term contracts.
 
-1. **Onboard** – Fill a short questionnaire about your niche and style.
-2. **We Create** – AI writes scripts, records voice, designs thumbnails.
-3. **We Publish** – Videos uploaded to your channel with optimized metadata.
-4. **We Grow** – Automated engagement and performance reports.
+### Ready to Automate Your YouTube Growth?
 
----
+[**Start Your Free Trial**](https://buy.stripe.com/test_4gM4gr0Hh0csgXFfvkc7E19)
 
-### Ready to Automate Your YouTube Success?
-
-**Book a free strategy call** or **buy a package** now and start scaling.
-
-[Get Started →](https://buy.stripe.com/test_4gM4gr0Hh0csgXFfvkc7E19)
-
----
-
-#### FAQ
-
-**Q: Do I need any technical skills?**
-A: No. We handle everything from script to upload.
-
-**Q: Can I customize the voice?**
-A: Yes, choose from our library of AI voices or provide your own.
-
-**Q: How fast can I see results?**
-A: Most clients see subscriber growth within the first 2‑4 weeks.
-
----
-
-*Boost your channel with AI. Let us do the heavy lifting.*
+*Boost views, subscribers, and revenue while you focus on what you love.*
