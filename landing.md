@@ -1,29 +1,23 @@
-# Google Declaring War on the Web
+# Clouted
 
-## The browser battle that could change your online safety
+**Take the guesswork out of making short videos go viral**
 
-**Stay ahead of the curve.** Get exclusive insights, tools, and a ready‑to‑use playbook to protect your business from the next wave of Google’s aggressive web policies.
+- 🚀 Proven framework to sky‑rocket views
+- 🎯 Targeted distribution for TikTok, Instagram Reels, YouTube Shorts
+- 📈 Real‑time analytics & optimization
+- 🛠️ Done‑for‑you scripts, voice‑overs, and motion graphics
 
-[Get the Free Playbook](/signup?ref=google-war)
+### Why Clouted?
+Creators waste hours on trial‑and‑error. Our AI‑powered engine predicts the next viral trend, generates a ready‑to‑post video, and pushes it to the platforms where it will **explode**.
 
-### Why this matters now
-- Google’s new AI‑driven search and ad policies are rewriting the rules of visibility.
-- Every day, millions of clicks are redirected, costing businesses up to 30% in lost traffic.
-- Early adopters are already securing top spots and protecting their ad spend.
+### Get Started Today
+1. Choose your video style
+2. Answer a few quick questions
+3. Receive a fully edited, viral‑ready short video within 24 hours
 
-### What you’ll receive
-1. **In‑depth analysis** of Google’s latest war‑on‑the‑web strategy.
-2. **Step‑by‑step implementation guide** to safeguard SEO and ad campaigns.
-3. **Custom checklist** for immediate action.
-4. **Live Q&A session** with industry experts (limited seats).
+**Ready to go viral?**
 
-### Who should claim this?
-- Marketing directors, SEO specialists, growth hackers, and founders who rely on Google traffic.
-- Agencies managing client ad spend.
-- Anyone worried about sudden algorithm shifts.
+[**Start Now – Only $99**](https://buy.stripe.com/test_9B6cMXey78IYePx5UKc7E2F)
 
-### Real‑world impact
-> “We implemented the playbook and saw a 22% lift in organic traffic within two weeks.” – *Head of Growth, TechScale*
-
-### Ready to defend your digital frontier?
-[Download the Free Playbook](/download?product=google-war)
+---
+*Limited slots available. Join the early adopters and watch your follower count soar.*
