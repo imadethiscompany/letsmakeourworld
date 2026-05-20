@@ -1,33 +1,25 @@
-# UCCI: Calibrated Uncertainty for Cost‑Optimal LLM Cascade Routing
+# Ask YouTube – AI‑Powered Conversational Search for Video
 
-## Unlock Predictable Performance and Minimum Cost for Your LLM Stack
+**Turn YouTube into a real‑time, conversational assistant.**
 
-**Cut your LLM spend by up to 40% while guaranteeing response latency and accuracy.**
+- **Instant answers** – Ask any question and get a concise response pulled from relevant video segments.
+- **Gemini Omni integration** – Leverages Google’s Gemini Omni LLM for deep context and multi‑modal understanding.
+- **Seamless UI** – Natural‑language chat embedded directly on the video page.
+- **Boost engagement** – Keep viewers watching longer and increase click‑through rates.
 
-### Why UCCI?
-- **Calibrated Uncertainty:** Quantify confidence for each LLM output – no more guesswork.
-- **Cost‑Optimal Routing:** Automatically route queries to the cheapest model that meets the required confidence threshold.
-- **Scalable Cascade:** Seamlessly chain multiple LLMs (open‑source, hosted, proprietary) in a single API call.
-- **Enterprise‑Ready:** SLA‑grade monitoring, audit logs, and compliance‑first data handling.
+## Why It Matters
+- **Higher retention:** Viewers get the exact info they need without scrubbing.
+- **SEO advantage:** Search engines surface conversational snippets, driving more traffic.
+- **Monetization:** New ad formats and premium "Ask‑the‑Video" subscriptions.
 
-### How It Works
-1. **Input Query** – Send any prompt to the UCCI endpoint.
-2. **Confidence Scoring** – Our uncertainty engine returns a calibrated score.
-3. **Dynamic Routing** – The system selects the most cost‑effective model that satisfies the confidence target.
-4. **Unified Response** – You receive the final answer with a confidence label.
+## Features
+- Real‑time transcription & indexing.
+- Multi‑language support.
+- Context‑aware follow‑up questions.
+- Exportable summary & timestamps.
 
-### Benefits
-- **Predictable Budgets:** Pay only for the model you need.
-- **Higher ROI:** Reduce over‑provisioned LLM usage.
-- **Risk Management:** Confidence scores let you fallback or flag uncertain answers.
-- **Fast Integration:** Drop‑in SDK for Python, Node, and REST.
-
-### Trusted By
-> *"UCCI saved us $120k in the first month while improving answer reliability."* – Lead Engineer, FinTech Corp.
+## Get Early Access
+[**Join the waitlist**](https://example.com/ask-youtube-waitlist) – Be the first to embed conversational search on your channel.
 
 ---
-
-**Ready to slash costs and boost reliability?**
-
-[Get Started Free](/signup)  
-[Book a Demo](/demo)
+*Powered by Gemini Omni & next‑gen LLMs.*
