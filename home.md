@@ -1,47 +1,60 @@
-# ANNEAL
+# YouTube Automation Agency
 
-## Unlock Adaptive, Safe, and Efficient LLM Agents
+## Scale Your Channel Without Lifting a Finger
 
-**Adapt LLM agents on the fly** with minimal data, zero downtime, and provable safety guarantees.
+**Unlock the power of AI‑driven video creation, uploading, and growth.** Our end‑to‑end YouTube Automation Agency handles everything from script generation to thumbnail design, SEO‑optimized titles, and daily publishing—so you can focus on strategy and revenue.
 
 ---
 
-### Why ANNEAL?
-- **Rapid Adaptation** – Apply symbolic patches to existing agents in seconds, not weeks.
-- **Governed Learning** – Enforce domain constraints and guardrails through symbolic rules.
-- **Cost‑Effective** – No expensive retraining; leverage existing model weights.
-- **Enterprise‑Ready** – Seamlessly integrate with your existing AI stack and compliance pipelines.
+### Why Choose Us?
+
+- **AI‑Generated Scripts & Voiceovers** – Claude‑crafted scripts, mine.voicebox‑cloned voice, no extra cost.
+- **Unlimited Video Production** – Up to 30 videos/month, fully edited with Remotion motion graphics.
+- **SEO‑Optimized Metadata** – Titles, tags, hashtags, and descriptions tuned for maximum discoverability.
+- **Automated Upload & Scheduling** – Direct YouTube API integration, auto‑publish at peak times.
+- **Growth Hacks** – Automated comment engagement, playlist building, and thumbnail A/B testing.
+- **Transparent Reporting** – Real‑time dashboard with views, subscriber growth, and ROI.
+
+---
+
+### Packages
+
+| Package | Videos / Month | Price (USD) | Key Features |
+|---|---|---|---|
+| **Starter** | 5 | **$499** | Script + Voice, Basic Editing, SEO metadata |
+| **Growth** | 15 | **$1,299** | Full Motion Graphics, Thumbnail A/B, Scheduling |
+| **Scale** | 30+ | **$2,499** | Dedicated Account Manager, Custom Branding, Advanced Analytics |
 
 ---
 
 ### How It Works
-1. **Identify Gap** – Pinpoint the behavior you want to change.
-2. **Define Symbolic Patch** – Write a concise rule or transformation.
-3. **Govern & Validate** – ANNEAL verifies the patch against safety policies.
-4. **Deploy Instantly** – Patch is applied live to your running agents.
+
+1. **Onboard** – Fill a short questionnaire about your niche and style.
+2. **We Create** – AI writes scripts, records voice, designs thumbnails.
+3. **We Publish** – Videos uploaded to your channel with optimized metadata.
+4. **We Grow** – Automated engagement and performance reports.
 
 ---
 
-### Real‑World Impact
-- **Customer Support**: Reduce ticket escalation by 42% after a single patch.
-- **Finance**: Enforce regulatory compliance without retraining the model.
-- **Healthcare**: Adapt to new medical guidelines instantly, preserving model performance.
+### Ready to Automate Your YouTube Success?
+
+**Book a free strategy call** or **buy a package** now and start scaling.
+
+[Get Started →](https://buy.stripe.com/test_4gM4gr0Hh0csgXFfvkc7E19)
 
 ---
 
-### Get Started Now
+#### FAQ
 
-[**Request a Demo**](/demo) – See ANNEAL in action on your own workloads.
+**Q: Do I need any technical skills?**
+A: No. We handle everything from script to upload.
 
----
+**Q: Can I customize the voice?**
+A: Yes, choose from our library of AI voices or provide your own.
 
-#### FAQs
-**Q:** Do I need to retrain my model?
-**A:** No. ANNEAL works on top of your existing LLM.
-
-**Q:** Is it secure?
-**A:** All patches are verified against your custom governance policies before deployment.
+**Q: How fast can I see results?**
+A: Most clients see subscriber growth within the first 2‑4 weeks.
 
 ---
 
-*Ready to future‑proof your AI agents?*
+*Boost your channel with AI. Let us do the heavy lifting.*
