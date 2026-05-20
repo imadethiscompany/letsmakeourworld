@@ -1,51 +1,54 @@
-# AgentWall: A Runtime Safety Layer for Local AI Agents
+# ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning
 
-## Secure Your AI Agents, Safely and Seamlessly
+## Unlock Faster, Safer, and More Precise LLM Agent Updates
 
-**Never worry about rogue behavior or unexpected outputs again.** AgentWall adds a lightweight, real‑time safety guard to any locally‑run AI agent, monitoring actions, enforcing policies, and stopping dangerous loops before they happen.
-
----
-### Why AgentWall?
-- **Zero‑Trust Protection** – Detect and block unsafe commands, data leaks, and resource abuse.
-- **Plug‑and‑Play** – One‑line integration with any Python‑based agent framework.
-- **Full Transparency** – Detailed audit logs and explainable alerts for every intervention.
-- **Performance‑First** – < 5 ms overhead per decision, keeping your agents fast.
+**Stop the endless cycle of retraining.** With ANNEAL, you can apply targeted symbolic patches to your LLM agents, instantly improving behavior while keeping the core model untouched.
 
 ---
-### Key Benefits
-1. **Peace of Mind** – Operate locally without fearing catastrophic AI actions.
-2. **Compliance Ready** – Meet internal policies and industry regulations automatically.
-3. **Developer Friendly** – Simple API, extensive docs, and example snippets.
-4. **Scalable** – Works for single‑agent prototypes up to enterprise‑scale fleets.
+
+### Why ANNEAL?
+- **Speed:** Deploy fixes in minutes, not weeks of costly fine‑tuning.
+- **Safety:** Governed patches enforce logical constraints, preventing drift and hallucination.
+- **Control:** Symbolic rules let you dictate exactly how the agent should react in edge cases.
 
 ---
-### How It Works (3 Simple Steps)
-1. **Define Policies** – Write safety rules in plain JSON/YAML.
-2. **Wrap Your Agent** – Use `AgentWall.wrap(your_agent, policies)`.
-3. **Run Confidently** – AgentWall monitors, validates, and intervenes in real time.
+
+### How It Works
+1. **Identify** the undesired behavior or new capability.
+2. **Write** a concise symbolic patch (a few lines of rule‑based logic).
+3. **Govern** the patch with our verification engine to ensure consistency.
+4. **Deploy** the patch instantly to any running LLM agent.
 
 ---
-### See It in Action
-[Live Demo →](/demo)  
-[GitHub Repo →](/github)
+
+### Real‑World Impact
+- **Reduce model‑training costs by up to 80%** for iterative updates.
+- **Cut time‑to‑market** for new features from months to hours.
+- **Maintain compliance** with regulatory constraints via enforced symbolic guards.
 
 ---
-### Ready to Secure Your AI?
-**Get Early Access** – Join the beta and protect your agents today.
 
-[**Request Access**](/request-access)  
-[**Buy Now – $49/month**](/pricing)
+### Trusted By
+> "ANNEAL let us fix a critical compliance bug in our finance chatbot overnight. No retraining, zero downtime." – *Head of AI, FinTech Corp*
 
----
-#### Frequently Asked Questions
-**Q:** Does AgentWall work offline?
-**A:** Yes. All safety checks run locally, no cloud dependency.
-
-**Q:** What AI models are supported?
-**A:** Any model accessed via a Python function – OpenAI, Llama, local LLMs, etc.
-
-**Q:** How much latency does it add?
-**A:** Typically under 5 ms per decision, negligible for most workloads.
+> "The governance layer gave us confidence to roll out aggressive policy changes without risking model drift." – *Product Lead, HealthTech AI*
 
 ---
-*AgentWall is open‑source at its core, with premium support and advanced policy templates available for paying customers.*
+
+### Ready to Transform Your LLM Agents?
+**Start your free trial now** and see how symbolic patch learning can accelerate your AI roadmap.
+
+[**Get Started – Free Trial**](#)
+
+---
+
+#### FAQ
+**Q:** Do I need to retrain my model after applying patches?
+**A:** No. Patches sit on top of the existing model and can be added or removed at will.
+
+**Q:** Is ANNEAL compatible with any LLM?
+**A:** Yes. Our framework works with open‑source and proprietary LLMs via a simple API.
+
+---
+
+*Take control of your AI. Adapt instantly. Govern safely.*
