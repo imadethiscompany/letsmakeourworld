@@ -1,46 +1,35 @@
-# Remove AI Watermarks
+# Invenio – Empower Your Data Workflow
 
-## Instantly clean AI‑generated images
+## Unlock Seamless Data Integration and Automation
 
-Remove unwanted AI watermarks from any image with a single command or a few lines of code. No manual editing, no quality loss.
+**Headline:** *Turn fragmented data into actionable insights without writing code.*
 
-### Why choose Remove‑AI‑Watermarks?
-
-- **Fast & Automated** – Process hundreds of images in seconds.
-- **Preserves Quality** – Maintains original resolution and colors.
-- **Works Everywhere** – CLI for local use, Node/Python library for integration.
-- **Open‑Source & Self‑Hosted** – No third‑party API fees or data leakage.
-
-### How it works
-
-1. **Install** – `npm i remove-ai-watermarks` or `pip install remove-ai-watermarks`.
-2. **Run** – `remove-watermark input.png -o clean.png` or call the library function.
-3. **Enjoy** – Clean images ready for marketing, product photos, or resale.
-
-### Get started now
-
-[**Download CLI**](#) | [**View Documentation**](#)
-
-#### Pricing
-
-- **Free** – Up to 100 images per month.
-- **Pro** – $19/mo for unlimited removal, priority updates, and premium support.
-
-**Start your free trial** → **[Get the CLI]**.
+**Subheadline:** Invenio connects all your tools, syncs data in real‑time, and automates repetitive tasks so you can focus on decision‑making.
 
 ---
 
-#### FAQ
-
-**Q:** Does it work on any watermark?
-**A:** Works on the most common diffusion‑model watermarks and can be extended via custom filters.
-
-**Q:** Is my image data safe?
-**A:** All processing is local; nothing is sent to the cloud.
-
-**Q:** Can I integrate it into my pipeline?
-**A:** Yes – the library supports Node, Python, and Rust bindings.
+### Why Invenio?
+- **Zero‑code pipelines:** Drag‑and‑drop connectors for databases, SaaS apps, and APIs.
+- **Real‑time sync:** Updates instantly across systems, eliminating stale data.
+- **Built‑in automations:** Trigger alerts, reports, and workflows with simple rules.
+- **Enterprise‑grade security:** SOC‑2 compliant, encrypted at rest and in transit.
 
 ---
 
-Ready to clean your AI‑generated images? **Remove the watermark, keep the art.**
+### How It Works
+1. **Connect** – Choose from 200+ native integrations or use a custom webhook.
+2. **Map** – Visually map source fields to destination fields.
+3. **Automate** – Define triggers (e.g., new record, threshold breach) and actions (email, Slack, webhook).
+
+---
+
+### Social Proof
+> *"Invenio cut our data onboarding time from weeks to minutes. The UI is intuitive and the support team is fantastic."* – **CTO, FinTech Startup**
+
+---
+
+### Ready to Transform Your Data?
+[Start Free Trial →](/signup)
+
+Or book a live demo with our specialists:
+[Schedule a Demo](https://calendly.com/invenio-demo)
