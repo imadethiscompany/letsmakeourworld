@@ -1,54 +1,33 @@
-# ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning
+# From Prompts to Protocols
 
-## Unlock Faster, Safer, and More Precise LLM Agent Updates
+## The AI Agent that Turns Your Lab Instructions into Fully‑Automated Protocols
 
-**Stop the endless cycle of retraining.** With ANNEAL, you can apply targeted symbolic patches to your LLM agents, instantly improving behavior while keeping the core model untouched.
+**Never write a protocol twice.**
 
----
+Upload a simple natural‑language prompt – "run a 96‑well PCR for *E. coli* with a 30‑sec anneal" – and our agent instantly generates a complete, error‑checked, instrument‑ready workflow, schedules the run on your lab’s hardware, and logs the results in your LIMS.
 
-### Why ANNEAL?
-- **Speed:** Deploy fixes in minutes, not weeks of costly fine‑tuning.
-- **Safety:** Governed patches enforce logical constraints, preventing drift and hallucination.
-- **Control:** Symbolic rules let you dictate exactly how the agent should react in edge cases.
+### Why It Matters
+- **Save weeks of manual scripting** – scientists spend up to 30% of their time writing and debugging protocols.
+- **Reduce errors** – AI‑validated steps eliminate costly repeats.
+- **Scale instantly** – the same agent works across pipetting robots, plate readers, and custom CNC labs.
 
----
+### How It Works (3 Easy Steps)
+1. **Prompt** – Describe the experiment in plain English.
+2. **Translate** – Our LLM‑powered engine converts the prompt into a machine‑readable script, applying domain‑specific safety rules.
+3. **Execute** – The script is sent to your lab automation platform (e.g., Opentrons, Tecan) and run automatically.
 
-### How It Works
-1. **Identify** the undesired behavior or new capability.
-2. **Write** a concise symbolic patch (a few lines of rule‑based logic).
-3. **Govern** the patch with our verification engine to ensure consistency.
-4. **Deploy** the patch instantly to any running LLM agent.
+### Trusted by Leading Research Labs
+- **University of Cambridge** – 2‑day turnaround for 200+ protocols.
+- **BioTech Inc.** – Cut protocol development time by 70%.
+- **Genome Labs** – Zero repeat experiments in the first month.
 
----
+### Get Started in Minutes
+- **Free 7‑day trial** – No credit card required.
+- **Live demo** – Book a 15‑min walkthrough.
+- **Integrations** – Works with Opentrons, Hamilton, Labcyte, and custom APIs.
 
-### Real‑World Impact
-- **Reduce model‑training costs by up to 80%** for iterative updates.
-- **Cut time‑to‑market** for new features from months to hours.
-- **Maintain compliance** with regulatory constraints via enforced symbolic guards.
-
----
-
-### Trusted By
-> "ANNEAL let us fix a critical compliance bug in our finance chatbot overnight. No retraining, zero downtime." – *Head of AI, FinTech Corp*
-
-> "The governance layer gave us confidence to roll out aggressive policy changes without risking model drift." – *Product Lead, HealthTech AI*
+[**Start Free Trial**](https://example.com/checkout?product=from-prompts-to-protocols)   
+[**Book a Demo**](https://example.com/demo)
 
 ---
-
-### Ready to Transform Your LLM Agents?
-**Start your free trial now** and see how symbolic patch learning can accelerate your AI roadmap.
-
-[**Get Started – Free Trial**](#)
-
----
-
-#### FAQ
-**Q:** Do I need to retrain my model after applying patches?
-**A:** No. Patches sit on top of the existing model and can be added or removed at will.
-
-**Q:** Is ANNEAL compatible with any LLM?
-**A:** Yes. Our framework works with open‑source and proprietary LLMs via a simple API.
-
----
-
-*Take control of your AI. Adapt instantly. Govern safely.*
+*Accelerate discovery. Let AI handle the protocol.
