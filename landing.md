@@ -1,30 +1,26 @@
-# StoreClaw
+# Bitcoin Miners Are Quietly Becoming AI Infrastructure Plays
 
-## Capture Every Lost Sale
+## Unlock the Next Wave of AI Compute Power
 
-**Never lose another checkout again.** StoreClaw automatically recovers abandoned carts, boosts conversion rates, and grows revenue for e‑commerce brands.
+As AI models grow, the demand for cheap, high‑throughput compute is exploding. Traditional cloud providers charge premium rates, but a hidden engine is emerging: Bitcoin mining farms.
 
-### Why StoreClaw?
-- **Increase revenue by up to 15%** – proven results for Shopify & WooCommerce stores.
-- **Zero‑code setup** – install in minutes, no developer required.
-- **Real‑time alerts** – get instant SMS/Email notifications when a cart is abandoned.
-- **Smart recovery flows** – personalized emails, push, and SMS that turn browsers into buyers.
+### Why Bitcoin Miners?
+- **Massive GPU farms** already optimized for 24/7 high‑performance workloads.
+- **Under‑utilized capacity** during non‑peak mining periods.
+- **Geographically diverse** locations with low‑cost electricity.
 
-### How It Works
-1. **Connect your store** – one‑click integration.
-2. **Track carts** – our script monitors checkout activity.
-3. **Automated outreach** – tailored messages sent automatically.
-4. **Analytics dashboard** – see revenue recovered, A/B test performance, and more.
+### Turn Mining Power Into AI Power
+1. **Connect your AI workloads** to existing mining rigs via our API.
+2. **Scale instantly** – tap into thousands of GPUs without building your own data center.
+3. **Pay only for compute** – pricing tied to real‑time mining profitability, often 30‑50% cheaper than cloud.
 
-Ready to stop leaving money on the table?
+### Who Benefits?
+- AI startups needing rapid GPU scaling.
+- Enterprises running large inference jobs.
+- Researchers looking for affordable training clusters.
 
-[**Start Free Trial – No Credit Card Required**](https://storeclaw.com/signup)
+### Ready to Future‑Proof Your AI Stack?
+[Get Early Access →](https://example.com/early-access)
 
 ---
-
-**FAQ**
-- **Is there a contract?** No, cancel anytime.
-- **What platforms are supported?** Shopify, WooCommerce, BigCommerce.
-- **How quickly can I see results?** Most users see a lift within the first week.
-
-*Join 2,500+ brands already growing with StoreClaw.*
+*Join the silent revolution where Bitcoin miners power the next generation of AI.*
