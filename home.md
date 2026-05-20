@@ -1,49 +1,17 @@
-# Live Ranking of Every AI Agent & Foundation Model (Open Source)
+# Ahead of the Curve
 
-## Instantly discover the best AI agents and models – ranked in real‑time.
+## Omaha Counterterrorism Research Center Advocates for AI Governance
 
-**Why it matters**
-- **Save hours** of research by seeing up‑to‑date performance scores.
-- **Compare apples‑to‑apples** across open‑source agents, LLMs, diffusion models, and more.
-- **Make data‑driven decisions** for your product, research, or investment.
+**Stay ahead of emerging threats.**
 
----
+Our cutting‑edge research hub in Omaha is pioneering AI governance frameworks that protect national security while unlocking the benefits of advanced intelligence.
 
-### How It Works
-1. **Continuous scraping** of public benchmarks, GitHub metrics, and usage stats.
-2. **Unified scoring** that normalises latency, cost, accuracy, and community adoption.
-3. **Live dashboard** refreshed every 5 minutes – no stale data.
+- **Why it matters now:** AI systems are being weaponized faster than policy can adapt.
+- **Our expertise:** 20+ years of counter‑terrorism analysis, AI ethics, and policy advising.
+- **What you get:** Access to exclusive whitepapers, briefings, and a live briefing series for decision‑makers.
 
----
+### Join the Frontline of AI Security
 
-### Key Benefits
-- **Instant insights** – no need to read dozens of papers.
-- **Open‑source transparency** – all data sources linked.
-- **Custom alerts** – get notified when a model you care about jumps in rank.
+[**Request Access**](/request-access) – Get immediate entry to our secure portal and the latest AI‑governance insights.
 
----
-
-### Who Is It For?
-- **Developers** building AI‑powered products.
-- **Researchers** tracking the state‑of‑the‑art.
-- **Investors** scouting high‑growth AI startups.
-
----
-
-### Join the Community
-Get early access to the live ranking and a weekly AI‑agent newsletter.
-
-**[Get Access Now →](/signup)**
-
----
-
-#### FAQ
-**Q:** Is the data truly live?
-**A:** Yes – the dashboard updates every 5 minutes from live sources.
-
-**Q:** Is it free?
-**A:** The core ranking is free; premium alerts are $9/month.
-
----
-
-*Built by a passionate AI enthusiast. Open‑source on GitHub. Join us!*
+*Trusted by federal agencies, think‑tanks, and leading universities.*
