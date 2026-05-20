@@ -1,66 +1,59 @@
-# YouTube Automation Agency – Grow Your Channel on Autopilot 🚀
+# YouTube Automation Agency – Scale Your Channel Effortlessly 🚀
 
-## Why You Need a YouTube Automation Agency
-
-* **Scale Faster** – Publish 3‑5 videos per week without hiring a full‑time video team.
-* **Save Time & Money** – AI‑generated scripts, voice‑overs, and motion graphics for a fraction of traditional production costs.
-* **Boost Rankings** – SEO‑optimized titles, tags, descriptions, and thumbnail formulas that crush the algorithm.
-* **Revenue Growth** – Proven funnels that turn viewers into leads and paying customers.
+**Unlock the power of AI-driven video creation, upload automation, and growth hacking – all in one agency.**
 
 ---
 
-## Our Proven 5‑Step System
+## Why Choose Our YouTube Automation Agency?
 
-1. **Niche Discovery & Keyword Research** – AI‑driven market analysis to find low‑competition, high‑intent keywords.
-2. **Script Generation** – Claude‑powered scripts that hook viewers in the first 5 seconds.
-3. **AI Voice‑over & Video Production** – Mine.voicebox + Remotion motion graphics – cinematic quality in minutes.
-4. **SEO & Distribution** – Optimized metadata, custom thumbnails, and automated publishing to YouTube Shorts & Community posts.
-5. **Performance Dashboard** – Real‑time analytics, A/B testing, and conversion tracking.
-
----
-
-## Results Our Clients See
-
-| Metric | Typical Outcome |
-|--------|-----------------|
-| **Views/month** | +350% within 90 days |
-| **Subscriber growth** | 2‑5× faster than organic |
-| **Lead conversion** | 15‑30% higher than industry average |
-| **Revenue uplift** | $1‑15K/month per channel |
-
-> *"We went from 0 to 10k subs in 2 months, and our product sales doubled!"* – **Tech Startup Founder**
+- **Zero Production Hassle** – AI scripts, voice‑overs, and editing generated in minutes.
+- **Full‑Stack Upload Automation** – Schedule, tag, thumbnail, and SEO‑optimised descriptions automatically.
+- **Growth Engine** – Targeted keyword research, thumbnail A/B testing, and community engagement bots.
+- **Scalable Packages** – From $499/month for 5 videos to $4,999/month for 100+ videos and custom funnels.
 
 ---
 
-## Packages Tailored for Every Stage
+## How It Works
 
-| Package | Who It’s For | What You Get |
-|---------|--------------|--------------|
-| **Starter** | New creators (0‑5k subs) | 2 videos/week, keyword research, thumbnail kit – **$499/mo** |
-| **Growth** | Growing channels (5‑50k subs) | 4 videos/week, SEO audit, audience retargeting – **$999/mo** |
-| **Enterprise** | Brands & agencies | Unlimited videos, dedicated account manager, custom funnel integration – **$2,499/mo** |
+1. **Strategy Call** – We define your niche, audience, and content pillars.
+2. **AI Content Pipeline** – Prompt‑engineered scripts, AI‑voice, stock B‑roll, and kinetic graphics.
+3. **Automatic Upload** – Vercel‑hosted CI/CD pushes videos to your YouTube channel with optimized titles, tags, and timestamps.
+4. **Performance Dashboard** – Real‑time analytics on views, watch‑time, subscriber growth, and ROI.
+
+---
+
+## Packages & Pricing
+
+| Package | Videos / Month | Core Features | Price |
+|---|---|---|---|
+| **Starter** | 5 | AI script + voice, basic thumbnail, upload automation | **$499** |
+| **Growth** | 20 | Advanced graphics, SEO suite, A/B thumbnail testing | **$1,499** |
+| **Pro** | 50 | Full funnel, community bot, priority support | **$2,999** |
+| **Enterprise** | 100+ | Dedicated account manager, custom integrations | **Contact us** |
 
 ---
 
 ## Frequently Asked Questions
 
-**Q:** *Do I need any technical skills?*  
-**A:** No. We handle everything from script to upload.
+**Q: Do I need any technical skills?**
+A: No. Our agency handles everything from script to upload.
 
-**Q:** *Can I keep my brand voice?*  
-**A:** Absolutely – we use your style guide for scripts and voice‑overs.
+**Q: What YouTube channel requirements?**
+A: A verified channel with at least 100 subscribers is ideal, but we can start with any active channel.
 
-**Q:** *How fast can I see results?*  
-**A:** Most clients see a noticeable lift in views and subs within 30‑45 days.
+**Q: How fast can I see results?**
+A: Most clients notice a 30‑50% lift in views within the first two weeks.
 
 ---
 
 ## Ready to Automate Your YouTube Growth?
 
-**Book a free 15‑minute strategy call** and discover how our AI‑powered automation can turn your channel into a revenue engine.
+📞 **Book a free 15‑minute strategy call** – <a href="https://calendly.com/yt-automation/15min" target="_blank">Schedule Now</a>
 
-[Schedule My Call 👉](https://calendly.com/youragency/15min)
+💬 **Or start instantly** – Click the button below to subscribe to a package and watch the automation begin.
+
+<a href="/checkout" style="display:inline-block;background:#ff0000;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Get Started Today</a>
 
 ---
 
-*Powered by AI, driven by results.*
+*Boost your channel, dominate your niche, and reclaim your time.*
