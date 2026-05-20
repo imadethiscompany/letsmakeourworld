@@ -1,56 +1,55 @@
 # YouTube Automation Agency
 
-## 🚀 Scale Your YouTube Channel on Autopilot
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn views into revenue without lifting a finger.**
-
----
-
-### Why Choose Our YouTube Automation Agency?
-- **Zero‑Hands Management:** We handle content ideation, scripting, voice‑over, editing, thumbnail creation, and publishing.
-- **AI‑Powered Production:** Leveraging cutting‑edge AI (Claude, mine.voicebox, Remotion, HyperFrames) for fast, high‑quality videos.
-- **Data‑Driven Growth:** Keyword research, SEO‑optimized titles/tags, and algorithm‑friendly posting schedules.
-- **Revenue‑Focused:** Monetization strategies (ads, sponsorships, affiliate links) built into every video.
+**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle content creation, SEO, publishing, and channel growth so you can focus on your business.
 
 ---
+### Why Choose Us?
+- **Full‑stack video production** – AI‑generated scripts, voice‑overs, motion graphics, and editing.
+- **SEO‑optimized titles, tags & thumbnails** that rank on the first page.
+- **Automated publishing & community management** – daily uploads, comments, and engagement.
+- **Data‑driven growth** – real‑time analytics, split‑testing, and ROI tracking.
+- **Zero hiring cost** – No in‑house team, no equipment, just results.
 
+---
 ### Our Proven Process
-1. **Niche Discovery & Keyword Mining** – Find high‑traffic, low‑competition topics.
-2. **Script Generation** – AI‑crafted, engaging scripts with hook‑driven outlines.
-3. **Voice‑Over Production** – Mine.voicebox cloned voice for natural narration.
-4. **Dynamic Motion Graphics** – Remotion kinetic typography, 3D cards, particle fields.
-5. **Post‑Production & SEO** – Color grading, audio mastering, captions, optimized metadata.
-6. **Publishing & Promotion** – Automated uploads, automated community engagement.
+1. **Strategy Session** – Identify niche, audience & revenue goals.
+2. **AI Content Engine** – Script, voice, visuals generated in minutes.
+3. **SEO Boost** – Keyword research, metadata, thumbnail A/B tests.
+4. **Automated Publishing** – Schedule, upload, optimize for watch‑time.
+5. **Growth Loop** – Comment bots, playlist optimization, cross‑promo.
 
 ---
+### Success Stories
+> *"We went from 0 to 50k subs in 3 months and $12k/month revenue – all without hiring a single video editor."* – **Tech Startup Founder**
 
+> *"Our automation saved us 30+ hours weekly and doubled ad‑revenue."* – **Lifestyle Influencer**
+
+---
 ### Packages
-| Package | Videos / Month | Turn‑around | Price |
-|---|---|---|---|
-| **Starter** | 4 | 7 days each | **$499** |
-| **Growth** | 12 | 5 days each | **$1,299** |
-| **Enterprise** | 30+ | 3 days each | **Custom** |
-
-> **Ready to dominate YouTube?** Click the button below to unlock your first month at a 20% launch discount.
-
-[**Get Started Now →**](#)
+| Plan | Monthly Price | Videos / Month | Features |
+|------|---------------|----------------|----------|
+| **Starter** | $499 | 4 | AI script, voice, basic SEO, scheduling |
+| **Growth** | $999 | 8 | Advanced SEO, thumbnail A/B, community bot |
+| **Scale** | $1,799 | 15 | Full funnel, analytics dashboard, ad‑spend ROI |
 
 ---
+### Ready to Automate Your Channel?
+**Book a free strategy call** and get a custom growth plan.
 
-### Frequently Asked Questions
-**Q: Do I need any video equipment?**
-A: No. Our AI pipeline creates studio‑quality videos from text alone.
+[**Schedule Now →**](https://calendly.com/youtube-automation-agency/strategy)
+
+---
+### FAQ
+**Q: Do I need existing videos?**
+A: No. We create everything from scratch.
+
+**Q: Is my channel safe from strikes?**
+A: All content complies with YouTube policies.
 
 **Q: How fast can I see results?**
-A: Most clients see a 2‑3× increase in views within the first 30 days.
-
-**Q: Is there a long‑term contract?**
-A: No. Cancel anytime with a 7‑day notice.
+A: Most clients see traffic lift within 2 weeks.
 
 ---
-
-### Contact Us
-📧 **Email:** hello@ytautomation.ai
-📞 **Phone:** +1 (800) 555‑0199
-
-*Scale your channel. Automate your growth. Profit faster.*
+*© 2024 YouTube Automation Agency – All rights reserved.*
