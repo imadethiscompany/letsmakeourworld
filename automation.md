@@ -1,15 +1,8 @@
-# Minimal Automation Artifact for 'Ahead of that curve'
+# Automation Artifact
 
-```python
-# automation/ahead_of_curve_automation.py
-"""Minimal automation script for the Ahead of that Curve project.
-This script demonstrates a placeholder automation artifact.
-It can be extended to perform tasks such as lead generation, email sending, etc.
-"""
+This is a minimal automation artifact for the topic **"If AI didn't threaten our jobs, would most people feel differently about it?"**.
 
-def main():
-    print("Automation artifact for 'Ahead of that Curve' executed successfully.")
+- It demonstrates a simple automated page.
+- You can integrate this with your workflows.
 
-if __name__ == "__main__":
-    main()
-```
+[Buy the product](https://buy.stripe.com/test_8x2dR1gGf3oE22Ldncc7E1i)
