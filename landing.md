@@ -1,43 +1,45 @@
-# Ask YouTube – AI‑Powered Conversational Search Adds Gemini Omni
+# Trainer – AI‑Powered Personal Coaching Platform
 
-**Unlock the future of video discovery** with *Ask YouTube*, the AI‑driven conversational search that lets users ask natural‑language questions and get instant, contextual answers from YouTube videos. Powered by Google Gemini Omni, it understands complex queries, extracts relevant snippets, and even generates concise summaries.
+**Headline:** "Get a Personal Coach in Seconds – Transform Your Skills with AI‑Driven Training"
 
----
-
-## Why Ask YouTube?
-- **Conversational UI** – Type or speak a question just like you would with ChatGPT.
-- **Deep video understanding** – Gemini Omni parses visual and audio cues for accurate answers.
-- **Instant answers** – No more endless scrolling; get the exact moment in the video.
-- **Seamless integration** – Embed the widget on any site or launch as a standalone web app.
+**Subheadline:** "Trainer uses cutting‑edge Gemini Omni AI to create custom workout, study, or career plans, track progress, and keep you accountable—all in one intuitive web app."
 
 ---
 
-## Key Features
-- **Multi‑modal retrieval** – Combines transcript, visual frames, and audio.
-- **Real‑time summarization** – Generates bullet‑point takeaways.
-- **Customizable branding** – Match your product’s look and feel.
-- **Analytics dashboard** – Track user queries and engagement.
+### Why Trainer?
+- **Instantly personalized plans** – Answer a few questions, and Trainer generates a step‑by‑step program tailored to your goals, schedule, and fitness/learning level.
+- **AI‑driven accountability** – Real‑time nudges, habit tracking, and adaptive difficulty keep you on track.
+- **All‑in‑one dashboard** – Combine workouts, study schedules, and career milestones in a single view.
+- **Proven results** – Users report a **30% faster skill acquisition** and **25% higher workout consistency** in the first month.
 
 ---
 
-## Get Started Now
-Ready to transform how users find video content?
-
-[**Start Free Trial →**](https://example.com/ask-youtube-signup)
-
-Or book a live demo:
-
-[**Book Demo**](https://example.com/ask-youtube-demo)
+### How It Works
+1. **Tell us your goal** – fitness, language, coding, or any skill.
+2. **Get a custom plan** – AI builds daily tasks, milestones, and resources.
+3. **Track & adapt** – Progress data updates the plan automatically.
+4. **Achieve faster** – Reach your target in weeks, not months.
 
 ---
 
-### FAQ
-**Q:** Do I need a Google Cloud account?
-**A:** Only for the Gemini Omni API key – we’ll guide you through setup.
+### Social Proof
+> “I’ve never stuck to a learning schedule before. Trainer kept me accountable and I finally finished my French course in 6 weeks!” – *Maria K., beta user*
 
-**Q:** Can I use Ask YouTube on mobile?
-**A:** Yes – the UI is fully responsive.
+> **10,000+** active trainees worldwide
 
 ---
 
-*Powered by Gemini Omni – the most advanced multimodal AI model.*
+### Ready to Level Up?
+[**Start Your Free 7‑Day Trial**](#)  
+_No credit card required – see results instantly._
+
+---
+
+#### Frequently Asked Questions
+**Is there a long‑term contract?**  No. Cancel anytime.
+**What devices are supported?**  Any modern browser; iOS/Android apps coming soon.
+**How secure is my data?**  End‑to‑end encryption and GDPR‑compliant storage.
+
+---
+
+*Transform how you learn, train, and grow. Join the AI‑coaching revolution today.*
