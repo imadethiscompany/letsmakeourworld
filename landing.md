@@ -2,59 +2,41 @@
 
 ## Transform Your Support Team with AI‑Powered Automation
 
-**Headline:** *Never Miss a Ticket Again – 24/7 Instant Support Powered by AI*  
+**Stop drowning in tickets. Start delighting customers.**
 
-**Sub‑headline:** Deliver lightning‑fast, personalized responses to every customer, reduce support costs by up to **70%**, and free your agents to solve high‑value problems.
-
----
-
-### Why Customer Support Automation?
-- **Instant replies** – AI chatbots answer common questions in seconds, keeping customers happy.
-- **Scale effortlessly** – Handle unlimited concurrent chats without hiring extra staff.
-- **Cut costs** – Reduce ticket volume for agents by 50‑70%, saving thousands in labor.
-- **Data‑driven insights** – Real‑time analytics reveal pain points and product gaps.
-
----
-
-### Key Features
-1. **Smart Ticket Routing** – Automatically classifies and forwards tickets to the right agent or department.
-2. **AI Knowledge Base** – Generates accurate answers from your existing docs, FAQs, and product manuals.
-3. **Omni‑Channel Support** – Works across email, live chat, WhatsApp, SMS, and social media.
-4. **Self‑Service Portal** – Customers resolve issues instantly with guided workflows.
-5. **Performance Dashboard** – Track response time, CSAT, and cost savings in real time.
-
----
+### Why Automate Support?
+- **Cut response time by 70%** – AI routes, tags, and drafts replies instantly.
+- **Save $5k‑$20k per month** – Reduce headcount or re‑allocate staff to high‑value work.
+- **Boost CSAT to 95%+** – Consistent, on‑brand answers 24/7.
 
 ### How It Works (3 Simple Steps)
-1. **Integrate** – Connect your CRM, help desk, or website with a single API key.
-2. **Train** – Upload your knowledge base; the AI learns your tone and policies.
-3. **Deploy** – Activate the bot on all channels; watch tickets resolve automatically.
+1. **Capture** – All channels (email, chat, social) flow into a unified inbox.
+2. **Classify & Prioritize** – Machine learning tags urgency and topic.
+3. **Resolve or Escalate** – Auto‑reply with knowledge‑base answers or hand‑off to a human agent.
 
----
+### Key Benefits
+- **Instant Answers** – Reduce first‑response time from hours to seconds.
+- **Scalable Support** – Handle 10× more tickets without hiring.
+- **Data‑Driven Insights** – Real‑time dashboards show trends, pain points, and agent performance.
+- **Seamless Integration** – Works with Zendesk, Freshdesk, Intercom, Slack, and custom APIs.
+
+### Who Benefits?
+- **SaaS founders** looking to lower churn.
+- **E‑commerce brands** needing 24/7 order support.
+- **B2B enterprises** with complex ticket flows.
 
 ### Social Proof
-> "Our support tickets dropped from 1,200 per month to 350, and our CSAT jumped from 82% to 96% within two weeks." – *Head of Customer Success, SaaSCo*  
+> "We cut support costs by 30% and our CSAT jumped to 97% after implementing the automation suite." – **Head of Customer Success, ScaleUpCo**
+
+### Pricing (Starter – Enterprise)
+- **Starter** – $99/mo (up to 5,000 tickets)
+- **Growth** – $299/mo (up to 20,000 tickets)
+- **Enterprise** – Custom (unlimited)
+
+**Ready to automate?**
+
+[Get a Free Demo](/demo?product=customer-support-automation)  
+[Start Free Trial](/signup?product=customer-support-automation)
 
 ---
-
-### Frequently Asked Questions
-- **Do I need technical expertise?**  No‑code integration; a 5‑minute setup gets you started.
-- **Is my data safe?**  End‑to‑end encryption and GDPR‑compliant storage.
-- **Can I customize the bot’s voice?**  Yes – match your brand tone with simple settings.
-- **What if the bot can’t answer?**  It escalates to a human agent instantly.
-
----
-
-### Ready to Automate Your Support?
-
-**Primary CTA:** *Start Free 14‑Day Trial*  
-[Get Started →](/signup?plan=automation)
-
-**Secondary CTA:** *Book a Live Demo*  
-[Schedule Demo →](/contact)
-
----
-
-#### SEO Metadata
-- **Page Title:** Customer Support Automation – AI Chatbots & Ticket Routing
-- **Meta Description:** Reduce support costs by up to 70% with AI‑powered customer support automation. Instant replies, smart routing, omni‑channel, and real‑time analytics. Start your free trial today.
+*Optimized for SEO: customer support automation, AI ticket routing, support AI, automated customer service.*
