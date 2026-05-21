@@ -1,32 +1,36 @@
-# Imperagen Raises £5 Million to Accelerate Enzyme Engineering with Quantum Physics & AI
+# Imperagen Raises £5 Million to Revolutionize Enzyme Engineering
 
-## Unlock the Future of Sustainable Chemistry
+## Quantum Physics + AI = Breakthrough Enzyme Design
 
-Imperagen is pioneering a new era where quantum physics meets artificial intelligence to design enzymes that can **cut carbon emissions**, **boost drug development**, and **revolutionize industrial processes**. With a fresh £5 million investment, we’re scaling our platform to deliver breakthrough biocatalysts **10‑x faster** and **10‑x cheaper** than traditional methods.
-
----
-
-### Why It Matters
-- **Speed:** Reduce enzyme discovery cycles from years to weeks.
-- **Cost:** Slash R&D spend by up to 80 %.
-- **Impact:** Enable greener manufacturing for pharma, agriculture, and renewable chemicals.
+**Unlock the power of quantum simulations and generative AI to engineer enzymes that cut costs, boost yields, and create sustainable chemicals.**
 
 ---
 
-### Our Quantum‑AI Engine
-1. **Quantum Simulations:** Model molecular interactions at the sub‑atomic level.
-2. **AI‑Driven Design:** Generate, test, and optimise enzyme candidates in silico.
-3. **Rapid Validation:** Deploy candidates in the lab within days.
+### Why This Matters
+- **Accelerate R&D** – Quantum‑level modeling reduces design cycles from months to weeks.
+- **Boost Efficiency** – AI‑driven sequence optimization delivers up to 3× higher catalytic activity.
+- **Sustainable Impact** – Enzymes replace petrochemical processes, cutting CO₂ emissions.
 
 ---
 
-### Join the Revolution
-**Investors, partners, and innovators** – be part of the next wave of biotech breakthroughs.
-
-- **Learn More:** [Download the Full Pitch Deck](/downloads/imperagen-pitch.pdf)
-- **Contact Us:** <mailto:team@imperagen.com>
-- **Stay Updated:** Follow us on LinkedIn and Twitter.
+### What You’ll Get
+1. **Access to Imperagen’s Quantum‑AI Platform** – Secure cloud‑based tools for rapid enzyme prototyping.
+2. **Expert Consultation** – Direct guidance from our PhD‑level quantum chemists & AI scientists.
+3. **Early‑Bird Pricing** – Limited‑time discount for the first 20 enterprise partners.
 
 ---
 
-*Imperagen – Where Quantum Physics Meets Enzyme Engineering.*
+### Ready to Transform Your Chemistry?
+
+[**Get Started Now →**](https://buy.stripe.com/test_3cI00b4Xxe3i4aTergc7E33)
+
+*Join the next wave of biotech innovation. Seats are limited.*
+
+---
+
+#### About Imperagen
+Imperagen combines quantum physics, machine learning, and enzyme engineering to create next‑generation biocatalysts. Backed by £5 M Series A, we’re scaling fast and looking for forward‑thinking partners.
+
+---
+
+*For press inquiries, contact press@imperagen.com.*
