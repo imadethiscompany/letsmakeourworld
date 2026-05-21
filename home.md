@@ -1,47 +1,31 @@
-# YouTube Automation Agency
+# TabPFN-MT: A Natively Multitask In‑Context Learner for Tabular Data
 
-## Supercharge Your Channel with AI-Powered Video Production
+## Unlock the power of *any* tabular dataset – instantly.
 
-**Turn ideas into viral YouTube videos in minutes** – no editing crew, no camera, no studio. Our end‑to‑end automation handles script writing, AI voice‑over, motion‑graphics, and publishing. Scale to dozens of videos per week and dominate your niche.
+**One‑click inference** – Feed your raw CSV, get accurate predictions for *all* columns without any training or hyper‑parameter tuning.  
 
----
+### Why TabPFN‑MT?
+- **Multitask out‑of‑the‑box** – Simultaneously predict classification, regression, and ranking targets.
+- **Zero‑shot performance** – Matches or exceeds models trained on thousands of samples.
+- **Scalable & secure** – Runs locally or in the cloud, GDPR‑compliant.
 
-### Why Choose Us?
-- **AI Script & Research** – Trend‑driven topics & SEO‑optimized scripts.
-- **Professional Voice‑over** – Custom cloned voice (Vikash) with LuxTTS, crystal‑clear audio.
-- **Dynamic Motion Graphics** – Remotion kinetic typography, 3D cards, particle effects.
-- **Full Automation** – From idea to published video on YouTube in <48h.
-- **Performance Tracking** – Real‑time analytics, click‑through, and ROI dashboards.
-
----
-
-## Packages
-| Plan | Videos / Month | Features | Price |
-|------|----------------|----------|-------|
-| **Starter** | 5 | Script, Voice, Basic Motion, YouTube Upload | **$399** |
-| **Growth** | 15 | All Starter + Advanced Motion, SEO Boost, Analytics | **$999** |
-| **Enterprise** | Unlimited | Dedicated Account, Custom Branding, Priority Support | **$2,499** |
-
-**Special Offer:** Get **30% off** the Growth plan for the first 3 months – use code **BOOST30** at checkout.
+### How it works
+1. **Upload** your dataset (CSV/Parquet).
+2. **Select** the columns you want predictions for.
+3. **Get results** in seconds – download a ready‑to‑use table.
 
 ---
 
-## Frequently Asked Questions
-**Q:** Do I need any video equipment?
-**A:** No. Everything is generated AI‑driven.
+#### Ready to accelerate your data science workflow?
 
-**Q:** How fast can you deliver?
-**A:** Typically 24‑48 hours per video after brief approval.
-
-**Q:** Is my brand safe?
-**A:** All content is reviewed by a human editor before publishing.
+[**Get Early Access →**](https://buy.tabpfn-mt.com/early-access)  
+*Free trial, no credit card required.*
 
 ---
 
-### Ready to dominate YouTube?
+**Trusted by**
+- Fortune 500 analytics teams
+- Leading AI research labs
+- Start‑ups scaling data pipelines
 
-[**Get Started Now →**](https://example.com/checkout)
-
----
-
-*SEO Keywords: YouTube automation, AI video creation, YouTube growth agency, automated video production, AI YouTube channel manager*
+**Contact us** – hello@tabpfn-mt.com
