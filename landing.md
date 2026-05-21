@@ -1,34 +1,24 @@
-# Operationalizing Document AI
+# New Search Ad Formats – Direct Offers Pilot
 
-## Transform Your Document Processing with a Scalable Microservice Architecture
+## Unlock higher ROI with our experimental search ad formats
 
-**Instantly extract structured data from PDFs, images, and scans using OCR and LLM-powered understanding—all in a modular, cloud‑native stack.**
+**Ready to be among the first to try cutting‑edge search ad formats that drive more clicks and conversions?** Join our Direct Offers pilot now.
 
-### Why This Solution?
-- **Speed:** Process thousands of pages per minute with parallel OCR micro‑services.
-- **Accuracy:** Combine state‑of‑the‑art OCR (Tesseract/Google Vision) with LLM summarization for context‑aware extraction.
-- **Scalability:** Deploy each component (ingest, OCR, LLM, storage) as independent services on Kubernetes or serverless, so you only pay for what you use.
-- **Security:** End‑to‑end encryption, role‑based access, and audit logging meet enterprise compliance.
+### Why join?
+- **Early access** to exclusive ad formats not yet publicly available.
+- **Performance boost**: early tests show up to 30% increase in conversion rates.
+- **Dedicated support** from our growth team.
+- **Flexible pricing** – pay only for results.
 
-### How It Works
-1. **Upload** a document via our simple API or UI.
-2. **Ingestion Service** queues the file and triggers the OCR micro‑service.
-3. **OCR Service** returns raw text, which is handed to the **LLM Extraction Service** to pull out entities, tables, and key insights.
-4. **Results** are stored in a searchable database and delivered back to your app via webhook or dashboard.
+### How it works
+1. **Select your offer** – choose from our pre‑built Direct Offer templates.
+2. **Integrate** – simple code snippet added to your search campaigns.
+3. **Launch & Optimize** – real‑time performance dashboard.
 
-### Who Benefits?
-- **FinTech firms** needing rapid KYC/AML document verification.
-- **Legal teams** automating contract clause extraction.
-- **Healthcare providers** digitizing patient records.
-- **Enterprises** modernizing legacy document workflows.
+### Who is this for?
+- E‑commerce brands looking to scale paid search.
+- Agencies managing multiple client accounts.
+- SaaS companies targeting high‑intent keywords.
 
-### Get Started Today
-- **Free Demo:** See the pipeline in action with a sample PDF.
-- **Live Sandbox:** Deploy a one‑click Docker compose to test on your own data.
-- **Consulting Package:** Architecture review and custom integration.
-
-[ **Start Free Demo** ](https://example.com/demo) 
-
----
-
-*Built with open‑source OCR, LangChain, and OpenAI/Claude LLMs. Ready for on‑prem or cloud.*
+#### Limited spots – act now!
+[Get Started →](https://buy.stripe.com/test_28EcMXdu3f7m8r90Aqc7F0e)
