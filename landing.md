@@ -1,44 +1,50 @@
 # GraphDiffMed
 
-## Knowledge‑Constrained Differential Attention with Pharmacological Integration
+## Knowledge‑Constrained Differential Attention with Pharmacological Guidance
 
-**Unlock the next generation of precision medicine analytics.**
+**Accelerate drug discovery and patient‑specific treatment planning** with AI that **understands biological knowledge** and **integrates pharmacological constraints**.
+
+---
 
 ### Why GraphDiffMed?
-- **Accelerate drug discovery** by modeling molecular interactions with differential attention graphs, cutting hypothesis testing time by up to 70%.
-- **Integrate pharmacological constraints** directly into the learning process, ensuring biologically plausible predictions.
-- **Interpretable results**: visualize attention pathways to understand why a candidate is promising.
+- **Scientifically grounded**: Leverages curated biomedical graphs to keep predictions biologically plausible.
+- **Differential attention**: Highlights the most influential pathways for each patient, giving clinicians actionable insights.
+- **Pharmacological safety**: Automatically filters out drug‑drug interactions and dosage limits.
+- **Speed & scale**: Reduces hypothesis‑to‑validation time from months to weeks.
 
-### Key Benefits
-1. **Speed** – Train models on massive biomedical graphs in days, not weeks.
-2. **Accuracy** – State‑of‑the‑art performance on benchmark datasets (AUROC +12% over baselines).
-3. **Compliance** – Built‑in pharmacological rules keep outputs within regulatory bounds.
-4. **Scalable** – Deploy on cloud or on‑premise clusters with zero‑code pipelines.
+---
+
+### Benefits
+1. **Cut research cycle by 60%** – AI‑driven hypothesis generation replaces manual literature mining.
+2. **Increase trial success rate** – Targeted patient‑cohort selection based on mechanistic insight.
+3. **Regulatory confidence** – Knowledge‑constrained outputs meet FDA expectations for explainability.
+4. **Reduce adverse events** – Built‑in pharmacological constraints flag risky combinations.
+
+---
 
 ### How It Works
-1. **Data Ingestion** – Connect EMR, chemical libraries, and trial data.
-2. **Graph Construction** – Build a knowledge graph linking genes, pathways, and compounds.
-3. **Differential Attention Engine** – Apply attention mechanisms that respect pharmacological constraints.
-4. **Insight Dashboard** – Interactive UI to explore candidate rankings and mechanism hypotheses.
+1. **Ingest** curated biomedical graphs and drug databases.
+2. **Apply differential attention** to focus on pathways altered in your disease cohort.
+3. **Overlay pharmacological rules** to ensure safe, viable therapeutic suggestions.
+4. **Export** ranked drug candidates with mechanistic rationale.
+
+---
 
 ### Trusted By
 - Leading pharma R&D labs
-- Academic research institutions
-- biotech startups
+- Academic research centers
+- Precision‑medicine clinics
 
-> *“GraphDiffMed cut our target identification cycle from months to weeks while giving us confidence in the biology behind each hit.”* – Dr. Maya Patel, VP R&D, BioNova
-
----
-
-## Ready to Transform Your Drug Pipeline?
-
-### Get Early Access
-- **Free demo** of the platform (no credit card required).
-- **One‑click trial**: deploy a sandbox instance in under 5 minutes.
-
-[**Start My Free Demo**](https://graphdiffmed.com/demo)
+> *“GraphDiffMed gave us a clear mechanistic rationale for our top candidates, cutting our pre‑clinical validation time in half.”* – **Dr. A. Patel, Chief Scientist, BioNova**
 
 ---
 
-### Contact Us
-For enterprise licensing and custom integration, email **sales@graphdiffmed.com**.
+## Ready to Transform Your Drug Discovery?
+
+**Get early‑access demo** and see how GraphDiffMed can accelerate your pipeline.
+
+[**Request Demo →**](https://example.com/request-demo)
+
+---
+
+**Contact**: info@graphdiffmed.com | +1 (555) 123‑4567
