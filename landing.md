@@ -1,69 +1,57 @@
-# Tycoon AI – AI‑Powered Business Automation
+# Index a Year of Video Locally on a 2021 MacBook with Gemma4‑31B (50 GB Swap)
 
-**Headline:**
-> "Turn Your Business into a Self‑Running Tycoon with AI Automation"
+## Unlock Lightning‑Fast Video Indexing on Your Own Machine
 
-**Subheadline:**
-> "Tycoon AI automates sales, marketing, and operations so you can focus on growth, not grunt work. Get a 30% productivity boost in just 2 weeks."
+Imagine being able to **process an entire year of 1080p video** on a **2021 MacBook** without sending any data to the cloud. With **Gemma4‑31B** running locally and a **50 GB swap file**, you get:
 
-**Primary CTA:**
-[Start Free Trial](/signup?product=tycoon-ai)
+- **Full‑text search** across every frame and audio transcript
+- **AI‑powered tagging** and scene detection
+- **Zero‑latency** retrieval for editing, summarization, and repurposing
+- **Privacy‑first** – all data stays on your laptop
 
----
-## Why You’re Stuck
-- **Manual processes** waste hours every week.
-- **Data silos** keep you guessing about performance.
-- **Scaling** feels impossible without hiring more staff.
-
-You know the problem – you just need a solution that works now.
+### Why This Solution?
+- **Cost‑effective**: No expensive cloud GPU bills.
+- **Speed**: Gemma4‑31B processes ~2 × faster than typical LLMs on the same hardware.
+- **Scalability**: 50 GB swap lets you handle massive video libraries without running out of RAM.
 
 ---
-## Meet Tycoon AI
-Tycoon AI is a single‑click AI engine that:
-1. **Captures leads** from every channel and scores them instantly.
-2. **Nurtures prospects** with personalized email and SMS sequences.
-3. **Optimizes operations** by automating repetitive tasks and generating real‑time insights.
 
-All powered by GPT‑4, Zapier‑style workflows, and a visual dashboard.
-
----
-## Benefits You’ll See
-- **Cut admin time by 70%** – focus on strategy, not spreadsheets.
-- **Increase qualified leads by 3×** – AI‑driven targeting and follow‑up.
-- **Boost revenue faster** – automated upsells and cross‑sells.
-- **Real‑time KPI dashboard** – decisions based on live data, not weekly reports.
+## What You Get
+- **Step‑by‑step guide** to set up the environment (Homebrew, miniforge, swap config).
+- **Optimized scripts** for extracting frames, audio, and generating embeddings.
+- **Pre‑trained Gemma4‑31B model** tuned for video metadata extraction.
+- **Sample dataset** (10 GB) to test the pipeline.
+- **Support forum** for troubleshooting.
 
 ---
-## How It Works (3 Simple Steps)
-1. **Connect** – Link your CRM, email, and tools in minutes.
-2. **Configure** – Choose from 20+ ready‑made AI workflows or build your own.
-3. **Launch** – Watch AI run the show while you grow the business.
+
+## Who Is This For?
+- **Content creators** who need to repurpose old footage.
+- **Researchers** analyzing video archives.
+- **Film editors** looking for fast clip retrieval.
+- **Tech enthusiasts** who love running AI locally.
 
 ---
-## Social Proof
-> "Tycoon AI cut our weekly reporting from 4 hours to 15 minutes and doubled our lead conversion."
-> — *Sarah L., Founder, FinTech Startup*
 
-> "We launched an AI‑driven upsell flow in a day and saw $12K extra revenue in the first week."
-> — *Mark D., COO, SaaS Platform*
+## Pricing
+- **One‑time purchase**: **$149**
+- Includes lifetime updates and community access.
+
+[Buy Now – Secure Checkout](/buy-indexing-solution)
 
 ---
+
 ## FAQ
-**Q: Do I need technical expertise?**
-A: No. Tycoon AI is built for non‑technical founders. Drag‑and‑drop workflow builder.
+**Q:** Will this work on my 2020 MacBook?
+**A:** It works best on 2021+ models with at least 16 GB RAM.
 
-**Q: Is my data safe?**
-A: End‑to‑end encryption, GDPR‑compliant, and SOC‑2 certified.
+**Q:** Do I need an internet connection?
+**A:** Only for the initial model download; all indexing runs offline.
 
-**Q: How quickly can I see results?**
-A: Most customers report measurable ROI within 14 days.
-
----
-## Ready to Become a Business Tycoon?
-[Start Your Free 14‑Day Trial – No Credit Card Required](/signup?product=tycoon-ai)
-
-*30‑day money‑back guarantee. Cancel anytime.*
+**Q:** How much disk space is required?
+**A:** About 100 GB for the model, swap, and temporary files.
 
 ---
-**Meta Title:** Tycoon AI – AI‑Powered Business Automation & Growth
-**Meta Description:** Automate sales, marketing, and operations with Tycoon AI. Get a 30% productivity boost, 3× qualified leads, and real‑time insights. Start a free trial today.
+
+### Ready to Transform Your Video Library?
+Click the button above to get instant access and start indexing today!
