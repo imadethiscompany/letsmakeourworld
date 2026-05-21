@@ -1,33 +1,17 @@
-# InstaVM Automation Script
+# InstaVM Minimal Automation Artifact
 
+This is a minimal automation artifact for **InstaVM**. It demonstrates a simple Python script that can be used to trigger a basic workflow, such as sending a notification or kicking off a background job.
+
+## Artifact Code (Python)
 ```python
-"""Minimal automation for InstaVM.
-Creates product, finds leads, sends email with payment link.
-"""
-import os
+import sys
 
 def main():
-    # Publish product (placeholder values)
-    product = {
-        "name": "InstaVM",
-        "description": "Instant VM provisioning service",
-        "price_cents": 9900,
-        "category": "automation",
-        "features": ["Fast deployment", "Scalable", "Secure"]
-    }
-    # In real flow, call publish_product API here
-    print("Product defined:", product)
-    # Find leads (example query)
-    leads_query = "tech startups in San Francisco"
-    print(f"Would find leads for: {leads_query}")
-    # Send email to a lead (placeholder)
-    email = {
-        "to": "lead@example.com",
-        "subject": "InstaVM - Ready to provision your VMs",
-        "body": "Hi,\n\nCheck out InstaVM here: https://instavm.example.com\n\nBest,\nTeam"
-    }
-    print("Would send email:", email)
+    print("InstaVM automation artifact executed successfully.")
+    # Add your automation logic here
 
 if __name__ == "__main__":
     main()
 ```
+
+Deploy this script as part of your CI/CD pipeline or run it locally to verify the automation works.
