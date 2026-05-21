@@ -1,67 +1,43 @@
-# YouTube Automation Agency – Scale Your Channel Effortlessly
+<section style="padding: 60px; text-align: center; background: linear-gradient(135deg, #0a0a14, #1e1e2f); color: #fff;">
+  <h1 style="font-size: 3rem; margin-bottom: 20px;">Scale Your Business with YouTube Automation</h1>
+  <p style="font-size: 1.2rem; max-width: 800px; margin: 0 auto 30px;">We create fully‑managed, AI‑driven YouTube channels that generate leads, sales, and recurring revenue while you focus on your core business.</p>
+  <a href="#contact" style="display: inline-block; padding: 15px 30px; background: #7B61FF; color: #fff; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1rem;">Book a Free Strategy Call</a>
+</section>
 
-## Unlock Explosive Growth Without Lifting a Finger
+<section id="benefits" style="padding: 60px; background: #faf8f5; color: #111; text-align: center;">
+  <h2 style="font-size: 2.5rem; margin-bottom: 40px;">Why Choose Our Agency?</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+    <div style="flex: 1 1 250px; max-width: 300px;">
+      <h3>🚀 Rapid Growth</h3>
+      <p>From 0 to 10k+ subscribers in 90 days using proven AI content pipelines.</p>
+    </div>
+    <div style="flex: 1 1 250px; max-width: 300px;">
+      <h3>💰 Monetization Ready</h3>
+      <p>Ad revenue, affiliate sales, product launches – we set up multiple income streams.</p>
+    </div>
+    <div style="flex: 1 1 250px; max-width: 300px;">
+      <h3>⏱️ Hands‑Free</h3>
+      <p>Full video production, SEO, posting, community management – you never lift a finger.</p>
+    </div>
+  </div>
+</section>
 
-Are you a creator, brand, or agency tired of spending countless hours on video production, SEO, thumbnail design, and community management? Our **YouTube Automation Agency** handles the entire workflow for you, delivering **consistent, high‑quality uploads** that rank, attract subscribers, and convert viewers into customers.
+<section id="pricing" style="padding: 60px; background: #0a0a14; color: #fff; text-align: center;">
+  <h2 style="font-size: 2.5rem; margin-bottom: 30px;">Simple, Predictable Pricing</h2>
+  <div style="display: inline-block; background: #1e1e2f; padding: 30px; border-radius: 10px; max-width: 400px;">
+    <p style="font-size: 2rem; margin: 0;">$2,997/month</p>
+    <p>All‑in‑one package – strategy, video production, channel management, analytics.</p>
+    <a href="#contact" style="display: inline-block; margin-top: 15px; padding: 12px 25px; background: #7B61FF; color: #fff; border-radius: 6px; text-decoration: none;">Start Today</a>
+  </div>
+</section>
 
----
-
-### Why Choose Our YouTube Automation?
-
-| ✅ | Benefit |
-|---|---|
-| **Turnkey Production** | Scriptwriting, voice‑over, video editing, motion graphics, and thumbnail creation – all in‑house.
-| **AI‑Powered SEO** | Keyword research, AI‑generated titles, descriptions, and tags that outrank competitors.
-| **Audience Growth Engine** | Automated posting schedule, community engagement, and retargeting ads.
-| **Data‑Driven Optimization** | Weekly analytics report with actionable insights.
-| **Scalable Packages** | From $499/mo for 4 videos/month to $4,999/mo for 30+ premium videos.
-
----
-
-### How It Works
-1. **Discovery Call** – We learn your brand voice, goals, and target audience.
-2. **Strategy Blueprint** – Custom content calendar with viral topics and SEO keywords.
-3. **Production Sprint** – Scripts, AI voice‑overs, motion‑graphics, and final edit.
-4. **Launch & Optimize** – Upload, schedule, SEO, and community interaction.
-5. **Growth Reporting** – Detailed KPI dashboard and next‑step recommendations.
-
----
-
-### Success Stories
-> *"In 3 months our subscriber count jumped from 2k to 45k and revenue from YouTube ads increased 6x. The agency handled everything – we focused on product development."* – **Tech Startup Founder**
-
-> *"Our agency clients now get 2‑3 videos per week with zero editing hassle. The ROI is undeniable."* – **Digital Marketing Agency Owner**
-
----
-
-### Choose Your Plan
-| Plan | Videos / Month | Price |
-|------|---------------|-------|
-| **Starter** | 4 | $499 |
-| **Growth** | 12 | $1,299 |
-| **Pro** | 20 | $2,199 |
-| **Enterprise** | 30+ | Custom |
-
-> **Limited Time Offer:** Sign up now and get **1 free video** plus a **30‑day performance guarantee**.
-
----
-
-### Frequently Asked Questions
-**Q:** *Do I need to provide any footage?*  
-**A:** No. We create professional motion graphics or use royalty‑free stock footage tailored to your niche.
-
-**Q:** *Can I keep my existing channel branding?*  
-**A:** Absolutely – we integrate your logos, colors, and style guide.
-
-**Q:** *How fast can I see results?*  
-**A:** Most clients see a **10‑30% subscriber increase** within the first 4‑6 weeks.
-
----
-
-### Ready to Automate Your YouTube Success?
-[**Get Started Today →**](https://example.com/contact)  
-Or email us at **hello@ytautomation.com** to schedule a free strategy call.
-
----
-
-*SEO Keywords: YouTube automation agency, YouTube video production service, YouTube channel growth, automated YouTube marketing, AI video creation*
+<section id="contact" style="padding: 60px; background: #faf8f5; color: #111; text-align: center;">
+  <h2 style="font-size: 2.5rem; margin-bottom: 20px;">Ready to Automate Your YouTube Success?</h2>
+  <p>Fill the form below and we’ll schedule a 15‑minute call to map out your growth plan.</p>
+  <form method="POST" action="https://example.com/lead" style="margin-top: 30px; display: inline-block; text-align: left;">
+    <input type="text" name="name" placeholder="Your Name" required style="display:block; width:300px; padding:10px; margin-bottom:10px;"/>
+    <input type="email" name="email" placeholder="Email" required style="display:block; width:300px; padding:10px; margin-bottom:10px;"/>
+    <input type="text" name="company" placeholder="Company" required style="display:block; width:300px; padding:10px; margin-bottom:10px;"/>
+    <button type="submit" style="width:320px; padding:12px; background:#7B61FF; color:#fff; border:none; border-radius:6px; font-size:1rem;">Book My Call</button>
+  </form>
+</section>
