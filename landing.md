@@ -1,62 +1,69 @@
-# Tycoon AI – Build Your Business Empire with AI Automation
+# Tycoon AI – AI‑Powered Business Automation
 
-## Headline
-**Turn ideas into profits 10x faster with AI‑powered business automation**
+**Headline:**
+> "Turn Your Business into a Self‑Running Tycoon with AI Automation"
 
-### Subheadline
-Tycoon AI is the all‑in‑one platform that lets founders, marketers, and teams automate operations, generate leads, and scale revenue without hiring extra staff.
+**Subheadline:**
+> "Tycoon AI automates sales, marketing, and operations so you can focus on growth, not grunt work. Get a 30% productivity boost in just 2 weeks."
 
----
-
-## Why Tycoon AI?
-- **Cut operational costs by up to 40%** – automate repetitive tasks, data entry, and reporting.
-- **Generate qualified leads 3× faster** – AI‑driven prospecting and outreach.
-- **Scale revenue without extra headcount** – real‑time insights, predictive growth models.
-- **Zero‑code setup** – drag‑and‑drop workflows ready in minutes.
+**Primary CTA:**
+[Start Free Trial](/signup?product=tycoon-ai)
 
 ---
+## Why You’re Stuck
+- **Manual processes** waste hours every week.
+- **Data silos** keep you guessing about performance.
+- **Scaling** feels impossible without hiring more staff.
 
+You know the problem – you just need a solution that works now.
+
+---
+## Meet Tycoon AI
+Tycoon AI is a single‑click AI engine that:
+1. **Captures leads** from every channel and scores them instantly.
+2. **Nurtures prospects** with personalized email and SMS sequences.
+3. **Optimizes operations** by automating repetitive tasks and generating real‑time insights.
+
+All powered by GPT‑4, Zapier‑style workflows, and a visual dashboard.
+
+---
+## Benefits You’ll See
+- **Cut admin time by 70%** – focus on strategy, not spreadsheets.
+- **Increase qualified leads by 3×** – AI‑driven targeting and follow‑up.
+- **Boost revenue faster** – automated upsells and cross‑sells.
+- **Real‑time KPI dashboard** – decisions based on live data, not weekly reports.
+
+---
 ## How It Works (3 Simple Steps)
-1. **Connect Your Tools** – Sync CRM, email, Slack, and more with one click.
-2. **Define Your Goal** – Choose a growth target (more leads, faster onboarding, higher upsell).
-3. **Launch AI‑Driven Automation** – Let Tycoon AI run the playbook while you focus on strategy.
+1. **Connect** – Link your CRM, email, and tools in minutes.
+2. **Configure** – Choose from 20+ ready‑made AI workflows or build your own.
+3. **Launch** – Watch AI run the show while you grow the business.
 
 ---
-
-## Features at a Glance
-- **AI Lead Scoring & Outreach** – personalized email sequences that adapt to responses.
-- **Smart Workflow Builder** – visual canvas, pre‑built templates for sales, support, finance.
-- **Real‑Time Dashboards** – KPI tracking, revenue forecasts, ROI calculators.
-- **Compliance & Security** – GDPR‑ready, SOC‑2 certified.
-
----
-
 ## Social Proof
-> "Tycoon AI cut our lead‑generation time from weeks to hours and increased our MRR by 25% in the first month." – *Samantha Lee, Founder, GrowthCo*
+> "Tycoon AI cut our weekly reporting from 4 hours to 15 minutes and doubled our lead conversion."
+> — *Sarah L., Founder, FinTech Startup*
 
-> "The zero‑code workflow builder let our non‑technical team ship automation in days, not months." – *Mike Patel, Ops Manager, RetailHub*
-
----
-
-## Frequently Asked Questions
-**Q: Do I need any coding skills?**
-A: No. Tycoon AI is built for non‑technical users with a drag‑and‑drop interface.
-
-**Q: What integrations are supported?**
-A: Over 150 apps including Salesforce, HubSpot, Gmail, Stripe, Shopify, and more.
-
-**Q: Is there a free trial?**
-A: Yes – 14‑day free trial, no credit card required.
+> "We launched an AI‑driven upsell flow in a day and saw $12K extra revenue in the first week."
+> — *Mark D., COO, SaaS Platform*
 
 ---
+## FAQ
+**Q: Do I need technical expertise?**
+A: No. Tycoon AI is built for non‑technical founders. Drag‑and‑drop workflow builder.
 
-## Ready to Build Your Empire?
-[Start Your Free Trial →](https://app.tycoon.ai/signup)
+**Q: Is my data safe?**
+A: End‑to‑end encryption, GDPR‑compliant, and SOC‑2 certified.
 
-*No credit card. Cancel anytime.*
+**Q: How quickly can I see results?**
+A: Most customers report measurable ROI within 14 days.
 
 ---
+## Ready to Become a Business Tycoon?
+[Start Your Free 14‑Day Trial – No Credit Card Required](/signup?product=tycoon-ai)
 
-### SEO Meta
-- **Title:** Tycoon AI – AI‑Powered Business Automation Platform
-- **Meta Description:** Automate sales, marketing, and operations with Tycoon AI. Generate leads 3× faster, cut costs, and scale revenue without hiring. Start your free trial today.
+*30‑day money‑back guarantee. Cancel anytime.*
+
+---
+**Meta Title:** Tycoon AI – AI‑Powered Business Automation & Growth
+**Meta Description:** Automate sales, marketing, and operations with Tycoon AI. Get a 30% productivity boost, 3× qualified leads, and real‑time insights. Start a free trial today.
