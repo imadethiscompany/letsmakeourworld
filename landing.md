@@ -1,70 +1,44 @@
-# DOS Zone
+# GraphDiffMed
 
-## Secure, Unlimited Access to Any Online Service
+## Knowledge‑Constrained Differential Attention with Pharmacological Integration
 
-**Instantly protect your website, API, or application from DDoS attacks and traffic spikes.**
+**Unlock the next generation of precision medicine analytics.**
 
----
+### Why GraphDiffMed?
+- **Accelerate drug discovery** by modeling molecular interactions with differential attention graphs, cutting hypothesis testing time by up to 70%.
+- **Integrate pharmacological constraints** directly into the learning process, ensuring biologically plausible predictions.
+- **Interpretable results**: visualize attention pathways to understand why a candidate is promising.
 
-### Why DOS Zone?
-
-- **Zero‑downtime guarantees** – Keep your services online 24/7, even under massive traffic surges.
-- **One‑click protection** – Deploy a global network of scrubbing centers in seconds.
-- **Pay‑as‑you‑go pricing** – Only pay for the traffic you actually need.
-- **Real‑time analytics** – Watch attacks in the dashboard as they happen.
-
----
+### Key Benefits
+1. **Speed** – Train models on massive biomedical graphs in days, not weeks.
+2. **Accuracy** – State‑of‑the‑art performance on benchmark datasets (AUROC +12% over baselines).
+3. **Compliance** – Built‑in pharmacological rules keep outputs within regulatory bounds.
+4. **Scalable** – Deploy on cloud or on‑premise clusters with zero‑code pipelines.
 
 ### How It Works
+1. **Data Ingestion** – Connect EMR, chemical libraries, and trial data.
+2. **Graph Construction** – Build a knowledge graph linking genes, pathways, and compounds.
+3. **Differential Attention Engine** – Apply attention mechanisms that respect pharmacological constraints.
+4. **Insight Dashboard** – Interactive UI to explore candidate rankings and mechanism hypotheses.
 
-1. **Add your domain** – Point your DNS to our edge network.
-2. **Configure thresholds** – Set traffic limits and auto‑mitigation rules.
-3. **Stay protected** – Our AI‑driven engine filters malicious traffic before it reaches you.
+### Trusted By
+- Leading pharma R&D labs
+- Academic research institutions
+- biotech startups
 
----
-
-### Features
-
-- **Global Anycast network** – 150+ PoPs worldwide for maximum latency reduction.
-- **Layer‑7 filtering** – Block malicious HTTP requests, bots, and scrapers.
-- **Custom rules engine** – Tailor protection to your app’s unique traffic patterns.
-- **Detailed logs & alerts** – Integrated with Slack, PagerDuty, and email.
+> *“GraphDiffMed cut our target identification cycle from months to weeks while giving us confidence in the biology behind each hit.”* – Dr. Maya Patel, VP R&D, BioNova
 
 ---
 
-### Pricing
+## Ready to Transform Your Drug Pipeline?
 
-| Plan | Monthly Traffic | Price |
-|------|----------------|-------|
-| **Starter** | Up to 5 TB | $49 |
-| **Growth** | Up to 20 TB | $149 |
-| **Enterprise** | Unlimited | Custom |
+### Get Early Access
+- **Free demo** of the platform (no credit card required).
+- **One‑click trial**: deploy a sandbox instance in under 5 minutes.
 
-> **Free 30‑day trial** – No credit card required.
+[**Start My Free Demo**](https://graphdiffmed.com/demo)
 
 ---
 
-### Trusted by
-
-![Logos of companies](/images/partner-logos.png)
-
----
-
-#### FAQ
-
-**Q:** *Will my site speed improve?*  
-**A:** Yes. Our Anycast routing reduces latency for legitimate users.
-
-**Q:** *Do I need a dedicated security team?*  
-**A:** No. DOS Zone handles mitigation automatically.
-
----
-
-## Ready to Secure Your Site?
-
-[Get Started Now →](https://buy.stripe.com/test_eVq9ALcpZ0csdLt4QGc7E2Z)
-
----
-
-*SEO Meta Title: DOS Zone – DDoS Protection & Traffic Management*
-*SEO Meta Description: Protect your website, API, or app from DDoS attacks with DOS Zone. Instant one‑click protection, pay‑as‑you‑go pricing, real‑time analytics. Free 30‑day trial.*
+### Contact Us
+For enterprise licensing and custom integration, email **sales@graphdiffmed.com**.
