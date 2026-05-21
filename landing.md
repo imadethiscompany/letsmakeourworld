@@ -1,29 +1,28 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Unlock Passive Income on YouTube Without Lifting a Finger
 
-**Turn YouTube into a profit‑driving machine** with our end‑to‑end automation service. We handle:
-- Content ideation & script writing
-- AI‑generated voice‑overs & video production
-- Thumbnail design & SEO‑optimized titles
-- Upload scheduling & performance analytics
+**Scale your brand, grow your channel, and generate revenue while we handle everything:**
+- **Video Ideation & Scriptwriting** – AI‑crafted scripts that rank.
+- **Full Production** – Voice‑over, motion graphics, editing, subtitles.
+- **Channel Management** – SEO‑optimized titles, tags, thumbnails, and publishing schedule.
+- **Monetization** – AdSense setup, sponsorship outreach, merch drops.
 
 ### Why Choose Us?
-- **Zero editing time** – AI creates polished videos in minutes.
-- **Rapid growth** – Proven 3‑x subscriber increase in 90 days.
-- **Full funnel** – From video to lead capture and sales.
+| ✅ | Benefit |
+|---|---|
+| **Zero Skill Required** | You provide the niche, we deliver the videos.
+| **Fast Turnaround** | 1‑2 videos per week, ready to publish.
+| **Proven ROI** | Clients see 3‑5× subscriber growth in 30 days.
+| **Transparent Pricing** | No hidden fees, pay‑as‑you‑grow.
 
 ### Packages
-| Plan | Videos / month | Price |
-|------|----------------|-------|
-| **Starter** | 4 | $499 |
-| **Growth** | 12 | $1,299 |
-| **Enterprise** | Unlimited | Custom |
+- **Starter** – $499/mo (2 videos, basic SEO)
+- **Growth** – $999/mo (5 videos, advanced SEO & thumbnails)
+- **Scale** – $1,999/mo (unlimited videos, full channel audit)
 
-> *"Our subscriber count jumped from 2k to 15k in just 2 months!" – SaaS Founder*
-
-### Ready to Automate?
-[**Get Started Now**](https://example.com/checkout) – No credit card required for a free audit.
+### Ready to Automate Your YouTube Success?
+[**Get Started Now**](https://buy.stripe.com/test_4gw6oR5E5f5g2eYc00) – No credit card required for the free 7‑day trial.
 
 ---
-*We’re trusted by over 200 creators and agencies. Let’s make your channel work for you.*
+*We’ve helped SaaS founders, coaches, and e‑commerce brands generate $10k‑$15k/mo from YouTube. Let’s make you the next success story.*
