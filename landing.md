@@ -1,35 +1,39 @@
-# Mistral AI Acquires Austrian Physics AI Startup
+# AutoSubtitles 2.0
 
-**Headline:** Unlock the Future of Industrial AI – Discover How Mistral AI’s Latest Acquisition is Set to Transform Manufacturing.
+## Automatic subtitles for every video, in seconds.
 
-**Sub‑headline:** Mistral AI has bought a cutting‑edge Austrian physics‑driven AI startup, positioning itself as the go‑to partner for factories seeking smarter, faster, and greener production.
+**Never spend hours adding captions again.** AutoSubtitles 2.0 uses state‑of‑the‑art AI to generate accurate, searchable subtitles for YouTube, Vimeo, TikTok, Instagram Reels, webinars, and internal training videos.
 
----
+### Why AutoSubtitles 2.0?
+- **Lightning‑fast turnaround** – subtitles ready in <30 seconds per minute of video.
+- **99% accuracy** – trained on 200k+ hours of multilingual content.
+- **Fully editable** – tweak timing, font, language, or export SRT, VTT, TXT.
+- **Boost SEO & accessibility** – increase watch time by up to 23%.
 
-### Why This Matters for Your Business
-- **Immediate Access to Advanced Physics‑Based Models** – Reduce waste, boost yield, and cut energy costs.
-- **Scalable Cloud‑Native Solutions** – Deploy AI across multiple sites with zero‑downtime.
-- **Trusted by Industry Leaders** – Backed by Mistral’s proven track record in large‑scale AI deployments.
+### How it works (3 simple steps)
+1. **Upload** your video or paste a URL.
+2. **Select** language and style.
+3. **Download** the finished subtitles instantly.
 
----
+### Trusted by creators and enterprises
+![Logos](/assets/logos.png)
 
-### Get the Full Insight Report
-Ready to see how this move can give you a competitive edge?
+> *"AutoSubtitles saved my team hours every week. The accuracy is amazing!"* – **Jane D., Marketing Director**
 
-- **What’s Inside:** Market impact analysis, technical deep‑dive, and a step‑by‑step roadmap for integration.
-- **Bonus:** Exclusive interview excerpts with Mistral’s leadership.
+### Get started now – risk‑free
+- **Free trial:** 10 minutes of subtitles, no credit card.
+- **Pay‑as‑you‑go:** $0.05 per minute.
+- **Enterprise plan:** custom pricing, bulk discounts.
 
-[Download the Report Now →](/download/mistral-ai-report)
-
----
-
-#### Frequently Asked Questions
-**Q:** Is the technology ready for immediate deployment?
-**A:** Yes – the startup’s models are production‑ready and can be integrated via Mistral’s API.
-
-**Q:** Who can benefit?
-**A:** Manufacturers, supply‑chain managers, and R&D teams looking to embed physics‑accurate AI.
+[**Start Free Trial**](https://buy.stripe.com/test_auto_subtitles)
 
 ---
 
-*Stay ahead of the AI curve. Join the leaders who are already leveraging Mistral’s new capabilities.*
+**FAQ**
+- **Is my video private?** Yes, all uploads are encrypted and deleted after processing.
+- **Can I subtitle in other languages?** AutoSubtitles supports 30+ languages out of the box.
+- **Do you offer bulk discounts?** Contact sales for volume pricing.
+
+*Ready to make every video accessible?* 
+
+[**Create My Subtitles**](https://buy.stripe.com/test_auto_subtitles)
