@@ -1,23 +1,34 @@
-# Google Announces Ads in AI Mode Search Results
+# The A.I. Race to Go Public – The New York Times Report
 
-## Unlock New Advertising Opportunities in Google’s AI‑Powered Search
+**Unlock the insider analysis of how AI‑focused companies are racing to IPO.**
 
-Google’s AI Mode is now serving paid ads alongside AI‑generated answers. Reach millions of users who are searching with the latest AI‑driven experience.
+## Why This Report Matters
+- **$2 T+** in AI IPO funding this year – see which startups are poised to dominate.
+- **Industry‑grade valuation models** that investors use to price AI IPOs.
+- **Actionable insights** for founders, investors, and analysts who need to stay ahead of the curve.
 
-**Why Advertise in AI Mode?**
-- **Prime Real‑Estate Visibility** – Your ad appears at the top of AI‑generated answers.
-- **Higher Intent** – Users get concise answers, ready to act.
-- **Competitive Edge** – Early adopters capture market share before the competition.
-
-### Get Started Today
-1. **Create Your Campaign** – Simple setup in Google Ads.
-2. **Target AI Mode Audiences** – Choose keywords that trigger AI answers.
-3. **Measure Performance** – Real‑time reporting on impressions, clicks, and conversions.
-
-**Limited Time Offer:** Get a free consultation and a 10% discount on your first AI Mode ad spend.
-
-[Start Your AI Mode Campaign](/signup)
+### What You’ll Get
+- A 30‑page deep‑dive PDF packed with data, charts, and expert commentary.
+- A **ready‑to‑share slide deck** for board meetings or pitch decks.
+- Access to a private Slack channel for follow‑up Q&A with the research team.
 
 ---
 
-*Stay ahead of the curve. Advertise where the future of search lives today.*
+### Get Instant Access for **$99**
+[Buy Now]({{payment_link}})
+
+*Secure checkout powered by Stripe. No credit‑card fees.*
+
+---
+
+#### Frequently Asked Questions
+**When will I receive the report?**
+You’ll get the PDF and slide deck immediately after purchase.
+
+**Can I get a refund?**
+Yes, within 7 days if you’re not satisfied.
+
+---
+
+*Ready to see which AI startups will shape the next decade?*  
+[Buy the Report Now]({{payment_link}})
