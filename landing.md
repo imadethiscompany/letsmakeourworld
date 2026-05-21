@@ -1,27 +1,38 @@
-# Google Replaces Vertex AI with Gemini Enterprise Agent P
+# Masked Diffusion Language Models are Strong and Steerable Text-Based World Model
 
-## Unlock Enterprise‑grade AI with the next‑gen Gemini Agent
+## Unlock the Future of AI-Driven World Modeling
 
-**Why Gemini Enterprise Agent P?**
-- **Seamless Migration** – Drop‑in replacement for Vertex AI, no code rewrite.
-- **Higher Accuracy & Speed** – Up to 2× faster inference and 30% lower token cost.
-- **Enterprise‑grade Security** – Built‑in data‑privacy, ISO‑27001 compliance.
-- **Customizable Agents** – Pre‑trained agents for customer support, data analysis, and workflow automation.
-
-### How It Works
-1. **Connect** – Link your GCP project in seconds.
-2. **Configure** – Choose from ready‑made agent templates or build your own.
-3. **Deploy** – Scale instantly with serverless infrastructure.
-
-### Who Benefits?
-- **Tech Leaders** looking to modernize AI stacks.
-- **Product Teams** needing rapid prototyping without vendor lock‑in.
-- **Enterprises** requiring robust security and compliance.
+**Headline:** *Experience Unmatched Control Over Text‑Based World Simulations*  
+**Sub‑headline:** Harness the power of masked diffusion language models to generate, steer, and explore rich textual worlds—perfect for research, game design, and next‑gen AI assistants.
 
 ---
 
-**Ready to future‑proof your AI?**
+### Why This Matters
+- **Strong Generation** – State‑of‑the‑art diffusion techniques produce coherent, high‑fidelity narratives.
+- **Steerability** – Simple mask‑based prompts let you guide story arcs, character actions, and environment changes in real time.
+- **Text‑Based World Model** – No heavy graphics needed; fully described worlds enable lightweight deployment and rapid iteration.
 
-[Get Early Access →](/signup?product=gemini-enterprise-agent-p)
+---
 
-*Limited seats available for the first 100 adopters.*
+### Key Benefits
+1. **Accelerate Prototyping** – Build complex scenarios in minutes instead of weeks.
+2. **Reduce Costs** – Text‑only models require far less compute than visual simulators.
+3. **Research‑Ready** – Provides a controllable sandbox for language‑model alignment studies.
+4. **Cross‑Domain** – Ideal for games, simulations, education, and AI‑assistant development.
+
+---
+
+### How It Works
+1. **Input Mask** – Define what you want to keep fixed (characters, setting) and what to vary.
+2. **Diffusion Engine** – The model fills in masked sections with context‑aware content.
+3. **Iterative Steering** – Adjust masks on‑the‑fly to explore alternative outcomes.
+
+---
+
+### Get Early Access
+**[Request a Demo](/demo) • [Read the Full Paper](/paper) • [Join the Community](/community)**
+
+---
+
+*Ready to steer your own textual universes?*  
+**Start now and transform how you think about AI world modeling.**
