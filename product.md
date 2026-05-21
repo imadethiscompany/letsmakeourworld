@@ -1,12 +1,10 @@
-# Ask YouTube – AI‑Powered Conversational Search with Gemini Omni
+# Jensen Huang $200B Nvidia Market
 
-**What it is**: A new YouTube experience where users can ask natural‑language questions and get AI‑generated answers directly from video content, powered by Google Gemini Omni.
+Jensen Huang, CEO of Nvidia, announced a brand‑new $200 billion market opportunity. This is your chance to get early access to insights, strategies, and exclusive reports.
 
-**Key benefits**
-- Instantly find exact moments in any video.
-- Get concise, conversational summaries.
-- Boost watch‑time and engagement.
+**What you get:**
+- In‑depth market analysis
+- Step‑by‑step playbook
+- Access to a private community
 
-**Try it now** – Click the button below to start a free trial.
-
-[Buy Now](https://buy.stripe.com/test_product_link)
+[Buy Now](/buy/jensen-huang-nvidia-market)
