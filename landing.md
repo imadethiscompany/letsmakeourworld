@@ -1,29 +1,38 @@
-# AutoSubtitles 2.0
+# AI Hardware Startup Hark Raises $6 Billion in New Funding Round
 
-## Instantly add accurate subtitles to any video – no manual editing required.
+## Unlock the Future of AI Compute
 
-**Why waste hours transcribing when AI can do it in seconds?**
-
-- **97% accuracy** on 100+ language pairs
-- **One‑click upload** – just drag your video file
-- **Editable captions** – fine‑tune in seconds
-- **Affordable pricing** – start for $9/month, unlimited videos
+**Hark** just secured a $6 billion investment, cementing its position as the world’s most valuable AI‑hardware startup. Join the wave of enterprises that are **scaling AI workloads 5x faster** while slashing infrastructure costs by up to **70%**.
 
 ---
 
-### How It Works
-1. **Upload** your video file (MP4, MOV, AVI…) 
-2. **AI generates** subtitles in your chosen language
-3. **Review & edit** instantly in a simple editor
-4. **Export** as SRT, VTT, or burn‑in captions
+### Why Hark?
+- **Unmatched Performance** – Proprietary ASICs deliver up to **10 TFLOPs per watt**, the highest efficiency on the market.
+- **Enterprise‑Ready** – Plug‑and‑play modules integrate with any data‑center stack, with **zero‑downtime upgrades**.
+- **Proven ROI** – Customers report **$2M‑$5M savings** in the first year.
+- **Trusted by Leaders** – Backed by top VCs and adopted by Fortune 500 firms.
 
 ---
 
-> *“AutoSubtitles saved my team 20 hours per week. The accuracy is amazing!”* – **Video Marketing Lead, TechCo**
+### Real‑World Impact
+> *“Switching to Hark cut our model training time from weeks to days. The cost reduction was immediate.”* – **CTO, Global AI Lab**
+
+> *“The reliability of Hark’s hardware allowed us to launch new services without any latency spikes.”* – **VP Engineering, FinTech Corp**
 
 ---
 
-#### Ready to stop typing?
+### Get Early Access
+Ready to accelerate your AI roadmap?
 
-[**Start Free Trial**](https://example.com/checkout?product=autosubtitles2)  
-Or **[Book a Demo](/demo)** to see it live.
+- **Free Demo** – See Hark in action on your workloads.
+- **Exclusive Whitepaper** – “The Economics of Next‑Gen AI Hardware”.
+- **Priority Support** – Direct line to our hardware architects.
+
+[ **Request a Demo Now** ](https://hark.ai/demo?ref=landing)  
+_(No credit card required)_
+
+---
+
+#### SEO Meta
+**Title:** AI Hardware Startup Hark Valued at $6B – Request Demo
+**Description:** Discover why Hark’s $6 billion‑valued AI hardware is delivering 5x faster performance and massive cost savings. Get a free demo today.
