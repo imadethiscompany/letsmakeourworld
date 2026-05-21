@@ -1,23 +1,29 @@
-# White House AI Model Review Automation
+# Colorado SB051 Automation Artifact
 
-This minimal automation fetches the latest White House briefing on AI model review and outputs the headline.
+This minimal automation script checks if a given GitHub repository is excluded under the Colorado Amended SB051 Age Verification Bill (i.e., it contains an open‑source license). It can be used in CI pipelines.
 
 ```python
-import requests
+import sys, json, subprocess
 
-def fetch_brief():
-    url = "https://www.whitehouse.gov/briefings/ai-model-review"
+def get_license(repo_path: str) -> str:
+    """Return the SPDX identifier of the license if found, else empty string."""
     try:
-        resp = requests.get(url, timeout=10)
-        resp.raise_for_status()
-        # Simple extraction of title tag
-        start = resp.text.find('<title>')
-        end = resp.text.find('</title>', start)
-        title = resp.text[start+7:end].strip() if start != -1 else 'No title found'
-        print('Brief Title:', title)
-    except Exception as e:
-        print('Error fetching brief:', e)
+        result = subprocess.check_output([
+            "git", "-C", repo_path, "license"], stderr=subprocess.STDOUT)
+        return result.decode().strip()
+    except Exception:
+        return ""
+
+def is_excluded(repo_path: str) -> bool:
+    """Return True if the repo is an open‑source project (has a license)."""
+    license_id = get_license(repo_path)
+    return bool(license_id)
 
 if __name__ == "__main__":
-    fetch_brief()
+    if len(sys.argv) != 2:
+        print(json.dumps({"error": "Usage: script.py <repo_path>"}))
+        sys.exit(1)
+    path = sys.argv[1]
+    excluded = is_excluded(path)
+    print(json.dumps({"repo_path": path, "excluded": excluded}))
 ```
