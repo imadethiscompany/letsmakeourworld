@@ -1,29 +1,17 @@
-# Colorado SB051 Automation Artifact
+# Gemini Enterprise Agent P Automation
 
-This minimal automation script checks if a given GitHub repository is excluded under the Colorado Amended SB051 Age Verification Bill (i.e., it contains an open‑source license). It can be used in CI pipelines.
+This minimal automation artifact demonstrates a simple Python script that fetches the latest news about **Google replacing Vertex AI with Gemini Enterprise Agent P** and prints it.
 
 ```python
-import sys, json, subprocess
+import requests
 
-def get_license(repo_path: str) -> str:
-    """Return the SPDX identifier of the license if found, else empty string."""
-    try:
-        result = subprocess.check_output([
-            "git", "-C", repo_path, "license"], stderr=subprocess.STDOUT)
-        return result.decode().strip()
-    except Exception:
-        return ""
-
-def is_excluded(repo_path: str) -> bool:
-    """Return True if the repo is an open‑source project (has a license)."""
-    license_id = get_license(repo_path)
-    return bool(license_id)
+def fetch_news():
+    url = "https://news.google.com/rss/search?q=Gemini+Enterprise+Agent+P"
+    resp = requests.get(url)
+    print(resp.text[:500])
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print(json.dumps({"error": "Usage: script.py <repo_path>"}))
-        sys.exit(1)
-    path = sys.argv[1]
-    excluded = is_excluded(path)
-    print(json.dumps({"repo_path": path, "excluded": excluded}))
+    fetch_news()
 ```
+
+You can clone the repository and run `python fetch_gemini_news.py` to see the output.
