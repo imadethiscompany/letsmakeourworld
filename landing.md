@@ -1,36 +1,59 @@
-# Imperagen Raises £5 Million to Revolutionize Enzyme Engineering
+# YouTube Automation Agency
 
-## Quantum Physics + AI = Breakthrough Enzyme Design
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Unlock the power of quantum simulations and generative AI to engineer enzymes that cut costs, boost yields, and create sustainable chemicals.**
-
----
-
-### Why This Matters
-- **Accelerate R&D** – Quantum‑level modeling reduces design cycles from months to weeks.
-- **Boost Efficiency** – AI‑driven sequence optimization delivers up to 3× higher catalytic activity.
-- **Sustainable Impact** – Enzymes replace petrochemical processes, cutting CO₂ emissions.
+**Turn your YouTube dreams into a revenue‑generating machine** with our end‑to‑end automation service. We handle video creation, SEO, publishing, and community management so you can focus on ideas.
 
 ---
 
-### What You’ll Get
-1. **Access to Imperagen’s Quantum‑AI Platform** – Secure cloud‑based tools for rapid enzyme prototyping.
-2. **Expert Consultation** – Direct guidance from our PhD‑level quantum chemists & AI scientists.
-3. **Early‑Bird Pricing** – Limited‑time discount for the first 20 enterprise partners.
+### Why Choose Our Agency?
+
+- **Full‑stack video production** – AI‑generated scripts, voice‑overs, motion graphics, and editing.
+- **SEO‑optimized titles, thumbnails, and tags** – Proven to increase click‑through rates by up to 3x.
+- **Automated publishing & scheduling** – Publish at the perfect time for your audience.
+- **Community growth bots** – Auto‑reply to comments, generate engagement prompts, and boost watch time.
+- **Monthly performance dashboard** – Transparent analytics, ROI tracking, and growth recommendations.
 
 ---
 
-### Ready to Transform Your Chemistry?
+### Our Proven Process
 
-[**Get Started Now →**](https://buy.stripe.com/test_3cI00b4Xxe3i4aTergc7E33)
-
-*Join the next wave of biotech innovation. Seats are limited.*
-
----
-
-#### About Imperagen
-Imperagen combines quantum physics, machine learning, and enzyme engineering to create next‑generation biocatalysts. Backed by £5 M Series A, we’re scaling fast and looking for forward‑thinking partners.
+1. **Strategy Session** – We pinpoint your niche, audience, and revenue goals.
+2. **Content Blueprint** – AI crafts a 30‑day video calendar based on trending keywords.
+3. **Production** – Scripts, voice‑overs, graphics, and editing are generated automatically.
+4. **SEO & Publishing** – Optimized metadata, custom thumbnails, and scheduled release.
+5. **Growth Automation** – Comment bots, playlist optimization, and cross‑platform promotion.
+6. **Analytics & Scaling** – Monthly reports and iterative improvements.
 
 ---
 
-*For press inquiries, contact press@imperagen.com.*
+### Packages
+
+| Plan | Videos / Month | Price (USD) |
+|------|----------------|------------|
+| **Starter** | 4 | **$499** |
+| **Growth** | 12 | **$1,299** |
+| **Scale** | 30 | **$2,999** |
+
+All plans include:
+- Dedicated account manager
+- Unlimited revisions
+- 30‑day money‑back guarantee
+
+---
+
+### Success Stories
+
+- **TechGuru** – 250% subscriber growth in 90 days, $8K/mo ad revenue.
+- **FitnessFusion** – 3× watch‑time, $5K/mo sponsorships.
+- **TravelTales** – 1M+ views in 2 months, brand deals secured.
+
+---
+
+## Ready to Automate Your YouTube Success?
+
+[**Book a Free Consultation**](https://calendly.com/youragency/consultation) – No credit card required.
+
+---
+
+*SEO Keywords: YouTube automation agency, YouTube growth service, AI video creation, YouTube channel management, automated YouTube marketing*.
