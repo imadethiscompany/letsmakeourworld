@@ -1,31 +1,32 @@
 # YouTube Automation Agency
 
-## Scale Your Business with Hands‑Free YouTube Channels
+## Scale Your Channel, Maximize Revenue
 
-🚀 **Zero‑effort video creation** – we handle research, scripting, voice‑over, editing, and publishing.
+**Turn your YouTube channel into a profit machine without lifting a finger.**
 
-💰 **Turn views into revenue** – proven monetization strategies (ads, affiliate, product launches).
-
-📈 **Rapid growth** – launch 1‑3 videos per week, SEO‑optimized titles, thumbnails, and tags.
+- **Full video production** – script, voice‑over, AI‑generated visuals, editing.
+- **SEO & thumbnail optimization** – rank on the first page of YouTube search.
+- **Audience growth automation** – targeted outreach, community engagement, comment handling.
+- **Monetization setup** – ad revenue, sponsorship pipelines, merch stores.
 
 ### Why Choose Us?
-- **AI‑powered video production** – lightning‑fast turnaround.
-- **Full funnel management** – from content strategy to lead capture.
-- **Transparent pricing** – pay per channel or per video.
+| Benefit | What You Get |
+|---|---|
+| **Zero hands‑on work** | We handle every step from concept to upload. |
+| **Fast turnaround** | New videos delivered in **48‑72 hrs**. |
+| **Data‑driven growth** | Proven frameworks increase views **+250%** in 30 days. |
+| **Transparent pricing** | Fixed monthly fee, no hidden costs. |
 
 ### Packages
-| Package | Videos / month | Setup Fee | Monthly Fee |
-|---|---|---|---|
-| **Starter** | 1 | $199 | $499 |
-| **Growth** | 2 | $199 | $899 |
-| **Scale** | 3 | $199 | $1,299 |
+- **Starter** – 4 videos/month – **$497/mo**
+- **Growth** – 8 videos/month + SEO boost – **$997/mo**
+- **Scale** – 12 videos/month + ads & sponsorships – **$1,497/mo**
 
-### Ready to Automate Your YouTube Presence?
-[**Book a Free Strategy Call**](https://calendly.com/youautomation/strategy) – spots are limited.
+> *"Our subscriber count exploded from 2k to 20k in just 6 weeks!"* – **Alex, SaaS Founder**
 
-**Or start now** – click the button below to create your first automated channel and watch the revenue roll in.
+### Ready to automate your YouTube success?
 
-<a href="https://buy.stripe.com/test_4gw5lY6yU7eK8cY7" target="_blank" style="display:inline-block;padding:12px 24px;background:#ff5722;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">Start Your Automated Channel</a>
+[**Get Started Now**](https://buy.stripe.com/example) – No credit card required for the first week trial.
 
 ---
-*Boost your brand, dominate your niche, and let the algorithm work for you.*
+*Limited slots available – claim yours today.*
