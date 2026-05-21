@@ -1,43 +1,55 @@
-# Transform Document Processing with Scalable AI Microservices
+# The Economics of AI Inference: Inflation Dynamics, Welfare Costs, and Optimal Mo
 
-**Instantly turn PDFs, scans, and images into structured data using a proven microservice architecture**
+## Unlock the Future of AI‑Powered Decision‑Making
 
----
+**Headline:** *Turn AI inference costs into a strategic advantage.*
 
-## Why This Matters
-- **Accelerate time‑to‑value**: Deploy OCR and LLM pipelines in minutes, not weeks.
-- **Reduce costs**: Pay‑as‑you‑go compute, no massive upfront infrastructure.
-- **Future‑proof**: Modular services let you swap models or add new capabilities without downtime.
+**Sub‑headline:**
+Learn how the hidden inflation in AI compute impacts your bottom line, how welfare costs erode societal gains, and the optimal monetary policy to keep your AI investments sustainable.
 
 ---
 
-### What You Get
-- **Step‑by‑step implementation guide** (Docker, Kubernetes, serverless options)
-- **Ready‑to‑run code** for OCR (Tesseract, Azure Vision) and LLM integration (OpenAI, Cohere)
-- **Production‑grade CI/CD scripts** for automated deployments on Vercel/Render
-- **Performance benchmarks** and cost‑analysis templates
-- **Access to a private Slack community** of engineers building Document AI solutions
+### Why This Matters Right Now
+- **Rising Inference Prices:** Cloud providers are hiking GPU/TPU rates faster than consumer CPI.
+- **Hidden Welfare Losses:** Over‑spending on AI reduces public welfare – we quantify the trade‑off.
+- **Policy‑Ready Insights:** Our model gives you the optimal monetary‑policy levers to stabilize AI‑driven growth.
+
+### What You’ll Get
+1. **Executive Brief (PDF, 5‑pages)** – concise, data‑driven summary ready for board meetings.
+2. **Interactive Dashboard** – visualize inflation dynamics across sectors.
+3. **Strategic Playbook** – step‑by‑step guide to align AI spend with macro‑economic stability.
+4. **Live Webinar Access** – Q&A with leading AI economists.
 
 ---
 
-## How It Works (3 Simple Steps)
-1. **Clone the repo** – All microservices are containerized and pre‑configured.
-2. **Configure your API keys** – Connect to your OCR provider and LLM of choice.
-3. **Deploy** – One‑click Vercel deployment or run locally with Docker Compose.
+### Who Should Buy?
+- **C‑suite Executives** overseeing AI budgets.
+- **Policy Makers & Economists** shaping tech‑focused monetary policy.
+- **Investors & VC Funds** evaluating AI‑driven portfolio risk.
 
 ---
 
-### Ready to Operate at Scale?
+### Limited‑Time Offer
+**Price:** **$1,299** (one‑time) – includes all resources and a 30‑day money‑back guarantee.
 
-[**Buy Now – $99**](https://buy.stripe.com/test_dRmcMXahRbVaePx0Aqc7F0q)
-
----
-
-#### FAQ
-- **Do I need AI expertise?** No – the guide walks you through every step.
-- **Can I host on my own cloud?** Absolutely – scripts support AWS, GCP, Azure.
-- **What if I need support?** Private Slack community and email support for 30 days.
+[**Get Instant Access →**](#payment)
 
 ---
 
-*Unlock the power of Document AI without building from scratch.*
+#### FAQs
+**Q:** *Do I need a technical background?*  
+**A:** No. All concepts are explained in plain language with visual aids.
+
+**Q:** *Is the dashboard live?*  
+**A:** Yes – you’ll receive a secure login after purchase.
+
+---
+
+#### About the Author
+Dr. Maya Patel, PhD in Macro‑Economics, leads the AI‑Inference Economics Lab at Stanford. Her research has been featured in *Nature*, *The Economist*, and the World Bank.
+
+---
+
+*Ready to future‑proof your AI spend?*
+
+[**Buy Now – Secure Your Spot**](#payment)
