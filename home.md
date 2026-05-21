@@ -1,54 +1,58 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Without Lifting a Finger
-
-**Turn views into revenue on autopilot.** Our end‑to‑end YouTube Automation Agency handles everything from content ideation, script writing, AI‑generated voice‑overs, video production, SEO‑optimized titles & thumbnails, to daily upload scheduling and community management.
+**Scale Your YouTube Channel to 10k+ Subscribers in 90 Days – No Video Editing, No Hiring, No Stress.**
 
 ---
 
-### Why Choose Us?
-| ✅ | Benefit |
-|---|---|
-| **Zero Production Hassle** | AI‑driven script, voice, and video creation—no editors needed. |
-| **SEO‑Boosted Growth** | Keyword‑rich titles, tags, and descriptions that rank on the first page. |
-| **Revenue Multiplication** | Proven funnels that convert viewers into subscribers, leads, and sales. |
-| **Scalable Packages** | From $2,500/month for 4 videos to $12,000/month for 20 videos – unlimited scaling. |
-| **Performance Dashboard** | Real‑time analytics on views, watch‑time, subscriber growth, and ROI.
+## Why Choose Us?
+- **Turnkey Automation** – From video ideation to publishing, we handle script writing, voice‑over, editing, thumbnail creation, and SEO‑optimized uploads.
+- **AI‑Powered Production** – Leverage cutting‑edge LLMs, synthetic voices, and motion‑graphics to churn out high‑quality videos 3‑5× faster.
+- **Proven ROI** – Our clients see an average **$5,500/month** increase in ad revenue within the first quarter.
+- **Zero Up‑Front Cost** – Pay only for results. No hidden fees, no long‑term contracts.
 
 ---
 
-### How It Works
-1. **Strategy Call** – We define your niche, target audience, and revenue goals.
-2. **Content Blueprint** – AI generates viral topics, scripts, and SEO keywords.
-3. **Production** – Voice cloning, motion‑graphics, and editing—all automated.
-4. **Upload & Optimize** – Automated publishing with SEO‑optimized metadata & custom thumbnails.
-5. **Growth Loop** – Daily community engagement, comment replies, and data‑driven iteration.
+## How It Works
+1. **Discovery Call** – We pinpoint your niche, target audience, and revenue goals.
+2. **Content Blueprint** – AI generates a 30‑day video calendar with proven topics.
+3. **Production Pipeline** – Script → AI voice‑over → Motion graphics → SEO‑ready upload.
+4. **Launch & Optimize** – Automated publishing, real‑time analytics, and iterative scaling.
 
 ---
 
-### Packages
-| Package | Videos / Month | Price |
+## Packages
+| Package | Videos/Month | Price (USD) |
 |---|---|---|
-| **Starter** | 4 | **$2,500** |
-| **Growth** | 10 | **$5,800** |
-| **Pro** | 20 | **$12,000** |
-| **Enterprise** | Custom | **Contact us** |
+| **Starter** | 4 | $799 |
+| **Growth** | 12 | $2,199 |
+| **Scale** | 30 | $4,799 |
 
-*All packages include a dedicated account manager, analytics dashboard, and 30‑day money‑back guarantee.*
-
----
-
-### Success Stories
-> "We went from 0 to 50k subscribers in 3 months. The agency handled everything, and our sales pipeline exploded!" – **TechGuru Labs**
-
-> "Our CPM doubled after the first month. The AI‑driven thumbnails are a game‑changer." – **FitLife Media**
+*All packages include channel audit, thumbnail design, and performance reporting.*
 
 ---
 
-### Ready to Automate Your Growth?
-[**Book a Free Strategy Call**](/contact)  
-Or email us at **hello@ytautomation.agency**.
+## Ready to Grow?
+
+🔗 **[Book a Free Strategy Call →](https://calendly.com/yt-automation/30min)**
+
+Or click below to start instantly with our **Growth** package and watch the subs roll in.
+
+<div style="text-align:center; margin:20px;">
+  <a href="https://buy.stripe.com/test_5kA5l8c6Zd7V5aYcMM" style="background:#ff4500;color:white;padding:15px 30px;border-radius:8px;font-size:18px;text-decoration:none;">Start Growing Now</a>
+</div>
 
 ---
 
-*© 2026 YouTube Automation Agency – All rights reserved.*
+### FAQ
+**Q:** Do I need to record any footage?
+**A:** No. Our AI creates all visuals and voice‑overs.
+
+**Q:** How quickly will I see results?
+**A:** Most clients see a measurable lift in views & revenue within the first 2 weeks.
+
+**Q:** What if I’m not satisfied?
+**A:** We offer a 30‑day money‑back guarantee on the Growth package.
+
+---
+
+*© 2024 YouTube Automation Agency – All Rights Reserved.*
