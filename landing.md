@@ -1,41 +1,29 @@
-# Mathematicians Stunned by AI’s Biggest Breakthrough Yet
+# AutoSubtitles 2.0
 
-## The AI breakthrough that’s rewriting the foundations of mathematics – and it’s only the beginning.
+## Instantly add accurate subtitles to any video – no manual editing required.
 
-**Headline:** *AI Solves Unsolvable Problems – Discover How*  
+**Why waste hours transcribing when AI can do it in seconds?**
 
-**Sub‑headline:** A new AI system from New Sci has proven a theorem that mathematicians have chased for decades, unlocking a whole new class of proofs and applications.
-
----
-
-### Why This Matters
-- **Proofs in minutes, not years** – What used to take months of collaborative work is now generated in seconds.
-- **New research frontiers** – Open doors to cryptography, quantum computing, and climate modeling.
-- **Exclusive access** – Join the community of early adopters shaping the next era of mathematics.
+- **97% accuracy** on 100+ language pairs
+- **One‑click upload** – just drag your video file
+- **Editable captions** – fine‑tune in seconds
+- **Affordable pricing** – start for $9/month, unlimited videos
 
 ---
 
-### What You’ll Get
-1. **In‑depth brief** – Full analysis of the breakthrough, written for both experts and curious professionals.
-2. **Live webinar** – Direct Q&A with the New Sci research team.
-3. **Early‑beta access** – Try the AI tool on your own research problems.
+### How It Works
+1. **Upload** your video file (MP4, MOV, AVI…) 
+2. **AI generates** subtitles in your chosen language
+3. **Review & edit** instantly in a simple editor
+4. **Export** as SRT, VTT, or burn‑in captions
 
 ---
 
-### Social Proof
-> *“I thought this was a sci‑fi story. The AI’s proof changed my entire research direction.”* – **Dr. Elena Ruiz, MIT**
-
-> *“Our cryptography lab is already integrating these results. The impact is massive.”* – **James Patel, SecureTech**
+> *“AutoSubtitles saved my team 20 hours per week. The accuracy is amazing!”* – **Video Marketing Lead, TechCo**
 
 ---
 
-### Ready to Dive In?
+#### Ready to stop typing?
 
-[**Get Instant Access →**](#)
-
-*Limited spots for the live webinar – reserve yours now.*
-
----
-
-#### About New Sci
-New Sci is the leading AI research lab turning abstract theory into practical breakthroughs. Our mission: accelerate discovery for humanity.
+[**Start Free Trial**](https://example.com/checkout?product=autosubtitles2)  
+Or **[Book a Demo](/demo)** to see it live.
