@@ -1,44 +1,28 @@
-# YouTube Automation Agency
+# Visual Usability Checker
 
-## Supercharge Your YouTube Channel with Zero Hands-On Effort
+## Instantly spot UI problems before users do
 
-Are you a busy entrepreneur, coach, or brand looking to dominate YouTube without spending countless hours on video production, editing, and promotion? Our **YouTube Automation Agency** handles everything from content ideation to publishing, SEO, and audience growth – so you can focus on your core business.
+**Never launch a confusing interface again.**
 
-### Why Choose Us?
-- **Full‑Service Automation**: Script writing, voice‑over, video creation, thumbnail design, SEO‑optimized titles & descriptions, and daily upload scheduling.
-- **AI‑Powered Production**: Cutting‑edge AI tools generate high‑quality videos in minutes.
-- **Proven Results**: Clients see an average **300% increase in watch time** and **2‑3x subscriber growth** within the first 30 days.
-- **Scalable Packages**: From 5‑video/month starter plans to 30‑video premium bundles.
+- **Automated visual audits** – AI scans your screens for mis‑aligned elements, low‑contrast text, and broken navigation.
+- **Actionable reports** – Get a prioritized checklist with exact CSS selectors to fix.
+- **One‑click integration** – Add a snippet to any web app and start checking in seconds.
 
-### Our Process
-1. **Strategy Session** – We identify your target audience and content pillars.
-2. **Script & Voice** – AI‑crafted scripts with professional voice‑overs.
-3. **Video Production** – Dynamic motion graphics, stock footage, and brand styling.
-4. **SEO & Publishing** – Optimized titles, tags, and descriptions for maximum reach.
-5. **Growth Hacking** – Community engagement, comment boosting, and analytics reporting.
-
-### Packages & Pricing
-| Plan | Videos / Month | Price |
-|------|----------------|-------|
-| **Starter** | 5 | $499 |
-| **Growth** | 15 | $1,299 |
-| **Scale** | 30 | $2,499 |
-
-> **Ready to dominate YouTube?**
-> Click **"Get Started Now"** and schedule your free strategy call.
-
-[Get Started Now](https://checkout.stripe.com/payments/checkout?client_reference_id=yt-automation)
+[**Start Free Trial**](https://buy.stripe.com/test_eVq00bfCbaR6dLtfvkc7E3z)
 
 ---
-
-**FAQ**
-- **Do I need any video equipment?** No – we handle everything.
-- **How fast are the videos delivered?** Typically within 48‑72 hrs.
-- **Can I customize the style?** Absolutely – brand colors, fonts, and tone.
-
-### Join the Ranks of Successful Creators
-> "Our subscriber count jumped from 1K to 12K in just three weeks!" – *Tech Startup Founder*
+### Why teams love Visual Usability Checker
+- Reduce support tickets by 30% – users can find what they need.
+- Speed up QA cycles – catch UI bugs before QA spends hours.
+- Boost conversion – clearer UI drives 15% higher sign‑ups.
 
 ---
+### How it works
+1. **Add a script** – paste a one‑line snippet into your site.
+2. **Run a scan** – our AI crawls every page and captures screenshots.
+3. **Get a report** – see visual issues with fix suggestions.
 
-*Boost your brand, amplify your message, and let AI do the heavy lifting.*
+---
+**Ready to improve your UI instantly?**
+
+[Start your free trial now →](https://buy.stripe.com/test_eVq00bfCbaR6dLtfvkc7E3z)
