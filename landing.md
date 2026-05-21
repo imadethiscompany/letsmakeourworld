@@ -1,34 +1,28 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-🚀 **Full‑service YouTube automation** – from content ideation, script writing, video production, thumbnail design, to daily upload & community management.
+**Turn views into revenue** – we handle video creation, SEO, publishing, and community management so you can focus on your business.
 
 ### Why Choose Us?
-- **Zero Hiring Overhead** – Our AI‑powered pipeline creates professional videos in minutes.
-- **Guaranteed Growth** – Proven 3‑x subscriber increase in 90 days for SaaS founders.
-- **Revenue‑Focused** – Monetization strategy, ads, sponsorships, and product funnel integration.
-- **Transparent Pricing** – Fixed monthly fee, no hidden costs.
+- **Zero‑video expertise needed** – our AI‑powered pipeline creates, edits, and optimizes videos in minutes.
+- **Full‑funnel growth** – keyword‑driven titles, thumbnails, and tags that rank on the first page.
+- **Monetization ready** – ad‑revenue, sponsorship matchmaking, and product funnel integration.
+- **Predictable ROI** – average client sees **3‑5x** increase in subscriber count and **2‑4x** lift in sales within 90 days.
 
-### Our Proven Process
-1. **Niche Research** – Identify high‑value keywords & trends.
-2. **Script & Voice** – AI‑generated scripts with natural‑sounding voice‑overs.
-3. **Cinematic Production** – GSAP‑driven motion graphics, B‑roll, and brand assets.
-4. **SEO‑Optimized Upload** – Tags, titles, descriptions crafted for maximum reach.
-5. **Community & Funnel** – Comment engagement, lead‑capture, and sales funnel setup.
-
-### Packages
-| Package | Videos / Month | Price (USD) |
+### Our Turn‑key Packages
+| Package | Monthly Fee | Deliverables |
 |---|---|---|
-| **Starter** | 4 | $1,200 |
-| **Growth** | 12 | $3,500 |
-| **Scale** | 30 | $8,000 |
+| **Starter** | $499 | 4 videos (5‑min), SEO, thumbnail, upload & basic community replies |
+| **Growth** | $999 | 8 videos, advanced SEO, custom thumbnails, weekly analytics report |
+| **Enterprise** | $1999 | 15 videos, full channel audit, ad‑campaign management, dedicated account manager |
 
-> **Ready to dominate YouTube?**
+### Ready to Automate?
+1. **Book a free 15‑min strategy call** – we audit your niche.
+2. **Pick a package** – simple online checkout.
+3. **Watch the growth** – we deliver, you scale.
 
-### Get Started Now
-[**Book a Free Strategy Call**](https://calendly.com/yt-automation/strategy) – Limited slots for the next 48 hours.
+[**Schedule Your Call Now**](https://calendly.com/yt-automation/strategy) | [**Buy Now**](https://example.com/checkout?product=yt-automation)
 
 ---
-
-*We only work with serious founders and SMB owners ready to invest in scalable growth.*
+*Trusted by 200+ SMBs, agencies, and influencers.*
