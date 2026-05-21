@@ -1,58 +1,70 @@
-# l9gpu – Open‑Source GPU Observability with Workload‑Level Attribution
+# DOS Zone
 
-## Instantly see which workloads are using your GPUs and why.
+## Secure, Unlimited Access to Any Online Service
 
-**Headline:** *Stop guessing – know exactly which jobs consume GPU cycles, down to the process.*
-
-**Sub‑headline:** With l9gpu you get real‑time, per‑workload GPU metrics, attribution tags, and alerts – all open‑source and easy to integrate.
+**Instantly protect your website, API, or application from DDoS attacks and traffic spikes.**
 
 ---
 
-### Why it matters
-- **Reduce waste:** Identify idle or over‑provisioned GPUs and cut cloud costs by up to 30%.
-- **Boost performance:** Spot bottlenecks in specific workloads and optimize code fast.
-- **Team accountability:** Tag workloads to see which teams own GPU spend.
-- **Open‑source freedom:** No vendor lock‑in, fully customizable, community‑driven.
+### Why DOS Zone?
+
+- **Zero‑downtime guarantees** – Keep your services online 24/7, even under massive traffic surges.
+- **One‑click protection** – Deploy a global network of scrubbing centers in seconds.
+- **Pay‑as‑you‑go pricing** – Only pay for the traffic you actually need.
+- **Real‑time analytics** – Watch attacks in the dashboard as they happen.
 
 ---
 
-### Key Benefits
-1. **Live per‑process GPU usage** – view CPU, memory, temperature, and power draw for each PID.
-2. **Workload‑level attribution** – attach tags (project, user, job ID) and filter dashboards.
-3. **Alerting & reporting** – webhook, Slack, email alerts on thresholds.
-4. **Plug‑and‑play agents** – one‑line installer for Linux, Windows, and Kubernetes.
-5. **Zero cost** – free MIT‑licensed software; optional paid support.
+### How It Works
+
+1. **Add your domain** – Point your DNS to our edge network.
+2. **Configure thresholds** – Set traffic limits and auto‑mitigation rules.
+3. **Stay protected** – Our AI‑driven engine filters malicious traffic before it reaches you.
 
 ---
 
-### How it works (3 steps)
-1. **Deploy the l9gpu agent** – a single Docker container or binary.
-2. **Instrument your jobs** – add tags via environment variables or CLI.
-3. **Explore the dashboard** – query, visualize, and set alerts.
+### Features
+
+- **Global Anycast network** – 150+ PoPs worldwide for maximum latency reduction.
+- **Layer‑7 filtering** – Block malicious HTTP requests, bots, and scrapers.
+- **Custom rules engine** – Tailor protection to your app’s unique traffic patterns.
+- **Detailed logs & alerts** – Integrated with Slack, PagerDuty, and email.
 
 ---
 
-### Social proof
-> "l9gpu saved us $12k in GPU spend in the first month." – *DevOps Lead, AI Startup*
+### Pricing
 
-> "The attribution tags let us charge internal teams accurately." – *Head of Engineering, Research Lab*
+| Plan | Monthly Traffic | Price |
+|------|----------------|-------|
+| **Starter** | Up to 5 TB | $49 |
+| **Growth** | Up to 20 TB | $149 |
+| **Enterprise** | Unlimited | Custom |
+
+> **Free 30‑day trial** – No credit card required.
 
 ---
 
-### Ready to take control?
-[**Start a free self‑hosted instance**](https://github.com/l9gpu/l9gpu) – no credit card needed.
+### Trusted by
 
-Or request a managed setup: **[Book a demo](/contact?product=l9gpu)**.
+![Logos of companies](/images/partner-logos.png)
 
 ---
 
 #### FAQ
-**Is l9gpu really free?** Yes – the core platform is MIT‑licensed. Paid support plans are optional.
 
-**Can I use it on cloud GPU services?** Absolutely – works with AWS, GCP, Azure, and on‑prem clusters.
+**Q:** *Will my site speed improve?*  
+**A:** Yes. Our Anycast routing reduces latency for legitimate users.
 
-**Do I need a database?** No – the agent ships with an embedded SQLite store; you can plug in Prometheus or InfluxDB.
+**Q:** *Do I need a dedicated security team?*  
+**A:** No. DOS Zone handles mitigation automatically.
 
 ---
 
-*Take back visibility. Cut waste. Accelerate innovation.*
+## Ready to Secure Your Site?
+
+[Get Started Now →](https://buy.stripe.com/test_eVq9ALcpZ0csdLt4QGc7E2Z)
+
+---
+
+*SEO Meta Title: DOS Zone – DDoS Protection & Traffic Management*
+*SEO Meta Description: Protect your website, API, or app from DDoS attacks with DOS Zone. Instant one‑click protection, pay‑as‑you‑go pricing, real‑time analytics. Free 30‑day trial.*
