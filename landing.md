@@ -1,39 +1,36 @@
 # AutoSubtitles 2.0
 
-## Automatic subtitles for every video, in seconds.
+## Transform Your Videos with One-Click AI Subtitles
 
-**Never spend hours adding captions again.** AutoSubtitles 2.0 uses state‑of‑the‑art AI to generate accurate, searchable subtitles for YouTube, Vimeo, TikTok, Instagram Reels, webinars, and internal training videos.
+**Never spend hours manually captioning again.** AutoSubtitles 2.0 instantly generates accurate, searchable subtitles for any video – in any language.
 
-### Why AutoSubtitles 2.0?
-- **Lightning‑fast turnaround** – subtitles ready in <30 seconds per minute of video.
-- **99% accuracy** – trained on 200k+ hours of multilingual content.
-- **Fully editable** – tweak timing, font, language, or export SRT, VTT, TXT.
-- **Boost SEO & accessibility** – increase watch time by up to 23%.
+- **99%+ accuracy** with state‑of‑the‑art Whisper model
+- **Multi‑language support** – 30+ languages out of the box
+- **One‑click export** to SRT, VTT, or burned‑in captions
+- **Seamless integration** – YouTube, Vimeo, Loom, and local files
+- **Privacy‑first** – all processing runs locally or in a secure cloud sandbox
 
-### How it works (3 simple steps)
-1. **Upload** your video or paste a URL.
-2. **Select** language and style.
-3. **Download** the finished subtitles instantly.
+### How It Works
+1. **Upload** your video (or paste a URL).
+2. **AI generates** subtitles in seconds.
+3. **Edit & fine‑tune** with our simple editor.
+4. **Download** or publish directly to your platform.
 
-### Trusted by creators and enterprises
-![Logos](/assets/logos.png)
+### Who Benefits?
+- **Content creators** who need fast captions for accessibility and SEO.
+- **Marketers** looking to repurpose video for social media.
+- **Educators** adding subtitles for multilingual classrooms.
+- **Enterprises** meeting compliance without hiring transcribers.
 
-> *"AutoSubtitles saved my team hours every week. The accuracy is amazing!"* – **Jane D., Marketing Director**
-
-### Get started now – risk‑free
-- **Free trial:** 10 minutes of subtitles, no credit card.
-- **Pay‑as‑you‑go:** $0.05 per minute.
-- **Enterprise plan:** custom pricing, bulk discounts.
-
-[**Start Free Trial**](https://buy.stripe.com/test_auto_subtitles)
+### Try It Free – No Credit Card Required
+[Start Your Free Trial →](#)
 
 ---
-
 **FAQ**
-- **Is my video private?** Yes, all uploads are encrypted and deleted after processing.
-- **Can I subtitle in other languages?** AutoSubtitles supports 30+ languages out of the box.
-- **Do you offer bulk discounts?** Contact sales for volume pricing.
+- *Is my video stored?*  No – files are deleted after processing.
+- *Can I subtitle live streams?*  Yes, use our API for real‑time captions.
+- *What languages are supported?*  English, Spanish, French, German, Mandarin, and 25 more.
 
-*Ready to make every video accessible?* 
+**Ready to boost engagement and reach?**
 
-[**Create My Subtitles**](https://buy.stripe.com/test_auto_subtitles)
+[Get AutoSubtitles 2.0 Now →](#)
