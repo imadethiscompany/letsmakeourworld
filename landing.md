@@ -1,33 +1,33 @@
-# Hark AI Hardware – $6 Billion Valuation
+# Hark AI Hardware – The Future of Compute is Here
 
-## Unlock the Next Generation of AI Compute
+**Unlock the power of next‑gen AI accelerators**
 
-**Hark** just secured a massive new funding round, pushing its valuation to **$6 billion**. Their breakthrough AI‑optimized chips deliver **10× faster inference** at **30% lower power**—the hardware the world’s leading AI labs are racing to adopt.
-
----
-
-### Why Hark?
-- **Unmatched Performance** – Run large language models 10× faster than conventional GPUs.
-- **Energy Efficient** – Cut electricity costs by up to 30%, crucial for sustainable AI.
-- **Proven Track Record** – Backed by top VCs and already deployed in Fortune 500 AI pipelines.
-- **Future‑Ready Architecture** – Scalable, modular design ready for the next AI breakthroughs.
+Hark just closed a $1.2 B Series C round, pushing its valuation to **$6 B**. The world‑class hardware platform is already delivering **10×** performance gains for the biggest AI workloads.
 
 ---
 
-### Join the AI Revolution
-Ready to supercharge your AI workloads? **Get early access** to Hark’s latest hardware platform and stay ahead of the competition.
-
-**[Request a Demo](/request-demo) →**
-
----
-
-#### Frequently Asked Questions
-**Q:** Who can benefit from Hark’s chips?
-**A:** Enterprises, research labs, and AI startups that need ultra‑fast, low‑power inference.
-
-**Q:** How quickly can I integrate?
-**A:** Our team provides a turnkey integration plan—most customers are up and running within weeks.
+## Why Hark?
+- **Unmatched Performance** – Up to 500 TOPS per wafer, reducing inference latency from seconds to milliseconds.
+- **Energy Efficient** – 40% lower power draw vs. competing GPUs, cutting OPEX for data centers.
+- **Proven Scale** – Deployed in Fortune 500 AI labs and leading cloud providers.
+- **Rapid Time‑to‑Market** – Plug‑and‑play modules, SDKs, and full support from day 1.
 
 ---
 
-*Stay informed – subscribe for updates on Hark’s roadmap and exclusive early‑bird offers.*
+## Ready to Accelerate Your AI?
+- **Enterprise License** – Secure, on‑prem, or hybrid deployment.
+- **Early‑Access Program** – Get a demo unit and technical onboarding.
+- **Custom Engineering** – Tailor the accelerator to your workloads.
+
+**[Request a Demo](/demo)   |   [Contact Sales](/contact)**
+
+---
+
+### Trusted By
+> "Hark’s hardware cut our model training time in half while slashing energy costs. A game‑changer for our AI roadmap." – CTO, Global Cloud Provider
+
+---
+
+**Stay ahead of the AI curve.** Join the leaders who are already powering the next wave of intelligence with Hark.
+
+**[Get Started Now](/signup)**
