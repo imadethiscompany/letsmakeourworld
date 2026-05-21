@@ -1,17 +1,33 @@
-# Gemini Enterprise Agent P Automation
-
-This minimal automation artifact demonstrates a simple Python script that fetches the latest news about **Google replacing Vertex AI with Gemini Enterprise Agent P** and prints it.
+# InstaVM Automation Script
 
 ```python
-import requests
+"""Minimal automation for InstaVM.
+Creates product, finds leads, sends email with payment link.
+"""
+import os
 
-def fetch_news():
-    url = "https://news.google.com/rss/search?q=Gemini+Enterprise+Agent+P"
-    resp = requests.get(url)
-    print(resp.text[:500])
+def main():
+    # Publish product (placeholder values)
+    product = {
+        "name": "InstaVM",
+        "description": "Instant VM provisioning service",
+        "price_cents": 9900,
+        "category": "automation",
+        "features": ["Fast deployment", "Scalable", "Secure"]
+    }
+    # In real flow, call publish_product API here
+    print("Product defined:", product)
+    # Find leads (example query)
+    leads_query = "tech startups in San Francisco"
+    print(f"Would find leads for: {leads_query}")
+    # Send email to a lead (placeholder)
+    email = {
+        "to": "lead@example.com",
+        "subject": "InstaVM - Ready to provision your VMs",
+        "body": "Hi,\n\nCheck out InstaVM here: https://instavm.example.com\n\nBest,\nTeam"
+    }
+    print("Would send email:", email)
 
 if __name__ == "__main__":
-    fetch_news()
+    main()
 ```
-
-You can clone the repository and run `python fetch_gemini_news.py` to see the output.
