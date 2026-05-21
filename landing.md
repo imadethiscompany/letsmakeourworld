@@ -1,39 +1,18 @@
-# l9GPU – Open‑Source GPU Observability
+# l9gpu – Open‑Source GPU Observability with Workload‑Level Attribution
 
-**Instant, workload‑level visibility into every GPU in your fleet.**
+Monitor every GPU in your cluster. Get per‑process GPU usage, memory, temperature, and power draw. Detect bottlenecks, optimize workloads, and reduce cloud costs.
 
----
+## Why l9gpu?
+- **Fine‑grained attribution** – See which container or job is using each GPU.
+- **Zero‑cost open source** – Free to install, no vendor lock‑in.
+- **Instant alerts** – Slack/Discord webhook integrations.
+- **Scalable** – Works on a single workstation or massive GPU farms.
 
-## Why l9GPU?
-- **Zero‑overhead metrics** – lightweight agents collect per‑process GPU usage without affecting performance.
-- **Workload attribution** – see exactly which job, container or user is consuming each GPU core, memory and power.
-- **Open‑source & extensible** – plug into Prometheus, Grafana, Loki or your own dashboards.
-- **Enterprise‑grade alerts** – set thresholds on utilization, temperature, power draw and get instant Slack/Email/Webhook notifications.
-
----
-
-## Who Benefits?
-- **ML engineers** who need to debug runaway training jobs.
-- **Data‑center ops** looking to maximize GPU ROI.
-- **DevOps teams** integrating GPU metrics into existing observability stacks.
-
----
-
-## Get Started in 2 Minutes
-1. Deploy the Helm chart or Docker image.
+## Get Started in Minutes
+1. Install with one command.
 2. Connect to your Prometheus/Grafana stack.
-3. Start visualizing workload‑level GPU metrics instantly.
+3. Dashboard live metrics appear instantly.
 
-[**Launch Demo →**](https://github.com/l9gpu/l9gpu)
+[Buy Now – $199](https://buy.stripe.com/test_3cI8wHey7f7m4aT3MCc7E2Y)
 
----
-
-### Frequently Asked Questions
-**Is it really free?** – Yes. The core platform is MIT‑licensed. Paid support and enterprise add‑ons are optional.
-**Does it impact GPU performance?** – The collector uses <1% of GPU resources.
-**Can I self‑host?** – Absolutely – run it anywhere Kubernetes or Docker is available.
-
----
-
-#### Ready to gain full visibility?
-[**Get the Open‑Source Package**](https://github.com/l9gpu/l9gpu) | [**Contact Sales for Enterprise Support**](mailto:sales@l9gpu.com)
+*Free community support on GitHub.*
