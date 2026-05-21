@@ -1,38 +1,42 @@
-# Scale Your YouTube Channel with Zero Work
+# YouTube Automation Agency
 
-## Turn videos into revenue on autopilot
+## 🚀 Grow Your YouTube Channel on Autopilot
 
-- **Full video production**: Script, voice‑over, motion graphics – all AI generated.
-- **Channel management**: Upload, SEO, thumbnail, description, tags.
-- **Monetization**: Ads, sponsorship matchmaking, merch integration.
-- **Analytics dashboard**: Real‑time views, subscriber growth, ROI.
-
-### Why Choose Us?
-- **Speed**: First video in 48 h.
-- **Cost**: $2,497/mo (no hidden fees) – 5× lower than agency rates.
-- **Scale**: Unlimited videos, same price.
-- **Proven results**: Avg. 3‑5× subscriber lift for clients.
-
-### Packages
-| Plan | Videos / month | Monthly price |
-|------|----------------|--------------|
-| Starter | 4 | $1,497 |
-| Growth | 12 | $2,497 |
-| Enterprise | Unlimited | Custom |
-
-**Ready to automate your channel?**  
-[Start Now – Free 15‑min Strategy Call](/schedule)
-
-**FAQ**
-**Q:** Do I need to record anything?  
-**A:** No. We handle script, voice, and visuals.
-
-**Q:** How fast are videos delivered?  
-**A:** 48 h per video, same day for bulk orders.
-
-**Q:** Is there a contract?  
-**A:** Month‑to‑month, cancel anytime.
+**Stop wasting time on video editing, thumbnail design, and SEO.** Let our AI‑powered YouTube Automation Agency handle everything so you can focus on your business.
 
 ---
 
-*Launch your YouTube empire today – let AI do the heavy lifting.*
+### Why Choose Us?
+- **Full‑stack video production** – script, voice‑over, motion graphics, editing.
+- **AI‑driven SEO** – keyword research, tags, description, and thumbnail optimization.
+- **Channel management** – schedule uploads, community engagement, analytics.
+- **Zero‑risk guarantee** – first video free, 30‑day money‑back if no growth.
+
+---
+
+### Packages
+| Plan | Videos/month | Price |
+|------|--------------|-------|
+| **Starter** | 2 | $499 |
+| **Growth** | 5 | $1,199 |
+| **Scale** | 10+ | $2,499 |
+
+> **Special Offer:** Sign up today and get **30% off** your first month!
+
+---
+
+### How It Works
+1. **Tell us your niche** – we research the hottest topics.
+2. **We create the video** – AI script, voice, motion graphics.
+3. **We upload & optimise** – SEO‑tested titles, tags, thumbnails.
+4. **Watch the growth** – analytics dashboard & weekly reports.
+
+---
+
+### Ready to Automate?
+
+[**Get Started Now**](https://example.com/checkout?product=yt-automation) – **No credit card required for the free trial**.
+
+---
+
+*Join over 200 entrepreneurs who are already scaling their YouTube revenue with our automation platform.*
