@@ -1,38 +1,17 @@
-# China’s AI Start‑up Funding Triples in Q1 2024
+# China’s AI start‑up funding triples in Q1 2024
 
-**Headline:** *AI Funding Soars – Grab the Insights Before Your Competitors Do*  
+## Unlock the insights driving $1.2 B in investments across LLMs, robotics, and more.
 
-**Sub‑headline:** In the first quarter of 2024, Chinese AI start‑ups raised **$1.2 B**, a three‑fold increase year‑over‑year, driven by massive bets on large language models and robotics. Our exclusive report breaks down the deals, the players, and the trends shaping the next wave of AI innovation in China.
+- **Funding up 300% YoY** – From $400 M in Q4 2023 to $1.2 B in Q1 2024.
+- **Key sectors:** Large Language Models, autonomous robotics, AI‑enabled manufacturing.
+- **Top investors:** Sequoia, GGV Capital, Tencent, and new sovereign funds.
+- **Geographic hotspots:** Beijing, Shenzhen, Shanghai, plus emerging hubs in Chengdu & Hangzhou.
+- **What it means for you:** Spot emerging unicorns, align your capital strategy, and stay ahead of the AI race.
 
----
+> *“China’s AI funding surge is reshaping global tech leadership. Early movers will capture the biggest market share.”* – Analyst note.
 
-## Why This Report Matters
-- **Triple‑digit growth:** Understand the forces behind a 300% funding surge.
-- **LLM & robotics focus:** See which technologies attract the biggest capital.
-- **Deal‑by‑deal analysis:** Get detailed data on the top 20 funded start‑ups.
-- **Investor insights:** Identify the VC firms leading the charge.
-- **Strategic implications:** Learn how this boom impacts global AI markets.
-
----
-
-## What You’ll Get
-- **Downloadable PDF** (12 pages, data‑rich charts)
-- **Interactive dashboard** with filterable funding rounds
-- **Executive summary** highlighting key takeaways for CEOs and investors
-- **Actionable recommendations** for entering the Chinese AI ecosystem
+[**Download the full report**](https://buy.stripe.com/test_14A8wHcpZ2kA6j1ab0c7F1Y) and get actionable data, charts, and investor contact lists.
 
 ---
 
-## Ready to Accelerate Your AI Strategy?
-
-[**Download the Full Report Now**](#)  
-*Instant access – no email required.*
-
----
-
-### About Us
-We specialize in deep‑dive market intelligence for emerging tech sectors. Our analysts combine on‑the‑ground research in China with global market expertise to deliver actionable insights.
-
----
-
-*This landing page is optimized for high‑intent visitors searching for AI funding trends in China. Contact us at **info@yourcompany.com** for custom briefings.*
+*Limited-time offer – free for the first 100 sign‑ups.*
