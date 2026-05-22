@@ -1,29 +1,31 @@
 # Microsoft Starts Canceling Claude Code Licenses
 
-## Stop the Chaos – Secure Your AI Development Today
+**Stop the Chaos. Secure Your AI Development Today.**
 
-Microsoft has begun revoking Claude Code licenses, leaving developers scrambling for alternatives. Don't let your projects stall. Our **Claude Code License Rescue Service** guarantees immediate reinstatement, migration, and ongoing support.
+Microsoft has begun **cancelling Claude Code licenses**, leaving thousands of developers scrambling for alternatives. Don't let your projects stall.
 
 ### Why Act Now?
-- **Avoid Downtime:** Get your code environment back online within 24 hours.
-- **Protect Investment:** Preserve the work and data tied to Claude Code.
-- **Future‑Proof:** Seamless migration paths to other leading AI coding platforms.
+- **Immediate risk**: Loss of access to Claude Code could halt your code generation pipelines.
+- **Compliance headaches**: Unlicensed usage may expose you to legal and financial penalties.
+- **Competitive edge**: Switch to a reliable, fully supported AI coding partner and stay ahead.
+
+### Our Solution
+We provide a **fast-track migration service** that:
+1. **Audits** your current Claude Code usage.
+2. **Migrates** your codebase to a secure, supported AI platform.
+3. **Ensures** compliance and continuity with zero downtime.
 
 ### What You Get
-1. **Rapid License Recovery** – Quick reinstatement or replacement license.
-2. **Migration Toolkit** – Scripts and guidance to move your projects safely.
-3. **Dedicated Support** – 24/7 expert assistance for any hiccups.
+- **Full migration** within 48 hours.
+- **Dedicated support** from AI integration experts.
+- **Risk-free guarantee** – if you experience any downtime, we refund your migration fee.
 
-### Trusted By
-- Leading SaaS startups
-- Enterprise AI labs
-- Independent developers worldwide
+### Limited Time Offer
+For a limited time, get the migration service for **$199** (regular $399).
 
-> *"The rescue service saved us weeks of lost development time.*" – Alex, CTO, FinTech startup
+**Ready to protect your code?**
 
-### Ready to Secure Your Code?
-
-[Get Instant Rescue – $199](/buy?product=claude-rescue)
+[Get Started Now →](https://buy.stripe.com/test_28E4grahR5wMcHp4QGc7F2c)
 
 ---
-*Limited slots available. Act now before licenses disappear.*
+*This service is a one‑time migration and compliance package. Ongoing AI coding services are available separately.*
