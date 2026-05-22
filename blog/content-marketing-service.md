@@ -1,34 +1,66 @@
-# Content Marketing Service – Drive Traffic, Leads, and Revenue
+# Content Marketing Service
 
-## Unlock the Power of Strategic Content
-
-Are you struggling to attract qualified leads? Our **Content Marketing Service** turns your brand into a traffic‑generating machine. We craft data‑driven, SEO‑optimized content that ranks, engages, and converts.
-
-### Why Choose Our Service?
-- **SEO‑First Approach** – Keyword research, on‑page SEO, and schema markup built into every piece.
-- **Conversion‑Focused Copy** – Proven frameworks (AIDA, PAS) to move readers from interest to action.
-- **Full Funnel Coverage** – Blog posts, pillar guides, case studies, and email sequences.
-- **Scalable Production** – From 2‑week turnaround for a single article to a full‑scale content hub.
-
-### What You Get
-| Deliverable | Frequency | Goal |
-|---|---|---|
-| Blog Post (1,200‑1,500 words) | Weekly | Rank for long‑tail keywords |
-| Pillar Guide (2,500‑3,500 words) | Monthly | Authority & internal linking |
-| SEO Audit & Keyword Map | One‑time | Target high‑value keywords |
-| Performance Dashboard | Ongoing | Track traffic, leads, ROI |
-
-### How It Works
-1. **Discovery Call** – We uncover your audience, goals, and messaging.
-2. **Strategic Blueprint** – Keyword research, topic clusters, and editorial calendar.
-3. **Content Creation** – Expert writers, SEO specialists, and editors collaborate.
-4. **Publish & Promote** – Optimized publishing + outreach for backlinks.
-5. **Measure & Optimize** – Monthly reporting and content tweaks.
-
-### Ready to Grow?
-**Start today** and get a free 30‑minute strategy session. No contracts, just results.
-
-[Schedule Your Call Now](https://calendly.com/your‑company/30min)
+**Drive traffic, generate leads, and build authority with our full‑stack Content Marketing Service.**
 
 ---
-*Boost your brand’s visibility, generate qualified leads, and accelerate revenue with a proven content marketing engine.*
+
+## Why Content Marketing Matters
+- **3x more leads** than traditional outbound
+- **60% lower cost per acquisition**
+- **Improves SEO rankings** and brand trust
+
+In today's noisy digital landscape, businesses that publish valuable, targeted content dominate search results and capture buyer intent. Our service handles the entire content funnel—from research to distribution—so you can focus on closing deals.
+
+---
+
+## What We Deliver
+| Phase | Deliverable | Benefit |
+|-------|-------------|---------|
+| **Strategy** | Audience personas, keyword map, content calendar | Aligns content with buyer intent |
+| **Creation** | Blog posts, whitepapers, case studies, infographics | High‑quality assets that rank and convert |
+| **Optimization** | SEO on‑page, internal linking, schema markup | Faster Google indexing |
+| **Distribution** | Outreach, social amplification, email newsletters | Maximize reach and backlinks |
+| **Analytics** | Monthly performance report, KPI dashboard | Data‑driven decisions |
+
+All assets are crafted by seasoned writers, SEO specialists, and designers.
+
+---
+
+## How It Works
+1. **Discovery Call** – We uncover your goals, target audience, and competitive landscape.
+2. **Custom Blueprint** – A detailed content plan with topics, keywords, and publishing schedule.
+3. **Production Sprint** – Our team creates, edits, and optimizes each piece.
+4. **Launch & Promote** – Content is published, amplified, and tracked.
+5. **Iterate** – Ongoing performance analysis fuels the next cycle.
+
+---
+
+## Pricing Options
+- **Starter** – 4 blog posts/month – **$799/mo**
+- **Growth** – 8 blog posts + 1 whitepaper – **$1,499/mo**
+- **Enterprise** – Unlimited content, dedicated strategist – **Custom**
+
+> **Ready to dominate your niche?**
+> 
+> 👉 **[Schedule a Free Consultation](/contact)**
+
+---
+
+## Frequently Asked Questions
+**Q:** *Do I need to provide topics?*  
+**A:** No. Our research identifies high‑intent keywords your audience is searching for.
+
+**Q:** *How long before I see results?*  
+**A:** Most clients see traffic lifts within 4‑6 weeks of publishing.
+
+**Q:** *Can you write for any industry?*  
+**A:** Yes. Our writers specialize in SaaS, finance, health, e‑commerce, and more.
+
+---
+
+### Take the First Step
+Transform your brand’s voice into a lead‑generating engine. **Contact us today** and watch your organic traffic soar.
+
+---
+
+*SEO optimized for keywords: content marketing service, content marketing agency, B2B content creation, SEO content writing.*
