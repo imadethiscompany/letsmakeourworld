@@ -1,16 +1,13 @@
 # Nugget AI
 
-## Unlock AI-Powered Knowledge Nuggets Instantly
+## Unlock Actionable Insights in Seconds
 
-**Instantly generate concise, actionable insights from any document, webpage, or data set.**
+**Turn endless data streams into bite‑size, decision‑ready nuggets.**
 
-- **One‑click extraction** – Paste text or upload a file, get bite‑size nuggets in seconds.
-- **Customizable depth** – Choose bullet‑point summaries, detailed explanations, or visual mind‑maps.
-- **Seamless integration** – Connect to Slack, Notion, Google Docs, or your own workflow via API.
+- **Instant Summaries:** AI extracts the key points from reports, meetings, and documents in under 30 seconds.
+- **Team Collaboration:** Share, comment, and assign insights directly from the platform.
+- **Secure & Private:** Enterprise‑grade encryption, no data left on third‑party servers.
 
-### Why Nugget AI?
-Businesses waste **30% of meeting time** sifting through information. Nugget AI cuts that down to **under a minute**, letting teams focus on execution.
+**Ready to supercharge your team's decision‑making?**
 
-**Join the early‑access program** and be the first to supercharge your knowledge work.
-
-[Get Started Now →](/checkout?product=nugget-ai)
+[Get Started Now →](https://buy.stripe.com/test_cNi8wHey72kAbDl96Wc7F1h)
