@@ -1,28 +1,31 @@
 # YouTube Automation Agency
 
-## Unlock Massive Growth with Zero Hands‑On Management
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn your YouTube channel into a revenue machine without ever lifting a finger.** Our end‑to‑end automation handles content creation, SEO, posting, thumbnail design, and community engagement for you.
+**Turn your ideas into viral videos on autopilot.**
 
-### Why Choose Us?
-- **Fully Automated Video Production** – AI‑generated scripts, voice‑overs, and editing.
-- **SEO‑Optimized Uploads** – Keyword‑rich titles, tags, and descriptions that rank.
-- **Thumbnail & Hook Creation** – High‑CTR designs built by AI graphic engines.
-- **Community Management** – Auto‑reply to comments, schedule livestreams, and grow subscriber base.
-- **Performance Dashboard** – Real‑time analytics and ROI tracking.
+- **Full‑service video creation** – script, voice‑over, editing, thumbnail, and upload.
+- **AI‑driven SEO & keyword research** – get higher rankings from day one.
+- **Channel management** – comments, community, analytics, and growth hacks.
+- **White‑label partnership** – we handle the work, you keep the brand.
 
-### Packages (All‑Inclusive)
-| Plan | Monthly Price | Channels | Videos/Month | Revenue Boost |
-|------|--------------|----------|--------------|---------------|
-| **Starter** | $499 | 1 | 4 | Up to 30% |
-| **Growth** | $1,299 | Up to 3 | 12 | Up to 70% |
-| **Enterprise** | $2,999 | Unlimited | Unlimited | 150%+ |
+### Why SMB Owners Choose Us
+1. **Zero hiring cost** – No need to recruit editors, writers, or SEO experts.
+2. **Predictable ROI** – $5‑$15k/month revenue lift in 90‑days (case studies).
+3. **Fast time‑to‑market** – First video live within 48 hours of brief.
 
-> **Limited Offer:** First month **30% off** for the first 10 sign‑ups. Use code **YTBOOST30**.
+### Packages (starting at $3,997/month)
+- **Starter** – 4 videos/month, keyword‑optimized titles & descriptions.
+- **Growth** – 8 videos/month + community management.
+- **Scale** – 12 videos/month + ad‑spend management & A/B testing.
 
-### Ready to Scale?
-[Get Started Now →](/checkout?plan=growth)  
-Or book a free 15‑minute strategy call.
+> "We grew our subscriber base by 250% in 3 months without hiring a single video editor."
+> — *Laura, Boutique Marketing Agency*
+
+### Ready to Automate?
+
+[**Book a Free Strategy Call**](/schedule)   
+[**Start Now – Instant Quote**](/checkout)
 
 ---
-*No contracts. Cancel anytime. Results guaranteed or we work for free.*
+*Boost your brand, dominate YouTube, and focus on what you love.*
