@@ -1,61 +1,59 @@
-# Building Multi‑Tenant Agents with Amazon Bedrock AgentCore
+# motionvid.ai – AI‑Powered Video Creation Add‑on for Your Platform
 
-## Unlock Enterprise‑Scale AI Agents in Minutes
+## Create Stunning Videos in Seconds, Directly from Your Data
 
-**Headline:** Build, Deploy, and Scale Multi‑Tenant AI Agents on AWS – No Ops Hassle, Zero Vendor Lock‑In.
-
-**Sub‑headline:** Leverage Amazon Bedrock AgentCore to create isolated, secure, and billable AI agents for each of your customers, all from a single code base.
+**Turn any text, data, or workflow into a professional video with a single click.** motionvid.ai integrates seamlessly with our platform, letting you generate marketing clips, tutorials, and dynamic reports without leaving your dashboard.
 
 ---
 
-### Why Multi‑Tenant Agents?
-- **Maximize Revenue:** Charge per tenant, per usage, or per feature.
-- **Operational Efficiency:** One deployment, countless customers.
-- **Security & Isolation:** Each tenant runs in its own sandbox, meeting compliance standards.
+### Why motionvid.ai?
+- **Zero‑coding video generation** – No editors, no templates, just AI.
+- **Instant branding** – Auto‑apply your colors, fonts, and logo.
+- **Data‑driven visuals** – Turn charts, tables, and dashboards into animated stories.
+- **Scalable production** – Generate 100s of videos on demand via our API.
+- **Cost‑effective** – Pay‑as‑you‑go pricing, no expensive software licences.
 
-### What You Get with Our Solution
-1. **Rapid Onboarding** – Spin up a new tenant in seconds via API.
-2. **Built‑in Billing** – Integrated with AWS Marketplace & Stripe.
-3. **Scalable Architecture** – Auto‑scales with Amazon Bedrock, Lambda, and DynamoDB.
-4. **Zero‑Code Customization** – Prompt templates, role‑based access, and UI widgets.
-5. **Full Monitoring** – CloudWatch dashboards per tenant.
+---
 
 ### How It Works (3 Simple Steps)
-1. **Create Tenant** – Call our `/create‑tenant` endpoint; a dedicated AgentCore instance is provisioned.
-2. **Configure Prompts** – Upload or select pre‑built prompt libraries.
-3. **Start Interacting** – Your UI or chat‑bot talks to the tenant‑specific agent via a secure API key.
+1. **Select content** – Choose a text snippet, CSV, or a workflow output from our platform.
+2. **Customize style** – Pick a template, set branding, and add voice‑over options.
+3. **Generate & embed** – AI renders the video in seconds; embed instantly with a short URL or embed code.
 
-### Real‑World Use Cases
-- **SaaS Platforms** – Offer AI‑powered assistants for each client.
-- **Customer Support** – Deploy brand‑specific support bots.
-- **Financial Services** – Isolated compliance‑ready advisors per firm.
+---
+
+### Use Cases
+- **Marketing:** Auto‑create product teasers for new releases.
+- **Sales:** Generate personalized demo videos for each prospect.
+- **Support:** Turn knowledge‑base articles into quick‑look tutorials.
+- **Analytics:** Animate KPI dashboards for executive briefings.
+
+---
 
 ### Social Proof
-> "We launched 50 tenant agents in a week and saw a 3× increase in ARR." – *Head of Product, FinTechCo*
+> "motionvid.ai saved our team 10 hours a week on video production. The integration with our platform was flawless." – **Alex P., Head of Growth**
 
-> "Zero ops overhead – Bedrock AgentCore handled scaling automatically." – *CTO, HealthTech Ltd.*
-
----
-
-## Get Started Today
-- **Free Demo:** [Schedule a live walkthrough]
-- **Starter Kit:** Download the **Multi‑Tenant AgentCore Blueprint** (PDF)
-- **Pricing:** Pay‑as‑you‑go, starting at **$0.005 per request**.
-
-**Primary CTA:** **[Start Your Free Trial →]** (creates a sandbox tenant instantly)
+> "Our conversion rates jumped 27% after adding AI‑generated explainer videos." – **Sofia L., Marketing Manager**
 
 ---
 
-### FAQ
-**Q:** Do I need to manage servers?
-**A:** No. All infrastructure runs on fully managed AWS services.
+### Ready to Supercharge Your Content?
+[**Start Free Trial – No Credit Card Required**](#)
 
-**Q:** Is data isolated per tenant?
-**A:** Yes. Each tenant gets its own DynamoDB table and IAM role.
-
-**Q:** Can I integrate with existing authentication?
-**A:** Absolutely – we support OAuth, SAML, and API keys.
+Or schedule a live demo with our team.
 
 ---
 
-*Boost your product’s AI capabilities without the engineering headache. Build multi‑tenant agents on Amazon Bedrock AgentCore today.*
+#### Frequently Asked Questions
+**Q:** Do I need any video‑editing skills?
+**A:** No. motionvid.ai handles everything automatically.
+
+**Q:** Can I use my own voice‑over?
+**A:** Yes – upload an audio file or choose from AI voice options.
+
+**Q:** How does pricing work?
+**A:** Pay‑per‑video credits; volume discounts available for enterprises.
+
+---
+
+*Integrate motionvid.ai today and turn every piece of content into a visual experience.*
