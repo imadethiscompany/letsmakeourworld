@@ -1,15 +1,24 @@
-# Automation Artifact: Simple Email Capture
+# iPromise Automation Artifact
 
-This is a minimal automation artifact for **"Is 0-1 the easiest part of building a business?"**.
+This minimal automation script creates a Stripe product for iPromise and sends a confirmation email.
 
-It includes a simple email capture form that posts to a dummy endpoint (you can replace with your own webhook).
+```python
+import os
+from some_module import publish_product, send_email
 
-```html
-<form action="https://example.com/webhook" method="POST">
-  <label for="email">Enter your email to get the free playbook:</label><br>
-  <input type="email" id="email" name="email" required placeholder="you@example.com" style="margin-top:8px;padding:8px;width:250px;"/>
-  <button type="submit" style="margin-left:8px;padding:8px;">Submit</button>
-</form>
+# Create product
+product = publish_product(
+    name="iPromise Subscription",
+    description="Access to iPromise platform",
+    price_cents=9900,
+    category="automation",
+    features=["Full access", "Priority support"]
+)
+
+# Send email
+send_email(
+    to="customer@example.com",
+    subject="Your iPromise Subscription",
+    body=f"Your product is ready: {product['url']}"
+)
 ```
-
-Feel free to integrate this form with your automation pipeline.
