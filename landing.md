@@ -1,32 +1,22 @@
-# Live Human Detector on Outbound Phone Calls [R]
+# Is the Stock Market Open Today?
+## Why Bonds Have Special Hours on Memorial Day
 
-## Instantly know when a real person answers your outbound calls
+**Never miss a trading opportunity again.**
 
-Never waste time on voicemail or robo‑calls again. Our AI‑powered **Live Human Detector** analyzes call audio in real‑time and flags when a live human is on the line, so you can:
+- **Instantly know if the stock market is open** – today, tomorrow, or any holiday.
+- **Understand the unique bond market schedule** on Memorial Day and how it impacts your portfolio.
+- **Get actionable alerts** via email or SMS so you can act fast.
 
-- **Stop unnecessary scripts** and connect to a live agent the moment they pick up.
-- **Boost sales conversion** by reaching decision‑makers instantly.
-- **Save hours** each week by eliminating dead‑end calls.
+### Why It Matters
+The stock market follows a strict calendar, but the bond market often has *special hours* on U.S. holidays like Memorial Day. Missing these nuances can cost you thousands.
 
-### How it works
-1. **Integrate** with your existing telephony provider via a simple API key.
-2. **Detect** – our model processes the first 2 seconds of audio and returns a live‑human flag.
-3. **Act** – trigger your CRM workflow, route the call, or stop the call automatically.
+### What You’ll Get
+- A clean, mobile‑friendly page showing today’s market status.
+- A detailed explanation of the bond market’s holiday hours.
+- A downloadable cheat‑sheet and optional real‑time alert subscription.
 
-### Key Benefits
-- **+35% sales connect rate** (tested on 5,000 outbound campaigns).
-- **Real‑time** detection with <200 ms latency.
-- **Privacy‑first** – no recordings are stored, only transient audio fingerprints.
-- **Easy setup** – 5‑minute onboarding.
-
-### Trusted by
-![Logos of companies](/assets/logos.png)
-
-### Ready to upgrade your outbound strategy?
-
-[**Get Started – Free Trial**](#)  
-Or book a live demo with our specialists.
+### Ready to Stay Ahead?
+[**Get the Free Cheat‑Sheet**](/download) – no credit card required.
 
 ---
-
-*Live Human Detector on Outbound Phone Calls* is a subscription service. No contracts, cancel anytime.
+*Disclaimer: This page provides informational content and is not financial advice.*
