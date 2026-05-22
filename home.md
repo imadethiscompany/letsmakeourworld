@@ -1,32 +1,29 @@
 # YouTube Automation Agency
 
-## Scale Your Channel Without Lifting a Finger
+## Scale Your YouTube Channel on Autopilot
 
-🚀 **Full‑service YouTube automation** – from niche research, video scripting, AI‑generated voice‑overs, to thumbnail design and daily upload schedule.
+**Turn your ideas into viral videos without lifting a finger.**
 
-### Why Choose Us?
-- **Zero hiring costs** – we handle everything in‑house.
-- **AI‑driven video creation** – cinematic quality at 10x lower cost.
-- **Guaranteed growth** – proven SOPs that deliver 10k+ subscribers in 90 days.
-- **Transparent pricing** – pay per channel, no hidden fees.
+- **Zero video editing** – AI writes scripts, creates voice‑overs, and produces cinematic videos.
+- **Unlimited uploads** – Publish daily, weekly, or monthly at a fraction of the cost of a human team.
+- **Full channel management** – Thumbnail design, SEO‑optimized titles, tags, and descriptions.
+- **Performance analytics** – Real‑time dashboards to track views, CPM, and subscriber growth.
 
-### Our Proven Process
-1. **Niche & Keyword Research** – data‑backed topics that rank.
-2. **AI Script & Voice** – human‑like narration in minutes.
-3. **Video Production** – motion graphics, B‑roll, and editing.
-4. **SEO‑Optimized Upload** – titles, tags, descriptions that rank.
-5. **Channel Management** – community, comments, analytics.
+### How It Works
+1. **Tell us your niche & topics** – Our AI brainstorms high‑click‑bait titles.
+2. **Approve the script** – Quick one‑click approval or auto‑publish.
+3. **AI produces the video** – Motion‑graphics, voice‑over, B‑roll, all ready for upload.
+4. **We upload & optimize** – SEO‑friendly metadata and schedule.
 
 ### Packages
-| Package | Monthly | Channels | Videos / Month | Revenue Share |
-|---|---|---|---|---|
-| **Starter** | $499 | 1 | 4 | 10% |
-| **Growth** | $1299 | 2 | 8 | 5% |
-| **Enterprise** | $2999 | 5+ | 20+ | 0% |
+| Package | Videos / Month | Price |
+|---|---|---|
+| **Starter** | 4 | $499 |
+| **Growth** | 12 | $1,299 |
+| **Scale** | Unlimited | $3,499 |
 
-### Ready to Automate?
-
-[**Book a Free Strategy Call**](https://calendly.com/youagency/strategy) – spots fill fast!
+### Ready to Grow?
+[**Start Your Free Trial**](/signup) – No credit card required. 30‑day money‑back guarantee.
 
 ---
-*Your success is our automation.*
+*Boost your channel, dominate your niche, and watch the revenue roll in.*
