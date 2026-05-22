@@ -1,57 +1,24 @@
-# SaaS & AI Products – Power Your Business with Intelligent Automation
+# Modal Labs: Serverless AI Infrastructure
 
-**Headline:**
-> *Boost Revenue and Cut Costs with AI‑Driven SaaS Solutions*  
+## Unlock the Future of AI with Zero Ops
 
-**Subheadline:**
-> Unlock the full potential of your business using AI‑powered software that automates workflows, predicts trends, and scales effortlessly.
+**Build, train, and deploy AI models at scale—without managing servers.**
 
----
+- **Instant Scaling:** Auto‑scale to millions of requests per second.
+- **Zero DevOps Overhead:** No clusters, no GPUs to provision, no CI/CD pipelines.
+- **Enterprise‑grade Security:** End‑to‑end encryption, role‑based access, audit logs.
+- **Cost Predictability:** Pay‑as‑you‑go pricing, no hidden infrastructure fees.
+- **Proven at Scale:** Trusted by leading AI labs and Fortune 500s.
 
-## Why Choose Our AI‑Enhanced SaaS?
+### Why Modal?
+Modal’s serverless platform lets data scientists focus on models, not infrastructure. With a $355M funding round led by Sili, we’re accelerating product releases and expanding global edge locations.
 
-| Benefit | How It Works |
-|---|---|
-| **Increase Revenue by up to 30%** | AI predicts high‑value leads and optimizes pricing in real‑time. |
-| **Save 10+ Hours Weekly** | Automated reporting, customer support bots, and smart scheduling. |
-| **Scale Instantly** | Cloud‑native architecture grows with your user base without downtime. |
-| **Secure & Compliant** | End‑to‑end encryption, GDPR‑ready, with regular security audits. |
+### Get Early Access
+- **Free trial:** 10,000 compute seconds.
+- **Dedicated onboarding:** One‑on‑one session with our AI ops team.
+- **Priority support:** Enterprise SLA.
 
----
-
-## Social Proof
-
-> "Since integrating the AI‑driven analytics, our conversion rate jumped 27% and we cut manual data work in half." – **CTO, FinTech Startup**
-
-> "The AI automation saved our support team 15 hours a week, letting us focus on product innovation." – **Head of Operations, E‑commerce Brand**
+[**Start Your Free Trial →**](https://modal.com/early-access)
 
 ---
-
-## How It Works (3 Simple Steps)
-
-1. **Select Your Plan** – Choose the AI suite that fits your business size.
-2. **Onboard in Minutes** – Guided setup wizard connects your data sources.
-3. **Watch the Results** – Real‑time dashboards show revenue lift, cost savings, and growth metrics.
-
----
-
-## Ready to Transform Your Business?
-
-**Primary CTA:** [Start Free Trial – No Credit Card Required]
-
-**Secondary CTA:** [Book a Live Demo]
-
----
-
-### FAQ
-
-**Q:** *Do I need technical expertise?*  
-**A:** No. Our UI‑first design lets anyone launch AI features without code.
-
-**Q:** *What’s the pricing model?*  
-**A:** Flexible monthly subscription, starting at $49/mo per user. Custom enterprise plans available.
-
----
-
-**Footer:**
-© 2024 AI SaaS Solutions • Privacy • Terms • Contact Us
+*Featured in TechCrunch, Wired, and The New York Times.*
