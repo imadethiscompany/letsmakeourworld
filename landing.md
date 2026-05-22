@@ -1,24 +1,48 @@
-# One thing that's been bothering me lately: benchmark performance often tells me ...
+# Is 0-1 the easiest part of building a business?
 
-## Are your benchmarks lying to you?
+## headline
+**Zero to One is just the start – the real challenge is scaling to sustainable growth.**
 
-Most developers trust raw benchmark numbers, but without context they can be misleading. 
+### subheadline
+Discover why many founders nail the first product but stumble after, and how you can avoid the common pitfalls that turn a promising launch into a costly dead‑end.
 
-**What you get with our solution:**
-- Real‑world performance insights, not just synthetic scores.
-- Automated baseline comparison across hardware and workloads.
-- Actionable recommendations to close the performance gap.
+---
 
-### Why it matters
-- **Save time:** Stop digging through noisy data.
-- **Save money:** Optimize cloud spend by identifying true bottlenecks.
-- **Gain confidence:** Trust the numbers you base product decisions on.
+### Why this matters
+- **You’ve built the MVP** – now you need a repeatable revenue engine.
+- **Investors ask for traction** – not just a prototype.
+- **Your time is limited** – focus on the highest‑impact growth levers.
 
-## How it works
-1. **Upload** your benchmark suite.
-2. **We run** it on a curated matrix of environments.
-3. **Get** a clear report with variance, confidence intervals, and optimization tips.
+---
 
-### Ready to see the truth behind your benchmarks?
+### What you’ll get
+1. **Step‑by‑step framework** to move from product‑market fit to scalable operations.
+2. **Growth‑oriented KPI dashboard** that highlights the metrics that matter.
+3. **Playbook of proven tactics** (pricing, distribution, retention) used by YC‑backed startups.
 
-[Get a free analysis now](/signup)
+---
+
+### Social proof
+> "We thought building the product was the hard part. After using this framework, our monthly recurring revenue grew 3x in 60 days." – *Founder, SaaS startup*
+
+---
+
+### Ready to turn 0‑1 into 1‑∞?
+
+[Get the Free Growth Playbook](/signup?topic=0-1-easiest) 
+
+---
+
+#### FAQ
+**Q:** Is this only for tech startups?
+**A:** The principles apply to any business that needs to scale beyond the first product.
+
+**Q:** Do I need a large budget?
+**A:** No. The framework focuses on high‑impact, low‑cost tactics.
+
+---
+
+#### Take the next step
+Stop guessing. Start scaling.
+
+[Download the Playbook Now](/signup?topic=0-1-easiest)
