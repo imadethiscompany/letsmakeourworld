@@ -1,30 +1,16 @@
-# Mistral AI Acquires Emmi AI – Industrial AI Expansion
+# Nugget AI
 
-**Headline:** Mistral AI boosts its industrial AI portfolio with the acquisition of Austria’s Emmi AI.
+## Unlock AI-Powered Knowledge Nuggets Instantly
 
-**Subheadline:** By integrating Emmi’s physics‑based AI models, Mistral now offers manufacturers unparalleled simulation capabilities for airflow, heat transfer, and material stress – targeting aerospace, automotive, and semiconductor sectors.
+**Instantly generate concise, actionable insights from any document, webpage, or data set.**
 
----
+- **One‑click extraction** – Paste text or upload a file, get bite‑size nuggets in seconds.
+- **Customizable depth** – Choose bullet‑point summaries, detailed explanations, or visual mind‑maps.
+- **Seamless integration** – Connect to Slack, Notion, Google Docs, or your own workflow via API.
 
-### Why This Matters for You
-- **Precision Engineering:** Deploy AI that understands real‑world physics, reducing design cycles by up to 30%.
-- **European Edge:** Leverage a home‑grown AI stack built for EU data‑privacy and compliance.
-- **Scalable Solutions:** From prototype to full‑scale production, Mistral’s modular platform adapts to any industrial workflow.
+### Why Nugget AI?
+Businesses waste **30% of meeting time** sifting through information. Nugget AI cuts that down to **under a minute**, letting teams focus on execution.
 
----
+**Join the early‑access program** and be the first to supercharge your knowledge work.
 
-### Key Benefits
-1. **Faster Time‑to‑Market** – Simulate complex physical processes in‑silico, cutting costly physical prototyping.
-2. **Cost Reduction** – Optimize material usage and energy consumption with AI‑driven insights.
-3. **Risk Mitigation** – Predict failure points before they happen, ensuring higher reliability.
-
----
-
-### Take the Next Step
-**Ready to transform your manufacturing processes?**
-
-[🔎 Learn More & Download the Full Report](https://www.reuters.com/technology/mistral-ai-buys-austrian-physics-ai-startup-industrial-push-2026-05-20/)
-
----
-
-*Stay ahead of the competition with cutting‑edge industrial AI. Subscribe for updates on Mistral’s latest innovations.*
+[Get Started Now →](/checkout?product=nugget-ai)
