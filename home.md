@@ -1,43 +1,53 @@
-# Is 0‑1 the easiest part of building a business?
+# Finnish phone‑maker HMD launches AI‑powered smartphone for India
 
-## Unlock the real challenge: turning idea into sustainable revenue
+## Meet the HMD AI‑Chat Phone – your personal assistant, now built for India
 
-**Stop guessing.** Most founders spend months building a product (0‑1) only to hit a wall when they try to acquire paying customers. The *real* work begins at **1‑10** – scaling, pricing, and growth.
-
----
-
-### Why this landing page matters
-- **Clear promise:** You’ll discover the hidden steps that make scaling easier than you think.
-- **Actionable framework:** A 3‑step plan you can start implementing today.
-- **Proof:** Real founders who turned 0‑1 into $100k+ ARR in 90 days.
+**Why it matters** – HMD, the maker of Nokia phones, has partnered with India’s leading AI chatbot to bring a native, context‑aware conversational experience to a new smartphone. It’s the first device that understands local languages, cultural nuances, and everyday Indian tasks – from ordering groceries on WhatsApp to getting real‑time traffic updates.
 
 ---
 
-#### What you’ll get when you click **"Get the Playbook"**
-1. **Blueprint PDF** – A concise 5‑page guide breaking down the 1‑10 growth engine.
-2. **Video walkthrough** – 7‑minute deep‑dive with examples.
-3. **Free community access** – Join a Slack channel of founders who are already scaling.
+### One‑click AI for everyday life
+- **Speak in Hindi, Tamil, Bengali, or English** – the AI understands and replies in your language.
+- **Instant answers** – ask for train schedules, bill payments, or recipe ideas and get a concise response.
+- **Privacy‑first** – on‑device processing ensures your data never leaves the phone.
+
+### Built for the Indian market
+- **Localized content** – curated Indian news, entertainment, and services.
+- **Affordable pricing** – competitive price point with flexible financing.
+- **Durable design** – rugged Nokia‑style build for Indian climates.
 
 ---
 
-### Social proof
-> "I thought the hardest part was building the product. The playbook showed me the exact steps to hit $50k ARR in weeks." – *Sanjay, SaaS founder*
+## How it works (3 simple steps)
+1. **Turn on** the HMD AI‑Chat Phone.
+2. **Talk** – say *“Hey HMD, order pizza”*.
+3. **Get it done** – the AI completes the task, confirms, and you’re set.
 
 ---
 
-### Ready to move from 0‑1 to real revenue?
+### Trusted by Indian users
+> *“I love that I can ask my phone in Hindi and it understands me instantly.”* – Priya, Mumbai
 
-[Get the Playbook Now](/checkout?product=0-1-easiest)
-
-*No credit card required. Instantly downloadable.*
-
----
-
-#### FAQ
-- **Is this only for tech startups?** – The principles apply to any business model.
-- **Do I need to pay?** – The first 100 downloads are free; after that it’s $19.
-- **What if I’m not ready to launch?** – The guide still gives you a roadmap to prepare.
+> *“The AI helped me pay my electricity bill without opening any app.”* – Raj, Bangalore
 
 ---
 
-*© 2026 Nexus Ventures. All rights reserved.*
+## Ready to experience the future?
+**Pre‑order now** and be among the first to own the AI‑enhanced smartphone tailored for India.
+
+[**Pre‑order your HMD AI‑Chat Phone**](#) – limited stock available.
+
+---
+
+### FAQ
+**Q:** Does it work offline?
+**A:** Core language processing runs on‑device; internet is only needed for live data (traffic, news).
+
+**Q:** Which languages are supported?
+**A:** Hindi, English, Tamil, Telugu, Bengali, Marathi, and more – continuously expanding.
+
+---
+
+#### SEO meta
+**Title:** HMD AI‑Chat Phone – AI‑powered Nokia smartphone for India
+**Description:** Discover the new HMD smartphone bundled with India’s top AI chatbot. Local language support, privacy‑first, affordable. Pre‑order today.
