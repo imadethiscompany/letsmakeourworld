@@ -1,47 +1,53 @@
-# Faby – Your AI‑Powered Personal Finance Assistant
+# Faby – Your AI-Powered Family Assistant
 
-## Take Control of Your Money in Minutes, Not Hours
+## Simplify family life with a single smart hub
 
-**Faby** turns chaotic receipts, bills, and bank statements into crystal‑clear insights. No spreadsheets, no guesswork – just actionable advice that helps you **save $500+ each month** and **reach your financial goals faster**.
-
----
-
-### Why Faby?
-- **Instant Expense Tracking** – Snap a photo or forward a receipt; Faby categorizes and logs it automatically.
-- **Personalized Savings Plans** – AI analyzes your spending and suggests concrete steps to cut waste.
-- **Goal‑Driven Budgets** – Set a vacation, a down‑payment, or debt‑free target; watch your progress in real‑time.
-- **Secure & Private** – End‑to‑end encryption. Your data never leaves your device.
+**Headline:** *Never miss a moment. Let Faby handle the chores, schedules, and surprises for your family.*
 
 ---
 
-### How It Works (3 Simple Steps)
-1. **Connect** – Link your banks or upload receipts.
-2. **Analyze** – Faby’s AI classifies every transaction and flags opportunities.
-3. **Act** – Receive a daily dashboard with clear actions: "Save $30 on coffee", "Pay off credit card faster", etc.
+### Why families love Faby
+
+- **All‑in‑one hub:** Calendar sync, grocery lists, bill reminders, and kid‑friendly activities in one place.
+- **AI that learns:** Faby adapts to each family member’s preferences, suggesting meals, outings, and personalized reminders.
+- **Zero‑effort setup:** Connect your Google/Apple accounts in seconds – no tech wizardry required.
+- **Privacy‑first:** End‑to‑end encryption, local data storage options, and no ads.
 
 ---
 
-### Social Proof
-> "Faby saved me $800 in the first month!" – *Emily R., NYC*
+### How it works (3 easy steps)
 
-> "I finally understand where my money goes. Planning a house is now realistic." – *Carlos M., Austin*
-
----
-
-### Ready to Transform Your Finances?
-**Start your 14‑day free trial now** and see the difference.
-
-[Get Started – Free Trial](/signup)
+1. **Connect** your family’s calendars and favorite apps.
+2. **Tell** Faby what you need – “Plan a weekend trip,” “Buy milk,” or “Remind dad about the car service.”
+3. **Relax** as Faby automates tasks, sends friendly nudges, and keeps everyone in the loop.
 
 ---
 
-#### FAQs
+### Social proof
+
+> "Faby saved us hours each week. Our kids actually look forward to the daily schedule!" – *Emily R., busy mom of 3*
+
+> "I finally stopped forgetting bill due dates. Faby sends me a gentle reminder before it’s too late." – *Carlos M., freelance designer*
+
+---
+
+### Frequently asked questions
+
+**Q:** Do I need a smartphone for each family member?
+**A:** No. One device (phone, tablet, or desktop) acts as the central hub; members can interact via chat, voice, or email.
+
 **Q:** Is my data safe?
-**A:** Yes. All data is encrypted at rest and in transit, and never sold.
+**A:** Absolutely. All data is encrypted at rest and in transit. You can choose to keep data on your own device.
 
-**Q:** No credit card required?
-**A:** No. Just create an account and start the free trial.
+**Q:** What’s the cost?
+**A:** $49 / month – includes unlimited family members, premium AI features, and priority support.
 
 ---
 
-*No risk, no hidden fees – just smarter money management.*
+## Ready to transform family life?
+
+[**Start your free 7‑day trial**](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k) – no credit card required.
+
+---
+
+*SEO meta: family assistant, AI home organizer, family scheduling app, automate chores, family productivity*
