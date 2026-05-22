@@ -1,27 +1,28 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel Without Lifting a Finger
+## Unlock Massive Growth with Zero Hands‑On Management
 
-**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle content creation, uploading, SEO, thumbnail design, and community management so you can focus on strategy.
+**Turn your YouTube channel into a revenue machine without ever lifting a finger.** Our end‑to‑end automation handles content creation, SEO, posting, thumbnail design, and community engagement for you.
 
 ### Why Choose Us?
-- **Full‑stack video production** – AI‑generated scripts, voice‑overs, and motion‑graphics.
-- **SEO‑optimized titles, tags & descriptions** that rank on the first page.
-- **Automated publishing & scheduling** across multiple channels.
-- **Community growth** – automated comment replies, engagement bots, and subscriber funnels.
-- **Performance dashboards** – real‑time analytics & ROI tracking.
+- **Fully Automated Video Production** – AI‑generated scripts, voice‑overs, and editing.
+- **SEO‑Optimized Uploads** – Keyword‑rich titles, tags, and descriptions that rank.
+- **Thumbnail & Hook Creation** – High‑CTR designs built by AI graphic engines.
+- **Community Management** – Auto‑reply to comments, schedule livestreams, and grow subscriber base.
+- **Performance Dashboard** – Real‑time analytics and ROI tracking.
 
-### Packages
-| Plan | Monthly Price | Videos / Month | Features |
-|------|---------------|----------------|----------|
-| **Starter** | $499 | 4 | AI script, voice‑over, thumbnail, SEO |
-| **Growth** | $999 | 10 | All Starter + custom thumbnails, community bot, analytics |
-| **Enterprise** | $1999 | 20+ | Dedicated manager, custom branding, full funnel automation |
+### Packages (All‑Inclusive)
+| Plan | Monthly Price | Channels | Videos/Month | Revenue Boost |
+|------|--------------|----------|--------------|---------------|
+| **Starter** | $499 | 1 | 4 | Up to 30% |
+| **Growth** | $1,299 | Up to 3 | 12 | Up to 70% |
+| **Enterprise** | $2,999 | Unlimited | Unlimited | 150%+ |
 
-### Ready to Grow?
-**Book a free strategy call** and get a custom growth plan.
+> **Limited Offer:** First month **30% off** for the first 10 sign‑ups. Use code **YTBOOST30**.
 
-[**Schedule My Call**](https://calendly.com/youtube-automation/strategy)
+### Ready to Scale?
+[Get Started Now →](/checkout?plan=growth)  
+Or book a free 15‑minute strategy call.
 
 ---
-*We’re trusted by dozens of SMB owners who have multiplied their subscriber count by 5‑10×.*
+*No contracts. Cancel anytime. Results guaranteed or we work for free.*
