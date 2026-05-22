@@ -2,32 +2,44 @@
 
 ## Scale Your YouTube Channel Without Lifting a Finger
 
-**Turn views into revenue** with our end‑to‑end YouTube automation service. We handle content creation, SEO, thumbnail design, posting schedule, community management, and monetization – all on autopilot.
-
-### Why Choose Us?
-- **Full‑stack video production** – AI‑generated scripts, voice‑overs, motion‑graphics, and editing.
-- **AI‑driven SEO** – Keyword‑optimized titles, tags, and descriptions that rank.
-- **Growth hacking** – Proven thumbnail formulas, hook‑first intros, and audience retargeting.
-- **Revenue streams** – AdSense optimization, sponsorship matchmaking, merch integration.
-- **Zero hassle** – You focus on your brand, we deliver daily uploads and growth.
-
-### Our Proven Process
-1. **Strategy Call** – Define niche, audience, and revenue goals.
-2. **Content Blueprint** – AI‑generated video ideas & scripts.
-3. **Production** – Cinematic videos in 48‑hour turnaround.
-4. **Launch & Optimize** – Automated publishing, SEO, and performance tracking.
-5. **Scale & Monetize** – Ongoing A/B testing, ad‑placement, and brand deals.
-
-### Results
-| Channels Managed | Avg. Views/Video | Avg. Subscriber Growth/mo | Revenue ↑ |
-|------------------|------------------|--------------------------|----------|
-| 50+ | 25K+ | 3,200 | 4× |
-| 10+ | 100K+ | 12,000 | 7× |
-
-### Ready to Automate Your YouTube Empire?
-**Book a free strategy session** and get a custom growth plan.
-
-[**Schedule Now →**](https://calendly.com/youragency/strategy)
+**Turn your business into a video powerhouse** – we handle content creation, uploading, SEO, and channel growth so you can focus on your core services.
 
 ---
-*No contracts. Cancel anytime. First month 20% off for early adopters.*
+
+### Why Choose Us?
+
+- **Full‑service automation**: Script writing, voice‑over, video editing, thumbnail design, upload & scheduling.
+- **AI‑driven SEO**: Keyword‑optimized titles, descriptions, and tags that rank.
+- **Guaranteed growth**: Minimum 3x subscriber increase in the first 90 days or we keep working for free.
+- **Turnkey analytics dashboard**: Real‑time performance metrics.
+
+---
+
+### What You Get
+
+1. **Custom Video Production** – 5‑minute, high‑quality videos (up to 12 per month).
+2. **Channel Management** – Daily uploads, community engagement, comment moderation.
+3. **Growth Engine** – Targeted ad spend, influencer outreach, and SEO.
+4. **Monthly Reporting** – ROI‑focused insights.
+
+---
+
+### Investment
+
+**$5,000 / month** – includes everything above. No hidden fees.
+
+[**Start Scaling Now**](https://buy.stripe.com/test_00wfZ94Xx9N222L0Aqc7F2q){: .button }
+
+---
+
+### Success Stories
+
+> *"Our revenue jumped from $2K to $15K/month in just 2 months. The automation saved us 30 hours weekly!"* – **Tech Startup Founder**
+
+> *"We finally have a consistent video pipeline and the subscriber count exploded."* – **Marketing Agency Owner**
+
+---
+
+#### Ready to dominate YouTube?
+
+**Book a free strategy call** or click the button above to get started.
