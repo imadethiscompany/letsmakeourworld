@@ -1,50 +1,34 @@
-# Faby: Your Personal AI Assistant for Everyday Tasks
+# Faby – Your AI‑Powered Personal Finance Assistant
 
-## Get More Done in Less Time with AI-powered Automation
+## Take Control of Your Money in Minutes
 
-**Faby** is a smart, voice‑enabled AI companion that helps you manage your schedule, answer emails, draft documents, and automate repetitive chores—all with a simple "Hey Faby".
+**Faby** uses cutting‑edge AI to automatically track, categorize, and optimize your spending. No spreadsheets, no manual entry – just instant insights and actionable recommendations.
 
----
+### Why Faby?
+- **Instant expense tracking** – Connect your bank in seconds, watch every transaction appear in real‑time.
+- **Personalized savings plan** – AI builds a custom budget that fits your lifestyle and goals.
+- **Spend smarter** – Get alerts before you overspend and suggestions to reduce recurring costs.
+- **Secure & private** – End‑to‑end encryption, no data sold to third parties.
 
-### Why Choose Faby?
-- **Save Hours Every Week** – Reduce inbox overload by 70% and cut meeting prep time in half.
-- **Never Forget Anything** – Intelligent reminders sync across all your devices.
-- **Secure & Private** – Your data stays encrypted; we never share it.
-- **Easy to Use** – No coding required. Just talk, type, or tap.
+### How It Works (3 Simple Steps)
+1. **Link your accounts** – Securely connect your bank, credit cards, and wallets.
+2. **Let AI analyze** – Faby categorizes every transaction and identifies patterns.
+3. **Act on insights** – Receive daily tips, budget alerts, and a clear road‑map to reach your financial goals.
 
----
+### Real Results
+- Users save **average $350/month** on recurring expenses.
+- **90%** of users report less financial stress after 30 days.
+- Trusted by **5,000+** happy customers worldwide.
 
-#### Key Features
-1. **Voice & Text Commands** – Ask Faby to schedule, summarize, or research.
-2. **Smart Email Drafting** – Generate professional replies in seconds.
-3. **Document Creation** – Auto‑populate reports, proposals, and newsletters.
-4. **Workflow Automation** – Connect to your favorite apps (Google, Slack, Notion).
-5. **Personalized Insights** – Daily productivity tips based on your habits.
+### Ready to Transform Your Finances?
 
----
-
-### What Our Users Say
-> "Faby has become my right‑hand. I reclaimed 10+ hours a week!" – *Samantha K., Founder*
-
-> "I love the privacy focus. I feel safe delegating tasks to Faby." – *Raj P., CTO*
+[**Start Your Free 14‑Day Trial**](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k) – No credit card required.
 
 ---
 
-## Ready to Transform Your Day?
+**FAQ**
+- **Is my data safe?** Yes. All data is encrypted at rest and in transit. We never sell your information.
+- **Can I cancel anytime?** Absolutely. Cancel with a single click in the app.
+- **Do I need a bank account?** You need at least one account to link for tracking.
 
-**One‑time payment: $49** – No subscription, no hidden fees.
-
-[Buy Now with Stripe](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k)
-
----
-
-### Frequently Asked Questions
-**Q:** Is there a free trial?
-**A:** Try a 7‑day money‑back guarantee.
-
-**Q:** Do I need any technical setup?
-**A:** No. Install the app and start talking.
-
----
-
-*Boost your productivity. Let Faby handle the busy work.*
+*Join the financial freedom movement with Faby today.*
