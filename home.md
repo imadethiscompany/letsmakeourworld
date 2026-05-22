@@ -1,37 +1,47 @@
-# Scale Your YouTube Channel on Autopilot
+# Faby – Your AI‑Powered Personal Finance Assistant
 
-## Unlock 10x Growth without Lifting a Finger
+## Take Control of Your Money in Minutes, Not Hours
 
-- **Full video production** – script, voice‑over, editing, thumbnails
-- **Channel management** – SEO, tags, scheduling, community
-- **AI‑driven automation** – bulk uploading, performance analytics
-- **Guaranteed ROI** – first 30 days revenue boost or we work for free
-
-### How It Works
-1. **Discovery Call** – we audit your niche & audience.
-2. **Content Engine** – AI writes scripts, generates visuals.
-3. **Production Hub** – professional editors turn scripts into viral videos.
-4. **Launch & Scale** – optimized uploads, SEO, ads, and growth loops.
-
-### Packages
-| Package | Monthly Cost | Videos / Month | Key Features |
-|--------|--------------|----------------|--------------|
-| **Starter** | **$997** | 4 | Script + editing, SEO tags, thumbnail |
-| **Growth** | **$2,497** | 10 | All Starter + community management, ads budget guidance |
-| **Enterprise** | **$5,997** | 20+ | Dedicated manager, paid ad scaling, revenue share guarantee |
-
-> **Special Offer:** Sign up this week and get **1 free video** + **30% off** your first month.
-
-### Why Choose Us?
-- **Proven Track Record:** 150+ channels grown, average 8× subscriber increase.
-- **AI + Human Hybrid:** Cutting‑edge AI tools + expert editors.
-- **Performance Guarantee:** If we don’t increase your watch time by 25% in 30 days, you get the next month free.
-
-### Ready to Explode Your Views?
-[**Start Your Free Audit →**](https://example.com/checkout?plan=starter)
-
-*No credit card required. We’ll audit, you decide.*
+**Faby** turns chaotic receipts, bills, and bank statements into crystal‑clear insights. No spreadsheets, no guesswork – just actionable advice that helps you **save $500+ each month** and **reach your financial goals faster**.
 
 ---
 
-*Contact us: hello@ytagency.com | +1 (555) 123‑4567*
+### Why Faby?
+- **Instant Expense Tracking** – Snap a photo or forward a receipt; Faby categorizes and logs it automatically.
+- **Personalized Savings Plans** – AI analyzes your spending and suggests concrete steps to cut waste.
+- **Goal‑Driven Budgets** – Set a vacation, a down‑payment, or debt‑free target; watch your progress in real‑time.
+- **Secure & Private** – End‑to‑end encryption. Your data never leaves your device.
+
+---
+
+### How It Works (3 Simple Steps)
+1. **Connect** – Link your banks or upload receipts.
+2. **Analyze** – Faby’s AI classifies every transaction and flags opportunities.
+3. **Act** – Receive a daily dashboard with clear actions: "Save $30 on coffee", "Pay off credit card faster", etc.
+
+---
+
+### Social Proof
+> "Faby saved me $800 in the first month!" – *Emily R., NYC*
+
+> "I finally understand where my money goes. Planning a house is now realistic." – *Carlos M., Austin*
+
+---
+
+### Ready to Transform Your Finances?
+**Start your 14‑day free trial now** and see the difference.
+
+[Get Started – Free Trial](/signup)
+
+---
+
+#### FAQs
+**Q:** Is my data safe?
+**A:** Yes. All data is encrypted at rest and in transit, and never sold.
+
+**Q:** No credit card required?
+**A:** No. Just create an account and start the free trial.
+
+---
+
+*No risk, no hidden fees – just smarter money management.*
