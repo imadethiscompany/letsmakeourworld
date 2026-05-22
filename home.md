@@ -1,69 +1,56 @@
-# Serverless AI Infrastructure
+# YouTube Automation Agency
 
-<meta name="title" content="Serverless AI Infrastructure – Scale AI without Ops" />
-<meta name="description" content="Deploy AI models instantly with fully managed, serverless infrastructure. Pay‑as‑you‑go pricing, zero DevOps, auto‑scaling. Perfect for startups, enterprises, and everything in between." />
+## Unlock Massive Growth on YouTube with Zero Hands‑On Management
 
----
+**Are you a creator, brand, or agency that wants to dominate YouTube without spending countless hours on video production, SEO, and channel management?**
 
-## 🚀 Power Your AI, Forget the Servers
+Our **YouTube Automation Agency** delivers a full‑stack, AI‑powered system that:
 
-Build, train, and serve AI models on a **fully serverless, auto‑scaling platform**. No clusters, no GPUs to manage, no capacity planning. Just upload your code and let Modal handle the rest.
+- **Creates high‑quality, SEO‑optimized videos** in minutes using cutting‑edge AI video generation.
+- **Optimizes titles, thumbnails, tags, and descriptions** for maximum discovery on the YouTube algorithm.
+- **Handles uploading, scheduling, and community management** so you can focus on strategy.
+- **Scales your content output** from 2 videos/week to 30+ videos/month with consistent branding.
 
-- **Zero‑Ops:** No provisioning, patching, or scaling headaches.
-- **Pay‑as‑you‑go:** Only pay for compute you actually use.
-- **Instant cold‑start:** Sub‑second latency for inference.
-- **Built‑in security & compliance:** End‑to‑end encryption, SOC‑2, ISO‑27001.
+### Why Choose Our Agency?
 
----
+| Benefit | What You Get |
+|---|---|
+| **AI‑Generated Scripts & Voice‑Overs** | Engaging, niche‑targeted scripts written by GPT‑4, narrated by realistic AI voices. |
+| **Cinematic Video Production** | GSAP‑driven motion graphics, B‑roll, and kinetic typography that looks like a $50K production. |
+| **SEO‑First Optimization** | Keyword‑rich titles, tags, timestamps, and transcripts that rank on the first page. |
+| **Full Channel Management** | Upload, schedule, reply to comments, and run A/B tests on thumbnails automatically. |
+| **Performance Dashboard** | Real‑time analytics on views, watch‑time, subscriber growth, and ROI. |
 
-## 📊 Pricing Tiers
+### How It Works
 
-| Tier | Price / month | Features |
-|------|---------------|----------|
-| **Starter** | **$49** | 100,000 compute seconds, 5 GB storage, community support |
-| **Pro** | **$199** | 1 M compute seconds, 50 GB storage, priority support, custom domains |
-| **Enterprise** | **$999** | Unlimited compute, 500 GB storage, dedicated account manager, SLA guarantees |
+1. **Discovery Call** – We define your niche, target audience, and content pillars.
+2. **AI Script Engine** – Generates a 5‑minute script optimized for high‑search volume keywords.
+3. **Production Pipeline** – GSAP‑powered motion graphics, AI voice‑over, and custom B‑roll are compiled in Remotion.
+4. **SEO & Upload** – Automated metadata, thumbnail generation, and scheduled publishing.
+5. **Growth Loop** – Ongoing optimization based on performance data and community engagement.
 
-<div style="display:flex;gap:1rem;flex-wrap:wrap;">
-  <a href="/buy/starter" style="background:#4F46E5;color:#fff;padding:0.75rem 1.5rem;border-radius:0.5rem;text-decoration:none;">Buy Starter</a>
-  <a href="/buy/pro" style="background:#10B981;color:#fff;padding:0.75rem 1.5rem;border-radius:0.5rem;text-decoration:none;">Buy Pro</a>
-  <a href="/buy/enterprise" style="background:#EF4444;color:#fff;padding:0.75rem 1.5rem;border-radius:0.5rem;text-decoration:none;">Buy Enterprise</a>
-</div>
+### Pricing Packages
 
----
+| Package | Monthly Output | Price |
+|---|---|---|
+| **Starter** | 4 videos | **$499** |
+| **Growth** | 12 videos | **$1,299** |
+| **Scale** | 30+ videos | **$2,799** |
 
-## 🛠️ Why Choose Us?
+*All packages include unlimited revisions, SEO optimization, and a dedicated account manager.*
 
-- **Lightning‑fast deployment** – From code to production in seconds.
-- **Scalable to billions of requests** – Automatic horizontal scaling.
-- **Developer‑first experience** – Python SDK, Jupyter notebooks, CI/CD integration.
-- **Enterprise‑grade reliability** – 99.99% uptime SLA.
+### Limited‑Time Offer
 
----
-
-## 📞 Get Started in 2 Minutes
-
-1. **Select a plan** above.
-2. **Create an account** – instant SSO.
-3. **Deploy your first model** – click **Deploy** and watch it go live.
-
-> **Ready to unleash AI?**
-
-<a href="/signup" style="display:inline-block;background:#2563EB;color:#fff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;font-size:1.25rem;">Start Free Trial</a>
+**Sign up within the next 48 hours and receive a 20 % discount on your first month** plus a free channel audit (value $399).
 
 ---
 
-### FAQs
+**Ready to automate your YouTube empire?**
 
-**Q:** *Do you support GPU workloads?*  
-**A:** Yes – our serverless platform automatically provisions GPUs when needed.
+[🚀 Get Started Now →](/checkout?plan=starter)
 
-**Q:** *Can I migrate existing workloads?*  
-**A:** Absolutely. Use our CLI to import containers or Docker images.
-
-**Q:** *What about data privacy?*  
-**A:** All data is encrypted at rest and in transit. We are GDPR‑compliant.
+*No contracts. Cancel anytime.*
 
 ---
 
-*Powered by Modal Labs – the leader in serverless AI infrastructure.*
+*Keywords: YouTube automation, AI video creation, YouTube SEO, automated YouTube channel, video marketing agency*
