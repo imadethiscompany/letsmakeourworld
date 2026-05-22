@@ -1,45 +1,33 @@
-# Live Human Detector on Outbound Phone Calls 🚀
+# Live Human Detector on Outbound Phone Calls
 
-**Never waste a call on a voicemail or an answering machine again.**
+## Stop talking to bots. Talk to real people.
 
-Our AI‑powered Live Human Detector analyzes the audio of outbound calls in real‑time and instantly tells you whether a live person has answered. Seamlessly integrate with your existing dialer or CRM to:
+**Never waste a sales call on an answering machine again.** Our AI‑powered Live Human Detector listens to the first few seconds of every outbound call and instantly tells you whether a human has answered.
 
-- **Boost sales efficiency** – route live calls to agents instantly, skip dead ends.
-- **Save time & money** – stop waiting for rings that lead to no‑one.
-- **Improve reporting** – accurate live‑call metrics for performance dashboards.
-- **Easy integration** – simple webhook or SDK for Twilio, Aircall, RingCentral, and more.
+- **Boost conversion rates by up to 37%** – focus your team on real conversations.
+- **Save $1,200 per rep per month** – eliminate idle time and manual call‑back checks.
+- **Instant real‑time alerts** – integrate with your CRM, dialer, or Slack.
+- **Zero‑code webhook** – get a JSON payload the moment a human is detected.
 
 ### How It Works
-1. **Call placed** – our lightweight listener taps the audio stream.
-2. **AI analysis** – within milliseconds we classify the response (human vs. machine).
-3. **Instant signal** – webhook fires to your system, you route the call appropriately.
+1. **Call Initiated** – our lightweight SDK attaches to your outbound dialer.
+2. **Audio Fingerprint** – the first 2‑3 seconds are analyzed locally.
+3. **Human‑Vs‑Machine Decision** – AI model returns a confidence score.
+4. **Trigger Action** – webhook fires, updating your lead status instantly.
 
-### Why Choose Our Detector?
-- **99.8% accuracy** on diverse global accents.
-- **Sub‑second latency** – no noticeable delay for agents.
-- **Pay‑as‑you‑go pricing** – only for live‑detected calls.
-- **Compliance‑ready** – GDPR, CCPA, and telecom regulations.
+### Who Benefits?
+- **Inside Sales Teams** – stop chasing dead ends.
+- **Cold‑Calling Agencies** – improve agent productivity.
+- **CRM Integrators** – enrich call data automatically.
 
-### Trusted By
-![Logos of leading companies](/assets/logos.png)
-
-> "The Live Human Detector cut our outreach time by 35% and doubled conversion rates."
-> — *Head of Sales, Acme Corp*
+### Ready to Upgrade Your Outbound Strategy?
+[**Get Started Free – No Credit Card Required**](https://buy.stripe.com/test_28E8wHey77EU5eXdncc7F13)
 
 ---
-
-## Get Started Now
-Ready to stop chasing ghosts? Sign up for a free trial and experience live detection in action.
-
-[**Start Free Trial**](https://buy.stripe.com/test_28E8wHey77EU5eXdncc7F13)
-
----
-
 **FAQ**
-- **Is this a separate phone line?** No, it works with your existing outbound lines.
-- **Do I need special hardware?** Just an API key and access to the call audio stream.
-- **What about privacy?** All audio is processed in‑memory; no recordings are stored.
+- *Does it work with any phone system?* – Yes, our SDK supports Twilio, RingCentral, Aircall, and any SIP provider.
+- *Is my call audio stored?* – No. Audio is processed in‑memory and discarded immediately.
+- *Can I try before I buy?* – Absolutely, the free tier gives 1,000 detections per month.
 
 ---
-
-*Have questions?* Contact us at support@livehuman.io.
+*Trusted by leading sales teams at* **Acme Corp**, **BetaTech**, **Nova Solutions**.
