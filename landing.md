@@ -1,69 +1,53 @@
 # U.S. Researchers Face New Publishing Restrictions with Foreign Collaborators
 
-## Stay Informed, Stay Compliant, Keep Your Research Impactful
+## Stay Informed, Stay Ahead
 
-**New U.S. regulations are tightening how scientists can publish joint work with overseas partners.** If you’re a researcher, university admin, or research manager, you need a clear, actionable plan to navigate these changes without sacrificing collaboration or funding.
-
----
-
-### Why This Matters Right Now
-- **Funding at Risk:** Federal grants may be suspended if foreign co‑authors aren’t properly disclosed.
-- **Publication Delays:** Journals are tightening their conflict‑of‑interest checks, causing weeks of hold‑ups.
-- **Legal Exposure:** Non‑compliance can lead to fines, travel bans, and loss of institutional reputation.
-
-### What You’ll Get From This Page
-1. **Straight‑forward breakdown** of the new rules and who they affect.
-2. **Step‑by‑step compliance checklist** you can implement today.
-3. **Free downloadable guide** with templates for disclosures, partnership agreements, and grant reporting.
-4. **Expert insights** from policy analysts and university tech‑transfer offices.
-5. **Live Q&A webinars** – sign up to get your specific questions answered.
+**Recent policy changes** mean U.S. scientists must now navigate **tighter controls** when co‑authoring papers with foreign partners. Missing the deadline or violating the rules can jeopardize **grant funding, visa status, and reputation**.
 
 ---
 
-## Instant Access: Download the Free "Research Collaboration Compliance Kit"
+### Why This Matters to You
+- **Funding at risk:** Federal agencies are tightening compliance audits.
+- **Career impact:** Publication delays affect tenure and promotion.
+- **Legal exposure:** Non‑compliance can trigger investigations.
 
-> **[Download Now – No Credit Card Required]**
-
-*One‑click download gives you a PDF pack with:
-- Quick‑start compliance checklist
-- Sample disclosure statements
-- FAQ on common grant scenarios
-- Contact list for legal counsel specializing in research policy*
-
----
-
-### How It Works
-1. **Enter your email** – we’ll send the kit instantly.
-2. **Get a personalized compliance audit** (optional, $199 one‑time).
-3. **Join our monthly briefing** to stay ahead of policy updates.
+### Get the Complete Guide
+Download our **FREE 5‑page briefing** that explains:
+1. What the new restrictions are.
+2. Which collaborations are affected.
+3. Step‑by‑step compliance checklist.
+4. Strategies to maintain international research impact.
+5. Expert legal resources and contacts.
 
 ---
 
-### Social Proof
-> “The checklist saved our lab weeks of paperwork and kept our NIH grant intact.” – *Dr. Maya Patel, Stanford University*
+#### 📥 **Download Now**
 
-> “We avoided a costly compliance breach thanks to the disclosure templates.” – *Office of Research, University of Texas*
+<button>Download the Free Briefing</button>
+
+*No credit card required – just your email.*
 
 ---
 
 ### Frequently Asked Questions
-**Q:** Does this apply to all foreign collaborators?
-**A:** Yes – the rule covers any co‑author, data source, or funding entity outside the U.S.
+**Q:** Does this affect all foreign collaborators?
+**A:** The rules target collaborations with institutions in **China, Russia, Iran, North Korea, and Cuba**, but many other countries are under review.
 
-**Q:** Will my existing papers be retroactively affected?
-**A:** Only new submissions after the effective date require the new disclosures.
+**Q:** Can I still publish with existing partners?
+**A:** Yes, if you obtain a **pre‑approval** from your institution’s compliance office.
 
-**Q:** Can I still collaborate with partners in allied countries?
-**A:** Absolutely – the guidelines focus on transparency, not restriction of collaboration.
-
----
-
-## Ready to Protect Your Research?
-
-**[Download the Free Compliance Kit]**
-
-*Stay compliant, keep publishing, and protect your funding.*
+**Q:** Who should I talk to for legal advice?
+**A:** Our partner law firm offers a **30‑minute free consult** for researchers.
 
 ---
 
-*© 2026 ResearchCompliance.io – All rights reserved.*
+### Take Action Today
+- **Download the guide** to understand the new rules.
+- **Schedule a compliance call** with our experts.
+- **Protect your research** and keep funding flowing.
+
+**Stay ahead of the curve – the window to act is closing fast.**
+
+---
+
+*© 2024 Research Compliance Hub – All rights reserved.*
