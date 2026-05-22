@@ -1,37 +1,23 @@
-# SOLAR Minimal Automation Artifact
+# Slideshot Automation
 
-## Overview
-This artifact provides a concise description of a single API endpoint that enables the **Tool‑Augmented Agent for Closed‑loop Optimization, Simulation, and Modeling Orchestration**.
+This page provides a minimal automation script for Slideshot.
 
-### Endpoint: `/api/run_simulation`
-- **Method:** `POST`
-- **Description:** Triggers a simulation run with the provided configuration.
-- **Request Body (JSON):**
-```json
-{
-  "simulation_id": "string",   // Unique identifier for the simulation
-  "parameters": {                // Key‑value pairs of simulation parameters
-    "duration": 60,            // in seconds
-    "resolution": "high",
-    "seed": 12345
-  }
-}
-```
-- **Response (JSON):**
-```json
-{
-  "status": "queued",
-  "run_id": "string",
-  "estimated_completion": "2026-05-22T15:30:00Z"
-}
+```python
+import requests
+
+# Payment link for Slideshot
+payment_link = "https://buy.stripe.com/test_eVq6ozblV0csazhbf4c7F0Z"
+
+# Simple function to notify a buyer via email (placeholder)
+def notify_buyer(email):
+    # In real use, integrate with your email service
+    print(f"Send email to {email} with link {payment_link}")
+
+# Example usage
+if __name__ == "__main__":
+    test_emails = ["buyer1@example.com", "buyer2@example.com"]
+    for e in test_emails:
+        notify_buyer(e)
 ```
 
-### Usage Example (cURL)
-```bash
-curl -X POST https://your‑solar‑agent.com/api/run_simulation \
-  -H "Content-Type: application/json" \
-  -d '{"simulation_id":"demo","parameters":{"duration":120,"resolution":"medium","seed":42}}'
-```
-
----
-*This minimal artifact is intended for quick integration and testing of the SOLAR platform.*
+Deploy this script as part of your automation pipeline to quickly notify leads about the Slideshot product.
