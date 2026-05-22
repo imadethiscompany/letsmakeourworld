@@ -1,38 +1,12 @@
-# Slideshot – Turn Slides into Engaging Videos Instantly
+# Takeaways Automation Artifact
 
-**Headline:** *Create professional videos from your PowerPoint slides in seconds.*
+This minimal automation artifact provides a **one‑click purchase** for the "Takeaways from the Democratic National Committee's long‑awaited autopsy report".
 
-**Sub‑headline:** No editing, no voice‑over, no hassle. Upload a deck, choose a style, and get a share‑ready video.
+- **Product:** Takeaways Report
+- **Price:** $49.00
+- **Features:**
+  - PDF download of the full report analysis
+  - Email delivery within minutes
+  - Lifetime access
 
----
-
-## Why Slideshot?
-- **Save Time:** 5‑minute video vs hours of editing.
-- **Boost Engagement:** Videos get 3‑5× higher click‑through rates than PDFs.
-- **Zero Skills Needed:** No design or editing experience required.
-- **Instant Export:** Download MP4 or share a private link.
-
----
-
-## How It Works
-1. **Upload** your PowerPoint or Google Slides.
-2. **Pick** a template (Corporate, Modern, Minimalist).
-3. **Generate** – our AI adds transitions, music, and captions.
-4. **Download** the video or embed it directly.
-
----
-
-### Ready to transform your decks?
-
-[**Get Slideshot Now**](https://buy.stripe.com/test_eVq6ozblV0csazhbf4c7F0Z){: .btn-primary }
-
----
-
-#### Frequently Asked Questions
-- **Do I need a Stripe account?** Only to complete the purchase; we accept credit cards.
-- **How long does a video take?** Most decks render in under 2 minutes.
-- **Can I customize music?** Yes – choose from our royalty‑free library.
-
----
-
-© 2024 Slideshot. All rights reserved.
+[Buy Now](https://buy.stripe.com/example)
