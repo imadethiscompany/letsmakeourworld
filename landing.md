@@ -1,51 +1,50 @@
-# Faby – Your AI‑Powered Personal Assistant
+# Faby: Your Personal AI Assistant for Everyday Tasks
 
-## Headline
-**Get More Done in Half the Time with Faby**
+## Get More Done in Less Time with AI-powered Automation
 
-### Sub‑headline
-Faby is an AI‑driven personal assistant that organizes your tasks, drafts emails, and automates daily workflows—all in plain English.
+**Faby** is a smart, voice‑enabled AI companion that helps you manage your schedule, answer emails, draft documents, and automate repetitive chores—all with a simple "Hey Faby".
 
 ---
 
-### Why Faby?
-- **Save 5+ hours/week** – Automate repetitive tasks like scheduling, inbox triage, and report generation.
-- **Never miss a deadline** – Smart reminders sync with Google Calendar and Outlook.
-- **Write faster, think clearer** – AI‑crafted drafts for emails, proposals, and social posts.
-- **Privacy‑first** – End‑to‑end encryption, data never leaves your device.
+### Why Choose Faby?
+- **Save Hours Every Week** – Reduce inbox overload by 70% and cut meeting prep time in half.
+- **Never Forget Anything** – Intelligent reminders sync across all your devices.
+- **Secure & Private** – Your data stays encrypted; we never share it.
+- **Easy to Use** – No coding required. Just talk, type, or tap.
 
 ---
 
-### How It Works (3‑Step Simple)
-1. **Connect** – Link your calendar, email, and favorite apps.
-2. **Tell Faby** – Use natural language to assign tasks or ask for drafts.
-3. **Relax** – Faby executes, notifies, and learns to do it better next time.
+#### Key Features
+1. **Voice & Text Commands** – Ask Faby to schedule, summarize, or research.
+2. **Smart Email Drafting** – Generate professional replies in seconds.
+3. **Document Creation** – Auto‑populate reports, proposals, and newsletters.
+4. **Workflow Automation** – Connect to your favorite apps (Google, Slack, Notion).
+5. **Personalized Insights** – Daily productivity tips based on your habits.
 
 ---
 
-### Social Proof
-> "Faby cut my admin time from 10 hours to 2 hours a week. I finally have time for strategic work." – *Samantha L., Marketing Director*
+### What Our Users Say
+> "Faby has become my right‑hand. I reclaimed 10+ hours a week!" – *Samantha K., Founder*
+
+> "I love the privacy focus. I feel safe delegating tasks to Faby." – *Raj P., CTO*
 
 ---
 
-### Pricing
-- **Free Trial (7 days)** – No credit card required.
-- **Pro – $49/mo** – Unlimited automations, priority support, and team sharing.
+## Ready to Transform Your Day?
 
-[**Start My Free Trial**](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k)
+**One‑time payment: $49** – No subscription, no hidden fees.
 
----
-
-### FAQs
-**Q:** Do I need any coding skills?
-**A:** No. Just speak or type what you need.
-
-**Q:** Is my data safe?
-**A:** Yes. All data is encrypted at rest and in transit.
+[Buy Now with Stripe](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k)
 
 ---
 
-#### Ready to supercharge your productivity?
-[**Get Started with Faby**](https://buy.stripe.com/test_4gM4gr61B8IYePx5UKc7F2k)  
+### Frequently Asked Questions
+**Q:** Is there a free trial?
+**A:** Try a 7‑day money‑back guarantee.
 
-*No credit card. Cancel anytime.*
+**Q:** Do I need any technical setup?
+**A:** No. Install the app and start talking.
+
+---
+
+*Boost your productivity. Let Faby handle the busy work.*
