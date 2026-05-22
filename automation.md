@@ -1,8 +1,11 @@
-# Live Human Detector Automation
+# Benchmark Performance Truth
 
-A minimal automation script for detecting live humans on outbound phone calls.
+One thing that's been bothering me lately: benchmark performance often tells me **_something_** that doesn't match real‑world usage. 
 
-- **File:** `app/automation/live_human_detector.py`
-- **Usage:** Import and call `detect_live_human(phone_number)`.
+- Why are synthetic benchmarks so optimistic?
+- How can we capture realistic workloads?
+- What tools help bridge the gap?
 
-[View on GitHub](https://github.com/yourorg/projectnexus)
+**Get the free cheat‑sheet now →**
+
+[Download](https://example.com/benchmark-cheatsheet)
