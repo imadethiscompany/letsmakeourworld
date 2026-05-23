@@ -1,65 +1,51 @@
-# SpaceX Launches Starship V3 Rocket – Witness the Future of Spaceflight
+<section class="hero" style="text-align:center;padding:80px 20px;background:#0a0a23;color:#fff;">
+  <h1 style="font-size:48px;margin-bottom:20px;">AI Funding Alerts – Anthropic $30B Round</h1>
+  <p style="font-size:20px;margin-bottom:30px;max-width:800px;margin:auto;">
+    Stay ahead of the curve with real‑time alerts on the biggest AI funding events. Get exclusive insights on Anthropic’s $30 billion financing round and unlock high‑value investment opportunities before anyone else.
+  </p>
+  <a href="#lead-form" style="background:#ff5a00;color:#fff;padding:15px 30px;border-radius:5px;text-decoration:none;font-weight:bold;">Get Early Access</a>
+</section>
 
-**Headline:**
+<section style="padding:60px 20px;background:#f9f9f9;">
+  <h2 style="text-align:center;font-size:36px;margin-bottom:40px;">Why Investors Trust Our Alerts</h2>
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:30px;max-width:1200px;margin:auto;">
+    <div style="flex:1 1 300px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>Instant Notification</h3>
+      <p>Receive email and SMS alerts the moment a major AI funding round is announced.</p>
+    </div>
+    <div style="flex:1 1 300px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>Deep Data Insights</h3>
+      <p>Access detailed breakdowns – investors, valuation, lead partners, and strategic implications.</p>
+    </div>
+    <div style="flex:1 1 300px;background:#fff;padding:20px;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      <h3>Curated Deal Flow</h3>
+      <p>Only the most credible, high‑impact AI deals – no noise, just opportunity.</p>
+    </div>
+  </div>
+</section>
 
-_"Experience the next leap in space exploration – the Starship V3 is here."
+<section style="padding:60px 20px;max-width:800px;margin:auto;">
+  <h2 style="font-size:32px;margin-bottom:20px;">What You’ll Get With the Anthropic $30B Alert</h2>
+  <ul style="font-size:18px;line-height:1.6;">
+    <li>Exact funding amount and round structure.</li>
+    <li>List of participating VC firms and strategic investors.</li>
+    <li>Projected impact on AI market dynamics.</li>
+    <li>Comparable historic deals and valuation benchmarks.</li>
+    <li>Actionable next‑step recommendations for investors.</li>
+  </ul>
+</section>
 
-**Sub‑headline:**
+<section id="lead-form" style="padding:60px 20px;background:#e8f4ff;">
+  <h2 style="text-align:center;font-size:36px;margin-bottom:30px;">Reserve Your Spot – Limited Seats</h2>
+  <form method="POST" action="https://example.com/api/lead-capture" style="max-width:500px;margin:auto;display:flex;flex-direction:column;gap:15px;">
+    <input type="text" name="name" placeholder="Full Name" required style="padding:12px;font-size:16px;border:1px solid #ccc;border-radius:4px;"/>
+    <input type="email" name="email" placeholder="Email Address" required style="padding:12px;font-size:16px;border:1px solid #ccc;border-radius:4px;"/>
+    <input type="text" name="company" placeholder="Company (optional)" style="padding:12px;font-size:16px;border:1px solid #ccc;border-radius:4px;"/>
+    <button type="submit" style="background:#ff5a00;color:#fff;padding:15px;font-size:18px;border:none;border-radius:5px;cursor:pointer;">Get the Alert Now</button>
+  </form>
+  <p style="text-align:center;margin-top:15px;font-size:14px;color:#555;">We respect your privacy. No spam – just high‑value AI funding intel.</p>
+</section>
 
-The newest iteration of SpaceX’s fully‑reusable Starship is set to revolutionize satellite deployment, lunar missions, and interplanetary travel. Get exclusive insights, live launch updates, and a behind‑the‑scenes look at the technology that’s changing humanity’s destiny.
-
----
-
-## Why This Launch Matters
-
-- **Unmatched Payload Capacity:** Carry up to 100 t to low‑Earth orbit – enough for entire constellations in a single flight.
-- **Full Reusability:** Land and reuse the booster and spacecraft, slashing launch costs by up to 90 %.
-- **Deep‑Space Ready:** Designed for lunar landings and Mars missions – the first step toward a multiplanetary future.
-- **Live Telemetry & Interactive Maps:** Follow the launch in real time with our custom dashboard.
-
----
-
-## What You’ll Get
-
-1. **Live Launch Countdown Timer** – Never miss the lift‑off.
-2. **Step‑by‑Step Mission Brief** – Technical specs, mission objectives, and why V3 is a game‑changer.
-3. **Behind‑the‑Scenes Video Tour** – Inside SpaceX’s manufacturing floor and launch control.
-4. **Exclusive Post‑Launch Report** – Data on performance, payloads, and next steps.
-5. **Community Forum Access** – Join space enthusiasts, engineers, and investors.
-
----
-
-## How It Works (4 Simple Steps)
-
-1. **Sign Up** – Enter your email to receive instant launch alerts.
-2. **Choose Your Experience** – Select live stream, telemetry dashboard, or the full premium package.
-3. **Watch the Launch** – Stream in HD with real‑time commentary from industry experts.
-4. **Get the Report** – Receive a detailed PDF analysis within 24 hours.
-
----
-
-## Frequently Asked Questions
-
-**Q: Do I need any special equipment to watch the launch?**
-A: No. Our web‑based player works on any modern browser and device.
-
-**Q: Is the post‑launch report free?**
-A: The basic report is free for all sign‑ups. The premium data suite is $99 (one‑time).
-
-**Q: Can I watch the launch on my TV?**
-A: Yes – just cast the browser window or use our Roku app.
-
----
-
-## Ready to Experience History?
-
-[**Start Free Access**](https://buy.stripe.com/test_8x228j9dNf7m9vd96Wc7F2F)
-
-*Join thousands of space enthusiasts and be the first to witness the Starship V3 lift‑off.*
-
----
-
-**Meta Tags:**
-
-- **Title:** SpaceX Starship V3 Launch – Live Stream, Countdown & Report
-- **Description:** Watch SpaceX’s Starship V3 launch live, get real‑time telemetry, and receive an exclusive post‑launch performance report. Sign up now for free access!
+<section style="padding:40px 20px;background:#222;color:#ddd;text-align:center;">
+  <p>© 2024 AI Funding Alerts. All rights reserved.</p>
+</section>
