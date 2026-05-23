@@ -1,24 +1,20 @@
-# BTC $74,885.00 (-3.0% 24h)
+# ETH Price Alert – $2,039.01 (-4.2% 24h)
 
-## Stay Ahead of the Crypto Market
+## Stay Ahead of the Market
 
-**Live price:** $74,885.00 (down 3.0% in the last 24 hours)
+The price of Ethereum just slipped to **$2,039.01**, down **4.2% in the last 24 hours**. Don't miss the next move – get real‑time alerts straight to your inbox or phone.
 
-Don't miss the next move. Get instant alerts, expert analysis, and actionable signals directly to your inbox.
+### Why You Need This Alert
+- **Instant notification** the moment ETH price crosses your threshold
+- **Actionable insights** with short‑term trend analysis
+- **Never miss a buying or selling opportunity** again
 
-### Why Subscribe?
-- **Real‑time price updates** – seconds after the market moves.
-- **Pro‑level analysis** – concise insights from seasoned traders.
-- **Actionable alerts** – buy, hold, or sell recommendations.
-- **Zero‑risk trial** – first 7 days free, cancel anytime.
+### How It Works
+1. **Sign up** with your email (just a few seconds).
+2. **Set your price trigger** – we’ll watch the market for you.
+3. **Get notified** instantly via email or SMS.
 
-### Join the Community of Smart Traders
-
-> “The alerts helped me capture a 5% swing in just two days.” – Alex, crypto enthusiast
-
-[**Start Free 7‑Day Trial**](#)  
-*No credit card required.*
+[**Get the ETH Price Alert Now →**](https://buy.stripe.com/test_8x28wH2Pp4sI6j12Iyc7F3h)
 
 ---
-
-*Disclaimer: Crypto trading involves risk. This service provides signals, not financial advice.*
+*Limited time offer – secure your spot today.*
