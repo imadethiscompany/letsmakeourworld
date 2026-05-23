@@ -1,23 +1,48 @@
-# Canva for AI Training
 
-## Build AI training assets as easily as you design graphics.
+# Supercharge Your Code with **OptiCode**
 
-**Create, edit, and share AI training data** – no code, no DevOps, just a visual canvas.
+## Write Faster. Run Faster. Deploy Smarter.
 
-- **Drag‑and‑drop data pipelines** – import datasets, label, augment, and export with a single click.
-- **Collaborate in real‑time** – teammates can comment, approve, and version‑control training sets together.
-- **One‑click model-ready export** – get JSONL, TFRecord, or HuggingFace-ready bundles instantly.
-
-### Who is this for?
-- **AI engineers** who spend weeks prepping data.
-- **Product teams** that need rapid prototypes.
-- **Educators & students** building custom models for class projects.
-
-### Why now?
-Data preparation is the biggest bottleneck in AI projects – 80% of time is spent on cleaning and labeling. Our visual tool slashes that to <5%.
-
-### Get early access
-[ **Join the waitlist** ](https://example.com/waitlist) – be the first to create AI training sets without writing a line of code.
+**Instantly analyze, refactor, and optimize any codebase** – from a single file to enterprise‑scale monorepos. No plugins, no manual audits. Just push your repo and watch the performance gains.
 
 ---
-*Powered by OpenAI, LangChain, and a custom UI built on top of Figma‑like components.*
+
+### Why OptiCode?
+- **Cut build times by up to 70%** – our AI‑driven optimizer finds hidden bottlenecks.
+- **Reduce cloud costs** – lower CPU/memory usage translates to real dollar savings.
+- **Boost developer productivity** – auto‑generated refactor suggestions, lint‑free code, and one‑click CI integration.
+- **Secure & compliant** – all transformations are audited and version‑controlled.
+
+---
+
+### How It Works
+1. **Connect your repo** – GitHub, GitLab, Bitbucket.
+2. **Run an optimization scan** – our engine analyzes dependencies, hot paths, and runtime metrics.
+3. **Apply smart fixes** – accept auto‑generated PRs or customize.
+4. **Deploy with confidence** – watch performance dashboards in real‑time.
+
+---
+
+### Trusted by Teams
+> "OptiCode shaved 45 minutes off our nightly builds and saved us $3k/month on AWS." – *Lead Engineer, FinTech Startup*
+
+> "Our developers love the instant PR suggestions – code quality has never been higher." – *CTO, E‑commerce Platform*
+
+---
+
+## Ready to Accelerate Your Code?
+
+### **Start Your Free 14‑Day Trial** – No credit card required.
+
+[Start Free Trial →](#)
+
+---
+
+**FAQ**
+- **Is my code safe?** All analysis runs in an isolated environment; no code leaves your repo.
+- **Supported languages?** JavaScript/TypeScript, Python, Go, Java, Ruby, and more.
+- **Integrations?** CI/CD pipelines, Slack alerts, GitHub Actions.
+
+---
+
+*Got questions?* <a href="mailto:support@opticode.com">Email us</a> or book a demo.
