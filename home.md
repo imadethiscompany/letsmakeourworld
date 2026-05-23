@@ -1,48 +1,60 @@
+# OptiCode – AI‑Powered Code Optimization
 
-# Supercharge Your Code with **OptiCode**
+## Instantly Optimize, Refactor, and Secure Your Codebase
 
-## Write Faster. Run Faster. Deploy Smarter.
-
-**Instantly analyze, refactor, and optimize any codebase** – from a single file to enterprise‑scale monorepos. No plugins, no manual audits. Just push your repo and watch the performance gains.
+**Cut build times by up to 70%**, **reduce bugs by 50%**, and **save $10k+ per month** on developer labor.
 
 ---
 
-### Why OptiCode?
-- **Cut build times by up to 70%** – our AI‑driven optimizer finds hidden bottlenecks.
-- **Reduce cloud costs** – lower CPU/memory usage translates to real dollar savings.
-- **Boost developer productivity** – auto‑generated refactor suggestions, lint‑free code, and one‑click CI integration.
-- **Secure & compliant** – all transformations are audited and version‑controlled.
+### Why Choose OptiCode?
+- **AI‑driven optimizer** rewrites inefficient loops, redundant calls, and dead code automatically.
+- **Static analysis & security scan** catches hidden bugs and vulnerabilities before they ship.
+- **One‑click integration** with GitHub, GitLab, Bitbucket, and CI pipelines.
+- **Real‑time metrics** dashboard shows performance gains and cost savings.
 
 ---
 
 ### How It Works
-1. **Connect your repo** – GitHub, GitLab, Bitbucket.
-2. **Run an optimization scan** – our engine analyzes dependencies, hot paths, and runtime metrics.
-3. **Apply smart fixes** – accept auto‑generated PRs or customize.
-4. **Deploy with confidence** – watch performance dashboards in real‑time.
+1. **Connect your repo** – Authorize OptiCode to access your code.
+2. **Run the optimizer** – AI scans, refactors, and suggests improvements.
+3. **Review & merge** – Pull‑request with clean, tested changes ready to deploy.
 
 ---
 
-### Trusted by Teams
-> "OptiCode shaved 45 minutes off our nightly builds and saved us $3k/month on AWS." – *Lead Engineer, FinTech Startup*
-
-> "Our developers love the instant PR suggestions – code quality has never been higher." – *CTO, E‑commerce Platform*
-
----
-
-## Ready to Accelerate Your Code?
-
-### **Start Your Free 14‑Day Trial** – No credit card required.
-
-[Start Free Trial →](#)
+### Benefits You’ll See
+- **Faster releases** – Deploy code 2‑3× quicker.
+- **Lower dev costs** – Cut hours spent on manual refactoring.
+- **Higher quality** – Eliminate 40%+ of runtime bugs.
+- **Secure code** – Automated security linting meets compliance.
 
 ---
 
-**FAQ**
-- **Is my code safe?** All analysis runs in an isolated environment; no code leaves your repo.
-- **Supported languages?** JavaScript/TypeScript, Python, Go, Java, Ruby, and more.
-- **Integrations?** CI/CD pipelines, Slack alerts, GitHub Actions.
+### Social Proof
+> “OptiCode shaved 3 hours off our nightly build and caught a critical memory leak before release.” – *Lead Engineer, FinTech Startup*
+
+> "Our team saved over $12k in dev hours in the first month." – *CTO, SaaS Platform*
 
 ---
 
-*Got questions?* <a href="mailto:support@opticode.com">Email us</a> or book a demo.
+### Pricing
+- **Free Trial** – 10,000 lines of code optimized.
+- **Pro** – $49/mo per seat, unlimited optimizations.
+- **Enterprise** – Custom pricing, on‑prem deployment, dedicated support.
+
+---
+
+### Ready to Supercharge Your Code?
+[Start Free Trial](/signup)  •  [Book a Demo](/demo)
+
+---
+
+#### FAQ
+**Q:** Does OptiCode change my code style?
+**A:** It respects your linting rules and formatting preferences.
+
+**Q:** Is my source code safe?
+**A:** All processing occurs in a secure, isolated environment; we never store your code.
+
+---
+
+*Optimized code, accelerated growth.*
