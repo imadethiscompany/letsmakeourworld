@@ -1,41 +1,26 @@
 # YouTube Automation Agency
 
-## Scale Your Channel to 6‑Figures on Autopilot
+## Scale Your Channel Without Lifting a Finger
 
-**Turn views into revenue without lifting a finger.**
+**Turn YouTube into a revenue engine** with our fully‑managed automation service. We handle content creation, SEO‑optimized uploads, thumbnail design, and community engagement—so you can focus on the ideas that matter.
 
 ### Why Choose Us?
-- **Full‑service automation** – video creation, upload, SEO, thumbnail, and community management.
-- **AI‑driven content** – generate scripts, voice‑overs, and edits in minutes.
-- **Zero‑hands‑on** – we handle everything from ideation to monetization.
-- **Proven results** – clients see **3‑5× growth** in subscriber count within 90 days.
+- **Zero‑Hands‑On Production** – AI‑generated scripts, voice‑overs, and motion‑graphics.
+- **SEO‑Boosted Uploads** – Keyword‑rich titles, tags, and descriptions that rank.
+- **Automated Community** – Daily comment replies, likes, and subscriber outreach.
+- **Revenue Guarantees** – 2‑3× subscriber growth, 5‑10× ad‑revenue lift in 90 days.
 
-### Our Packages
-| Plan | Monthly Fee | Videos / Month | Features |
-|------|-------------|----------------|----------|
-| **Starter** | $499 | 4 | AI script + voice, SEO‑optimized titles, thumbnail design |
-| **Growth** | $999 | 8 | All Starter + community engagement, ad‑copy, analytics dashboard |
-| **Enterprise** | $2,499 | 20+ | Dedicated account manager, custom branding, full ad‑spend management |
+### Our 4‑Step System
+1. **Strategy Call** – Define niche, goals, and brand voice.
+2. **Content Engine** – AI script → voice → video (cinematic quality).
+3. **Launch & Optimize** – Automated uploads, A/B thumbnail testing.
+4. **Scale & Monetize** – Audience funnels, sponsorship matchmaking.
 
-> "We went from 0 to 10k subs in 2 months – the automation saved us 30+ hrs each week!" – *TechVloggers Co.*
+## Ready to Automate?
 
-### Frequently Asked Questions
-**Q:** Do I need to record any footage?
-**A:** No. Our AI creates high‑quality video from text, stock footage, and motion graphics.
+**Book a free 15‑minute audit** and see a custom growth plan.
 
-**Q:** How fast can I see results?
-**A:** Most clients notice a lift in views within the first week and steady subscriber growth thereafter.
-
-**Q:** Is there a long‑term contract?
-**A:** No. Cancel anytime with 30‑day notice.
+[**Schedule My Call →**](https://calendly.com/youautomation/audit)
 
 ---
-
-### Ready to dominate YouTube?
-
-[Schedule a Free Strategy Call](https://calendly.com/youragency/strategy)  
-Or **[Buy the Growth Plan now](/checkout?plan=growth)** and start scaling today.
-
----
-
-*SEO Keywords: YouTube automation, AI video creation, grow YouTube channel, YouTube agency, automated video production*
+*No contracts. Cancel anytime. Results‑based pricing starting at **$1,999/month**.*
