@@ -1,12 +1,20 @@
-# Command A+ Automation
+# Pipeline Speed Automation
 
-This minimal automation artifact demonstrates a simple API endpoint that returns a greeting.
+This minimal automation artifact provides a simple Python script to assess pipeline latency and send a notification.
 
-```javascript
-// pages/api/command-a-plus.js
-export default function handler(req, res) {
-  res.status(200).json({ message: "Command A+ is live!" });
-}
+```python
+import time
+import requests
+
+def check_pipeline():
+    # Placeholder logic: simulate check
+    latency = 120  # seconds, dummy value
+    if latency > 60:
+        requests.post('https://example.com/notify', json={'msg': f'Pipeline latency high: {latency}s'})
+    return latency
+
+if __name__ == '__main__':
+    print('Pipeline latency:', check_pipeline())
 ```
 
-Deploy this to Vercel to get a live endpoint.
+Deploy this script as part of your automation suite.
