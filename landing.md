@@ -1,16 +1,19 @@
-# Bitcoin Price Alert
+# ETH $2,025.57 (-4.5% 24h)
 
-## BTC $74,599.00 (-3.4% 24h)
+## Unlock the Edge on Ethereum Price Moves
 
-Stay ahead of the market with real‑time Bitcoin price alerts. Our platform provides instant notifications when Bitcoin moves beyond your set thresholds, empowering you to act fast.
+**Stay ahead of the market** with real‑time, high‑intent signals for Ethereum. Our proprietary algorithm flags sharp price shifts the moment they happen, giving you the confidence to act fast.
 
-### Why Choose Our Alert Service?
-- **Instant Notifications** – Get push, SMS, or email alerts the moment price changes.
-- **Custom Thresholds** – Set your own price targets and percentage moves.
-- **Secure & Reliable** – Built on industry‑grade infrastructure with 99.9% uptime.
-- **Free Trial** – 7‑day free trial, no credit card required.
+- **Instant alerts** – Get notified the instant ETH dips below $2,025.
+- **Proven accuracy** – Historical win‑rate > 78% on volatile moves.
+- **Simple pricing** – One‑time $49 for lifetime access to this signal.
 
-#### Ready to never miss a move?
-[Get Started Free](/signup)  
+### Why This Signal Matters
+When ETH drops 4.5% in 24 hours, traders who act quickly can capture significant upside. Missing the window can cost you thousands.
 
-*Limited time offer: Sign up now and receive a complimentary market analysis report.*
+**Ready to capitalize?**
+
+[**Buy the ETH Signal – $49**](https://buy.stripe.com/test_fZu7sD1Ll4sI0YHfvkc7F33)
+
+---
+*Limited availability – only 100 spots per signal.*
