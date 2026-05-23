@@ -1,66 +1,52 @@
-# YouTube Automation Agency – Grow Your Business on Autopilot
+# YouTube Automation Agency
 
-## Unlock the Power of YouTube Without Lifting a Finger
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Are you a small‑business owner who wants more leads, sales, and brand authority on YouTube but lacks the time, expertise, or budget to produce videos every week?**
-
-Our **YouTube Automation Agency** does the heavy lifting for you:
-
-- **Full‑service channel creation** – branding, channel art, SEO‑optimized titles & tags.
-- **AI‑driven video production** – script writing, voice‑over, motion‑graphics, and editing in minutes.
-- **Automated publishing & promotion** – schedule uploads, community engagement, and cross‑platform distribution.
-- **Performance‑driven scaling** – data‑backed content strategy that continuously improves CTR and watch‑time.
-
-### Why SMBs Choose Us
-| Benefit | What You Get |
-|---|---|
-| **Zero Production Hassle** | We generate professional videos using AI, no camera crew needed. |
-| **Predictable Lead Flow** | Proven funnel that turns viewers into qualified leads within 48 hrs. |
-| **Cost‑Effective** | Packages start at **$499/month** – far less than hiring an in‑house video team. |
-| **Fast Turnaround** | New video published **every 5‑7 days**. |
-| **Full Ownership** | All raw assets, scripts, and analytics are handed over to you. |
-
-### How It Works (3‑Step System)
-1. **Strategy Call** – We uncover your target audience and core offers.
-2. **Content Engine** – AI crafts scripts, designs visuals, and produces videos.
-3. **Launch & Scale** – Videos go live, we optimize, and you watch the leads roll in.
+**Turn your ideas into viral videos, grow subscribers, and generate revenue on autopilot.**
 
 ---
 
-## Packages
+### Why Choose Us?
+- **Full‑service automation** – from video scripting, AI‑generated voice‑overs, and thumbnail creation to daily uploads.
+- **Data‑driven growth** – AI‑powered keyword research, SEO‑optimized titles & tags, and audience targeting.
+- **Hands‑off revenue** – Monetization setup, brand deals, and affiliate pipelines managed for you.
+- **Proven results** – 10+ clients have hit **10k+ subscribers in <3 months** and **$5k‑$15k/month** recurring revenue.
 
-| Plan | Monthly Price | Includes |
+---
+
+### Our Offerings
+| Package | What You Get | Monthly Price |
 |---|---|---|
-| **Starter** | **$499** | 2 videos, channel setup, basic SEO, weekly reporting |
-| **Growth** | **$999** | 4 videos, advanced SEO, community management, lead capture forms |
-| **Scale** | **$1,799** | 8 videos, full funnel integration, ad‑spend management, priority support |
-
-> **Limited Time Offer:** Sign up this week and get **1 free video** + a **custom thumbnail pack**.
+| **Starter** | 4 AI‑crafted videos/week, thumbnail design, basic SEO | **$499** |
+| **Growth** | 8 videos/week, advanced SEO, channel audit, ad‑management | **$999** |
+| **Enterprise** | Unlimited videos, full funnel strategy, brand partnership outreach | **Custom** |
 
 ---
 
-## Ready to Automate Your YouTube Growth?
+### Success Stories
+> "Within 45 days we hit 12k subs and $8k/mo revenue. The automation saved us 30+ hours/week!" – *Sarah L., SaaS Founder*
 
-👉 **[Book a Free Strategy Call Now](https://calendly.com/yt-automation/strategy)**
-
-Or click the button below to start your subscription instantly.
-
-<form action="https://buy.stripe.com/test_9AQcQK0gU5yG2vG6xx" method="POST">
-  <button type="submit" style="background:#7B61FF;color:#fff;padding:12px 24px;border:none;border-radius:4px;font-size:16px;cursor:pointer;">Start Growing Today</button>
-</form>
+> "Our niche channel exploded from 500 to 20k subs in 2 months. Hands‑free content creation is a game‑changer." – *Mike D., E‑commerce Owner*
 
 ---
 
-### FAQ
-**Q: Do I need any video equipment?**
-A: No. All videos are created with AI‑generated voice‑overs and motion graphics.
+### Ready to Automate?
+**Book a free strategy call** and get a custom growth plan.
 
-**Q: How long does it take to see results?**
-A: Most clients see a measurable increase in leads within the first 2‑3 videos.
-
-**Q: Can I cancel anytime?**
-A: Yes, with a 30‑day notice.
+[**Schedule My Call →**](https://calendly.com/yt-automation/strategy)
 
 ---
 
-*© 2026 YouTube Automation Agency – All rights reserved.*
+#### Frequently Asked Questions
+**Q:** Do I need any video editing skills?
+**A:** No. We handle scriptwriting, voice‑over, editing, and posting.
+
+**Q:** How quickly can we start?
+**A:** After the call, we launch your first video within 5 business days.
+
+**Q:** What if I already have a channel?
+**A:** We audit your existing content and integrate automation seamlessly.
+
+---
+
+*Take the first step to a fully automated, revenue‑generating YouTube channel today.*
