@@ -1,63 +1,52 @@
-# LQS v3.1 – Open Methodology for Rating AI Training Data
+# CISA Tries to Contain Data Leak
 
-**Unlock trustworthy AI with a transparent, multi‑oracle consensus rating system.**
+## Headline
+**Stop the Leak Before It Hits Your Business**
 
----
-
-## Why LQS?
-- **Data quality is the new moat** – Poor training data leads to hallucinations, bias, and costly model retraining.
-- **No single oracle can guarantee truth** – Multiple experts, automated validators, and community feedback give a robust consensus.
-- **Open, auditable, and extensible** – Built on open standards, you can plug‑in your own oracles and export ratings as JSON‑LD.
+### Sub‑headline
+The Cybersecurity and Infrastructure Security Agency (CISA) is sounding the alarm on a massive data breach. Learn how to protect your organization now.
 
 ---
 
-## How It Works (3‑Step Flow)
-1. **Ingest** – Feed raw datasets (CSV, JSONL, Parquet) into the LQS pipeline.
-2. **Score** – Each oracle (human expert, synthetic validator, statistical test) assigns a confidence score 0‑100.
-3. **Aggregate** – Multi‑oracle consensus algorithm computes a final rating, flagging outliers for review.
-
-> *Result: One‑click data quality dashboards, actionable remediation, and compliance‑ready reports.*
+### Why This Matters
+- **Immediate risk** – Sensitive data is already circulating on dark‑web forums.
+- **Regulatory pressure** – Breaches trigger costly fines and brand damage.
+- **Operational disruption** – Data loss halts projects and erodes customer trust.
 
 ---
 
-## Key Benefits
-- **Reduce model errors by up to 42%** (benchmark on GPT‑4 fine‑tuning).
-- **Cut data‑cleaning time from weeks to hours** with automated flagging.
-- **Gain auditability** – Every rating is traceable to its source oracle.
-- **Scale across domains** – Text, images, audio, and tabular data.
+### What You’ll Get
+1. **Rapid‑Response Playbook** – Step‑by‑step actions to contain the leak within 24 hours.
+2. **Threat Intelligence Dashboard** – Real‑time monitoring of exposed assets.
+3. **Compliance Checklist** – Ensure you meet CISA’s latest guidance and avoid penalties.
+4. **Expert Consultation** – 30‑minute call with a certified CISA response analyst (free for the first 20 sign‑ups).
 
 ---
 
-## Who Should Use LQS?
-- **AI product teams** building foundation models.
-- **Data engineering & MLOps** groups needing continuous data quality monitoring.
-- **Compliance officers** requiring proof of data provenance.
-- **Research labs** that share datasets publicly.
+### How It Works
+1. **Assess** – Use our free scanner to detect compromised data.
+2. **Contain** – Follow the playbook to isolate affected systems.
+3. **Recover** – Deploy remediation tools and verify integrity.
+4. **Report** – Generate audit‑ready reports for regulators.
 
 ---
 
-## Get Started Today
-- **Free 14‑day trial** – No credit card required.
-- **Self‑hosted Docker image** or **managed SaaS**.
-- **Community support** on Discord and GitHub.
+### FAQs
+**Q: Is this only for federal agencies?**
+A: No. Any organization handling sensitive data is at risk.
 
-[**Start Free Trial →**](https://example.com/lqs-v3-1/trial)
+**Q: How fast can I start?**
+A: The playbook is downloadable instantly after you submit the form.
 
----
-
-### Frequently Asked Questions
-**Q:** *Can I add my own custom oracle?*  
-**A:** Yes – plug in any Python callable that returns a 0‑100 score.
-
-**Q:** *Is my data private?*  
-**A:** All data stays in your VPC; we never store raw datasets.
-
-**Q:** *What formats are supported?*  
-**A:** CSV, JSONL, Parquet, TFRecord, and image folders.
+**Q: Will I need a large security team?**
+A: Our guide is designed for small‑to‑mid‑size teams; we provide templates and scripts.
 
 ---
 
-### Join the Early Adopter Program
-We’re offering **20% off** the first year for the first 50 sign‑ups.
+### Call to Action
+**Secure Your Data Now →**
+[Get the Free Playbook](/cisa-leak-playbook)
 
-[**Claim Discount →**](https://example.com/lqs-v3-1/discount)
+---
+
+*Stay ahead of the breach. CISA’s warning is loud – your response should be louder.*
