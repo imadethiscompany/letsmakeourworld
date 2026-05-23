@@ -1,52 +1,33 @@
-# YouTube Automation Agency
+# AI Pessimism Commentary Channel
 
-## Scale Your YouTube Channel Without Lifting a Finger
+**Stay ahead of the AI narrative.**
 
-**Turn your ideas into viral videos, grow subscribers, and generate revenue on autopilot.**
-
----
-
-### Why Choose Us?
-- **Full‑service automation** – from video scripting, AI‑generated voice‑overs, and thumbnail creation to daily uploads.
-- **Data‑driven growth** – AI‑powered keyword research, SEO‑optimized titles & tags, and audience targeting.
-- **Hands‑off revenue** – Monetization setup, brand deals, and affiliate pipelines managed for you.
-- **Proven results** – 10+ clients have hit **10k+ subscribers in <3 months** and **$5k‑$15k/month** recurring revenue.
+*Every week we break down the most alarming AI news, separate hype from reality, and deliver actionable insights you can trust.*
 
 ---
 
-### Our Offerings
-| Package | What You Get | Monthly Price |
-|---|---|---|
-| **Starter** | 4 AI‑crafted videos/week, thumbnail design, basic SEO | **$499** |
-| **Growth** | 8 videos/week, advanced SEO, channel audit, ad‑management | **$999** |
-| **Enterprise** | Unlimited videos, full funnel strategy, brand partnership outreach | **Custom** |
+## Why you need this
+- **Cut through the noise** – Get concise commentary on the latest AI pessimism headlines.
+- **Make better decisions** – Understand real‑world implications for tech, policy, and business.
+- **Join a community** – Access a private Discord where members discuss each episode.
 
 ---
 
-### Success Stories
-> "Within 45 days we hit 12k subs and $8k/mo revenue. The automation saved us 30+ hours/week!" – *Sarah L., SaaS Founder*
+### Join the wait‑list (free)
 
-> "Our niche channel exploded from 500 to 20k subs in 2 months. Hands‑free content creation is a game‑changer." – *Mike D., E‑commerce Owner*
-
----
-
-### Ready to Automate?
-**Book a free strategy call** and get a custom growth plan.
-
-[**Schedule My Call →**](https://calendly.com/yt-automation/strategy)
+<form action="https://api.example.com/email_capture" method="POST" style="margin-top:1rem;">
+  <input type="email" name="email" placeholder="Your email" required style="padding:0.5rem;width:70%;max-width:300px;" />
+  <button type="submit" style="padding:0.5rem 1rem;margin-left:0.5rem;">Notify me</button>
+</form>
 
 ---
 
-#### Frequently Asked Questions
-**Q:** Do I need any video editing skills?
-**A:** No. We handle scriptwriting, voice‑over, editing, and posting.
+## Upgrade to the full newsletter – $49/month
 
-**Q:** How quickly can we start?
-**A:** After the call, we launch your first video within 5 business days.
+Get the full weekly commentary, exclusive deep‑dives, and early access to our podcast.
 
-**Q:** What if I already have a channel?
-**A:** We audit your existing content and integrate automation seamlessly.
+<button onclick="window.location.href='https://buy.stripe.com/test_cNi8wH89JaR66j1ergc7F3Q'" style="background:#ff5a5f;color:white;padding:0.75rem 1.5rem;border:none;border-radius:4px;cursor:pointer;">Subscribe Now</button>
 
 ---
 
-*Take the first step to a fully automated, revenue‑generating YouTube channel today.*
+*No credit card required for the free wait‑list. Cancel anytime.*
