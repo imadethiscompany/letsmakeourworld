@@ -1,58 +1,34 @@
+# YouTube Automation Agency
 
-# AI Code Assistant – Write Code 3× Faster with Claude
+## Scale Your YouTube Channel Without Lifting a Finger
 
-**Headline:**
-Generate production‑ready code in seconds, not hours.
+**Turn views into revenue** with a full‑service YouTube automation solution that handles:
 
-**Sub‑headline:**
-Leverage Anthropic Claude’s state‑of‑the‑art code generation via a simple web UI. Perfect for developers, startups, and agencies that need fast, reliable snippets, full modules, or entire projects.
+- **Content Ideation & Scripting:** Data‑driven topics that rank fast.
+- **Video Production:** AI‑generated voice‑overs, motion‑graphics, and stock footage.
+- **Channel Management:** SEO‑optimized titles, thumbnails, tags, and upload scheduling.
+- **Growth Hacks:** Automated community engagement, comment replies, and subscriber retargeting.
 
----
+### Why Choose Us?
 
-## Why AI Code Assistant?
-- **Cut development time by 70%** – Turn prompts into working code instantly.
-- **Pay only for what you use** – Subscription includes unlimited generations.
-- **Built‑in usage metering** – Track tokens, avoid surprise bills.
-- **Secure, private environment** – Your code never leaves our encrypted servers.
+| ✅ | Benefit |
+|---|---|
+| **Speed** | Publish 2‑3 videos per week – no crew needed. |
+| **Quality** | Cinematic‑grade videos with AI‑powered editing. |
+| **Profit** | Average 3‑5x ROI within the first 90 days. |
+| **Transparency** | Real‑time analytics dashboard for every metric. |
 
----
+### Packages
 
-## Features
-1. **One‑click code generation** – Write a prompt, click *Generate*, copy the result.
-2. **Multi‑language support** – Python, JavaScript, TypeScript, Go, Rust, and more.
-3. **Smart context handling** – Upload files or paste snippets; Claude keeps context across calls.
-4. **Instant preview & lint** – See formatted, lint‑checked output before copying.
-5. **Team collaboration** – Share sessions, version history, and comments.
+- **Starter** – $1,200/mo – 2 videos/week, basic SEO, channel audit.
+- **Growth** – $3,500/mo – 4 videos/week, advanced SEO, community automation.
+- **Enterprise** – $7,500/mo – 7 videos/week, full funnel integration, dedicated account manager.
 
----
+> **Limited Offer:** Sign up this week and get **1 month free** on any package.
 
-## Early‑Bird 24‑Hour Discount
-> **Sign up within the next 24 hours and lock in a lifetime price of $19/month (regular $29).**
+### Ready to automate your success?
 
-- No credit card required to claim the discount – just create an account.
-- Discount applied automatically at checkout.
-- Offer expires **{{expiry_timestamp}}** (UTC).
-
-[**Get My Early‑Bird Access →**](/checkout?plan=earlybird)
+[**Get Started Now**](https://buy.stripe.com/test_placeholder) – Secure payment via Stripe. No contracts, cancel anytime.
 
 ---
-
-## FAQ
-**Q: Is the code production‑ready?**
-A: Yes – Claude generates syntactically correct code. We run a quick lint step and highlight any missing imports.
-
-**Q: How is usage measured?**
-A: By Claude token count. Your dashboard shows real‑time usage and remaining quota.
-
-**Q: Can I cancel anytime?**
-A: Absolutely – subscription is month‑to‑month with a one‑click cancel button.
-
----
-
-## SEO Keywords
-* AI code generation, Claude code assistant, automated code writing, developer AI tool, fast code generation, AI programming assistant, subscription code AI, early‑bird developer tool discount
-
----
-
-*Ready to code faster?*  
-**Start your free trial now** and experience the power of Claude‑driven development.
+*Questions? Reply to this page or email us at support@youragency.com.*
