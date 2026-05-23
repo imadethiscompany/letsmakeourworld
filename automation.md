@@ -1,9 +1,12 @@
-# Spice – Open‑Source Decision Layer for AI Agents
+# Command A+ Automation
 
-Spice is a lightweight, open‑source decision layer that sits above your AI agents, enabling dynamic routing, policy enforcement, and context‑aware tool selection. Plug‑and‑play with any LLM‑powered agent.
+This minimal automation artifact demonstrates a simple API endpoint that returns a greeting.
 
-- **Features**: Policy rules, fallback strategies, observability.
-- **Installation**: `pip install spice-decisions`
-- **Docs**: https://github.com/yourorg/spice-decisions
+```javascript
+// pages/api/command-a-plus.js
+export default function handler(req, res) {
+  res.status(200).json({ message: "Command A+ is live!" });
+}
+```
 
-[Get Started →](/spice-decision-layer)
+Deploy this to Vercel to get a live endpoint.
