@@ -1,60 +1,33 @@
 # Content Marketing Service
 
-## Unlock Explosive Growth with Targeted, High‑Converting Content
+## Supercharge Your Brand with Expert Content
 
-**Are you struggling to attract qualified leads, rank on Google, or turn visitors into customers?**
-Our **Content Marketing Service** delivers a proven, data‑driven framework that turns your brand into an authority and floods your sales funnel with warm prospects.
+Are you struggling to attract the right audience? Our **Content Marketing Service** delivers high‑quality, SEO‑optimized content that turns visitors into loyal customers.
 
----
+### Why Choose Us?
+- **Data‑Driven Strategy** – We research keywords, competitor gaps, and audience intent to craft content that ranks.
+- **Full‑Stack Production** – Blog posts, whitepapers, case studies, infographics, and video scripts – all handled end‑to‑end.
+- **Conversion‑Focused** – Every piece includes clear calls‑to‑action, lead magnets, and SEO‑friendly micro‑copy that drives conversions.
+- **Scalable Packages** – From startups to enterprises, pick the plan that fits your growth stage.
 
-### Why Choose Our Content Marketing Service?
+### Our Process
+1. **Discovery & Audit** – Deep dive into your brand, audience, and current content.
+2. **Keyword & Topic Blueprint** – Targeted topics mapped to the buyer’s journey.
+3. **Content Creation** – Expert writers, editors, and designers produce polished assets.
+4. **Optimization & Publishing** – On‑page SEO, internal linking, and publishing on your site.
+5. **Performance Tracking** – Monthly dashboards showing traffic, leads, and ROI.
 
-| Benefit | What You Get | Impact |
-|---|---|---|
-| **Strategic Keyword Roadmap** | In‑depth research of high‑intent, low‑competition keywords tailored to your niche. | 2‑5x increase in organic traffic within 90 days. |
-| **Full‑Funnel Content Creation** | Blog posts, pillar guides, case studies, and SEO‑optimized landing pages written by industry experts. | Higher engagement, longer session duration, and more MQLs. |
-| **On‑Page SEO & Technical Audits** | Meta‑tags, schema markup, internal linking, site speed optimization. | Improves rankings and crawlability. |
-| **Content Promotion & Outreach** | Guest posting, PR distribution, social amplification, and backlink building. | Boosts domain authority and referral traffic. |
-| **Performance Tracking & Reporting** | Monthly dashboards with traffic, keyword rankings, conversion metrics, and ROI analysis. | Data‑driven decisions and continuous improvement. |
+### Packages
+| Plan | Monthly Content | SEO Optimizations | Price |
+|------|----------------|-------------------|-------|
+| **Starter** | 4 blog posts (800‑1,200 words) | Basic on‑page SEO | $499 |
+| **Growth** | 8 blog posts + 1 whitepaper | Advanced SEO + internal linking | $999 |
+| **Enterprise** | 12 blog posts + 2 whitepapers + 2 videos | Full SEO suite + CRO testing | $1,999 |
 
----
+### Ready to Grow?
+Fill out the form below and get a **free content audit**.
 
-### How It Works – 4‑Step Proven Process
-
-1. **Discovery & Audit** – Deep dive into your business, audience, and existing assets.
-2. **Strategy & Planning** – Keyword clustering, content calendar, and SEO blueprint.
-3. **Creation & Optimization** – High‑quality, SEO‑ready content produced and optimized for conversions.
-4. **Distribution & Scale** – Amplify via outreach, social, and paid boost; monitor results and iterate.
-
----
-
-### Success Stories
-
-- **SaaS Startup** – 4× organic leads in 3 months, $120k ARR boost.
-- **E‑commerce Brand** – 150% traffic lift, 30% increase in conversion rate.
-- **Professional Services Firm** – Ranked #1 for “B2B content strategy” and secured 12 new contracts.
+[Get Started →](#contact)
 
 ---
-
-### Frequently Asked Questions
-
-**Q:** *Do I need a blog already?*  
-**A:** No. We can start from scratch or revamp existing content.
-
-**Q:** *How long before I see results?*  
-**A:** Most clients see measurable traffic gains within 60‑90 days.
-
-**Q:** *Is this a one‑time project?*  
-**A:** We offer both project‑based launches and ongoing retainer packages.
-
----
-
-### Ready to Dominate Search & Drive Leads?
-
-🚀 **Book a Free Strategy Call Today** – Click the button below and let’s map out your growth path.
-
-[Schedule My Call](https://calendly.com/yourcompany/content-marketing)
-
----
-
-*Keywords: content marketing service, content marketing agency, B2B content strategy, SEO content creation, content promotion, lead generation through content.*
+*Boost your traffic, leads, and revenue with content that works.*
