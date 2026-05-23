@@ -1,19 +1,19 @@
-# SocLeads 3.0 Beta Program
+# SolarSquare Beta Launch
 
-## Join Our Exclusive Beta
+Welcome to the **SolarSquare** beta! We're excited to bring you real‑time solar power alerts that help you maximize energy savings and stay ahead of the grid.
 
-We’re opening a limited‑time beta for **SocLeads 3.0** and we want you to help shape the product. As a beta tester you’ll get:
+## Why Join the Beta?
+- **Instant Alerts**: Get notifications when solar production spikes or drops.
+- **Cost Savings**: Optimize your consumption and reduce electricity bills.
+- **Early Access**: Shape the product roadmap with your feedback.
 
-- **Early access** to the next‑gen lead generation dashboard.
-- **Direct line** to the product team for feature requests.
-- **Special pricing** when we launch publicly.
+## How It Works
+1. **Sign Up** – Provide your email and location.
+2. **Connect** – Link your solar inverter (or manually input data).
+3. **Receive Alerts** – Via email, SMS, or in‑app notifications.
 
-### How It Works
-1. **Sign up** by emailing `beta@socleads.com` with a short intro.
-2. **Get access** to the beta portal (we’ll send you login details).
-3. **Provide feedback** via our built‑in survey or Slack channel.
-
-We’ll run a short 4‑week test cycle, collect your insights, and iterate fast. Spots are limited – reply now to claim yours!
+## Ready to Get Started?
+[Start Free Trial →](https://example.com/solarbeta?ref=beta)
 
 ---
-*Questions? Reach out to `support@socleads.com`.*
+*We’re gathering feedback to improve SolarSquare. Your insights are invaluable.*
