@@ -1,54 +1,58 @@
-# Content Marketing Service
+# Pricing Optimization Consulting
 
-## Transform Your Brand with High‑Impact Content
+## Unlock Maximum Profitability with Data‑Driven Pricing Strategies
 
-**Boost traffic, generate qualified leads, and dominate your niche** with our end‑to‑end Content Marketing Service. We handle strategy, creation, distribution, and performance optimization so you can focus on closing deals.
+**Are you leaving money on the table?** Most businesses price their products and services based on gut instinct or outdated benchmarks. Our **Pricing Optimization Consulting** uses advanced analytics, AI‑powered simulations, and industry best‑practices to ensure every price point captures the highest possible margin while staying competitive.
 
 ---
 
-### Why Content Marketing?
-- **70% of B2B buyers** start their journey with online research. *(Demand Gen Report)*
-- Companies that blog **3x more leads** than those that don’t. *(HubSpot)*
-- Quality content improves SEO, builds authority, and nurtures prospects through the funnel.
+### Why Choose Our Consulting?
 
-### Our All‑In‑One Service
-| Phase | What We Do | Benefits |
-|-------|------------|----------|
-| **Strategy** | Audience research, keyword mapping, content calendar | Aligns with buyer intent and SEO opportunities |
-| **Creation** | Blog posts, whitepapers, case studies, videos, infographics | Consistent brand voice, expert-level copy |
-| **Distribution** | SEO on‑page, social amplification, email newsletters | Maximize reach and engagement |
-| **Optimization** | A/B testing, analytics, conversion tracking | Continuous improvement & ROI growth |
+- **Revenue Boost:** Clients see an average **15‑30% increase** in gross margin within the first 3‑6 months.
+- **Data‑First Approach:** We combine historical sales data, competitor pricing, and price elasticity modeling to recommend optimal price tiers.
+- **Custom Playbooks:** Tailored pricing frameworks for SaaS, e‑commerce, B2B services, and physical products.
+- **Rapid Implementation:** Turn recommendations into live pricing changes in under **2 weeks**.
+- **Ongoing Support:** Monthly performance reviews and price‑adjustment recommendations.
 
-### Features
-- **Custom Content Calendar** tailored to your industry and sales cycle.
-- **SEO‑Optimized Copy** written by certified content strategists.
-- **Multimedia Production** – articles, videos, podcasts, and graphics.
-- **Performance Dashboard** with traffic, leads, and revenue metrics.
-- **Dedicated Account Manager** for fast feedback and iteration.
+---
 
-### Pricing
-| Plan | Monthly Price | Ideal For |
-|------|---------------|-----------|
-| **Starter** | **$1,499** | Small businesses, 4‑8 pieces/month |
-| **Growth** | **$2,999** | Mid‑size firms, 12‑20 pieces/month |
-| **Enterprise** | **Custom** | Agencies & large corporates, unlimited content |
+### Our Process
 
-> **Ready to dominate search and fill your pipeline?**
-> 
-> **[Get a Free Strategy Call →](/contact?service=content‑marketing)**
+1. **Discovery & Data Audit** – Gather sales, cost, and market data.
+2. **Elasticity Modeling** – Build price‑elasticity curves using statistical and machine‑learning models.
+3. **Scenario Simulation** – Test dozens of pricing scenarios to find the sweet spot.
+4. **Strategy Blueprint** – Deliver a step‑by‑step pricing strategy and implementation guide.
+5. **Implementation & Monitoring** – Work with your team to roll out changes and track results.
+
+---
+
+### Success Stories
+
+- **SaaS Startup:** $1.2M ARR → **$1.7M ARR** (+41% revenue) after 4 pricing tiers redesign.
+- **E‑commerce Retailer:** Average order value grew from $78 to **$102** (+31%).
+- **B2B Consulting Firm:** Profit margin increased from 12% to **23%** in 5 months.
 
 ---
 
 ### Frequently Asked Questions
-**Q: How long does it take to see results?**
-A: Most clients see a **30‑60% traffic lift** within the first 90 days.
 
-**Q: Do I need an in‑house writer?**
-A: No. Our team becomes your content department.
+**Q: How long does the engagement last?**
+A: Typical engagements are 8‑12 weeks for the full optimization cycle, plus optional ongoing monthly monitoring.
 
-**Q: What industries do you serve?**
-A: SaaS, FinTech, HealthTech, E‑commerce, and more.
+**Q: Do I need a large amount of data?**
+A: We can start with as little as six months of sales data; more data improves model accuracy.
+
+**Q: What if my market is highly regulated?**
+A: Our models incorporate compliance constraints to ensure all recommendations meet industry regulations.
 
 ---
 
-*Drive traffic, generate leads, and grow revenue with a proven content engine.*
+## Ready to Maximize Your Margins?
+
+**Start with a free pricing health check** – we’ll audit your current pricing and give you three quick win recommendations.
+
+[**Book a Strategy Call**](/contact?service=pricing-optimization)  
+
+---
+
+*Keywords: pricing optimization, pricing consulting, revenue growth, price elasticity, profit margin improvement, pricing strategy*
