@@ -1,47 +1,37 @@
-# AI Pessimism Commentary Channel
+# Video: Opinion | Graduating Into A.I. Pessimism - The New York Times
 
-## Stay ahead of the hype – get the sober, data‑driven take on AI every week.
+## Unlock the Full Insight
 
-**Why you need this:**
-- The mainstream narrative is all hype, fear, and buzzwords. We cut through the noise and give you the real risks, limits, and practical implications of AI.
-- Curated by experts who have built, funded, and regulated AI systems.
-- Actionable insights you can apply to product strategy, investment decisions, and risk management.
+Watch the exclusive New York Times video *Graduating Into A.I. Pessimism* and discover why industry leaders are warning about the next wave of AI hype.
 
 ---
 
-### Join the community (free)
-
-Get a weekly email preview **right now** – a 200‑word summary of the most important AI‑pessimism story of the week.
-
-<form action="https://example.com/subscribe" method="POST" style="margin-top:1rem;">
-  <input type="email" name="email" placeholder="Your email" required style="padding:0.5rem; width:250px;"/>
-  <button type="submit" style="padding:0.5rem 1rem; margin-left:0.5rem; background:#0066ff; color:#fff; border:none; cursor:pointer;">Subscribe</button>
-</form>
+### Why This Video Matters
+- **Cutting‑edge analysis** from top journalists and AI experts.
+- **Actionable takeaways** you can apply to your business strategy today.
+- **Limited time access** – join the conversation before the narrative shifts.
 
 ---
 
-### Upgrade to the full newsletter – $49/month
-
-The free preview is just the tip of the iceberg. The full newsletter includes:
-- Deep‑dive analysis (1,000‑word essays) on the biggest AI risks.
-- Exclusive interviews with AI skeptics and regulators.
-- Weekly Q&A where we answer your toughest AI‑pessimism questions.
-- Early access to our private Discord community.
-
-<a href="https://buy.stripe.com/test_cNi8wH89JaR66j1ergc7F3Q" target="_blank" style="display:inline-block; margin-top:1rem; padding:0.75rem 1.5rem; background:#ff6600; color:#fff; text-decoration:none; font-weight:bold;">Subscribe – $49/mo</a>
+#### 🎬 Watch Now
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_PLACEHOLDER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-#### Frequently asked questions
-**Who is this for?**
-Anyone who builds, invests in, or regulates AI and wants a realistic view of its limitations.
+### Get the Full Report
+When you watch the video you’ll also receive a **free PDF briefing** summarizing the key points and a **cheat‑sheet** for immediate implementation.
 
-**What’s the cancellation policy?**
-Cancel any time from the subscription link in the email – no questions asked.
-
-**How often will I get emails?**
-Free preview every Thursday. Full newsletter every Monday.
+[**Buy Access – $199**](/checkout?product=ai-pessimism-video)
 
 ---
 
-*Stay skeptical. Stay informed.*
+#### Frequently Asked Questions
+**Q: How long is the video?**
+A: 12 minutes of deep‑dive analysis.
+
+**Q: Is there a refund policy?**
+A: Yes, a 7‑day money‑back guarantee if you’re not satisfied.
+
+---
+
+*SEO Keywords: AI pessimism, New York Times AI opinion, AI future outlook, AI industry analysis, AI video report*
