@@ -1,29 +1,31 @@
-# Accelerate Your Sales Pipeline
+# YouTube Automation Agency
 
-**Is your pipeline crawling at a snail’s pace?**
+## Scale Your Channel, Automate Your Growth
 
-We help growth‑focused companies turn a sluggish pipeline into a high‑velocity revenue engine.
+**Turn your YouTube channel into a revenue engine without the daily grind.**
 
-## Why You’re Stuck
-- Leads get lost in manual hand‑offs
-- No real‑time visibility into deal stages
-- Teams spend hours on admin instead of selling
+- **Full‑cycle video production** – script, voice‑over, editing, thumbnail, upload.
+- **AI‑driven content research** – trending topics, SEO‑optimized titles & tags.
+- **Channel management** – scheduling, community engagement, analytics.
+- **Monetization acceleration** – ad‑revenue, sponsorships, merch, memberships.
 
-## Our Consulting Solution
-1. **Pipeline Audit** – Deep dive into your current process, tools, and data.
-2. **Automation Blueprint** – Identify low‑hang‑up points and implement automations that cut manual work by up to 70%.
-3. **Metrics & Coaching** – Real‑time dashboards and weekly coaching to keep reps focused on the next best action.
+### Why Choose Us?
+| What You Get | How It Helps |
+|---|---|
+| **Turn‑key video pipeline** | No editing skills needed; we deliver ready‑to‑publish videos.
+| **Data‑backed topic selection** | Higher click‑through and watch‑time.
+| **Growth hacks built‑in** | Optimized thumbnails, hooks, and end‑screens.
+| **Dedicated account manager** | Personalised strategy and weekly performance reviews.
 
-### What You’ll Gain
-- **30‑50% faster deal velocity**
-- **Clear, actionable KPIs** for every stage
-- **More qualified opportunities** without extra spend
-- **Time back for your sales team** to close deals
+### Packages
+- **Starter** – 4 videos/month – $799/mo
+- **Growth** – 8 videos/month – $1,499/mo
+- **Scale** – 12 videos/month – $2,299/mo
+
+> *All packages include scriptwriting, AI‑voice, editing, SEO tags, thumbnail design, and performance reporting.*
+
+### Ready to Automate?
+[**Book a free strategy call**](https://calendly.com/youragency/strategy) – spots fill fast!
 
 ---
-
-## Ready to Speed Up Your Pipeline?
-
-[Schedule a 30‑minute Strategy Call →](https://calendly.com/yourcompany/pipeline-boost)
-
-*No commitment. Just a fast‑track plan to get your pipeline moving again.*
+*We work with SMB owners, coaches, SaaS founders, and creators who want to focus on their core business while we handle the video hustle.*
