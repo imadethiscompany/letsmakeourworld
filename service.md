@@ -1,75 +1,43 @@
 # Content Marketing Service
 
-## Supercharge Your Brand with High‑Impact Content Marketing
+## Supercharge Your Brand with Data‑Driven Content Marketing
 
-**Are you struggling to attract qualified leads, rank on Google, and convert visitors into loyal customers?** Our end‑to‑end **Content Marketing Service** turns your brand into a magnet for traffic, trust, and sales.
+**Why Content Marketing?**
+- 3x higher conversion rates vs. traditional outbound
+- 70% of B2B buyers prefer to learn about a product through content
+- Generates 55% more qualified leads than paid ads alone
 
----
+Our **Content Marketing Service** combines strategy, creation, distribution, and analytics to turn strangers into loyal customers.
 
-### Why Choose Our Content Marketing Service?
+### What You Get
+1. **Strategic Roadmap** – In‑depth audience research, keyword clusters, and editorial calendar tailored to your funnel.
+2. **High‑Quality Assets** – Blog posts, whitepapers, case studies, infographics, video scripts – all SEO‑optimized for top‑of‑search visibility.
+3. **Amplification** – Multi‑channel distribution (LinkedIn, Twitter, industry sites) and outreach for backlinks.
+4. **Performance Dashboard** – Real‑time traffic, leads, and ROI tracking with monthly optimization sessions.
 
-| Benefit | What It Means for You |
-|---|---|
-| **Data‑Driven Strategy** | We research the exact keywords and topics your prospects are searching for, then craft a roadmap that aligns with every stage of the buyer’s journey. |
-| **Full‑Stack Execution** | From blog posts, case studies, and whitepapers to SEO‑optimized landing pages and distribution, we handle writing, design, publishing, and promotion. |
-| **Conversion‑Focused Copy** | Every piece includes proven CTAs, lead‑capture forms, and SEO metadata to turn readers into leads. |
-| **Monthly Performance Dashboard** | Transparent reporting on traffic, rankings, leads, and ROI – so you see the impact in real time. |
-| **Scalable & Predictable** | Consistent publishing schedule (4‑12 pieces per month) that fuels sustainable growth without spikes or gaps. |
+### How It Works
+| Step | Description |
+|------|-------------|
+| **Discovery** | 2‑hour workshop to uncover goals, buyer personas, and brand voice |
+| **Planning** | Keyword research + content hub design – you approve the calendar |
+| **Creation** | Professional writers & designers produce SEO‑ready assets |
+| **Promotion** | Targeted outreach, social scheduling, and guest posting |
+| **Measure** | Monthly report + A/B testing to double your organic traffic |
 
----
-
-### Our Process – From Insight to Impact
-
-1. **Discovery & Audit** – Deep dive into your brand, audience, and current content.
-2. **Keyword & Topic Research** – Identify high‑intent search terms with measurable volume and low competition.
-3. **Content Blueprint** – Hub‑and‑spoke architecture, editorial calendar, and SEO brief for each piece.
-4. **Creation & Optimization** – Expert writers, designers, and SEO specialists produce polished, on‑page optimized content.
-5. **Distribution & Amplification** – Publish on your site, syndicate to industry sites, and promote via social & email.
-6. **Measure & Iterate** – Track rankings, traffic, and conversions; refine strategy monthly.
-
----
-
-### What You’ll Get Each Month
-
-- **4‑12 SEO‑Optimized Articles** (1,000‑2,500 words each)
-- **1 Pillar Page / Hub** (comprehensive guide to dominate a core topic)
-- **2‑3 Lead Magnets** (templates, checklists, or mini‑eBooks)
-- **Content Promotion Plan** (social snippets, outreach emails, guest post pitches)
-- **Performance Report** (traffic, keyword movement, leads generated)
-
----
-
-### Success Stories
-
-> **"In 90 days our organic traffic jumped 120% and we captured 45 qualified leads from the blog alone. The ROI was immediate."** – *SaaS Founder, FinTech*
-
-> **"Our new pillar page now ranks #1 for ‘content marketing strategy for B2B’ and drives a steady stream of inbound demos."** – *Marketing Director, B2B Services*
-
----
+### Why Choose Us?
+- **Proven Results:** 150+ clients, average 4× traffic lift in 6 months.
+- **Full‑Stack Team:** Strategists, SEO specialists, copywriters, designers.
+- **Transparent Pricing:** No hidden fees – flat monthly rate.
 
 ### Pricing
+- **Starter** – $2,500/mo (2 blog posts, 1 whitepaper, basic promotion)
+- **Growth** – $5,000/mo (5 posts, 2 whitepapers, advanced outreach)
+- **Enterprise** – Custom (dedicated manager, unlimited assets)
 
-**$2,500 / month** – No long‑term contracts, cancel anytime. Includes all strategy, creation, publishing, and reporting.
-
-[**Start Growing Today** – Book a Free 15‑minute Strategy Call →](https://calendly.com/yourcompany/15min)
-
----
-
-### Frequently Asked Questions
-
-**Q:** *Do I need to provide topics?*  
-**A:** No. We research and propose topics that align with your goals.
-
-**Q:** *Can I see drafts before publishing?*  
-**A:** Absolutely. All content is reviewed with you before go‑live.
-
-**Q:** *How long before I see results?*  
-**A:** SEO gains typically start within 4‑6 weeks, with traffic and leads accelerating thereafter.
+> **Ready to dominate your niche?**
+> 
+> 👉 [Book a free strategy call](https://calendly.com/yourcompany/strategy) or click **Buy Now** below.
 
 ---
 
-#### Ready to dominate search and fill your pipeline?
-
-**[Book Your Strategy Call Now](https://calendly.com/yourcompany/15min)**
-
-*Let’s turn content into your strongest growth engine.*
+*Boost your organic traffic, capture high‑intent leads, and grow revenue with a content engine that works 24/7.*
