@@ -1,49 +1,41 @@
-# Watch The Next Phase of Artificial Intelligence – Bloomberg.com
+# Watch The Next Phase of Artificial Intelligence
 
-## Unlock the Future of AI with Exclusive Bloomberg Insights
-
-Stay ahead of the curve with our **premium, high‑intent landing page** that gives you direct access to Bloomberg’s latest AI coverage, analysis, and forecasts. This is the one‑stop destination for investors, tech leaders, and AI enthusiasts who need **real‑time, data‑driven intel** to make smarter decisions.
+**Stay ahead of the curve with exclusive access to Bloomberg’s deep‑dive on the future of AI.**
 
 ---
 
-### Why This Page?
-- **Curated Bloomberg Content** – Hand‑picked articles, reports, and interviews on the next wave of AI breakthroughs.
-- **Actionable Insights** – Summaries that translate complex research into clear business implications.
-- **Immediate Access** – No sign‑up friction. Click the CTA and dive straight into the material you need.
+## Why This Matters
+- **Cut through the hype:** Get data‑backed insights that separate real breakthroughs from buzz.
+- **Make smarter decisions:** Learn which AI trends will reshape finance, tech, and the global economy.
+- **Act now:** Early adopters gain a competitive edge and can position their businesses for the next wave.
 
 ---
 
 ### What You’ll Get
-1. **Breakthrough AI Trends** – From generative models to autonomous systems.
-2. **Market Impact Analysis** – How AI is reshaping finance, healthcare, and manufacturing.
-3. **Expert Commentary** – Voices from Bloomberg’s top analysts and AI thought leaders.
-4. **Future Forecasts** – Data‑backed predictions for the next 12‑24 months.
+- A 30‑minute video interview with Bloomberg’s AI editors and leading researchers.
+- A downloadable PDF of the key takeaways, charts, and market forecasts.
+- Access to a private Slack channel for Q&A with industry experts.
 
 ---
 
-### Ready to Dive In?
+## Ready to Unlock the Future?
 
-[**Watch Now – Free Access**]({{payment_link}})
+[**Buy Access – $49**](https://buy.stripe.com/test_fZufZ9ahR6AQcHpcj8c7G1b)
 
-*No credit card required. Instant streaming.*
-
----
-
-#### FAQ
-**Is there any cost?** – Absolutely free for a limited time. After the trial, a simple subscription keeps you updated.
-
-**Do I need a Bloomberg account?** – No. This page aggregates the best public content and exclusive excerpts.
-
-**How often is the content refreshed?** – Daily updates from Bloomberg’s AI beat.
+*Secure checkout powered by Stripe. No hidden fees.*
 
 ---
 
-### Join the AI Leaders Who Trust Bloomberg
+### Frequently Asked Questions
+**Who is this for?**
+Executives, investors, product leaders, and anyone who needs to understand how AI will impact their strategy.
 
-> *“Bloomberg’s AI coverage is the benchmark for strategic decision‑making.”* – CIO, Global Tech Firm
+**When will I receive the content?**
+Immediately after purchase – the video link and PDF download are available in your account.
+
+**Can I get a refund?**
+Yes, within 7 days if you’re not satisfied.
 
 ---
 
-**Don’t miss the next AI wave.** Click the button, watch the insights, and stay ahead.
-
-[**Watch the Next Phase of AI**]({{payment_link}})
+*Join the ranks of forward‑thinking leaders who are already preparing for the AI revolution.*
