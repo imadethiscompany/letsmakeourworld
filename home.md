@@ -1,28 +1,19 @@
-# BTC $76,699.00 (+1.7% 24h)
+# Expedia ML Scientist II Interview Experience – Get Insider Insights
 
-## Secure Your Position in the Next Bitcoin Surge
+## Crack the Expedia ML Scientist II interview with real candidate experiences
 
-**Why act now?** Bitcoin just broke the $76k barrier, up 1.7% in the last 24 hours. Historically, every 1‑2% daily move precedes a larger rally. Get in while momentum builds.
+**Discover the exact questions, challenges, and proven strategies that helped others land the role.**
 
----
+- ✅ Real interview questions from recent Expedia ML Scientist II candidates
+- ✅ Detailed walkthroughs of technical and behavioral rounds
+- ✅ Tips on preparing data science case studies and coding challenges
+- ✅ Insider advice on what Expedia values in ML hires
+- ✅ Bonus: Sample solutions and code snippets you can adapt
 
-### What You’ll Get
-- **Instant access** to a curated, limited‑time Bitcoin entry package.
-- **Live market alerts** for price spikes and pullbacks.
-- **Expert analysis** from top crypto strategists.
-- **Secure storage guide** to protect your assets.
+### Ready to boost your chances?
 
----
-
-### How It Works
-1. **Choose your package** – from starter to premium.
-2. **Complete fast checkout** – instant confirmation.
-3. **Receive the Bitcoin entry kit** – links, alerts, and resources delivered to your inbox.
+[Download the Full Interview Guide](/download)  
+*Get instant access to the complete interview experience PDF – no signup required.*
 
 ---
-
-#### Ready to Ride the Surge?
-
-[**Get Started – Secure My Bitcoin Kit**](#)
-
-*Limited spots available. Prices may increase as demand rises.*
+*This guide is compiled from anonymous submissions of candidates who successfully passed the Expedia ML Scientist II interview.*
