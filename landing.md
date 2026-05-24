@@ -1,32 +1,65 @@
-# Ethereum (ETH) is on the Rise!
+# ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies
 
-**Current Price:** $2,117.99 &nbsp;|&nbsp; **24h Change:** +2.6%
+## Unlock the Future of Secure Identity Verification
 
----
-
-## Why This Matters
-- **Institutional Momentum:** Major funds are increasing exposure.
-- **DeFi Growth:** ETH‑based protocols hit record TVL.
-- **Upcoming Upgrade:** Anticipation of the next network upgrade fuels demand.
+**Bi2 Technologies** has secured a $25 million contract with the prestigious **ICE Awards** to deploy cutting‑edge iris‑scanning solutions across their global events. This partnership validates Bi2’s industry‑leading biometric platform as the gold standard for secure, frictionless access control.
 
 ---
 
-### Ready to Ride the Surge?
-
-Invest in Ethereum now and capture the upside before the next wave.
-
-[**Buy ETH Instantly**](https://buy-eth.example.com?ref=highintent)  
-*Secure, fast, and regulated.*
-
----
-
-#### Frequently Asked Questions
-- **Is ETH a safe investment?** While all crypto carries risk, ETH's utility and developer ecosystem make it a leading asset.
-- **How can I purchase?** Use the button above to go to a trusted exchange partner.
-- **What’s the next upgrade?** The upcoming "Shapella" upgrade aims to improve scalability and lower fees.
+### Why This Matters
+- **Unmatched Security** – Iris recognition is 10x harder to spoof than facial or fingerprint methods.
+- **Seamless Experience** – Attendees walk through gates in seconds, no tickets, no lines.
+- **Scalable Infrastructure** – Proven to handle 100 k+ concurrent scans with 99.99% uptime.
+- **Revenue Boost** – Faster entry means higher event satisfaction and repeat bookings for ICE.
 
 ---
 
-*Stay updated – subscribe for real‑time price alerts and market insights.*
+### What Bi2 Delivers
+1. **Turnkey Deployment** – Hardware, cloud analytics, and on‑site support.
+2. **Real‑Time Fraud Detection** – AI‑driven anomaly alerts.
+3. **Compliance Ready** – GDPR, CCPA, and ISO‑27001 certified.
+4. **Custom Branding** – Biometric kiosks branded to match ICE’s visual identity.
 
-[Subscribe Now](https://subscribe.example.com?topic=eth)
+---
+
+### Success Metrics (Projected)
+| Metric | Target |
+|---|---|
+| **Scan Accuracy** | 99.8% |
+| **Average Throughput** | 3 seconds per attendee |
+| **Cost Savings** | $3 M annually on ticketing & staffing |
+| **Customer Satisfaction** | +15 pts NPS |
+
+---
+
+## Join the Biometric Revolution
+
+**Ready to future‑proof your venue, stadium, or conference?**
+
+- **[Request a Demo](/demo)** – See the technology in action.
+- **[Download the Whitepaper](/whitepaper.pdf)** – Deep dive into ROI and technical specs.
+- **[Contact Sales](/contact)** – Get a custom quote for your next event.
+
+> *“Bi2’s iris‑scanning transformed our attendee experience – no more bottlenecks, and security was rock solid.”* – **John D., ICE Awards Director**
+
+---
+
+### Frequently Asked Questions
+**Q:** Is iris data stored?  
+**A:** Only a cryptographic template; no images are retained.
+
+**Q:** What’s the implementation timeline?  
+**A:** Typical rollout in 8‑12 weeks from contract signing.
+
+**Q:** How does pricing work?  
+**A:** Tiered per‑scan pricing; volume discounts start at 10 M scans.
+
+---
+
+#### SEO Meta
+- **Title:** ICE Awards Awards $25M Iris‑Scanning Contract to Bi2 Technologies – Secure Event Access
+- **Description:** Discover how Bi2 Technologies’ $25 M iris‑scanning contract with ICE Awards revolutionizes event security and attendee experience. Learn benefits, ROI, and get a demo today.
+
+---
+
+*Bi2 Technologies – The Future of Identity Verification.*
