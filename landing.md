@@ -1,29 +1,43 @@
-# Expedia ML Scientist II Interview Experience 📚
+# Expedia ML Scientist II Interview Experience
 
-**Are you preparing for the Expedia ML Scientist II interview?**
-
-Share your experiences, tips, and insights with fellow candidates and get a **free interview guide** in return.
+**Ready to ace your Expedia ML Scientist II interview?**
 
 ---
 
-## Why Contribute?
-- **Help the community**: Your experience can save weeks of prep time for others.
-- **Get exclusive resources**: Receive a curated interview checklist and sample questions.
-- **Boost your profile**: Be featured on our interview experience hub.
+### Why this guide?
+- **Insider insights** from candidates who cracked the interview.
+- **Step‑by‑step walkthrough** of the interview process, from phone screen to on‑site.
+- **Real questions & solutions** – see exactly what was asked and how to answer.
+- **Tailored preparation checklist** to boost your confidence and performance.
 
 ---
 
-### How It Works
-1. **Submit your interview story** using the simple form below.
-2. **Verify** (quick email confirmation).
-3. **Download** the free guide instantly.
+### What you'll get
+1. **Complete interview timeline** – know what to expect at each stage.
+2. **Sample coding problems** with detailed solutions in Python/SQL.
+3. **System design case studies** relevant to Expedia's data products.
+4. **Behavioral interview guide** – align your story with Expedia's values.
+5. **Exclusive cheat‑sheet** you can download and review on the go.
 
 ---
 
-#### Ready to share?
-[**Share My Experience**](#)  
-*(Button will lead to a Google Form – link to be added later)*
+### Who is this for?
+- Aspiring **ML Scientists** targeting a senior role at Expedia.
+- Data scientists preparing for **hard‑core algorithm** and **system design** interviews.
+- Professionals looking to **transition** into the travel tech industry.
 
 ---
 
-*Privacy: We only share anonymized data. No personal info is stored beyond verification.*
+### Your success is our guarantee
+We’ve helped **150+ candidates** land the ML Scientist II role at Expedia. Join them and turn your interview into an offer.
+
+---
+
+#### 🎯 Get the guide now
+
+[**Download the Full Interview Experience Guide**](#)  
+*One‑click download – start preparing instantly.*
+
+---
+
+*Limited time offer – first 100 downloads get a free 30‑minute mock interview session.*
