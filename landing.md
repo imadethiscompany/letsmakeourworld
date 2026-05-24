@@ -1,30 +1,29 @@
 # Expedia ML Scientist II Interview Experience
 
-## Unlock the Secrets of the Expedia ML Scientist II Interview
-
 **Are you preparing for the Expedia Machine Learning Scientist II interview?**
 
-Get insider tips, sample questions, and proven strategies that helped candidates land the role. This guide covers:
+Get insider tips, sample questions, and a step‑by‑step guide from candidates who have been through the process. This free resource covers:
 
-- Real interview questions (coding, statistics, ML system design)
-- How to structure your answers for maximum impact
-- What Expedia values in a candidate and how to demonstrate it
-- Salary expectations and negotiation tactics
+- **Interview stages** – phone screen, on‑site, and take‑home coding challenges.
+- **Key topics** – ML fundamentals, system design, coding, and product sense.
+- **Sample questions** – with detailed answers and reasoning.
+- **Success checklist** – what to study, resources, and timeline.
 
-### Why This Guide?
-- **Save weeks of research** – curated from actual interview experiences.
-- **Boost confidence** – know exactly what to expect and how to ace each round.
-- **Increase your offer odds** – proven techniques that have helped candidates receive offers.
+### Why trust this guide?
+- Compiled from multiple first‑hand experiences.
+- Updated for the latest Expedia interview format (2024).
+- Includes real‑world problem examples used by Expedia.
 
-### What You’ll Get
-- A downloadable PDF checklist.
-- Sample code snippets and explanations.
-- Insider anecdotes from former Expedia ML scientists.
+### Get the full interview roadmap now!
 
-### Ready to ace your interview?
+[Download the PDF](/download/expedia-ml-scientist-ii-interview.pdf)  
 
-[**Download the Complete Interview Kit Now**](#)
+Or join our **private Slack community** for live Q&A with former Expedia interviewers.
 
 ---
 
-*This page is for educational purposes only. Results may vary based on individual preparation.*
+**Ready to ace your interview?**
+
+Click below to claim your free guide and start preparing today.
+
+[Get the Guide →](/expedia-ml-scientist-ii-interview)
