@@ -1,14 +1,19 @@
-# ETH $2,117.21 (+3.8% 24h)
+# ETH Surge Alert!
 
-## Ride the Surge in Ethereum
+## 🚀 ETH $2,117.21 (+3.8% 24h)
 
-Ethereum is soaring with a **3.8%** gain in the last 24 hours, reaching **$2,117.21**. Don't miss out on the next wave.
+Don't miss the momentum. Grab the opportunity now with our exclusive ETH investment guide.
 
-### Why Buy Now?
-- Proven store of value and leading smart‑contract platform
-- Institutional adoption accelerating
-- Limited supply growth, price momentum strong
+**Why act now?**
+- Price up 3.8% in the last 24h – strong bullish signal.
+- Institutional interest is rising.
+- Limited time offer: free premium analysis for the first 100 sign‑ups.
 
-**Get Started**: Secure your ETH today and watch your portfolio grow.
+### Get the Premium ETH Playbook
+- Detailed entry strategy.
+- Risk management checklist.
+- Real‑time alerts.
 
-[Buy Ethereum Now](https://buy-eth.example.com)
+[**Download Now**](#)  
+
+*Your next big move could be just a click away.*
