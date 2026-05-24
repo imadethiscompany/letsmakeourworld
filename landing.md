@@ -1,15 +1,18 @@
-# Ethereum Price Alert
+# Bitcoin Price Alert – BTC $76,351.00 (+1.2% 24h)
 
-## ETH $2,092.61 (+1.8% 24h)
+## Never miss a move in the world's leading cryptocurrency.
 
-**Stay ahead of the market** with real‑time alerts when Ethereum spikes.
+Stay ahead of the market with a real‑time daily alert that lands in your inbox every morning. Our **BTC Daily Alert** tells you the current price, 24‑hour change, and a short market snapshot so you can act fast.
 
-- **Instant notifications** via email or SMS
-- **Actionable insights** on price movements
-- **No‑risk trial** – first alert free
+- **Instant notification** – Get the price at 8 AM UTC each day.
+- **High‑intent audience** – Reach traders, investors, and crypto enthusiasts ready to buy or sell.
+- **Simple sign‑up** – One‑click subscription, cancel anytime.
 
-[Get Instant Alerts Now](https://buy.stripe.com/test_8x23cnfCb4sI36Pdncc7G13)
+> "I made a profitable trade thanks to the alert – it's a game changer!"
+> — Alex, crypto trader
 
----
+### Ready to stay ahead?
 
-*Limited time offer – secure your spot today!*
+[Start Your BTC Daily Alert](/subscribe/btc-daily-alert)
+
+*No credit card required for the first week. Cancel anytime.*
