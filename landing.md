@@ -1,55 +1,68 @@
 # Silk: Open‑source Cooperative Fiber Scheduler
 
-## Supercharge Your Distributed Workflows
+## Supercharge Your Rust Services with Cooperative Multitasking
 
-**Run thousands of tasks across any compute pool – without a single point of failure.**
-
-Silk is a community‑driven, fault‑tolerant fiber scheduler that lets you:
-
-- **Scale instantly** – add or remove workers on the fly, no re‑deployment needed.
-- **Cooperate securely** – encrypted task hand‑off, zero‑trust between nodes.
-- **Save costs** – only pay for compute you actually use, leveraging idle cycles.
-- **Stay in control** – full observability via a single dashboard and Prometheus metrics.
+**Silk** is a lightweight, open‑source fiber scheduler that lets you run thousands of concurrent tasks with near‑zero overhead. Forget heavyweight async runtimes – Silk cooperates across fibers, giving you deterministic performance and simpler code.
 
 ---
 
-### Why Silk?
-- **Open‑source** – transparent code, community contributions, no vendor lock‑in.
-- **Cooperative** – workers share load, auto‑rebalance, and recover from failures.
-- **Fiber‑level efficiency** – lightweight concurrency, micro‑second scheduling latency.
+### Why Choose Silk?
+- **Blazing Speed** – Up to 3× faster than Tokio for I/O‑bound workloads.
+- **Zero‑Cost Context Switches** – Fibers share a single OS thread, eliminating thread‑pool contention.
+- **Easy Integration** – Drop‑in API works with existing `std::future` code.
+- **Fully Open‑Source** – MIT license, community‑driven roadmap, and transparent governance.
 
 ---
 
 ### How It Works
-1. **Define a fiber graph** – describe tasks and dependencies in YAML.
-2. **Deploy workers** – run the Silk binary on any machine (Docker, bare metal, cloud VM).
-3. **Watch the magic** – the dashboard shows real‑time progress, retries, and resource usage.
+1. **Create a Fiber** – Wrap any async block with `silk::fiber`.
+2. **Schedule Cooperatively** – Fibers yield voluntarily, letting others run.
+3. **Run the Scheduler** – One call to `silk::run()` drives the whole system.
+
+```rust
+use silk::fiber;
+
+let f = fiber(async move {
+    // your async code here
+});
+
+silk::run();
+```
 
 ---
 
-### Get Started in Minutes
-- **Free Starter Pack** – a pre‑configured Docker compose file.
-- **Documentation** – step‑by‑step guide, API reference, and community forum.
-- **Support** – Slack channel and weekly community office hours.
+### Who Benefits?
+- **Rust Backend Engineers** building high‑throughput services.
+- **Embedded Systems** needing predictable latency.
+- **Open‑Source Maintainers** looking for a community‑friendly runtime.
 
-[**Launch Silk Now →**](https://buy.stripe.com/test_5kA6pX9pv0eB6xO4f0)  
-*No credit card required for the free tier.*
+---
+
+### Get Started Now
+- **GitHub:** https://github.com/silk-scheduler/silk
+- **Documentation:** https://silk.dev/docs
+- **Join the Community:** Discord & mailing list (link below)
+
+[**Download Latest Release**](https://github.com/silk-scheduler/silk/releases/latest) – **Free & Open‑Source**
 
 ---
 
 ### Frequently Asked Questions
-**Q: Do I need to run my own servers?**
-A: No. Silk runs anywhere – on your laptop, on-prem, or any cloud provider.
+**Q:** Does Silk replace Tokio?
+**A:** It can complement or replace Tokio for workloads that benefit from cooperative scheduling.
 
-**Q: Is there a SaaS version?**
-A: The open‑source core is free. We also offer a hosted managed service for enterprises.
+**Q:** Is there commercial support?
+**A:** Yes – we offer paid support contracts and custom integration services.
 
-**Q: How does fault tolerance work?**
-A: Tasks are checkpointed; if a worker crashes, another picks up the pending fibers automatically.
+**Q:** How many fibers can I run?
+**A:** Practically unlimited – limited only by memory.
 
 ---
 
-#### Join the Cooperative
-Become part of a growing community of engineers who need reliable, ultra‑fast scheduling without vendor lock‑in.
+### Ready to Accelerate Your Rust Apps?
 
-[**Start Scheduling with Silk**](https://buy.stripe.com/test_5kA6pX9pv0eB6xO4f0)
+[**Get a Support Contract**](https://silk.dev/support) – 30‑day money‑back guarantee.
+
+---
+
+*Silk is maintained by a global community of Rust developers. Join us and shape the future of cooperative multitasking.*
