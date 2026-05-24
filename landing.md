@@ -1,67 +1,22 @@
-# YouTube Automation Agency
+# ICE Awards $25M Iris‑Scanning Contract to Bi2 Technologies
 
-## Scale Your YouTube Channel on Autopilot
+## Transforming Identity Verification at Scale
 
-**Turn views into revenue without lifting a finger.**
+**Bi2 Technologies** has secured a $25 million contract with the **International Cultural Exchange (ICE) Awards** to deploy cutting‑edge iris‑scanning technology across all event venues worldwide.
 
----
+### Why This Matters
+- **Unmatched Security**: Iris biometrics are 10× harder to spoof than facial recognition.
+- **Seamless Experience**: Attendees verify identity in seconds, eliminating long lines.
+- **Scalable Infrastructure**: Our cloud‑native platform handles millions of scans per day.
 
-### Why Choose Us?
+### What You’ll Get
+- **End‑to‑End Deployment**: Hardware, software, and integration services.
+- **Dedicated Support**: 24/7 monitoring and on‑site technicians during each award ceremony.
+- **Compliance Assurance**: GDPR‑ready data handling and audit‑ready reporting.
 
-- **Zero‑Hands‑On Production** – We script, record, edit, and upload your videos using AI‑driven workflows.
-- **Rapid Turn‑Around** – New video every **3‑5 days** (or faster on demand).
-- **Data‑Backed Growth** – AI‑optimized titles, thumbnails, tags & posting schedule that **boost CTR by 2‑3×**.
-- **Full‑Stack Management** – From content ideation to community engagement, we handle it all.
+### Ready to Join the Future of Secure Events?
 
----
-
-### Our Offerings
-
-| Package | Videos / Month | Turn‑Around | Price |
-|---|---|---|---|
-| **Starter** | 4 | 5 days each | **$799** |
-| **Growth** | 8 | 4 days each | **$1,499** |
-| **Scale** | 12+ | 3 days each | **Custom** |
-
-*All packages include keyword‑research, thumbnail design, AI‑voice‑over, SEO‑optimized description & tags, plus weekly performance reporting.*
+[**Get Started Now**](https://buy.stripe.com/example) – Secure your spot as a pilot partner and receive exclusive early‑access benefits.
 
 ---
-
-### How It Works
-
-1. **Discovery Call** – We learn your niche, voice & goals.
-2. **Content Blueprint** – AI generates scripts & outlines.
-3. **Production** – AI‑video, motion graphics & voice‑over.
-4. **Publish & Optimize** – Automated upload, SEO & community replies.
-5. **Scale** – Data‑driven iteration to keep the growth curve steep.
-
----
-
-### Success Stories
-
-> **"From 0 to 50k subscribers in 3 months – revenue jumped 4×!"** – *SaaS Founder, Tech Reviews*
-
-> **"Our agency closed 3 new clients just from the YouTube funnel we set up."** – *Digital Marketing Agency*
-
----
-
-### Ready to Automate Your Growth?
-
-<a href="https://buy.stripe.com/test_7sIcMZb2b9eG6Xe5kk" target="_blank" style="display:inline-block;background:#ff4c4c;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Book a Free Strategy Call</a>
-
----
-
-#### FAQ
-
-**Q: Do I need any video equipment?**
-A: No. All production is AI‑generated. You only need a brief on your brand tone.
-
-**Q: How quickly can I see results?**
-A: Most clients notice a lift in view‑through rate within the first two videos.
-
-**Q: Is there a lock‑in contract?**
-A: No. Cancel anytime with a 30‑day notice.
-
----
-
-*Powered by AI. Scaled by experts.*
+*Bi2 Technologies – Pioneering the next generation of biometric identity solutions.*
