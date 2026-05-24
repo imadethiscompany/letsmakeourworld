@@ -1,45 +1,29 @@
-# Modal Labs Secures $355M Funding – Power Up Your Serverless AI
+# Modal Labs Secures $355M Funding Round
 
-**Headline:** Unlock Serverless AI at Scale with Modal Labs – Backed by $355M to Accelerate Your Innovation.
+## Unlock Serverless AI Infrastructure
 
-**Sub‑headline:** Build, train, and deploy AI models instantly without managing servers, GPUs, or infrastructure. Our platform lets data scientists and engineers focus on breakthroughs, not ops.
+**Modal Labs** just raised **$355 million** to accelerate the next generation of serverless AI platforms. Scale your AI workloads without worrying about servers, GPUs, or ops overhead.
 
----
+- **Instant scaling** – Deploy any Python, JAX, or PyTorch workload in seconds.
+- **Zero‑ops** – No clusters to manage, no Kubernetes, no cost surprises.
+- **Enterprise‑grade security** – End‑to‑end encryption, compliance ready.
+- **Pay‑as‑you‑go** – Only pay for compute you actually use.
 
-## Why Modal Labs?
-- **Zero‑Ops AI:** No provisioning, no scaling headaches – just code, data, and results.
-- **Enterprise‑grade Performance:** Run massive models on the latest GPUs with auto‑scaling, paying only for what you use.
-- **Built for Teams:** Collaboration, versioning, and reproducibility baked into the platform.
-- **Backed by Top VCs:** $355 M Series C led by Andreessen Horowitz and Sequoia, guaranteeing stability and roadmap.
+### Why Choose Modal?
 
----
+Companies like **OpenAI, Anthropic, and Stability AI** trust Modal to run their most compute‑intensive models. With our new funding, we’re expanding globally, adding faster GPUs, and rolling out a new developer portal.
 
-## Transform Your AI Workflow
-1. **Write** your model in Python – no containers, no Dockerfiles.
-2. **Deploy** with a single command; Modal handles scaling across the cloud.
-3. **Monitor** live metrics and costs in real‑time.
-
-> *“Modal let us go from prototype to production in hours, not weeks.”* – CTO, leading fintech.
+#### Get Started in 3 Minutes
+1. **Sign up** – Free tier with $10 of compute credit.
+2. **Upload your model** – One‑click Docker‑less deployment.
+3. **Run inference** – Scale from a single request to millions instantly.
 
 ---
 
-## Ready to Scale?
-### Get Early Access
-- **Free trial** with $100 compute credit.
-- **Dedicated onboarding** from our AI engineers.
-- **Priority support** for enterprise customers.
+**Ready to power your AI without servers?**
 
-[Start Your Free Trial →](https://modal.com/signup)
+[**Start Free Trial →**](https://modal.com/signup)
 
 ---
 
-### Frequently Asked Questions
-**Q:** Do I need cloud expertise?
-**A:** No. Modal abstracts all infra; you just write Python.
-
-**Q:** How is billing calculated?
-**A:** Pay‑as‑you‑go per compute second, with transparent pricing.
-
----
-
-*Join the next wave of AI innovators. Modal Labs – Serverless AI, powered by $355 M backing.*
+*Featured in S&P Global, TechCrunch, and The Verge.*
