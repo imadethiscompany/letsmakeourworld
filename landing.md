@@ -1,28 +1,32 @@
 # YouTube Automation Agency
 
-## Scale Your Business with Hands‑Free YouTube Channels
+## Scale Your Business with Hands‑Free YouTube Growth
 
-**Turn YouTube into a predictable revenue engine** without hiring a full video team.
+**Stop wasting time creating videos. Let us do the heavy lifting.**
 
-### Why SMB owners love us
-- **Zero video expertise needed** – we handle scripting, editing, uploading & SEO.
-- **Fully automated content pipeline** – AI‑generated scripts, voice‑overs, thumbnails, and posting schedule.
-- **Fast ROI** – most clients see ad‑spend ROI within 30‑45 days.
-- **Turnkey monthly plans** – from $1,500/mo for 2 videos/week up to $12,000/mo for 8 videos/week.
+- **Full‑service channel management** – video ideation, scripting, editing, thumbnail design, SEO, posting & community management.
+- **AI‑powered automation** – AI script writers, auto‑editing pipelines, thumbnail generators, and comment bots that drive engagement.
+- **Revenue‑focused strategy** – proven frameworks that turn views into leads and sales for SMBs.
 
-### What You Get
-1. **Strategy Session** – niche research & keyword map.
-2. **AI‑Powered Script & Voice** – professional‑grade narration.
-3. **Cinematic Video Production** – GSAP‑driven motion, custom thumbnails.
-4. **SEO‑Optimized Upload** – titles, tags, descriptions for maximum discovery.
-5. **Growth Dashboard** – real‑time views, subscriber growth, revenue tracking.
+### Why SMB Owners Choose Us
+| Pain Point | Our Solution |
+|------------|--------------|
+| No video expertise | End‑to‑end production by pros |
+| Inconsistent posting | Automated schedule & publishing |
+| Low ROI | Data‑driven keyword targeting & conversion funnels |
+| High cost | Scalable pricing starting at **$499/month** |
 
-### Ready to Automate Your YouTube?
+### Packages
+- **Starter** – 4 videos/mo, SEO, thumbnails – **$499/mo**
+- **Growth** – 8 videos/mo, ads‑ready edits, community management – **$999/mo**
+- **Enterprise** – Unlimited videos, custom funnels, dedicated strategist – **Contact for quote**
 
-👉 **[Start Now – Book a Free 15‑min Call](/schedule)**
+### Ready to Get Leads from YouTube?
 
-*No contracts. Cancel anytime.*
+**Book a 15‑minute Strategy Call** – we’ll audit your current channel and show you the exact revenue lift you can expect.
+
+[**Schedule My Call**](https://calendly.com/youautomation/strategy-call)
 
 ---
 
-*Questions? Email us at support@ytautomation.com*
+*All packages are month‑to‑month, cancel anytime. No long‑term contracts.*
