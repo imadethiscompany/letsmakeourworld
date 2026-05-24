@@ -1,30 +1,43 @@
 # YouTube Automation Agency
 
-## Scale Your Business with a Fully Automated YouTube Channel
+## Scale Your YouTube Channel on Autopilot
 
-**Turn views into leads, leads into customers, and customers into recurring revenue – all on autopilot.**
+**Turn views into revenue without lifting a finger.**
 
-- **Done‑for‑you video production** – AI‑generated scripts, voice‑overs, and cinematic editing.
-- **Channel growth engine** – SEO‑optimized titles, thumbnails, and posting schedule.
-- **Revenue automation** – Affiliate links, product placements, and funnel integration built in.
-- **Performance dashboard** – Real‑time analytics, ROI tracking, and monthly optimization.
+- ✅ Full video creation & editing
+- ✅ SEO‑optimized titles, tags & thumbnails
+- ✅ Automated publishing & audience growth
+- ✅ Proven ROI: $5k‑$15k/mo per client
 
-### Why SMB owners love us
-1. **Zero video expertise needed** – We handle every step from concept to upload.
-2. **Predictable cost** – $2,500/month for a fully managed channel that generates at least **3× ROI**.
-3. **Fast results** – First video live within 7 days, first leads in 30 days.
+### How It Works
+1. **Strategy Call** – We define your niche & revenue goals.
+2. **Content Engine** – AI‑generated scripts, voice‑overs, and cinematic video production.
+3. **Automation Hub** – Scheduled uploads, community management, and performance analytics.
+4. **Growth Loop** – Continuous optimization to boost watch time and CPM.
 
 ### Packages
-- **Starter** – 4 videos/month, basic SEO, $2,500/mo
-- **Growth** – 8 videos/month, advanced SEO + ad‑spend management, $4,500/mo
-- **Enterprise** – 12+ videos/month, custom funnels, $7,500/mo
+| Plan | Monthly Spend | Expected Revenue |
+|------|--------------|-----------------|
+| **Starter** | $1,200 | $3,000‑$5,000 |
+| **Growth** | $2,500 | $6,000‑$10,000 |
+| **Scale** | $4,500 | $12,000‑$20,000 |
 
 > **Ready to dominate YouTube?**
-> 
-> 👉 **[Book a free strategy call](/contact)**
-> 
-> Or click below to start today.
+
+[**Book a Free Strategy Call**](https://calendly.com/youragency/strategy)  
+[**Start Now – Pay as You Grow**](https://pay.example.com/youtube-automation)
 
 ---
 
-*Limited slots available – we only take 5 new clients per month to guarantee results.*
+*Trusted by SaaS founders, coaches, and e‑commerce brands.*
+
+---
+
+**FAQ**
+- **Do I need a camera?** No – we produce high‑quality videos using AI.
+- **How long does setup take?** 2‑3 weeks for the first launch.
+- **What’s the commitment?** Month‑to‑month, cancel anytime.
+
+---
+
+*Contact us: hello@youtubeautomation.com*
