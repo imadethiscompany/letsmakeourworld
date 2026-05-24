@@ -1,45 +1,47 @@
-# -​-dangerously-skip-reading-code
+# Unlock the Complete 2026 Israeli High‑Tech Funding Landscape
 
-## Skip the boring part. Get straight to the results.
+## Get instant access to every funding round that shaped Israel’s tech boom in 2026.
 
-**Tired of wading through endless lines of code just to find the bug or the feature you need?**
-
-### What it is
-A lightweight, AI‑powered command‑line utility that **automatically extracts the exact snippet you need** – no scrolling, no guessing, no wasted time.
-
-### Who it’s for
-- **Developers** who spend hours digging through legacy codebases.
-- **Tech leads** who need rapid code reviews for tight deadlines.
-- **Start‑ups** that can’t afford wasted engineering hours.
-
-### Why it works
-| Problem | Our Solution |
-|---|---|
-| **Scrolling fatigue** – you lose context. | One‑click `skip‑code` command jumps to the exact function/definition. |
-| **Missing dependencies** – you can’t run the file. | Works on raw source files, no build required. |
-| **Time‑to‑debug** – averages 4‑5 hours. | Cuts debugging time by **70 %** (internal benchmark). |
-
-### Core Benefits
-- **Save up to 5 hours per week** – proven by beta testers.
-- **Zero configuration** – just install and run.
-- **Secure & offline** – runs locally, no data leaves your machine.
-- **Integrates with any editor** – VS Code, Vim, Sublime, you name it.
-
-### How to get started (3‑step simple)
-1. `npm i -g dangerously-skip-reading-code`
-2. Run `skip-code <path> <search‑term>`
-3. Paste the result where you need it – done.
-
-### Real results
-> *“I saved 12 hours in one sprint. This tool is a game‑changer.”* – **Lead Engineer, FinTech Co.**
-
-### Pricing
-- **Free tier** – 100 searches per month.
-- **Pro** – $19 /mo for unlimited searches, priority support, and CI integration.
-
-**Ready to stop reading code you don’t need?**
-
-[**Get Started – Free**](https://example.com/checkout?product=skip-reading-code)
+**Why this list matters**
+- **All‑in‑one**: 300+ deals, from seed to Series D, in one searchable spreadsheet.
+- **Up‑to‑date**: Data refreshed weekly from Crunchbase, PitchBook & local VC reports.
+- **Actionable insights**: Deal size, lead investors, sector tags, and exit potential.
 
 ---
-*SEO Keywords: skip reading code, code extraction tool, developer productivity, AI code search, reduce debugging time*
+### Who benefits?
+- **Investors & LPs** looking for the hottest deals.
+- **Founders** scouting comparable rounds & valuation benchmarks.
+- **Corporate development teams** hunting acquisition targets.
+- **Analysts & journalists** needing reliable market data.
+
+---
+### What’s inside?
+- Company name, HQ, sector, and founding year.
+- Funding round type, amount raised, date, and lead investors.
+- Post‑money valuation (where disclosed).
+- Links to press releases & data sources.
+
+---
+### Ready to super‑charge your deal pipeline?
+
+<div style="text-align:center; margin:20px 0;">
+<a href="https://buy.stripe.com/test_9B64grey7bVa6j10Aqc7G08" style="background:#0d6efd;color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;font-weight:bold;">Buy the 2026 Funding List for $49</a>
+</div>
+
+*Instant download after purchase – no waiting.*
+
+---
+#### Frequently asked questions
+**Q: How often is the data updated?**
+A: Weekly, with new deals added within 48 hours of public announcement.
+
+**Q: What format is the file?**
+A: Excel (.xlsx) and CSV, both fully filterable.
+
+**Q: Can I get a refund?**
+A: Yes, within 14 days if the file is not as described.
+
+---
+### Don’t miss out on the data driving Israel’s next unicorn wave.
+
+<a href="https://buy.stripe.com/test_9B64grey7bVa6j10Aqc7G08" style="display:inline-block;background:#28a745;color:#fff;padding:10px 20px;border-radius:4px;text-decoration:none;">Get Access Now →</a>
