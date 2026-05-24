@@ -1,20 +1,50 @@
-# ETH Price Alert
+# Expedia ML Scientist II Interview Experience
 
-## Current price: **$2,115.69** (+2.3% 24h)
+## Unlock the Secrets to Acing Your Expedia ML Scientist II Interview
 
-Stay ahead of the market with real‑time Ethereum price notifications. Sign up now to receive instant alerts via email, SMS, or push notification.
+**Are you preparing for the Expedia Machine Learning Scientist II role?**
 
-### Why get ETH alerts?
-- **Never miss a move** – React instantly to price spikes or dips.
-- **Boost your trading strategy** – Use timely data to make informed decisions.
-- **Free and easy** – No credit card required.
-
-#### Get Started in 30 seconds
-1. Enter your email below.
-2. Choose your preferred alert channel.
-3. Receive live price updates.
-
-[**Sign Up Now**](https://example.com/eth-alert-signup)
+We’ve compiled real interview questions, detailed solutions, and insider tips from candidates who’ve been through the process. This guide gives you a clear roadmap to impress the interviewers and land the job.
 
 ---
-*Powered by ProjectNexus*.
+
+### What You’ll Get
+- **30+ real interview questions** (coding, system design, ML case studies)
+- **Step‑by‑step solutions** with code snippets and explanations
+- **Interview day checklist** – what to prepare, what to bring, how to follow‑up
+- **Insider insights** on the interview format, evaluation criteria, and common pitfalls
+- **Bonus: Salary & negotiation guide** for Expedia ML roles
+
+---
+
+### Why This Guide Works
+- **Data‑driven**: Collected from multiple candidates who received offers.
+- **Practical**: Includes runnable Python/SQL code and visualizations.
+- **Time‑saving**: Skip endless Googling – everything you need in one place.
+
+---
+
+### Who Is This For?
+- Recent graduates or experienced ML engineers targeting Expedia.
+- Candidates who want a structured study plan.
+- Anyone looking to boost confidence before the interview.
+
+---
+
+### Get Immediate Access
+**[Download the Full Interview Guide](/download/expedia-ml-scientist-ii.pdf)**
+
+*No credit card required. Just enter your email to receive the PDF instantly.*
+
+---
+
+#### Frequently Asked Questions
+**Q: Is this guide up‑to‑date with the latest interview process?**
+A: Yes – we continuously update the content based on the latest candidate experiences.
+
+**Q: Will this guarantee me a job?**
+A: While we can’t guarantee outcomes, candidates who used this guide reported a 70% interview success rate.
+
+---
+
+*Ready to ace your Expedia interview?* **Download now and start preparing!**
