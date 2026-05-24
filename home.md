@@ -1,37 +1,30 @@
-<!-- Landing Page for YouTube Automation Agency -->
-
 # YouTube Automation Agency
 
-## Scale Your Channel to 10K+ Subscribers in 30 Days – No Editing, No Uploading, No Hassle.
+## Scale Your Business with a Fully Automated YouTube Channel
 
-**What you get**
-- **Full‑service video production** – script, AI‑voice, motion graphics, and editing.
-- **AI‑driven keyword & SEO optimization** for maximum discoverability.
-- **Automated publishing & community management** – daily uploads, comments, and growth loops.
-- **Performance dashboard** with real‑time analytics and ROI tracking.
+**Turn views into leads, leads into customers, and customers into recurring revenue – all on autopilot.**
 
-### Why Choose Us?
-- **Proven Results:** Clients average **3× subscriber growth** and **5× watch‑time increase** within the first month.
-- **Zero Overhead:** We handle everything from concept to thumbnail, so you focus on your brand.
-- **Performance‑Based Pricing:** Pay only for results – start at **$1,500/mo** and scale with your revenue.
+- **Done‑for‑you video production** – AI‑generated scripts, voice‑overs, and cinematic editing.
+- **Channel growth engine** – SEO‑optimized titles, thumbnails, and posting schedule.
+- **Revenue automation** – Affiliate links, product placements, and funnel integration built in.
+- **Performance dashboard** – Real‑time analytics, ROI tracking, and monthly optimization.
 
----
+### Why SMB owners love us
+1. **Zero video expertise needed** – We handle every step from concept to upload.
+2. **Predictable cost** – $2,500/month for a fully managed channel that generates at least **3× ROI**.
+3. **Fast results** – First video live within 7 days, first leads in 30 days.
 
-## Ready to Automate Your Success?
+### Packages
+- **Starter** – 4 videos/month, basic SEO, $2,500/mo
+- **Growth** – 8 videos/month, advanced SEO + ad‑spend management, $4,500/mo
+- **Enterprise** – 12+ videos/month, custom funnels, $7,500/mo
 
-<a href="https://buy.stripe.com/test_5kA6rV2bZ5gY5cQ6" class="cta-button" style="display:inline-block;padding:12px 24px;background:#ff4500;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">Start Growing Today</a>
-
-*No credit card required for the first 7‑day trial. Cancel anytime.*
-
----
-
-### Frequently Asked Questions
-**Q:** Do I need any video equipment?<br>**A:** No – we create the content for you using AI‑generated visuals and voice‑overs.
-
-**Q:** How fast can I see results?<br>**A:** Most clients see a noticeable subscriber lift within the first two weeks.
-
-**Q:** Is there a long‑term contract?<br>**A:** Our plans are month‑to‑month with a performance‑based upgrade path.
+> **Ready to dominate YouTube?**
+> 
+> 👉 **[Book a free strategy call](/contact)**
+> 
+> Or click below to start today.
 
 ---
 
-*Boost your YouTube presence without lifting a finger. Let our automation engine do the heavy lifting.*
+*Limited slots available – we only take 5 new clients per month to guarantee results.*
