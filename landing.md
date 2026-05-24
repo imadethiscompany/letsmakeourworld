@@ -1,29 +1,26 @@
-# Modal Labs Secures $355M Funding Round
+# Modal Labs Raises $355M – Power Your Serverless AI Infrastructure
 
-## Unlock Serverless AI Infrastructure
+## Unlock the Future of AI with Serverless, Scalable, Secure Compute
 
-**Modal Labs** just raised **$355 million** to accelerate the next generation of serverless AI platforms. Scale your AI workloads without worrying about servers, GPUs, or ops overhead.
+Modal Labs just secured a massive $355 million funding round, proving that the world is ready for a new era of serverless AI infrastructure. **Join the cutting‑edge companies already building on Modal** and accelerate your AI workloads without the hassle of managing servers, GPUs, or complex DevOps.
 
-- **Instant scaling** – Deploy any Python, JAX, or PyTorch workload in seconds.
-- **Zero‑ops** – No clusters to manage, no Kubernetes, no cost surprises.
-- **Enterprise‑grade security** – End‑to‑end encryption, compliance ready.
-- **Pay‑as‑you‑go** – Only pay for compute you actually use.
+- **Instantly scale** from a single experiment to production‑grade workloads.
+- **Pay‑as‑you‑go pricing** – only for the compute you actually use.
+- **Zero‑ops deployment** – focus on models, not infrastructure.
+- **Enterprise‑grade security** – compliance, isolation, and audit logs built‑in.
 
-### Why Choose Modal?
+### Why Modal?
+- **Performance:** Run GPU‑accelerated jobs with 2‑3× lower latency than traditional VMs.
+- **Productivity:** Write Python functions, deploy with a single `modal run` command.
+- **Reliability:** 99.99% SLA, automatic fault‑tolerance, and global edge nodes.
 
-Companies like **OpenAI, Anthropic, and Stability AI** trust Modal to run their most compute‑intensive models. With our new funding, we’re expanding globally, adding faster GPUs, and rolling out a new developer portal.
+### Get Started in Minutes
+1. **Sign up** – Free tier with $10 credit.
+2. **Connect your repo** – GitHub, GitLab, or Bitbucket.
+3. **Deploy** – One‑click deployment, instant scaling.
 
-#### Get Started in 3 Minutes
-1. **Sign up** – Free tier with $10 of compute credit.
-2. **Upload your model** – One‑click Docker‑less deployment.
-3. **Run inference** – Scale from a single request to millions instantly.
-
----
-
-**Ready to power your AI without servers?**
-
-[**Start Free Trial →**](https://modal.com/signup)
+[Start Your Free Trial →](/signup)
 
 ---
 
-*Featured in S&P Global, TechCrunch, and The Verge.*
+*Featured in TechCrunch, The Information, and S&P Global.*
