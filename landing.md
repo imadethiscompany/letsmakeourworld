@@ -1,18 +1,19 @@
-# Ethereum Price Signal – $2,119.31 (+4.7% 24h)
+# Ethereum Price Surge 🚀
 
-## Real‑time market edge for crypto traders
+**Current Price:** $2,119.31 &nbsp;|&nbsp; **24h Change:** +4.7%
 
-Stay ahead of the curve with an instant, high‑intent signal for Ethereum’s price movement. Our proprietary algorithm detected a **4.7% surge in the last 24 hours**, pushing ETH to **$2,119.31**.
+## Why This Matters
+- **Instant profit opportunities** – Capture gains before the market corrects.
+- **Real‑time alerts** – Get notified the moment the price moves.
+- **Proven strategy** – Traders who act on short‑term spikes outperform the market.
 
-### Why this matters
-- **Immediate actionable insight** – act now before the broader market catches up.
-- **Proven accuracy** – our signals have a 87% success rate in the last 30 days.
-- **Simple integration** – receive the signal via email, SMS, or webhook.
+### What You’ll Get
+- Live price feed integrated into your favorite tools.
+- Automated SMS & email alerts for any % change you set.
+- Access to our exclusive “ETH Surge Playbook” – step‑by‑step tactics.
 
-#### Get the signal now
-[**Subscribe for $19**](/buy/eth-price-signal) and receive:
-- Real‑time alerts
-- Historical performance dashboard
-- Dedicated support channel
+[Get Instant Access →](https://buy.stripe.com/test_3cI7sD1Ll6AQePx2Iyc7G0x)
 
-*No credit card required for the first 24 hours – try it risk‑free.*
+---
+
+*Ready to ride the next wave?*
