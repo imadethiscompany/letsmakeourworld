@@ -1,27 +1,20 @@
-# Ethereum (ETH) Price Alert 🚀
+# ETH Price Alert
 
-**Current Price:** $2,115.69 
-**24‑hour Change:** +2.3%
+## Current price: **$2,115.69** (+2.3% 24h)
 
----
+Stay ahead of the market with real‑time Ethereum price notifications. Sign up now to receive instant alerts via email, SMS, or push notification.
 
-## Stay Ahead of the Market
-Never miss a move. Get real‑time alerts when ETH spikes, dips, or crosses your target price.
+### Why get ETH alerts?
+- **Never miss a move** – React instantly to price spikes or dips.
+- **Boost your trading strategy** – Use timely data to make informed decisions.
+- **Free and easy** – No credit card required.
 
-- **Instant SMS & Email notifications**
-- **Custom price thresholds**
-- **Free trial – 7 days, unlimited alerts**
+#### Get Started in 30 seconds
+1. Enter your email below.
+2. Choose your preferred alert channel.
+3. Receive live price updates.
 
----
-
-### Why Choose Our ETH Alert Service?
-- **Speed:** Alerts delivered within seconds of price changes.
-- **Reliability:** Powered by industry‑grade data feeds.
-- **Simplicity:** No crypto‑knowledge required – just set a price and we do the rest.
+[**Sign Up Now**](https://example.com/eth-alert-signup)
 
 ---
-
-#### Ready to lock in your advantage?
-
-[**Start Free Trial**](#)  
-*No credit card required. Cancel anytime.*
+*Powered by ProjectNexus*.
