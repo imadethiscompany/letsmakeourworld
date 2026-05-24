@@ -1,31 +1,29 @@
 # Claude Plugins Official
 
-## Unlock the Power of Claude with Seamless Plugins
+## Unlock Claude’s Full Potential with Ready‑to‑Use Plugins
 
-Boost productivity, automate workflows, and extend Claude’s capabilities with our official plugin ecosystem. Whether you’re a developer, marketer, or enterprise team, our plugins let you:
+Claude is already a powerful AI assistant, but with **Claude Plugins Official** you can connect it to the tools and data your team already uses. Turn simple prompts into automated workflows, pull real‑time data, and extend Claude with custom actions – all without writing code.
 
-- **Integrate instantly** with popular tools (Slack, Notion, Zapier, Google Workspace)
-- **Automate repetitive tasks** with custom AI actions
-- **Securely connect** your data with end‑to‑end encryption
-- **Scale effortlessly** using Anthropic’s robust API
+### Why Choose Claude Plugins?
+- **Instant integrations** – Connect to popular SaaS (Slack, Notion, GitHub, Google Sheets, Zapier) in seconds.
+- **Secure & private** – All data stays within your organization’s trusted environment.
+- **Boost productivity** – Automate repetitive tasks, fetch live information, and get answers that are always up‑to‑date.
+- **No developer overhead** – No need to maintain custom APIs; just enable the plugin and start using it.
 
-### Why Choose Official Claude Plugins?
-- **Trusted by Anthropic** – built to the highest standards.
-- **Zero‑code setup** – install in minutes, no dev resources required.
-- **Enterprise‑grade security** – SOC‑2 compliance, role‑based access.
-- **Continuous updates** – new integrations released monthly.
+### Key Benefits
+1. **Save hours each week** – Automate reporting, ticket triage, and data entry.
+2. **Reduce errors** – Let Claude pull data directly from source systems.
+3. **Scale knowledge** – Share custom plugins across teams for consistent AI behavior.
+4. **Maintain control** – Granular permissions let you decide who can use which plugins.
 
-### Get Started in 3 Simple Steps
-1. **Select** the plugins you need from our marketplace.
-2. **Connect** your accounts with a single click.
-3. **Launch** and watch Claude automate your workflow.
+### How It Works
+1. **Select a plugin** – Choose from our curated catalog or add your own.
+2. **Configure access** – Authenticate with your SaaS account; we never store passwords.
+3. **Start prompting** – Ask Claude to perform actions like *"Create a Jira ticket for this bug"* or *"Summarize last week’s sales from Salesforce"*.
 
-> *“Our team cut onboarding time by 70% using Claude plugins.”* – Beta customer
+### Trusted by Teams
+> *“Claude Plugins transformed our workflow – we now close tickets 30% faster.”* – **Product Ops, Acme Corp**
 
-#### Ready to supercharge your AI workflow?
+### Ready to Supercharge Claude?
 
-[Start Free Trial](/signup)   |   [Book a Demo](/demo)
-
----
-
-*For developers: access the full API docs at https://github.com/anthropics/claude-plugins-official*
+[**Get Started Free**](https://anthropics.com/claude-plugins-official) – No credit card required. Try it for 14 days and see the impact.
