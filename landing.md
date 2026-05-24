@@ -1,41 +1,55 @@
-# Watch The Next Phase of Artificial Intelligence
+# Silk: Open‑source Cooperative Fiber Scheduler
 
-**Stay ahead of the curve with exclusive access to Bloomberg’s deep‑dive on the future of AI.**
+## Supercharge Your Distributed Workflows
 
----
+**Run thousands of tasks across any compute pool – without a single point of failure.**
 
-## Why This Matters
-- **Cut through the hype:** Get data‑backed insights that separate real breakthroughs from buzz.
-- **Make smarter decisions:** Learn which AI trends will reshape finance, tech, and the global economy.
-- **Act now:** Early adopters gain a competitive edge and can position their businesses for the next wave.
+Silk is a community‑driven, fault‑tolerant fiber scheduler that lets you:
 
----
-
-### What You’ll Get
-- A 30‑minute video interview with Bloomberg’s AI editors and leading researchers.
-- A downloadable PDF of the key takeaways, charts, and market forecasts.
-- Access to a private Slack channel for Q&A with industry experts.
+- **Scale instantly** – add or remove workers on the fly, no re‑deployment needed.
+- **Cooperate securely** – encrypted task hand‑off, zero‑trust between nodes.
+- **Save costs** – only pay for compute you actually use, leveraging idle cycles.
+- **Stay in control** – full observability via a single dashboard and Prometheus metrics.
 
 ---
 
-## Ready to Unlock the Future?
+### Why Silk?
+- **Open‑source** – transparent code, community contributions, no vendor lock‑in.
+- **Cooperative** – workers share load, auto‑rebalance, and recover from failures.
+- **Fiber‑level efficiency** – lightweight concurrency, micro‑second scheduling latency.
 
-[**Buy Access – $49**](https://buy.stripe.com/test_fZufZ9ahR6AQcHpcj8c7G1b)
+---
 
-*Secure checkout powered by Stripe. No hidden fees.*
+### How It Works
+1. **Define a fiber graph** – describe tasks and dependencies in YAML.
+2. **Deploy workers** – run the Silk binary on any machine (Docker, bare metal, cloud VM).
+3. **Watch the magic** – the dashboard shows real‑time progress, retries, and resource usage.
+
+---
+
+### Get Started in Minutes
+- **Free Starter Pack** – a pre‑configured Docker compose file.
+- **Documentation** – step‑by‑step guide, API reference, and community forum.
+- **Support** – Slack channel and weekly community office hours.
+
+[**Launch Silk Now →**](https://buy.stripe.com/test_5kA6pX9pv0eB6xO4f0)  
+*No credit card required for the free tier.*
 
 ---
 
 ### Frequently Asked Questions
-**Who is this for?**
-Executives, investors, product leaders, and anyone who needs to understand how AI will impact their strategy.
+**Q: Do I need to run my own servers?**
+A: No. Silk runs anywhere – on your laptop, on-prem, or any cloud provider.
 
-**When will I receive the content?**
-Immediately after purchase – the video link and PDF download are available in your account.
+**Q: Is there a SaaS version?**
+A: The open‑source core is free. We also offer a hosted managed service for enterprises.
 
-**Can I get a refund?**
-Yes, within 7 days if you’re not satisfied.
+**Q: How does fault tolerance work?**
+A: Tasks are checkpointed; if a worker crashes, another picks up the pending fibers automatically.
 
 ---
 
-*Join the ranks of forward‑thinking leaders who are already preparing for the AI revolution.*
+#### Join the Cooperative
+Become part of a growing community of engineers who need reliable, ultra‑fast scheduling without vendor lock‑in.
+
+[**Start Scheduling with Silk**](https://buy.stripe.com/test_5kA6pX9pv0eB6xO4f0)
