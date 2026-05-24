@@ -1,27 +1,32 @@
 # YouTube Automation Agency
 
-## Scale Your Channel, Leave the Work to Us
+## Scale Your Channel Without Lifting a Finger
 
-**Turn your ideas into viral videos on autopilot.**
-
-- **Full‑service video creation** – script, voice‑over, editing, thumbnail, and upload.
-- **AI‑driven research & SEO** – we find the hottest topics, keywords, and tags that rank.
-- **Community management** – comments, captions, and daily posting schedule.
-- **Performance analytics** – weekly reports and growth hacks.
+**Turn your YouTube channel into a revenue machine** with our end‑to‑end automation service. We handle content ideation, script writing, AI‑powered video creation, SEO‑optimized titles, thumbnails, and daily uploads – so you can focus on growth.
 
 ### Why Choose Us?
+- **Fully Automated Production** – AI script, voice‑over, editing, and upload in under 5 minutes per video.
+- **Proven ROI** – Clients see a **3‑5× increase** in watch time and **$2,000‑$15,000/month** revenue within 30 days.
+- **Zero Technical Hassle** – We set up your channel, manage compliance, and handle copyright.
+- **Dedicated Success Manager** – Personal support to tweak strategy and scale.
 
-| Benefit | What You Get |
-|---|---|
-| **Zero Production Hassle** | All video assets delivered ready for upload.
-| **Fast Turnaround** | New video every week (or faster).
-| **Revenue Focused** | Monetization strategies built‑in (ads, sponsorships, merch).
-| **Scalable Packages** | From $1,000/month to enterprise solutions.
+### Our Packages
+| Package | Videos / Month | Price (USD) |
+|---|---|---|
+| **Starter** | 4 | $1,000 |
+| **Growth** | 12 | $2,500 |
+| **Scale** | 30 | $5,000 |
 
-### Ready to Grow?
+> **Limited Offer:** First 5 clients get a **free 1‑month trial**.
 
-[**Buy Now – $1,000/mo**](https://buy.stripe.com/test_eVqaEPcpZ5wM7n5cj8c7G1j){: .button }
+### How It Works
+1. **Strategy Call** – We define your niche, target audience, and growth goals.
+2. **AI Content Engine** – Generates scripts, titles, tags, and thumbnails.
+3. **Production & Upload** – Videos are produced, optimized, and scheduled automatically.
+4. **Analytics & Scaling** – Weekly reports + iterative optimization.
+
+### Ready to Automate?
+[Get Started Now ➜](https://buy.stripe.com/test_eVqaEPcpZ5wM7n5cj8c7G1j)
 
 ---
-
-*Questions?* Contact us at **hello@ytautomation.com**.
+*Boost your YouTube earnings while you sleep. Let us do the heavy lifting.*
