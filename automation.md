@@ -1,18 +1,18 @@
-# BTC Price Tracker Automation
+# Chrome DevTools MCP Minimal Automation
 
-This minimal automation artifact fetches the current Bitcoin price and displays it.
+This artifact provides a simple script to verify the Chrome DevTools MCP environment.
 
-```html
-<div id="btc-price">Loading...</div>
-<script>
-async function fetchPrice() {
-  const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd');
-  const data = await res.json();
-  document.getElementById('btc-price').innerText = `BTC: $${data.bitcoin.usd}`;
-}
-fetchPrice();
-setInterval(fetchPrice, 60000); // refresh every minute
-</script>
+```python
+#!/usr/bin/env python3
+"""Minimal automation for Chrome DevTools MCP.
+Prints a greeting to confirm the script runs.
+"""
+
+def main():
+    print("Hello from Chrome DevTools MCP automation!")
+
+if __name__ == "__main__":
+    main()
 ```
 
-*Deploy this page to quickly monitor the price of Bitcoin.*
+Save this script as `automation/chrome_devtools_mcp.py` and execute it with `python3 automation/chrome_devtools_mcp.py`.
