@@ -1,34 +1,29 @@
-# YouTube Automation Agency
+# DeepSeek Reasonix
+## The native coding agent that writes, runs, and optimizes code with blazing speed—thanks to high‑capacity caching—at a fraction of the cost.
 
-## Scale Your YouTube Channel on Autopilot
+**Why Reasonix?**
+- **Instant code generation**: Get production‑ready code in seconds.
+- **Smart caching**: Re‑use previous solutions to cut compute by up to 80 %.
+- **Low cost**: Pay only for the compute you actually need.
+- **DeepSeek native**: Built on the latest DeepSeek models for superior reasoning.
 
-**Ready to turn views into revenue without spending hours on video editing, SEO, or thumbnail design?**
+### How it works
+1. **Describe** your task in plain English.
+2. **Reasonix** searches its cache, composes, and validates the solution.
+3. **Deploy** the code instantly or download for your workflow.
 
-Our end‑to‑end YouTube Automation service handles everything:
+### Who benefits
+- Startup engineers building MVPs fast.
+- Data scientists needing reproducible pipelines.
+- Enterprises cutting cloud compute bills.
 
-- **Content Ideation & Scriptwriting** – Data‑driven topics that rank.
-- **AI‑Generated Video Production** – Cinematic videos in minutes using GSAP‑powered motion graphics.
-- **SEO‑Optimized Titles, Descriptions & Tags** – Built‑in for algorithmic boost.
-- **Thumbnail Creation & A/B Testing** – Click‑through rates that skyrocket.
-- **Channel Management & Growth Hacks** – Community engagement, upload schedule, and analytics.
+**Get started in 2 minutes →** [Start Free Trial](/signup)
 
-### Why Choose Us?
-- **Fast Turnaround:** New video every week, fully edited.
-- **Zero Hiring Costs:** No need to employ editors or writers.
-- **Proven ROI:** Clients see 3‑5× increase in CPM and subscriber growth within 60 days.
-- **Transparent Pricing:** Fixed monthly fee, no hidden charges.
-
-### Packages
-| Plan | Videos / Month | Price |
-|------|----------------|-------|
-| **Starter** | 2 | $799 |
-| **Growth** | 4 | $1499 |
-| **Scale** | 8 | $2799 |
-
-> **Limited Offer:** Sign up this week and get **1 free video** + a **30‑minute strategy call**.
-
-### Take the First Step
-[**Book a Free Call →**](https://calendly.com/yt-automation/consultation)
+*No credit card required. Cancel anytime.*
 
 ---
-*Accelerate your YouTube growth while you focus on the big picture.*
+
+#### Frequently Asked Questions
+**Does Reasonix support Python, JavaScript, and Go?** Yes – it can generate code in over 20 languages.
+**Is my data private?** All prompts are processed locally; no logs are stored.
+**How much will I pay?** Plans start at $9 / month with unlimited caching.
