@@ -1,65 +1,43 @@
-# ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies
+# Scammers Abuse Microsoft Account to Send Spam Links
 
-## Unlock the Future of Secure Identity Verification
+## Stop the Spam Flood Before It Hits Your Users
 
-**Bi2 Technologies** has secured a $25 million contract with the prestigious **ICE Awards** to deploy cutting‑edge iris‑scanning solutions across their global events. This partnership validates Bi2’s industry‑leading biometric platform as the gold standard for secure, frictionless access control.
+**Is your organization vulnerable?**
 
----
+Cybercriminals have compromised an internal Microsoft account to blast malicious links to employees, partners, and customers. The result: credential theft, ransomware, and brand damage.
 
-### Why This Matters
-- **Unmatched Security** – Iris recognition is 10x harder to spoof than facial or fingerprint methods.
-- **Seamless Experience** – Attendees walk through gates in seconds, no tickets, no lines.
-- **Scalable Infrastructure** – Proven to handle 100 k+ concurrent scans with 99.99% uptime.
-- **Revenue Boost** – Faster entry means higher event satisfaction and repeat bookings for ICE.
+### Why This Threat Is Critical
+- **Trusted sender** – Emails appear to come from a legitimate Microsoft domain, bypassing most filters.
+- **High‑velocity spam** – Hundreds of links sent per minute, overwhelming inboxes.
+- **Immediate impact** – Users click, malware installs, data exfiltrates.
 
----
+### Our Proven Solution
+1. **Rapid Incident Response** – Our team isolates the compromised account within minutes.
+2. **Threat Removal & Forensics** – Full cleanup and analysis to prevent recurrence.
+3. **Hardening & Training** – Implement MFA, conditional access, and employee phishing awareness.
 
-### What Bi2 Delivers
-1. **Turnkey Deployment** – Hardware, cloud analytics, and on‑site support.
-2. **Real‑Time Fraud Detection** – AI‑driven anomaly alerts.
-3. **Compliance Ready** – GDPR, CCPA, and ISO‑27001 certified.
-4. **Custom Branding** – Biometric kiosks branded to match ICE’s visual identity.
+### What You’ll Get
+- **Zero‑day detection** of malicious links.
+- **Detailed breach report** with actionable recommendations.
+- **24/7 monitoring** of all Microsoft 365 accounts.
 
----
+### Don’t Let Attackers Exploit Your Trust
 
-### Success Metrics (Projected)
-| Metric | Target |
-|---|---|
-| **Scan Accuracy** | 99.8% |
-| **Average Throughput** | 3 seconds per attendee |
-| **Cost Savings** | $3 M annually on ticketing & staffing |
-| **Customer Satisfaction** | +15 pts NPS |
+**Protect your organization now.**
+
+[Get a Free Security Assessment →](/contact?ref=microsoft-spam-abuse)
 
 ---
 
-## Join the Biometric Revolution
+#### FAQ
+**Q: How did the attackers get the account?**
+A: Typically through credential stuffing or reused passwords. Our MFA enforcement blocks this.
 
-**Ready to future‑proof your venue, stadium, or conference?**
-
-- **[Request a Demo](/demo)** – See the technology in action.
-- **[Download the Whitepaper](/whitepaper.pdf)** – Deep dive into ROI and technical specs.
-- **[Contact Sales](/contact)** – Get a custom quote for your next event.
-
-> *“Bi2’s iris‑scanning transformed our attendee experience – no more bottlenecks, and security was rock solid.”* – **John D., ICE Awards Director**
+**Q: Will this affect my users’ daily workflow?**
+A: No. We work behind the scenes and only notify you of critical actions.
 
 ---
 
-### Frequently Asked Questions
-**Q:** Is iris data stored?  
-**A:** Only a cryptographic template; no images are retained.
+*Ready to stop the spam?* 
 
-**Q:** What’s the implementation timeline?  
-**A:** Typical rollout in 8‑12 weeks from contract signing.
-
-**Q:** How does pricing work?  
-**A:** Tiered per‑scan pricing; volume discounts start at 10 M scans.
-
----
-
-#### SEO Meta
-- **Title:** ICE Awards Awards $25M Iris‑Scanning Contract to Bi2 Technologies – Secure Event Access
-- **Description:** Discover how Bi2 Technologies’ $25 M iris‑scanning contract with ICE Awards revolutionizes event security and attendee experience. Learn benefits, ROI, and get a demo today.
-
----
-
-*Bi2 Technologies – The Future of Identity Verification.*
+[Schedule a Call →](/schedule?topic=ms-spam)
