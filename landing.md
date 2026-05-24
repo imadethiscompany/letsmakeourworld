@@ -1,27 +1,49 @@
-# Chrome DevTools MCP
+# Modal Labs Funding Report Landing Page
 
-## Supercharge Your Chrome Development Workflow
+## Headline
+**Unlock the Secrets Behind Modal Labs' $355M Funding Round**
 
-**Headline:** *Instantly diagnose, debug, and optimize Chrome extensions and web apps with the Chrome DevTools MCP.*
-
-**Sub‑headline:** A single, high‑intent platform that brings together performance profiling, memory analysis, and UI inspection—so you can ship faster, with confidence.
-
-### Why developers choose Chrome DevTools MCP
-
-- **All‑in‑One Dashboard** – No more juggling multiple tabs. View performance, memory, network, and security insights in one place.
-- **Zero‑Setup Integration** – Plug‑and‑play with any Chrome extension or web project. Get actionable metrics within seconds.
-- **AI‑Powered Recommendations** – Get smart suggestions to reduce load time, fix memory leaks, and improve UX.
-- **Team Collaboration** – Share snapshots, annotate findings, and track fixes across your dev team.
-
-### How it works
-1. **Connect** – Install the lightweight MCP Chrome extension.
-2. **Analyze** – Run a live scan on any page or extension.
-3. **Act** – Follow AI‑generated fixes or export a detailed report.
-
-### Ready to accelerate your Chrome development?
-
-[**Start Your Free Trial →**](https://chrome-devtools-mcp.example.com/signup)
+### Subheadline
+Discover how the serverless AI infrastructure startup secured a massive Series B, the market implications, and actionable insights you can apply to your own AI initiatives.
 
 ---
 
-*Trusted by leading Chrome extension teams and featured in the Chrome DevTools community.*
+### Why This Report Matters
+- **Deep Dive Analysis** – Exclusive data from SiliconANGLE’s coverage.
+- **AI Infrastructure Playbook** – Proven strategies for scaling serverless AI workloads.
+- **Investor Insights** – What top VCs look for in AI infrastructure startups.
+
+---
+
+### What You’ll Get
+1. **Executive Summary** – Key takeaways in 5 minutes.
+2. **Funding Breakdown** – Who invested, valuation, and use‑of‑funds.
+3. **Technology Stack** – How Modal leverages serverless for AI.
+4. **Growth Playbook** – Tactics you can implement today.
+5. **Market Forecast** – Where AI infrastructure is headed in 2024‑2026.
+
+---
+
+### Who Is This For?
+- AI product managers building next‑gen services.
+- CTOs evaluating serverless architectures.
+- Investors scouting the next AI infrastructure unicorn.
+- Tech journalists covering AI funding trends.
+
+---
+
+### Get the Report Now
+[Buy the Report – $199](/products/modal-labs-funding-report-bf6592)
+
+---
+
+#### Frequently Asked Questions
+**Q:** Is this a full report or a summary?
+**A:** A comprehensive 25‑page PDF with charts, tables, and actionable checklists.
+
+**Q:** How is the data sourced?
+**A:** Directly from SiliconANGLE’s interview, SEC filings, and Modal’s public statements.
+
+---
+
+*Boost your AI strategy with insider knowledge from a $355M funded startup.*
