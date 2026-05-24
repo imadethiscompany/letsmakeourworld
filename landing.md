@@ -1,38 +1,30 @@
 # Expedia ML Scientist II Interview Experience
 
-## Unlock the Secrets to Acing Your Expedia Machine Learning Scientist II Interview
+## Unlock the Secrets of the Expedia ML Scientist II Interview
 
-**Ready to land your dream role at Expedia?** Get insider tips, real candidate experiences, and a step‑by‑step roadmap that turns interview anxiety into confidence.
+**Are you preparing for the Expedia Machine Learning Scientist II interview?**
 
----
+Get insider tips, sample questions, and proven strategies that helped candidates land the role. This guide covers:
+
+- Real interview questions (coding, statistics, ML system design)
+- How to structure your answers for maximum impact
+- What Expedia values in a candidate and how to demonstrate it
+- Salary expectations and negotiation tactics
 
 ### Why This Guide?
-- **Real candidate stories** – We’ve collected detailed accounts from candidates who *actually* got the ML Scientist II role.
-- **Exact questions & solutions** – Know the toughest coding, statistics, and system‑design questions and see model answers.
-- **Interview timeline cheat‑sheet** – From phone screen to onsite, never wonder what’s next.
-- **Bonus resources** – Curated reading list, practice datasets, and a community Slack invite.
-
----
+- **Save weeks of research** – curated from actual interview experiences.
+- **Boost confidence** – know exactly what to expect and how to ace each round.
+- **Increase your offer odds** – proven techniques that have helped candidates receive offers.
 
 ### What You’ll Get
-1. **Step‑by‑step interview roadmap** – Prepare efficiently.
-2. **Sample solutions & code snippets** – Show you how to think like a senior ML engineer.
-3. **Insider tips from Expedia recruiters** – What they love, what they hate.
-4. **Confidence‑boosting checklist** – Ensure you cover every topic before the interview.
+- A downloadable PDF checklist.
+- Sample code snippets and explanations.
+- Insider anecdotes from former Expedia ML scientists.
+
+### Ready to ace your interview?
+
+[**Download the Complete Interview Kit Now**](#)
 
 ---
 
-### Social Proof
-> "The guide helped me structure my answers and I got the offer in 2 weeks!" – *Alex P., hired ML Scientist II* 
-
-> "I wish I had this when I first applied. The insider tips are gold." – *Priya S., senior data scientist* 
-
----
-
-### Get Access Now
-[**Download the Full Interview Experience Pack**](/download)  
-*(Instant PDF + Slack community invite)*
-
----
-
-**Don’t leave your future to chance.** Grab the guide, prepare with confidence, and walk into your Expedia interview ready to win.
+*This page is for educational purposes only. Results may vary based on individual preparation.*
