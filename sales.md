@@ -1,6 +1,6 @@
 ## Customer Support Automation: Transform Your Support
 
-Are you struggling to keep up with the growing demands of your customer support team? Do you wish you could provide instant, personalized support without overwhelming your agents? 
+Are you struggling to keep up with the growing demands of your customer support team? Do you wish you could provide instant, personalized support without overwhelming your agents?
 
 **Introducing Customer Support Automation – the intelligent solution for streamlining your support operations.**
 
