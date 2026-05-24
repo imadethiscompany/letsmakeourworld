@@ -1,20 +1,18 @@
-# Pipeline Speed Automation
+# BTC Price Tracker Automation
 
-This minimal automation artifact provides a simple Python script to assess pipeline latency and send a notification.
+This minimal automation artifact fetches the current Bitcoin price and displays it.
 
-```python
-import time
-import requests
-
-def check_pipeline():
-    # Placeholder logic: simulate check
-    latency = 120  # seconds, dummy value
-    if latency > 60:
-        requests.post('https://example.com/notify', json={'msg': f'Pipeline latency high: {latency}s'})
-    return latency
-
-if __name__ == '__main__':
-    print('Pipeline latency:', check_pipeline())
+```html
+<div id="btc-price">Loading...</div>
+<script>
+async function fetchPrice() {
+  const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd');
+  const data = await res.json();
+  document.getElementById('btc-price').innerText = `BTC: $${data.bitcoin.usd}`;
+}
+fetchPrice();
+setInterval(fetchPrice, 60000); // refresh every minute
+</script>
 ```
 
-Deploy this script as part of your automation suite.
+*Deploy this page to quickly monitor the price of Bitcoin.*
