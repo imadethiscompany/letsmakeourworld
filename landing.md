@@ -1,28 +1,27 @@
 # YouTube Automation Agency
 
-## Scale Your YouTube Channel on Autopilot
+## Scale Your Channel. Earn Passive Revenue.
 
-**Turn views into revenue without spending hours on video creation, editing, SEO, or community management.**
+**Stop wasting hours on video creation, editing, SEO, and posting.** Our end‑to‑end YouTube Automation Agency does it all for you – from concept to viral upload – so you can focus on the big picture.
 
-### Why Choose Our Agency?
-- **Fully Automated Content Production** – AI‑generated scripts, voice‑overs, and cinematic videos.
-- **SEO‑Optimized Uploads** – Keyword‑rich titles, descriptions, and tags that rank.
-- **Community Management** – Automated comment replies, engagement bots, and growth hacks.
-- **Performance Dashboard** – Real‑time analytics, ROI tracking, and monthly reporting.
+### Why Choose Us?
+- **Full‑stack automation**: AI‑generated scripts, voice‑overs, video editing, thumbnail design, and SEO‑optimized titles/tags.
+- **Proven growth framework**: Data‑driven niche selection, keyword clustering, and upload schedule that drives 10‑30k views in the first month.
+- **Zero‑risk onboarding**: We start with a pilot video for **$199**. If you love the results, upgrade to a monthly retainer.
+- **Revenue share**: Keep 80% of ad‑revenue, we keep 20% plus a flat fee – aligned incentives.
 
-### Packages Tailored for Small & Medium Businesses
-| Package | Monthly Fee | Videos per Month | Key Features |
-|---|---|---|---|
-| **Starter** | $499 | 4 | AI script + basic edit, SEO upload, basic analytics |
-| **Growth** | $1,199 | 12 | Full cinematic videos, thumbnail design, community bot, detailed reports |
-| **Scale** | $2,499 | 20+ | Premium voice‑overs, custom branding, ad‑campaign management, dedicated strategist |
+### Our Services
+| Service | What You Get | Price |
+|---|---|---|
+| **Starter Pack** (1 video/week) | AI script, voice, editing, thumbnail, SEO | **$499/mo** |
+| **Growth Pack** (3 videos/week) | All Starter + channel audit, community management | **$1,399/mo** |
+| **Enterprise** (5+ videos/week) | Dedicated account manager, paid ads, analytics dashboard | **Custom** |
 
-### Ready to Explode Your Channel?
+### Ready to Automate?
 
-**Book a free strategy call** and see how we can generate 10‑30% more views in the first month.
+👉 **Book a free strategy call** – we’ll audit your niche and show you a 30‑day traffic forecast.
 
-[**Schedule Your Call →**](https://calendly.com/youragency/strategy-call)
+[Schedule Call](https://calendly.com/youragency/strategy)
 
 ---
-
-*No long‑term contracts. Cancel anytime.*
+*Turn your YouTube channel into a revenue‑generating machine without lifting a finger.*
