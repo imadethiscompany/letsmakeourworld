@@ -1,60 +1,37 @@
-# EdgeModel – AI at the Edge
+# Dreamie Alarm Clock
 
-## Headline
-**Deploy powerful AI models directly on your devices – no cloud, no latency.**
+## Stop scrolling, start sleeping
 
-### Subheadline
-EdgeModel lets you run state‑of‑the‑art machine‑learning inference on smartphones, IoT sensors, and edge servers with a single click. Faster responses, lower costs, and complete data privacy.
+**Tired of scrolling on your phone until the early hours?**
 
----
-
-## Why EdgeModel?
-- **Zero latency:** Inference runs locally, delivering results in milliseconds.
-- **Cost‑effective:** No bandwidth fees, no cloud compute bills.
-- **Privacy‑first:** Your data never leaves the device.
-- **One‑click deployment:** Convert any TensorFlow/PyTorch model to an optimized edge package.
+The Dreamie alarm clock gently wakes you with a sunrise simulation and soft sounds, **so you never reach for your phone in bed again**. It’s a simple habit‑change that protects your sleep, boosts your mood, and improves your productivity.
 
 ---
 
-## Key Benefits
-1. **Instant user experiences** – Real‑time recommendations, object detection, and voice commands.
-2. **Scale without cloud limits** – Deploy to millions of devices without provisioning servers.
-3. **Secure & compliant** – Meet GDPR, HIPAA, and CCPA by keeping data on‑premises.
-4. **Developer friendly** – CLI, SDKs, and visual UI to monitor performance.
+### Why Dreamie works
+- **No more blue‑light exposure** – the alarm uses warm light, not a harsh screen.
+- **Built‑in sleep tracker** – see how many minutes you actually slept.
+- **One‑tap snooze** – press the easy‑reach button, not your phone.
+- **Elegant bedside design** – looks great on any nightstand.
 
 ---
 
-## How It Works (3 Simple Steps)
-1. **Upload** your trained model.
-2. **Optimize** – EdgeModel auto‑tunes for size, speed, and power.
-3. **Deploy** – One line of code integrates the model into your app.
+### How it helps you
+1. **Set a gentle wake‑up time** – Dreamie fades in light, waking you naturally.
+2. **Leave the phone behind** – the clock’s tactile snooze button replaces scrolling.
+3. **Track your sleep** – daily insights help you tweak bedtime habits.
 
 ---
 
-## Social Proof
-> "EdgeModel reduced our inference latency from 2 seconds to 30 ms on a Raspberry Pi." – *IoT Startup, Series A*
+### What people say
+> *“I used to scroll for an hour before falling asleep. Dreamie forced me to put the phone away and I feel more refreshed.”* – Alex, marketer
 
-> "We saved $12k/month by moving inference off the cloud." – *Mobile App CTO*
-
----
-
-## FAQ
-**Q:** Does EdgeModel support GPU‑enabled devices?
-**A:** Yes – it detects CUDA/OpenCL and compiles the optimal kernel.
-
-**Q:** What frameworks are supported?
-**A:** TensorFlow, PyTorch, ONNX, and custom C++ modules.
-
-**Q:** Is there a free tier?
-**A:** Get 5 k inference calls per month at no charge.
+> *“My mornings are calmer. No more jarring alarms, just a sunrise.”* – Maya, designer
 
 ---
 
-## Ready to go edge‑first?
+## Ready to reclaim your nights?
 
-[**Start Free Trial**](#)   
-Or **[Book a Demo]**(#)   
+[**Buy Dreamie Now – $79**](#)
 
----
-
-*EdgeModel – Bring AI to the edge, where it matters.*
+*Free 30‑day trial. Money‑back guarantee.*
