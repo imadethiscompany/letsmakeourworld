@@ -1,74 +1,34 @@
 # YouTube Automation Agency
 
-## Supercharge Your Business with Automated YouTube Channels
+## Scale Your YouTube Channel on Autopilot
 
-**Turn YouTube into a 24/7 lead‑generation machine** without lifting a finger. Our all‑in‑one service builds, optimizes, and scales YouTube channels that attract, engage, and convert high‑intent customers for **SMBs, coaches, and SaaS founders**.
+**Ready to turn views into revenue without spending hours on video editing, SEO, or thumbnail design?**
 
----
+Our end‑to‑end YouTube Automation service handles everything:
 
-### Why You Need a YouTube Automation Agency
+- **Content Ideation & Scriptwriting** – Data‑driven topics that rank.
+- **AI‑Generated Video Production** – Cinematic videos in minutes using GSAP‑powered motion graphics.
+- **SEO‑Optimized Titles, Descriptions & Tags** – Built‑in for algorithmic boost.
+- **Thumbnail Creation & A/B Testing** – Click‑through rates that skyrocket.
+- **Channel Management & Growth Hacks** – Community engagement, upload schedule, and analytics.
 
-- **Zero Content Creation Hassle** – We script, record, edit, and upload videos using AI‑driven production pipelines.
-- **SEO‑Powered Growth** – Keyword‑rich titles, thumbnails, and descriptions rank fast on YouTube and Google.
-- **Consistent Funnel** – Every video includes a custom call‑to‑action funnel that drives traffic to your website or sales page.
-- **Scalable & Predictable** – From 1 video/week to 5 videos/week, we scale your channel while keeping CPA under $20.
-- **Full Analytics Dashboard** – Real‑time subscriber, view, and conversion metrics.
+### Why Choose Us?
+- **Fast Turnaround:** New video every week, fully edited.
+- **Zero Hiring Costs:** No need to employ editors or writers.
+- **Proven ROI:** Clients see 3‑5× increase in CPM and subscriber growth within 60 days.
+- **Transparent Pricing:** Fixed monthly fee, no hidden charges.
 
----
+### Packages
+| Plan | Videos / Month | Price |
+|------|----------------|-------|
+| **Starter** | 2 | $799 |
+| **Growth** | 4 | $1499 |
+| **Scale** | 8 | $2799 |
 
-### Our Proven Framework
+> **Limited Offer:** Sign up this week and get **1 free video** + a **30‑minute strategy call**.
 
-1. **Market Research & Niche Selection** – Identify high‑value topics that your ideal customers are searching for.
-2. **AI Script Generation** – Turn research into compelling, conversion‑focused scripts.
-3. **AI‑Powered Video Production** – Cinematic motion graphics, voice‑over, and on‑screen text using cutting‑edge AI tools.
-4. **Channel Optimization** – SEO‑optimized titles, tags, thumbnails, and playlists.
-5. **Automated Publishing & Promotion** – Schedule uploads, community posts, and cross‑platform teasers.
-6. **Performance Scaling** – A/B test thumbnails, CTAs, and ad spend to maximize ROI.
-
----
-
-### What You Get
-
-- **Weekly Video Delivery** – Fully edited, ready‑to‑publish videos.
-- **Custom Branded Channel** – Professional banner, logo, and channel trailer.
-- **Lead Magnet Integration** – Each video includes a free‑bie or webinar signup CTA.
-- **Monthly Growth Report** – Insights, wins, and next‑step recommendations.
+### Take the First Step
+[**Book a Free Call →**](https://calendly.com/yt-automation/consultation)
 
 ---
-
-### Pricing Packages (All‑Inclusive)
-
-| Package | Videos / Month | Setup | Monthly Fee |
-|---|---|---|---|
-| **Starter** | 1 | $500 | **$997** |
-| **Growth** | 3 | $500 | **$2,497** |
-| **Scale** | 5 | $500 | **$4,497** |
-
-*All packages include channel management, SEO, analytics, and a dedicated success manager.*
-
----
-
-### Ready to Automate Your YouTube Growth?
-
-[**Get Your Free Strategy Call →**](https://example.com/strategy-call)
-
----
-
-#### FAQ
-
-**Q:** *Do I need any video equipment?*  
-**A:** No. Our AI pipeline creates high‑quality videos without cameras.
-
-**Q:** *How fast can we launch?*  
-**A:** First video live within **10 days** of onboarding.
-
-**Q:** *What results can I expect?*  
-**A:** Clients see **3‑5x** increase in qualified leads within 90 days.
-
----
-
-*Join the ranks of businesses turning YouTube into a profit engine.*
-
----
-
-© 2026 YouTube Automation Agency – All Rights Reserved.
+*Accelerate your YouTube growth while you focus on the big picture.*
