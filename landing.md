@@ -1,29 +1,27 @@
-# Claude Plugins Official
+# Chrome DevTools MCP
 
-## Unlock Claude’s Full Potential with Ready‑to‑Use Plugins
+## Supercharge Your Chrome Development Workflow
 
-Claude is already a powerful AI assistant, but with **Claude Plugins Official** you can connect it to the tools and data your team already uses. Turn simple prompts into automated workflows, pull real‑time data, and extend Claude with custom actions – all without writing code.
+**Headline:** *Instantly diagnose, debug, and optimize Chrome extensions and web apps with the Chrome DevTools MCP.*
 
-### Why Choose Claude Plugins?
-- **Instant integrations** – Connect to popular SaaS (Slack, Notion, GitHub, Google Sheets, Zapier) in seconds.
-- **Secure & private** – All data stays within your organization’s trusted environment.
-- **Boost productivity** – Automate repetitive tasks, fetch live information, and get answers that are always up‑to‑date.
-- **No developer overhead** – No need to maintain custom APIs; just enable the plugin and start using it.
+**Sub‑headline:** A single, high‑intent platform that brings together performance profiling, memory analysis, and UI inspection—so you can ship faster, with confidence.
 
-### Key Benefits
-1. **Save hours each week** – Automate reporting, ticket triage, and data entry.
-2. **Reduce errors** – Let Claude pull data directly from source systems.
-3. **Scale knowledge** – Share custom plugins across teams for consistent AI behavior.
-4. **Maintain control** – Granular permissions let you decide who can use which plugins.
+### Why developers choose Chrome DevTools MCP
 
-### How It Works
-1. **Select a plugin** – Choose from our curated catalog or add your own.
-2. **Configure access** – Authenticate with your SaaS account; we never store passwords.
-3. **Start prompting** – Ask Claude to perform actions like *"Create a Jira ticket for this bug"* or *"Summarize last week’s sales from Salesforce"*.
+- **All‑in‑One Dashboard** – No more juggling multiple tabs. View performance, memory, network, and security insights in one place.
+- **Zero‑Setup Integration** – Plug‑and‑play with any Chrome extension or web project. Get actionable metrics within seconds.
+- **AI‑Powered Recommendations** – Get smart suggestions to reduce load time, fix memory leaks, and improve UX.
+- **Team Collaboration** – Share snapshots, annotate findings, and track fixes across your dev team.
 
-### Trusted by Teams
-> *“Claude Plugins transformed our workflow – we now close tickets 30% faster.”* – **Product Ops, Acme Corp**
+### How it works
+1. **Connect** – Install the lightweight MCP Chrome extension.
+2. **Analyze** – Run a live scan on any page or extension.
+3. **Act** – Follow AI‑generated fixes or export a detailed report.
 
-### Ready to Supercharge Claude?
+### Ready to accelerate your Chrome development?
 
-[**Get Started Free**](https://anthropics.com/claude-plugins-official) – No credit card required. Try it for 14 days and see the impact.
+[**Start Your Free Trial →**](https://chrome-devtools-mcp.example.com/signup)
+
+---
+
+*Trusted by leading Chrome extension teams and featured in the Chrome DevTools community.*
