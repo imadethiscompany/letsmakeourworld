@@ -1,27 +1,58 @@
-# YouTube Automation Agency
+# Ethereum Price Alert Landing Page
 
-## Scale Your Channel. Earn Passive Revenue.
+## 🚀 Ride the ETH Surge – $2,120.68 (+3.2% 24h)
 
-**Stop wasting hours on video creation, editing, SEO, and posting.** Our end‑to‑end YouTube Automation Agency does it all for you – from concept to viral upload – so you can focus on the big picture.
-
-### Why Choose Us?
-- **Full‑stack automation**: AI‑generated scripts, voice‑overs, video editing, thumbnail design, and SEO‑optimized titles/tags.
-- **Proven growth framework**: Data‑driven niche selection, keyword clustering, and upload schedule that drives 10‑30k views in the first month.
-- **Zero‑risk onboarding**: We start with a pilot video for **$199**. If you love the results, upgrade to a monthly retainer.
-- **Revenue share**: Keep 80% of ad‑revenue, we keep 20% plus a flat fee – aligned incentives.
-
-### Our Services
-| Service | What You Get | Price |
-|---|---|---|
-| **Starter Pack** (1 video/week) | AI script, voice, editing, thumbnail, SEO | **$499/mo** |
-| **Growth Pack** (3 videos/week) | All Starter + channel audit, community management | **$1,399/mo** |
-| **Enterprise** (5+ videos/week) | Dedicated account manager, paid ads, analytics dashboard | **Custom** |
-
-### Ready to Automate?
-
-👉 **Book a free strategy call** – we’ll audit your niche and show you a 30‑day traffic forecast.
-
-[Schedule Call](https://calendly.com/youragency/strategy)
+**Stay ahead of the market.** Get real‑time alerts, expert analysis, and a proven strategy to profit from Ethereum’s latest rally.
 
 ---
-*Turn your YouTube channel into a revenue‑generating machine without lifting a finger.*
+
+### Why This Landing Page?
+- **Instant price updates** – Live ticker showing the current ETH price.
+- **Actionable insights** – Daily market brief from top crypto analysts.
+- **Profit‑focused tools** – Free entry‑level trading guide & risk calculator.
+
+---
+
+### How It Works
+1. **Enter your email** – Receive a **real‑time price alert** the moment ETH moves ±0.5%.
+2. **Get the daily brief** – A concise 3‑minute read with the most important news.
+3. **Access the free guide** – "Ethereum Swing Trading Blueprint" (valued at $199).
+
+---
+
+### Benefits
+- **Never miss a breakout** – Automated alerts keep you in the loop.
+- **Save hours on research** – Curated insights filter the noise.
+- **Boost confidence** – Data‑driven signals reduce guesswork.
+
+---
+
+### CTA
+
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="https://example.com/signup?utm_source=eth_landing" style="background:#4F46E5;color:white;padding:1rem 2rem;border-radius:8px;font-size:1.2rem;text-decoration:none;">Get Real‑Time ETH Alerts Now →</a>
+</div>
+
+---
+
+### FAQ
+**Q:** How often will I get alerts?
+**A:** As soon as ETH price changes by 0.5% or more, you’ll receive an instant email.
+
+**Q:** Is this free?
+**A:** Yes – the alert service and the trading blueprint are completely free. No credit card required.
+
+**Q:** Who’s behind the analysis?
+**A:** Our team of crypto analysts with 10+ years of experience in digital assets.
+
+---
+
+#### SEO Meta
+- **Title:** Ethereum (ETH) Price Alert – $2,120.68 (+3.2% 24h) – Free Real‑Time Crypto Signals
+- **Description:** Get instant ETH price alerts, daily market briefs, and a free swing‑trading guide. Stay ahead of the market with real‑time crypto signals.
+
+---
+
+*Ready to capture the next ETH rally?* 
+
+[Get Real‑Time Alerts](/signup?utm_source=eth_landing)
