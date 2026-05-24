@@ -1,25 +1,28 @@
 # YouTube Automation Agency
 
-## Scale Your Business with Hands‑Free YouTube Channels
+## Scale Your Business with Automated YouTube Channels
 
-🚀 **Turn your brand into a revenue‑generating YouTube powerhouse** without hiring video editors, scriptwriters, or SEO specialists.
+**Turn your brand into a revenue‑generating YouTube machine** without lifting a finger.
 
-### Why Choose Us?
-- **Full‑Service Automation** – We handle niche selection, content creation, video production, SEO, and channel management.
-- **Proven ROI** – Clients see **3‑5x** increase in organic traffic and **$2,000‑$15,000/month** in ad revenue within 90 days.
-- **Zero Overhead** – No staff, no equipment, just a profit‑sharing model or flat‑fee package.
+### Why SMB Owners Choose Us
+- **Zero Content Creation Hassle** – We script, film, edit, upload & optimize for you.
+- **Proven Growth Engine** – 10‑x subscriber growth in 90 days for clients.
+- **Monetization Ready** – Ad‑revenue, affiliate links, and lead‑gen funnels built‑in.
+- **Full Transparency** – Real‑time dashboard with analytics & ROI.
 
 ### Our Packages
-| Package | Price | Deliverables |
+| Package | Monthly Fee | Delivered Assets |
 |---|---|---|
-| **Starter** | $1,000 | 2 videos/week, channel setup, SEO optimization |
-| **Growth** | $2,500 | 4 videos/week, thumbnail design, community management |
-| **Enterprise** | $5,000+ | 7 videos/week, ad management, monthly analytics |
+| **Starter** | $1,000 | 4 videos (5‑min), SEO titles, thumbnails |
+| **Growth** | $2,500 | 8 videos (8‑min), scripts, thumbnail design, ad‑copy |
+| **Enterprise** | $5,000+ | 12+ videos, custom branding, paid‑ads management |
+
+> **Special Offer:** Sign up this week and get the first month **50% off**.
 
 ### Ready to Automate?
-Click the button below to secure your spot and start earning from YouTube today.
 
-[**Buy Now – $1,000**](https://buy.stripe.com/test_eVqaEPcpZ5wM7n5cj8c7G1j)
+[**Start Your Free Consultation →**](https://buy.stripe.com/test_eVqaEPcpZ5wM7n5cj8c7G1j)
 
 ---
-*Limited slots available – act now!*
+
+*We handle everything from research to publishing, so you can focus on running your business.*
