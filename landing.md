@@ -1,29 +1,29 @@
-# Expedia ML Scientist II Interview Experience
+# Expedia ML Scientist II Interview Experience 📚
 
-**Are you preparing for the Expedia Machine Learning Scientist II interview?**
+**Are you preparing for the Expedia ML Scientist II interview?**
 
-Get insider tips, sample questions, and a step‑by‑step guide from candidates who have been through the process. This free resource covers:
-
-- **Interview stages** – phone screen, on‑site, and take‑home coding challenges.
-- **Key topics** – ML fundamentals, system design, coding, and product sense.
-- **Sample questions** – with detailed answers and reasoning.
-- **Success checklist** – what to study, resources, and timeline.
-
-### Why trust this guide?
-- Compiled from multiple first‑hand experiences.
-- Updated for the latest Expedia interview format (2024).
-- Includes real‑world problem examples used by Expedia.
-
-### Get the full interview roadmap now!
-
-[Download the PDF](/download/expedia-ml-scientist-ii-interview.pdf)  
-
-Or join our **private Slack community** for live Q&A with former Expedia interviewers.
+Share your experiences, tips, and insights with fellow candidates and get a **free interview guide** in return.
 
 ---
 
-**Ready to ace your interview?**
+## Why Contribute?
+- **Help the community**: Your experience can save weeks of prep time for others.
+- **Get exclusive resources**: Receive a curated interview checklist and sample questions.
+- **Boost your profile**: Be featured on our interview experience hub.
 
-Click below to claim your free guide and start preparing today.
+---
 
-[Get the Guide →](/expedia-ml-scientist-ii-interview)
+### How It Works
+1. **Submit your interview story** using the simple form below.
+2. **Verify** (quick email confirmation).
+3. **Download** the free guide instantly.
+
+---
+
+#### Ready to share?
+[**Share My Experience**](#)  
+*(Button will lead to a Google Form – link to be added later)*
+
+---
+
+*Privacy: We only share anonymized data. No personal info is stored beyond verification.*
