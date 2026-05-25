@@ -1,1 +1,1 @@
-drafts/youtube_automation_agency_intro.md
+drafts/youtube_automation_agency_home.md
